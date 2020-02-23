@@ -1,0 +1,714 @@
+!O W Mana:Hot Tom the stone-troll:Awful Arielvic (mo):Fine>
+*a Troll* has arrived from the east.
+*a Troll* has arrived from the east.
+Naralon joins Arielvic (mo)'s fight.
+Naralon slashes Tom the stone-troll's body and shatters it.
+
+!O W Mana:Hot Tom the stone-troll:Awful Arielvic (mo):Fine>
+Crispies begins some strange incantations...
+
+!O W Mana:Hot Tom the stone-troll:Awful Arielvic (mo):Fine>
+Arielvic (mo) slashes Tom the stone-troll's left arm and shatters it.
+
+!O W Mana:Hot Tom the stone-troll:Awful Arielvic (mo):Fine>
+You slash Tom the stone-troll's left arm and shatter it.
+
+!O W Mana:Hot Tom the stone-troll:Awful Arielvic (mo):Fine>
+*a Troll* strongly hits Arielvic (mo)'s body and tickles it.
+
+!O W Mana:Hot Tom the stone-troll:Awful Arielvic (mo):Fine>esc
+You seek to escape...
+Nobody was fighting you.
+
+!O W Mana:Hot>
+Tom the stone-troll lightly crushes Arielvic (mo)'s left arm and tickles it.
+
+!O W Mana:Hot>
+Naralon begins some strange incantations...
+Crispies utters the word 'yufzbarr'
+The fireball sent by Crispies hits Tom the stone-troll with full force, causing
+an immediate death.
+You receive your share of experience.
+It begins to be automatic...
+You hear Tom the stone-troll's death cry as he collapses.
+Tom the stone-troll is dead! R.I.P.
+A shadow slowly rises above the corpse of Tom the stone-troll.
+
+!O W Mana:Hot>
+Needed: 1900376 xp, 0 tp.
+Total: 58099624 xp, 329401 tp.
+You gained 1938 xp.
+
+!O W Mana:Hot>
+*a Troll* joins *a Troll*'s fight.
+
+!O W Mana:Hot>
+As Arielvic (mo) greedily kneels down towards the corpse, the icy grasp of a
+shadow stops her!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+As Arielvic (mo) greedily kneels down towards the corpse, the icy grasp of a
+shadow stops her!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+!O W Mana:Hot>tbli *troll*
+Crispies begins some strange incantations...
+Daerandir joins Arielvic (mo)'s fight.
+cast t 'bli' *troll*
+You start to concentrate...
+Daerandir pierces *a Troll*'s right arm and tickles it.
+
+Naralon approaches *a Troll*, trying to slash him.
+
+Naralon begins some strange incantations...
+Daerandir pierces *a Troll*'s right foot and tickles it.
+
+Arielvic narrates 'KILL!'
+Arielvic (mo) avoids being bashed by *a Troll* who loses his balance.
+
+Arielvic (mo) strongly slashes *a Troll*'s left hand and tickles it.
+
+Crispies utters the word 'yufzbarr'
+Crispies throws a fireball at *a Troll*, completely enveloping him in flames.
+Alas! There was no clear line of sight to him!
+
+!O W Mana:Hot>
+Daerandir pierces *a Troll*'s right hand and tickles it.
+*a Troll* panics, and attempts to flee.
+
+!O W Mana:Hot>
+*a Troll* B A S H E S ____Arielvic (mo)
+
+!O W Mana:Hot>
+Crispies begins some strange incantations...
+
+!O W Mana:Hot>tbli *troll*
+cast t 'bli' *troll*
+You start to concentrate...
+
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+Your victim has disappeared!
+
+!O W Mana:Hot>
+Naralon begins some strange incantations...
+
+!O W Mana:Hot>esc
+*a Troll* has arrived from the west.
+
+!O W Mana:Hot>
+*a Troll* strongly hits Arielvic (mo)'s left hand and tickles it.
+You are not fighting.
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+
+!O W Mana:Hot>
+Crispies begins some strange incantations...
+
+!O W Mana:Hot>
+Naralon slashes *a Troll*'s left leg and tickles it.
+
+!O W Mana:Hot>cast normal 'dispel e' troll
+You start to concentrate...
+
+Daerandir joins Arielvic (mo)'s fight.
+*a Troll* has arrived from the west.
+Daerandir pierces *a Troll*'s right foot hard and tickles it.
+
+*a Troll* strongly hits Arielvic (mo)'s left leg and tickles it.
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves >>>> E A S T >>>>
+Your victim has disappeared!
+
+!O W Mana:Hot>
+Naralon leaves >>>> E A S T >>>>
+
+!O W Mana:Hot>tbli *troll*
+cast t 'bli' *troll*
+You start to concentrate...
+
+Crispies begins some strange incantations...
+
+*a Troll* has arrived from the east.
+
+Naralon has arrived from the east.
+*a Troll* hits Arielvic (mo)'s right arm and tickles it.
+
+*a Troll* approaches Arielvic (mo), trying to hit her.
+Naralon approaches *a Troll*, trying to slash him.
+
+Naralon begins some strange incantations...
+
+Arielvic (mo)   ___ u n b a s h e d
+
+Crispies utters the word 'yufzbarr'
+Crispies throws a fireball at *a Troll*, completely enveloping him in flames.
+*a Troll* panics, but can't stop fighting to flee.
+
+Daerandir pierces *a Troll*'s right foot hard.
+Ok.
+*a Troll*   ___ b l i n d 
+
+!O W Mana:Hot>
+*a Troll* strongly hits Arielvic (mo)'s head and tickles it.
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+
+!O W Mana:Hot>
+Naralon utters the words 'diesilla barh'
+*a Troll* staggers back as the lightning bolt sent by Naralon hits him.
+
+!O W Mana:Hot>
+Daerandir approaches *a Troll*, trying to pierce him.
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+
+!O W Mana:Hot>
+As Arielvic (mo) greedily kneels down towards the corpse, the icy grasp of a
+shadow stops her!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+As Arielvic (mo) greedily kneels down towards the corpse, the icy grasp of a
+shadow stops her!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+!O W Mana:Hot>
+*a Troll* has arrived from the west.
+*a Troll* has arrived from the west.
+
+!O W Mana:Hot>
+*a Troll* approaches Arielvic (mo), trying to hit her.
+Daerandir lightly pierces *a Troll*'s left leg and tickles it.
+Naralon begins some strange incantations...
+Crispies begins some strange incantations...
+Arielvic (mo) slashes *a Troll*'s body hard and tickles it.
+
+!O W Mana:Hot>na trol lblind
+Ok.
+*a Troll* leaves >>>> E A S T >>>>
+
+!O W Mana:Hot>
+Naralon utters the words 'diesilla barh'
+*a Troll* staggers back as the lightning bolt sent by Naralon hits him.
+
+!O W Mana:Hot>assist
+!O W Mana:Hot>
+
+Alas! You failed to reach him through the melee.
+
+!O W Mana:Hot>
+
+*a Troll* has arrived from the east.
+Crispies utters the word 'yufzbarr'
+Crispies throws a fireball at *a Troll*, completely enveloping him in flames.
+
+!O W Mana:Hot>
+
+Daerandir pierces *a Troll*'s body hard.
+Arielvic (mo) barely slashes *a Troll*'s left leg and tickles it.
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+
+!O W Mana:Hot>
+
+Daerandir approaches *a Troll*, trying to pierce him.
+Naralon joins Daerandir's fight.
+Naralon slashes *a Troll*'s right leg and tickles it.
+
+!O W Mana:Hot>
+
+*a Troll* has arrived from the west.
+Arielvic (mo) approaches *a Troll*, trying to slash him.
+
+assist
+!O W Mana:Hot>
+You assist Arielvic (mo).
+Arx narrates 'where is murder?'
+You barely slash *a Troll*'s left foot and tickle it.
+
+!O W Mana:Hot *a Troll*:Wounded Arielvic (mo):Hurt>
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+
+!O W Mana:Hot>
+Daerandir lightly pierces *a Troll*'s body and tickles it.
+
+!O W Mana:Hot>label LOH
+Exactly whom did you wish to give a label?
+
+!O W Mana:Hot>
+*a Troll* has arrived from the west.
+Arielvic (mo) leaves <<<< W E S T <<<<
+Trolls' Treasure Chamber
+A green leather belt is lying here.
+A pair of chain mail leggings are lying here.
+On the ground is a foul orkish-looking metal helmet.
+A full metal shield is on the ground.
+A wooden chest stands in the corner.
+A rotten corpse is hanging here.
+A half-rotten corpse is hanging here.
+*a Troll* has arrived from the east.
+Exits/emulated: {east}.
+
+!O W Mana:Hot>assist
+Who do you want to assist?
+
+!O W Mana:Hot>
+Arielvic (mo) leaves >>>> E A S T >>>>
+Dreadful Cave
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A pool of thick, red liquid covers a section of the ground.
+A butcher knife is lying here. 
+Daerandir the Silvan is here, fighting *a Troll*.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Tom the stone-troll is floating here.
+Naralon is standing here.
+*a Troll* is here, fighting Daerandir.
+Exits/emulated: {south}, {east}, {west}. - w:rock.
+
+!O W Mana:Hot>assist
+You assist Daerandir.
+
+!O W Mana:Hot *a Troll*:Wounded Daerandir:Healthy>
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves >>>> E A S T >>>>
+
+!O W Mana:Hot>assist
+Who do you want to assist?
+
+!O W Mana:Hot>
+*a Troll* has arrived from the east.
+Daerandir pierces *a Troll*'s body and tickles it.
+
+!O W Mana:Hot>
+Arielvic (mo) leaves >>>> E A S T >>>>
+Sinister-looking Cave
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A pan is here, ready for use.
+A half-rotten corpse is hanging here.
+A beer barrel has been left here.
+A water barrel has been left here.
+Exits/emulated: {west}, |up|.
+
+!O W Mana:Hot>k torll
+Arielvic (mo) stops using an engraved broadsword.
+Arielvic (mo) confidently draws an engraved warhammer.
+*a Troll* has arrived from the west.
+
+!O W Mana:Hot>
+They aren't here.
+
+!O W Mana:Hot>
+Naralon stops following Arielvic (mo).
+Naralon now follows Arielvic (mo).
+Arielvic (mo) pounds *a Troll*'s left foot extremely hard.
+
+!O W Mana:Hot>
+Naralon joins Arielvic (mo)'s fight.
+Naralon strongly slashes *a Troll*'s right foot.
+
+!O W Mana:Hot>
+*a Troll* panics, and attempts to flee.
+
+!O W Mana:Hot>ta troll
+kill troll
+!O W Mana:Hot>
+
+Alas! You failed to reach him through the melee.
+Crispies leaves his hiding place.
+
+!O W Mana:Hot>
+
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+
+!O W Mana:Hot>
+Arielvic (mo) leaves <<<< W E S T <<<<
+You were not able to keep your concentration while moving.
+Dreadful Cave
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A pool of thick, red liquid covers a section of the ground.
+A butcher knife is lying here. 
+Daerandir the Silvan is here, fighting *a Troll*.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Tom the stone-troll is floating here.
+*a Troll* is here, fighting Daerandir.
+*a Troll* is standing here.
+Exits/emulated: {south}, {east}, {west}. - w:rock.
+
+!O W Mana:Hot>
+Arielvic (mo) approaches *a Troll*, trying to pound him.
+
+!O W Mana:Hot>
+Naralon joins Daerandir's fight.
+*a Troll* strongly hits Arielvic (mo)'s body and tickles it.
+
+!O W Mana:Hot>
+Naralon slashes *a Troll*'s left arm hard and tickles it.
+
+!O W Mana:Hot>
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+
+!O W Mana:Hot>
+Arielvic (mo) leaves >>>> E A S T >>>>
+Sinister-looking Cave
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A pan is here, ready for use.
+A half-rotten corpse is hanging here.
+A beer barrel has been left here.
+A water barrel has been left here.
+Exits/emulated: {west}, |up|.
+
+!O W Mana:Hot>ta *troll*
+kill *troll*
+Arielvic (mo) leaves <<<< W E S T <<<<
+Dreadful Cave
+The corpse of Tom the stone-troll is lying here.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Bill the stone-troll is lying here.
+A pool of thick, red liquid covers a section of the ground.
+A butcher knife is lying here. 
+Daerandir the Silvan is here, fighting *a Troll*.
+The shadow of Bill the stone-troll is floating here.
+The shadow of Tom the stone-troll is floating here.
+*a Troll* is here, fighting Daerandir.
+Naralon is here, fighting *a Troll*.
+*a Troll* is standing here.
+*a Troll* approaches Daerandir, trying to hit him.
+Exits/emulated: {south}, {east}, {west}. - w:rock.
+You strongly slash *a Troll*'s body and tickle it.
+
+!O W Mana:Hot *a Troll*:Hurt Daerandir:Fine>kill *troll*
+You're already fighting!
+
+!O W Mana:Hot *a Troll*:Hurt Daerandir:Fine>
+Arielvic (mo) pounds *a Troll*'s body very hard.
+
+!O W Mana:Hot *a Troll*:Hurt Daerandir:Fine>
+*a Troll* hits Daerandir's right hand extremely hard.
+
+!O W Mana:Hot *a Troll*:Hurt Daerandir:Fine>de
+cast normal 'dispel e' 
+You start to concentrate...
+
+Crispies tells the group 'no mana'
+
+Naralon slashes *a Troll*'s right hand hard and tickles it.
+
+qq
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves >>>> E A S T >>>>
+
+de
+cast quick 'dispel e' 
+Arielvic (mo) leaves >>>> E A S T >>>>
+*a Troll* has arrived from the east.
+
+*a Troll* approaches Daerandir, trying to hit him.
+Daerandir   ___ u n b a s h e d
+
+Arielvic (mo) has arrived from the east.
+Naralon slashes *a Troll*'s right leg hard.
+Daerandir strongly pierces *a Troll*'s body and tickles it.
+
+Arielvic (mo) approaches *a Troll*, trying to pound him.
+Ok.
+As you call upon Elbereth, *a Troll* shivers in pain.
+
+!O W Mana:Warm *a Troll*:Wounded Daerandir:Hurt>
+You start to concentrate...
+Naralon panics, but can't stop fighting to flee.
+
+Daerandir panics, and attempts to flee.
+Daerandir leaves <<<< W E S T <<<<
+
+de
+cast quick 'dispel e' 
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves >>>> E A S T >>>>
+
+Naralon panics, and attempts to flee.
+Naralon leaves <<<< W E S T <<<<
+
+Arielvic (mo) leaves >>>> E A S T >>>>
+*a Troll* has arrived from the east.
+
+Daerandir has arrived from the west.
+Ok.
+As you call upon Elbereth, *a Troll* shivers in pain.
+
+!O W Mana:Cold *a Troll*:Bad>
+Arielvic (mo) has arrived from the east.
+You start to concentrate...
+Naralon has arrived from the west.
+
+de
+cast quick 'dispel e' 
+Crispies joins your fight.
+Crispies strongly pierces *a Troll*'s left arm.
+
+Naralon joins your fight.
+Naralon slashes *a Troll*'s head hard.
+
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+
+*a Troll* has arrived from the west.
+Ok.
+As you call upon Elbereth, *a Troll* shivers in pain.
+You slash *a Troll*'s left leg and shatter it.
+
+!O W Mana:Icy *a Troll*:Awful>
+Alas, not enough mana flows through you...
+
+!O W Mana:Icy *a Troll*:Awful>
+
+*a Troll* B A S H E S you
+
+!O W HP:Fine Mana:Icy *a Troll*:Awful>
+
+Crispies strongly pierces *a Troll*'s left foot and shatters it.
+
+!O W HP:Fine Mana:Icy *a Troll*:Awful>
+
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+
+!O W HP:Fine Mana:Icy *a Troll*:Awful>
+
+Naralon slashes *a Troll*'s left arm hard and shatters it.
+*a Troll* is mortally wounded and will die soon if not aided.
+
+!O W HP:Fine Mana:Icy *a Troll*:Dying>
+
+Arielvic (mo) leaves >>>> E A S T >>>>
+
+!O W HP:Fine Mana:Icy *a Troll*:Dying>
+
+*a Troll* has arrived from the west.
+Arielvic (mo) has arrived from the east.
+
+!O W HP:Fine Mana:Icy *a Troll*:Dying>
+
+Arielvic (mo) pounds *a Troll*'s left leg extremely hard and shatters it.
+
+!O W HP:Fine Mana:Icy *a Troll*:Dying>ma awfl
+
+*a Troll* strongly hits Arielvic (mo)'s left arm and tickles it.
+
+!O W HP:Fine Mana:Icy *a Troll*:Dying>
+
+Crispies pierces *a Troll*'s head extremely hard and shatters it.
+You feel more experienced.
+Congratulations! This is the first time you've killed it!
+You hear *a Troll*'s death cry as he collapses.
+*a Troll* has drawn his last breath! R.I.P.
+
+!O W HP:Fine Mana:Icy>
+
+Daerandir leaves his hiding place.
+Daerandir pierces *a Troll*'s right foot hard and shatters it.
+
+!O W HP:Fine Mana:Icy>
+
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves >>>> E A S T >>>>
+
+!O W HP:Fine Mana:Icy>assist
+
+*a Troll* has arrived from the east.
+
+!O W HP:Fine Mana:Icy>
+
+*a Troll* approaches Daerandir, trying to hit him.
+
+!O W HP:Fine Mana:Icy>
+
+Arielvic (mo) approaches *a Troll*, trying to pound him.
+
+kill *troll*
+!O W HP:Fine Mana:Icy>
+
+Naralon joins Arielvic (mo)'s fight.
+Naralon lightly slashes *a Troll*'s left hand and tickles it.
+
+!O W HP:Fine Mana:Icy>
+
+Daerandir lightly pierces *a Troll*'s left arm.
+
+        You recover from B A S H
+
+!O W HP:Fine Mana:Icy>
+Usage:
+  map
+  map rooms
+  map global [darkness|fog|weather]
+
+!O W HP:Fine Mana:Icy>
+Needed: 1882774 xp, 0 tp.
+Total: 58117226 xp, 329401 tp.
+You gained 17602 xp.
+
+!O W HP:Fine Mana:Icy>kill *troll*
+!O W HP:Fine Mana:Icy>
+
+Alas! You failed to reach him through the melee.
+
+!O W HP:Fine Mana:Icy>
+
+Daerandir pierces *a Troll*'s body hard and shatters it.
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves <<<< W E S T <<<<
+
+!O W HP:Fine Mana:Icy>kill *troll*
+kill *troll*
+They aren't here.
+Naralon gets a gleaming belt from the corpse of *a Troll*.
+As Naralon greedily kneels down towards the corpse, the icy grasp of a shadow
+stops him!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+As Naralon greedily kneels down towards the corpse, the icy grasp of a shadow
+stops him!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+*a Troll* has arrived from the west.
+
+!O W HP:Fine Mana:Icy>
+Arielvic (mo) approaches *a Troll*, trying to pound him.
+Your attempt to slash *a Troll* fails.
+
+!O W HP:Fine Mana:Icy *a Troll*:Awful Arielvic (mo):Hurt>kill *troll*
+You're already fighting!
+
+!O W HP:Fine Mana:Icy *a Troll*:Awful Arielvic (mo):Hurt>
+Daerandir approaches *a Troll*, trying to pierce him.
+You're already fighting!
+Arielvic (mo) pounds *a Troll*'s left arm very hard and shatters it.
+
+!O W HP:Fine Mana:Icy *a Troll*:Awful Arielvic (mo):Hurt>
+You're already fighting!
+
+!O W HP:Fine Mana:Icy *a Troll*:Awful Arielvic (mo):Hurt>
+Daerandir pierces *a Troll*'s right leg hard and shatters it.
+*a Troll* strongly hits Arielvic (mo)'s body.
+
+!O W HP:Fine Mana:Icy *a Troll*:Awful Arielvic (mo):Hurt>
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves >>>> E A S T >>>>
+
+!O W HP:Fine Mana:Icy>kill *troll*
+They aren't here.
+
+!O W HP:Fine Mana:Icy>
+*a Troll* has arrived from the east.
+
+!O W HP:Fine Mana:Icy>
+Naralon gets a fortune in gold from the corpse of *a Troll*.
+As Naralon greedily kneels down towards the corpse, the icy grasp of a shadow
+stops him!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+Naralon gets a pile of coins from the corpse of Bert the stone-troll.
+As Naralon greedily kneels down towards the corpse, the icy grasp of a shadow
+stops him!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+*a Troll* approaches Daerandir, trying to hit him.
+
+!O W HP:Fine Mana:Icy>
+Crispies barely pierces *a Troll*'s left hand and shatters it.
+Daerandir pierces *a Troll*'s body and shatters it.
+
+!O W HP:Fine Mana:Icy>xc
+look in 1.corpse
+In the corpse (here):
+the scalp of Dawnborn
+a hunting knife (flawless)
+a stone
+a belt pouch
+a water skin
+a keyring with a key
+a leather backpack
+a forest green cloak (flawless)
+a plain pair of sleeves (flawless)
+a fine pair of soft leather gloves (worn out)
+a pair of smooth, black boots
+a pair of hard leather trousers (neglected)
+a plain hood (well-maintained)
+a plain shirt (satisfactory)
+a gold ring
+
+!O W HP:Fine Mana:Icy>kill *troll*
+!O W HP:Fine Mana:Icy>
+
+Alas! You failed to reach him through the melee.
+
+!O W HP:Fine Mana:Icy>
+
+*a Troll* panics, and attempts to flee.
+
+!O W HP:Fine Mana:Icy>kill *troll*
+kill *troll*
+
+Daerandir barely pierces *a Troll*'s body and shatters it.
+*a Troll* panics, and attempts to flee.
+
+kill *troll*
+kill *troll*
+!O W HP:Fine Mana:Icy>kill *troll*
+!O W HP:Fine Mana:Icy>
+
+Alas! You failed to reach him through the melee.
+
+kill *troll*
+!O W HP:Fine Mana:Icy>
+
+*a Troll* panics, and attempts to flee.
+*a Troll* leaves >>>> E A S T >>>>
+
+!O W HP:Fine Mana:Icy>kill *troll*
+kill *troll*
+kill *troll*
+They aren't here.
+
+!O W HP:Fine Mana:Icy>
+*a Troll* has arrived from the east.
+Arielvic (mo) pounds *a Troll*'s head hard and shatters it.
+*a Troll* is mortally wounded and will die soon if not aided.
+Naralon joins Arielvic (mo)'s fight.
+You slash *a Troll*'s right leg extremely hard and shatter it.
+You feel more experienced.
+Congratulations! This is the first time you've killed it!
+You hear *a Troll*'s death cry as he collapses.
+*a Troll* has drawn his last breath! R.I.P.
+A shadow slowly rises above the corpse of *a Troll*.
+
+!O W HP:Fine Mana:Icy>kill *troll*
+They aren't here.
+
+!O W HP:Fine Mana:Icy>kill *troll*
+They aren't here.
+Daerandir leaves >>>> E A S T >>>>
+
+!O W HP:Fine Mana:Icy>
+They aren't here.
+
+!O W HP:Fine Mana:Icy>
+They aren't here.
+
+!O W HP:Fine Mana:Icy>
+They aren't here.
+
+!O W HP:Fine Mana:Icy>
+They aren't here.
+
+!O W HP:Fine Mana:Icy>
+Needed: 1860435 xp, 0 tp.
+Total: 58139565 xp, 329401 tp.
+You gained 22339 xp.
+
+#Grohm #Thumpie
