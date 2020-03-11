@@ -1,0 +1,3095 @@
+Inside a Small Village
+A Beorning captain of the guard, a young boy, a duck, the great orkish raider,
+the warg chief, a great black warg, a large black warg, a large black warg, a 
+large black warg, a great black warg, a large black warg, a large black warg, a 
+large black warg, an orkish raider, a large black warg, an orkish raider, a 
+large black warg, an orkish raider, a large black warg, an orkish raider, a 
+large black warg, an orkish raider, a great black warg, an orkish raider, a 
+large black warg, an orkish raider, a large black warg, an orkish raider, and a 
+large black warg are here.
+Exits/emulated: south.
+
+You stop scouting.
+
+![ CW>
+Broni (mo) quietly scouts southwards...
+
+![ CW>
+Broni (mo) stops scouting southwards.
+A Beorning captain of the guard yells loudly from the south 'We're attacked!
+Protect the village!'
+You hear the sounds of battle very close from the south.
+
+![ CW>sa ok
+A Beorning captain of the guard yells loudly from the south 'We're attacked!
+Protect the village!'
+A Beorning captain of the guard yells loudly from the south 'We're attacked!
+Protect the village!'
+A Beorning captain of the guard yells loudly from the south 'We're attacked!
+Protect the village!'
+A Beorning captain of the guard yells loudly from the south 'We're attacked!
+Protect the village!'
+A Beorning captain of the guard yells loudly from the south 'We're attacked!
+Protect the village!'
+A Beorning captain of the guard yells loudly from the south 'We're attacked!
+Protect the village!'
+
+![ CW>
+Ok.
+
+![ CW>
+A young boy has arrived from the south.
+
+![ CW>
+A young boy snuffs a lantern.
+
+![ CW>south
+Inside a Small Village
+The corpse of a duck is lying here.
+A circular stone well has been built here.
+A Beorning captain of the guard is here, fighting the great orkish raider.
+The great orkish raider is here, fighting a Beorning captain of the guard.
+A giant black warg, his eyes ablaze with wrath, is here, howling in fury.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+An orkish raider is here, fighting a Beorning captain of the guard.
+A large black warg is standing here, snarling angrily.
+An orkish raider is here, fighting a Beorning captain of the guard.
+A large black warg is standing here, snarling angrily.
+An orkish raider is here, fighting a Beorning captain of the guard.
+A large black warg is standing here, snarling angrily.
+An orkish raider is here, fighting a Beorning captain of the guard.
+A large black warg is standing here, snarling angrily.
+An orkish raider is here, fighting a Beorning captain of the guard.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+An orkish raider is here, fighting a Beorning captain of the guard.
+A large black warg is standing here, snarling angrily.
+An orkish raider is here, searching for valuables.
+A large black warg is standing here, snarling angrily.
+An orkish raider is here, searching for valuables.
+A large black warg is standing here, snarling angrily.
+Exits: north, [east], #south#, [west], [up].
+
+!. CW>order aa k chief;order bb rescue iminye
+Ok.
+A mountain troll (aa) tries to hit the warg chief, but he parries successfully.
+The warg chief says 'Once you are dead, I'll rip xve limbs from your body!'
+The warg chief hits a mountain troll (aa)'s body and tickles it.
+The great orkish raider slashes a Beorning captain of the guard's right leg
+extremely hard.
+
+!. CW>
+Ok.
+The trapdoor is opened from the other side.
+A village guard has arrived from above.
+The gate is opened from the other side.
+
+!. CW>
+A village guard has arrived from above.
+
+!. CW>
+A village guard has arrived from the east.
+An orkish raider slashes a Beorning captain of the guard's right arm and tickles
+it.
+
+!. CW>cast normal 'harm' chief
+You start to concentrate...
+A village guard closes the trapdoor.
+A village guard says 'Die, intruder!'
+A village guard joins a Beorning captain of the guard's fight.
+A village guard lightly slashes the great orkish raider's left leg and tickles
+it.
+An orkish raider pierces a Beorning captain of the guard's right leg and tickles
+it.
+An orkish raider lightly slashes a Beorning captain of the guard's body and
+tickles it.
+An orkish raider lightly crushes a Beorning captain of the guard's left arm and
+tickles it.
+
+You feel more exposed.
+An orkish raider barely slashes your left foot and tickles it.
+Argh! You cannot concentrate any more...
+An orkish raider slashes a Beorning captain of the guard's left hand and tickles
+it.
+
+!. CW HP:Fine an orkish raider:Healthy>
+A village guard closes the gate.
+A village guard says 'Die, intruder!'
+A village guard joins a Beorning captain of the guard's fight.
+A village guard strongly pierces the great orkish raider's right leg and tickles
+it.
+An orkish raider slashes a Beorning captain of the guard's right hand and
+tickles it.
+
+!. CW HP:Fine an orkish raider:Healthy>cast normal 'harm' chief
+You start to concentrate...
+An orkish raider barely pierces your left arm and tickles it.
+Argh! You cannot concentrate any more...
+
+!. CW HP:Fine an orkish raider:Healthy>
+Broni (mo) joins your fight.
+An orkish raider says 'Bhry yeol swatteled kanez mill renaiw!'
+Broni (mo) smites an orkish raider's left arm extremely hard.
+The warg chief strongly hits a mountain troll (aa)'s left arm and tickles it.
+The great orkish raider slashes a Beorning captain of the guard's left foot very
+hard.
+
+!. CW HP:Fine an orkish raider:Fine>
+A village guard says 'Die, intruder!'
+A village guard joins a Beorning captain of the guard's fight.
+The gate is opened from the other side.
+A village guard cleaves the great orkish raider's right hand very hard and
+tickles it.
+
+!. CW HP:Fine an orkish raider:Fine>order aa k chief;order bb rescue iminye
+Ok.
+
+!. CW HP:Fine an orkish raider:Fine>
+Ok.
+You are rescued by a mountain troll (bb), you are confused!
+A mountain troll (bb) says 'Ye now move. Me crush ya'!'
+A mountain troll (bb) hits an orkish raider's body hard.
+A Beorning captain of the guard lightly cleaves the great orkish raider's right
+foot and tickles it.
+
+order aa k chief;order bb rescue iminye
+A village guard has arrived from the east.
+A mountain troll (aa) hits the warg chief's body and tickles it.
+
+cast normal 'harm' chief
+An orkish raider barely slashes a mountain troll (bb)'s body and tickles it.
+A village guard pierces the great orkish raider's left hand hard and tickles it.
+An orkish raider barely slashes a Beorning captain of the guard's head and
+tickles it.
+
+A village guard closes the gate.
+A village guard says 'Die, intruder!'
+A village guard joins a Beorning captain of the guard's fight.
+A village guard pierces the great orkish raider's body hard.
+An orkish raider strongly slashes a Beorning captain of the guard's body.
+
+cast normal 'harm' chief
+An orkish raider pierces a mountain troll (bb)'s right arm and tickles it.
+A village guard cleaves the great orkish raider's left hand and tickles it.
+The warg chief strongly hits a mountain troll (aa)'s left hand and tickles it.
+An orkish raider strongly crushes a Beorning captain of the guard's right leg
+and tickles it.
+A Beorning captain of the guard cleaves the great orkish raider's left arm hard
+and tickles it.
+
+A village guard strongly slashes the great orkish raider's left hand and tickles
+it.
+The great orkish raider slashes a Beorning captain of the guard's right arm very
+hard.
+
+A mountain troll (bb) hits an orkish raider's right foot and tickles it.
+An orkish raider slashes a Beorning captain of the guard's body hard.
+
+cast normal 'harm' chief
+The great orkish raider slashes a Beorning captain of the guard's left hand very
+hard.
+
+A village guard pierces the great orkish raider's right hand and tickles it.
+A Beorning captain of the guard lightly cleaves the great orkish raider's right
+leg and tickles it.
+
+An orkish raider slashes a Beorning captain of the guard's left arm.
+
+!. CW HP:Fine>
+Ok.
+A village guard strongly pierces the great orkish raider's right leg and tickles
+it.
+A village guard strongly cleaves the great orkish raider's right arm and tickles
+it.
+An orkish raider barely pierces a Beorning captain of the guard's left hand and
+tickles it.
+An orkish raider strongly slashes a Beorning captain of the guard's left leg.
+
+!. CW HP:Fine>
+Ok.
+An orkish raider strongly slashes a Beorning captain of the guard's body.
+
+!. CW HP:Fine>
+You start to concentrate...
+An orkish raider barely crushes a Beorning captain of the guard's left hand and
+tickles it.
+
+A village guard slashes the great orkish raider's body hard.
+A mountain troll (aa) hits the warg chief's right hindleg and tickles it.
+
+cast normal 'harm' chief
+A mountain troll (bb) hits an orkish raider's right arm hard.
+
+The great orkish raider slashes a Beorning captain of the guard's left leg
+extremely hard and shatters it.
+
+Broni (mo) smites an orkish raider's left hand extremely hard and shatters it.
+An orkish raider barely slashes a Beorning captain of the guard's left arm.
+
+An orkish raider pierces a mountain troll (bb)'s head and tickles it.
+
+Ok.
+As you call on ancient powers, the warg chief twists in great pain.
+A village guard cleaves the great orkish raider's body hard.
+
+!. CW HP:Fine Mana:Burning>
+You start to concentrate...
+A village guard pierces the great orkish raider's right foot and tickles it.
+A village guard strongly pierces the great orkish raider's right arm and tickles
+it.
+
+The great orkish raider says 'Bthilv wuvo erruaky tlead to perl zo. Pnay olo
+paig ven.'
+A Beorning captain of the guard yells 'We're attacked! Protect the village!'
+A Beorning captain of the guard B A S H E S ____the great orkish raider
+
+An orkish raider stops following the great orkish raider.
+An orkish raider stops following the great orkish raider.
+An orkish raider stops following the great orkish raider.
+An orkish raider stops following the great orkish raider.
+An orkish raider stops following the great orkish raider.
+An orkish raider stops following the great orkish raider.
+An orkish raider stops following the great orkish raider.
+An orkish raider stops following the great orkish raider.
+A large black warg stops following a great black warg.
+A large black warg stops following a great black warg.
+A large black warg stops following a great black warg.
+A great black warg stops following the warg chief.
+A large black warg stops following a great black warg.
+A large black warg stops following a great black warg.
+A large black warg stops following a great black warg.
+A great black warg stops following the warg chief.
+A large black warg stops following an orkish raider.
+A large black warg stops following an orkish raider.
+A large black warg stops following an orkish raider.
+A great black warg stops following an orkish raider.
+A large black warg stops following an orkish raider.
+A large black warg stops following an orkish raider.
+A large black warg stops following an orkish raider.
+A large black warg stops following an orkish raider.
+The warg chief stops following the great orkish raider.
+An orkish raider strongly slashes a mountain troll (bb)'s right arm and tickles
+it.
+The warg chief hits a mountain troll (aa)'s body and tickles it.
+A mountain troll (aa) hits the warg chief's left hindleg very hard.
+An orkish raider lightly pierces a Beorning captain of the guard's left leg.
+An orkish raider slashes a Beorning captain of the guard's body.
+An orkish raider slashes a Beorning captain of the guard's right arm and
+shatters it.
+
+A Beorning captain of the guard cleaves the great orkish raider's body very
+hard.
+
+order aa k chief;order bb rescue iminye
+An orkish raider barely pierces a mountain troll (bb)'s body and tickles it.
+A mountain troll (bb) hits an orkish raider's right arm hard.
+
+A village guard strongly slashes the great orkish raider's head.
+
+cast normal 'harm' chief
+An orkish raider slashes a Beorning captain of the guard's body hard and
+shatters it.
+
+Ok.
+As you call on ancient powers, the warg chief twists in great pain.
+The warg chief says 'I vill kill you, and txen I will eaz your cubs.'
+A village guard pierces the great orkish raider's body.
+
+!. CW HP:Fine Mana:Hot>
+You start to concentrate...
+A large black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A great black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A great black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A great black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+A large black warg leaves vvvv S O U T H vvvv
+The warg chief strongly hits a mountain troll (aa)'s body and tickles it.
+An orkish raider lightly crushes a Beorning captain of the guard's left foot and
+shatters it.
+
+An orkish raider slashes a mountain troll (bb)'s left leg and tickles it.
+A village guard cleaves the great orkish raider's right leg hard.
+A village guard strongly pierces the great orkish raider's head.
+
+A mountain troll (aa) lightly hits the warg chief's body and tickles it.
+
+An orkish raider strongly slashes a Beorning captain of the guard's head and
+shatters it.
+A Beorning captain of the guard is incapacitated and will slowly die, if not
+aided.
+An orkish raider strongly slashes a Beorning captain of the guard's body and
+shatters it.
+A Beorning captain of the guard is mortally wounded and will die soon if not
+aided.
+
+A mountain troll (bb) hits an orkish raider's right foot.
+
+An orkish raider barely pierces a mountain troll (bb)'s right foot and tickles
+it.
+
+The warg chief hits a mountain troll (aa)'s right foot and tickles it.
+An orkish raider pierces a Beorning captain of the guard's body hard and
+shatters it.
+You hear a Beorning captain of the guard's death cry as he collapses.
+A Beorning captain of the guard is dead! R.I.P.
+
+A village guard strongly pierces the great orkish raider's right arm.
+
+Ok.
+As you call on ancient powers, the warg chief twists in great pain.
+An orkish raider joins an orkish raider's fight.
+An orkish raider joins an orkish raider's fight.
+An orkish raider joins an orkish raider's fight.
+An orkish raider joins an orkish raider's fight.
+An orkish raider joins an orkish raider's fight.
+
+!. CW HP:Fine Mana:Hot>x chief
+examine chief
+You start to concentrate...
+A mountain troll (bb) says 'So hungry. Me zxinks I eav ya twice!'
+An orkish raider slashes a mountain troll (bb)'s head and tickles it.
+A village guard slashes the great orkish raider's body hard.
+
+A village guard lightly pierces the great orkish raider's right hand and tickles
+it.
+
+An orkish raider leaves vvvv S O U T H vvvv
+
+An orkish raider says 'A nill rip yoer zaarp eat, Dnalv!'
+Broni (mo) B A S H E S ____an orkish raider
+An orkish raider barely slashes a mountain troll (bb)'s body and tickles it.
+An orkish raider strongly crushes a mountain troll (bb)'s body and tickles it.
+Broni (mo) smites an orkish raider's left hand extremely hard and shatters it.
+
+A village guard cleaves the great orkish raider's right arm hard and shatters
+it.
+
+An orkish raider barely slashes a mountain troll (bb)'s head and tickles it.
+
+An orkish raider slashes a mountain troll (bb)'s right arm and tickles it.
+An orkish raider pierces a mountain troll (bb)'s left leg and tickles it.
+
+A village guard strongly slashes the great orkish raider's left hand and
+shatters it.
+
+The great orkish raider   ___ u n b a s h e d
+A mountain troll (bb) hits an orkish raider's left leg hard and shatters it.
+
+Ok.
+As you call on ancient powers, the warg chief twists in great pain.
+The warg chief strongly hits a mountain troll (aa)'s left leg and tickles it.
+
+!. CW HP:Fine Mana:Warm>
+Ok.
+An orkish raider strongly slashes a mountain troll (bb)'s left foot and tickles
+it.
+The great orkish raider slashes a village guard's left arm and tickles it.
+
+!. CW HP:Fine Mana:Warm>
+Ok.
+
+!. CW HP:Fine Mana:Warm>
+You start to concentrate...
+An orkish raider strongly slashes a mountain troll (bb)'s right arm and tickles
+it.
+A village guard pierces the great orkish raider's right leg hard and shatters
+it.
+
+x chief
+examine chief
+An orkish raider lightly crushes a mountain troll (bb)'s body and tickles it.
+An orkish raider slashes a mountain troll (bb)'s right foot and tickles it.
+A village guard cleaves the great orkish raider's left hand very hard and
+shatters it.
+A village guard pierces the great orkish raider's body and shatters it.
+A village guard barely slashes the great orkish raider's right leg and shatters
+it.
+The warg chief strongly hits a mountain troll (aa)'s right leg and tickles it.
+
+An orkish raider lightly slashes a mountain troll (bb)'s right foot and tickles
+it.
+An orkish raider barely pierces a mountain troll (bb)'s body and tickles it.
+
+Broni (mo) smites an orkish raider's left hand extremely hard and shatters it.
+An orkish raider is mortally wounded and will die soon if not aided.
+
+A mountain troll (bb) hits an orkish raider's left foot very hard and shatters
+it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+
+Broni (mo) joins a mountain troll (bb)'s fight.
+An orkish raider says 'It'h dime fol yuu to die!'
+
+Ok.
+As you call on ancient powers, the warg chief twists in great pain.
+
+!. CW HP:Fine Mana:Warm>
+Keen, malign-looking eyes gaze out from below dark furry brows, showing an
+unusual intelligence and a sharp, evil, feral mind. A thick, dark, black fur 
+covers the large beast's body, and is lined with deep old scars. His huge paws
+let him travel swiftly through any terrain, and easily outrun any chased prey.
+Great, deadly, drooling fangs can be seen as his mighty jaws occasionally part 
+in a loud, wicked, seemingly endless howl, that appears to come from the very
+bowels of his bulky body. 
+The warg chief is in very bad shape.
+The warg chief seems to have:
+       A clean serious wound at the body,
+       A clean serious wound at the left hindleg,
+       A clean critical wound at the right forefoot.
+An orkish raider barely slashes a mountain troll (bb)'s body and tickles it.
+A mountain troll (aa) lightly hits the warg chief's head and shatters it.
+
+!. CW HP:Fine Mana:Warm>
+Keen, malign-looking eyes gaze out from below dark furry brows, showing an
+unusual intelligence and a sharp, evil, feral mind. A thick, dark, black fur 
+covers the large beast's body, and is lined with deep old scars. His huge paws
+let him travel swiftly through any terrain, and easily outrun any chased prey.
+Great, deadly, drooling fangs can be seen as his mighty jaws occasionally part 
+in a loud, wicked, seemingly endless howl, that appears to come from the very
+bowels of his bulky body. 
+The warg chief is in very bad shape.
+The warg chief seems to have:
+       A clean serious wound at the body,
+       A clean serious wound at the left hindleg,
+       A clean critical wound at the right forefoot.
+An orkish raider strongly slashes a mountain troll (bb)'s left leg.
+An orkish raider strongly slashes a mountain troll (bb)'s left hand and tickles
+it.
+The warg chief strongly hits a mountain troll (aa)'s right arm and tickles it.
+
+!. CW HP:Fine Mana:Warm>
+A village guard strongly pierces the great orkish raider's right foot and
+shatters it.
+The great orkish raider is mortally wounded and will die soon if not aided.
+Needed: 588082 xp, 0 tp.
+Total: 63411918 xp, 367515 tp.
+You gained 6776 xp.You gained 76 tp.
+
+!. CW HP:Fine Mana:Warm>
+An orkish raider slashes a mountain troll (bb)'s left leg and tickles it.
+
+!. CW HP:Fine Mana:Warm>
+A mountain troll (bb) hits an orkish raider's head hard.
+An orkish raider strongly pierces a mountain troll (bb)'s body and tickles it.
+A village guard slashes the great orkish raider's right arm hard and shatters
+it.
+You hear the great orkish raider's death cry as he collapses.
+The great orkish raider is dead! R.I.P.
+
+!. CW HP:Fine Mana:Warm>look
+Inside a Small Village
+The corpse of the great orkish raider is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of a duck is lying here.
+A circular stone well has been built here.
+The warg chief is here, fighting a mountain troll (aa).
+An orkish raider is here, fighting a mountain troll (bb).
+An orkish raider is here, fighting a mountain troll (bb).
+An orkish raider is here, fighting a mountain troll (bb).
+An orkish raider is here, fighting a mountain troll (bb).
+An orkish raider is here, fighting a mountain troll (bb).
+An orkish raider is here, fighting a mountain troll (bb).
+A pack horse (pa) is standing here.
+Broni the Dwarf (mo) is here, fighting an orkish raider (glowing).
+A strong and agile dales-pony is standing here.
+A mountain troll (bb) is here, fighting an orkish raider (glowing).
+A mountain troll (aa) is here, fighting the warg chief (glowing).
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+Exits/emulated: north, {south}, {east}, {west}, {up}.
+
+!. CW HP:Fine Mana:Warm>
+An orkish raider strongly crushes a mountain troll (bb)'s right leg and tickles
+it.
+
+!. CW HP:Fine Mana:Warm>
+A mountain troll (bb) strongly hits an orkish raider's body and tickles it.
+A mountain troll (aa) hits the warg chief's body and shatters it.
+The warg chief is incapacitated and will slowly die, if not aided.
+
+!. CW HP:Fine Mana:Warm>
+An orkish raider strongly slashes a mountain troll (bb)'s body and tickles it.
+
+!. CW HP:Fine Mana:Warm>
+An orkish raider strongly pierces a mountain troll (bb)'s body.
+
+!. CW HP:Fine Mana:Warm>cast normal 'dispel e' chief
+You start to concentrate...
+
+An orkish raider strongly slashes a mountain troll (bb)'s body.
+
+An orkish raider slashes a mountain troll (bb)'s body and tickles it.
+
+An orkish raider lightly slashes a mountain troll (bb)'s body and tickles it.
+
+Broni (mo) smites an orkish raider's right foot and tickles it.
+
+Ok.
+The warg chief is dissolved by your goodness.
+You receive your share of experience.
+Good job!
+You hear the warg chief's death cry as he collapses.
+
+              Warg Chief DIES
+
+The warg chief is dead! R.I.P.
+A mountain troll (bb) hits an orkish raider's right arm hard.
+
+!. CW HP:Fine Mana:Cold>
+Needed: 583414 xp, 0 tp.
+Total: 63416586 xp, 367515 tp.
+You gained 4668 xp.
+
+!. CW HP:Fine Mana:Cold>
+Broni (mo) heroically rescues a mountain troll (bb).
+An orkish raider barely slashes Broni (mo)'s body and tickles it.
+
+!. CW HP:Fine Mana:Cold>
+An orkish raider slashes Broni (mo)'s body and tickles it.
+
+!. CW HP:Fine Mana:Cold>
+An orkish raider barely slashes Broni (mo)'s left foot and tickles it.
+An orkish raider slashes Broni (mo)'s right hand and tickles it.
+
+!. CW HP:Fine Mana:Cold>
+An orkish raider barely slashes Broni (mo)'s head and tickles it.
+
+!. CW HP:Fine Mana:Cold>
+An orkish raider barely crushes Broni (mo)'s right foot and tickles it.
+
+!. CW HP:Fine Mana:Cold>
+An orkish raider pierces Broni (mo)'s body and tickles it.
+
+!. CW HP:Fine Mana:Cold>
+Broni (mo) smites an orkish raider's right foot hard.
+
+!. CW HP:Fine Mana:Cold>
+An orkish raider slashes Broni (mo)'s head and tickles it.
+
+!. CW HP:Fine Mana:Cold>drag corpse
+You grasp the corpse and start dragging it.
+
+!. CW HP:Fine Mana:Cold>
+An orkish raider barely pierces Broni (mo)'s right foot and tickles it.
+An orkish raider barely slashes Broni (mo)'s body and tickles it.
+
+!. CW HP:Fine Mana:Cold>
+An orkish raider slashes Broni (mo)'s body and tickles it.
+
+!. CW HP:Fine Mana:Cold>south
+A Ridge in the Fields
+Exits: #north#, east, -south-, west.
+
+!. CW HP:Fine Mana:Cold>
+You struggle to pull the corpse with you.
+
+!. CW HP:Fine Mana:Cold>look
+A Ridge in the Fields
+The corpse of the warg chief is lying here.
+A pack horse (pa) is standing here.
+A mountain troll (bb) is standing here (glowing).
+A mountain troll (aa) is standing here (glowing).
+Exits/emulated: {north}, -south-, east, west.
+
+!. CW HP:Fine Mana:Cold>
+The noise of battle reaches you from very close to the north.
+
+!. CW HP:Fine Mana:Cold>east
+Pastureland by a Ridge
+A well-fed cow stands here chewing her cud listlessly.
+A well-fed cow stands here chewing her cud listlessly.
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Cold>na out
+Ok.
+You struggle to pull the corpse with you.
+
+!. CW HP:Fine Mana:Cold>na out
+na out
+Ok.
+
+!. CW HP:Fine Mana:Cold>na out
+You seem to be repeating yourself today.
+
+!. CW HP:Fine Mana:Cold>na out
+You seem to be repeating yourself today.
+
+!. CW HP:Fine Mana:Cold>
+You seem to be repeating yourself today.
+
+!. CW HP:Fine Mana:Cold>bc
+butcher corpse
+You are already busy dragging the corpse.
+
+!. CW HP:Fine Mana:Cold>look
+Pastureland by a Ridge
+The corpse of the warg chief is lying here.
+A well-fed cow stands here chewing her cud listlessly.
+A well-fed cow stands here chewing her cud listlessly.
+A pack horse (pa) is standing here.
+A mountain troll (bb) is standing here (glowing).
+A mountain troll (aa) is standing here (glowing).
+Exits/emulated: north, south, east, west.
+
+!. CW HP:Fine Mana:Cold>
+*an Orc* has arrived from the west riding a hungry warg.
+*an Orc* has arrived from the west riding a hungry warg.
+An enslaved shadow has arrived from the west.
+
+!. CW HP:Fine Mana:Cold>
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+An enslaved shadow leaves >>>> E A S T >>>>
+
+!. CW HP:Fine Mana:Cold>i
+You are carrying:
+Nothing.
+
+!. CW HP:Fine Mana:Warm>
+*an Orc* has arrived from the east riding a hungry warg.
+*an Orc* has arrived from the east riding a hungry warg.
+An enslaved shadow has arrived from the east.
+
+!. CW HP:Fine Mana:Warm>
+*an Orc* leaves east riding a hungry warg.
+*an Orc* leaves east riding a hungry warg.
+An enslaved shadow leaves >>>> E A S T >>>>
+
+!. CW HP:Fine Mana:Warm>north
+Turnip Field
+There are two turnips here.
+eat turnip
+Exits: north, east, south.
+
+!. CW HP:Fine Mana:Warm>
+You are too full to eat more!
+
+!. CW HP:Fine Mana:Warm>bc
+butcher corpse
+You don't see a corpse here.
+
+!. CW HP:Fine Mana:Warm>
+You struggle to pull the corpse with you.
+
+!. CW HP:Fine Mana:Warm>
+!. CW HP:Fine Mana:Warm>drag
+You stop dragging the corpse.
+
+!. CW HP:Fine Mana:Warm>bc
+butcher corpse
+You start butchering the corpse of the warg chief.
+
+na orcs
+You produce the head of a large warg.
+You produce a black warg fur.
+
+!. CW HP:Fine Mana:Warm>
+Ok.
+
+!. CW HP:Fine Mana:Warm>south
+Pastureland by a Ridge
+A well-fed cow stands here chewing her cud listlessly.
+A well-fed cow stands here chewing her cud listlessly.
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Warm>west
+A Ridge in the Fields
+Exits: (north), east, -south-, west.
+
+!. CW HP:Fine Mana:Warm>north
+Inside a Small Village
+The corpse of the great orkish raider is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of a duck is lying here.
+A circular stone well has been built here.
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+Exits: north, [east], (south), [west], [up].
+
+!. CW HP:Fine Mana:Warm>north
+Blacksmiths
+A pair of tongs lie on the ground.
+A dented pail has been carelessly left here.
+A well-muscled man stands here, covered in soot.
+A young boy is here, bumping into things.
+Broni the Dwarf (mo) is standing here (glowing).
+A strong and agile dales-pony is standing here.
+Exits: south.
+
+![ CW HP:Fine Mana:Warm>south
+Inside a Small Village
+The corpse of the great orkish raider is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of a duck is lying here.
+A circular stone well has been built here.
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+Exits: north, [east], (south), [west], [up].
+
+!. CW Mana:Warm>south
+ride pa
+A Ridge in the Fields
+Exits: (north), east, -south-, west.
+
+!. CW Mana:Warm>
+A pack horse (pa) stops following you.
+You pick up a pack horse (pa)'s reins and start riding him.
+
+!. CRW Mana:Warm>east
+A dales-pony stops following Broni (mo).
+Broni (mo) picks up a dales-pony's reins and starts riding him.
+
+!. CRW Mana:Warm>
+Pastureland by a Ridge
+A well-fed cow stands here chewing her cud listlessly.
+A well-fed cow stands here chewing her cud listlessly.
+Exits: north, east, south, west.
+
+!. CRW Mana:Warm>north
+Turnip Field
+The butchered corpse of the warg chief is lying here.
+There are two turnips here.
+eat turnip
+Exits: north, east, south.
+
+!. CRW Mana:Warm>
+You are too full to eat more!
+
+!. CRW Mana:Warm>i
+You are carrying:
+a black warg fur (neglected)
+the head of a large warg
+
+!. CRW Mana:Warm>lo
+Turnip Field
+The butchered corpse of the warg chief is lying here.
+There are two turnips here.
+eat turnip
+Broni the Dwarf (mo) is here, riding a dales-pony (glowing).
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+Exits/emulated: north, south, east.
+
+!. CRW Mana:Warm>
+You are too full to eat more!
+
+!. CRW Mana:Warm>
+Broni (mo) says 'got head?'
+
+!. CRW Mana:Warm>wher
+Players in your zone
+--------------------
+Broni                - Turnip Field
+Iminye               - Turnip Field
+
+!. CRW Mana:Warm>sa yes
+Ok.
+
+!. CRW Mana:Warm>north
+Grasslands
+Exits: north, east, south, west.
+
+!. CRW Mana:Warm>north
+A Hillock in the Fields
+Exits: north, east, south, west.
+
+!. CRW Mana:Warm>east
+Broni (mo) shows his approval by clapping his hands together.
+Level Plains
+Exits: north, east, south, west.
+
+!. CRW Mana:Warm>east
+Gentle Slope
+Exits: north, east, south, west.
+
+!. CRW Mana:Warm>east
+east
+Gentle Slope
+Exits: north, east, south, west.
+
+!. CRW Mana:Warm>north
+On a High Hill
+Exits: north, east, \south/, west.
+
+!( CRW Mana:Warm>
+Soft Incline
+An angry bee is here, collecting nectar from all the flowers of the garden.
+Exits: north, east, south, west.
+You have found a bearded man!
+
+!. CRW Mana:Warm>grin
+You grin evilly.
+
+!. CRW Mana:Warm>north
+Brush Thicket
+Exits: north, east, south, west.
+
+!. CRW Mana:Warm>north
+Gradual Northern Rise
+A cockroach is scuttling across the floor carrying some debris.
+Exits: north, east, south, west.
+A cockroach panics, and attempts to flee.
+A cockroach leaves <<<< W E S T <<<<
+
+!. CRW Mana:Warm>east
+north
+Grassy Plains
+A small grasshopper clings to a blade of grass, ready to spring.
+Exits: north, east, south, west.
+
+!. CRW Mana:Warm>north
+Rolling Ground
+Exits: north, east, south, west.
+
+!. CRW Mana:Warm>north
+Oak-covered Hill
+Exits: north, east, south, west.
+
+!f CRW Mana:Warm>ow
+open exit west
+A Belt of Tall and Very Ancient Oaks
+Exits: north, -(east)-, south, -west-.
+
+!f CRW Mana:Warm Move:Tired>
+You don't see any exit there.
+
+!f CRW Mana:Warm Move:Tired>east
+Inside the Farmstead
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A large, long-bodied grey dog moves around swiftly.
+Exits: north, -east-, -south-, -(west)-.
+
+!. CRW Mana:Warm Move:Tired>cw
+close exit west
+Ok.
+Broni (mo) snickers softly.
+
+!. CRW Mana:Warm Move:Tired>
+A shining bee has arrived from the north.
+
+!. CRW Mana:Warm Move:Tired>i
+You are carrying:
+a black warg fur (neglected)
+the head of a large warg
+
+!. CRW Mana:Warm>gi all mo
+give all mo
+Ok.
+Ok.
+
+!. CRW Mana:Warm>
+A grey dog leaves ^^^^ N O R T H ^^^^
+
+!. CRW Mana:Warm>sa maybe u want brf too
+Ok.
+
+!. CRW Mana:Warm>
+A shining bee has arrived from the north.
+A shining bee leaves >>>> E A S T >>>>
+
+!. CRW Mana:Warm>
+The woodengate is opened from the other side.
+
+!. CRW Mana:Warm>
+Broni (mo) says 'brf?'
+
+!. CRW Mana:Warm>
+The huge, black bear has arrived from the west.
+
+!. CRW Mana:Warm>cw
+close exit west
+Broni (mo) dismounts from a dales-pony, and stops riding him.
+A dales-pony now follows Broni (mo).
+
+!. CRW Mana:Warm>
+Ok.
+
+!. CRW Mana:Warm>
+The huge, black bear leaves vvvv S O U T H vvvv
+
+!. CRW Mana:Warm>
+A shining bee has arrived from the east.
+
+!. CRW Mana:Hot>sa wait to return
+Ok.
+
+!. CRW Mana:Hot>gig
+You giggle.
+
+!. CRW Mana:Hot>i
+You are carrying:
+Nothing.
+
+!. CRW Mana:Hot>
+Broni (mo) grins evilly.
+
+!. CRW Mana:Hot>
+Broni (mo) says 'bear dont care'
+
+!. CRW Mana:Hot>na warg chief loses again
+Ok.
+A shining bee leaves ^^^^ N O R T H ^^^^
+
+!. CRW Mana:Hot>
+A shining bee leaves ^^^^ N O R T H ^^^^
+
+!. CRW Mana:Hot>
+Badijh narrates 'lol smiles=p'
+
+!. CRW Mana:Hot>east
+A Track through the Gardens
+A mighty brown bear, huge among his kin, growls threateningly.
+Exits: north, -south-, -west-.
+
+!. CRW Mana:Hot>south
+Path through Some Outbuildings
+A helpful ram, black as coal, stands attentive to his master's commands.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+Exits: -north-, (east), -south-, -west-.
+
+!. CRW Mana:Hot>south
+The Courtyard
+A well-groomed horse examines you with intelligent-looking eyes.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A large, long-bodied grey dog moves around swiftly.
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+Exits: -north-, (south).
+
+!. CRW Mana:Hot>
+Beorn notices the head Broni (mo) is carrying and bursts into a thundering
+laughter.
+
+!. CRW Mana:Hot>sa ok
+Ok.
+
+!. CRW Mana:Hot>sa heal
+Ok.
+
+!. CRW Mana:Hot>st
+stat
+OB: 58%, DB: 55%, PB: 57%, Armour: 82%. Wimpy: 100. Mood: wimpy.
+Needed: 583,414 xp, 0 tp. Lauren: 84. Alert: normal.
+Affected by:
+- novoid
+- noquit
+- bless    (☼ 4m42s  )
+- sanctuary (5m)
+- potion
+- strength (💪 18m40s  )
+- armour   (🧥 18m17s  )
+- shield   (⛉ 18m15s  )
+- growth
+- vigour
+
+!. CRW Mana:Hot>look
+The Courtyard
+A well-groomed horse examines you with intelligent-looking eyes.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A large, long-bodied grey dog moves around swiftly.
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+Broni the Dwarf (mo) is standing here (glowing).
+A strong and agile dales-pony is standing here.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+Exits/emulated: -north-, {south}.
+
+!. CRW Mana:Hot>
+Broni (mo) begins some strange incantations...
+
+!. CRW Mana:Hot>sc
+199/199 hits, 85/131 mana, and 65/99 moves.
+Beorn leaves ^^^^ N O R T H ^^^^
+
+!. CRW Mana:Hot>
+Broni (mo) utters the words 'judicandus dies'
+
+!. CRW Mana:Hot>north
+Path through Some Outbuildings
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+A mighty brown bear, huge among his kin, growls threateningly.
+Exits: -north-, (east), -south-, -west-.
+
+!. CRW Mana:Hot>
+Broni (mo) begins some strange incantations...
+
+!. CRW Mana:Hot>
+Beorn notices the head Broni (mo) is carrying and bursts into a thundering
+laughter.
+
+!. CRW Mana:Hot>
+Broni (mo) utters the words 'judicandus dies'
+
+!. CRW Mana:Hot>
+Broni (mo) begins some strange incantations...
+
+!. CRW Mana:Hot>
+Broni (mo) utters the words 'judicandus dies'
+
+!. CRW Mana:Hot>
+Beorn turns his head to the side as if listening to something.
+
+!. CRW Mana:Hot>sa give head beorn
+Ok.
+
+!. CRW Mana:Hot>
+Broni (mo) gives the head of a large warg to Beorn.
+Beorn drops the head on the ground and stomps fiercely, then tears it apart.
+
+!. CRW Mana:Hot>
+As Beorn utters a deafening war cry, his body convulses violently.
+
+!. CRW Mana:Hot>
+Broni (mo) begins some strange incantations...
+
+!. CRW Mana:Hot>
+His knotted muscles grow huge, as thick, black hair covers his body.
+
+!. CRW Mana:Hot>
+Beorn says 'Ah! Killed the Warg Chief! Killed the Warg Chief!'
+
+!. CRW Mana:Hot>
+Broni (mo) utters the words 'judicandus dies'
+Sharp claws emerge from his fingers, as his body continues to grow in size.
+
+!. CRW Mana:Hot>
+Broni (mo) begins some strange incantations...
+
+!. CRW Mana:Hot>
+As the transformation completes, a huge, black bear appears in front of you.
+
+!. CRW Mana:Hot>
+Broni (mo) utters the words 'judicandus dies'
+
+!. CRW Mana:Hot>sa hps?
+Ok.
+
+!. CRW Mana:Hot>
+A mighty brown bear leaves >>>> E A S T >>>>
+
+!. CRW Mana:Hot>
+Broni (mo) reports: 386/430 Hit Points, 9/61 Mana Points, 157/157 Move Points
+
+!. CRW Mana:Hot>sc
+199/199 hits, 96/131 mana, and 74/99 moves.
+
+!. CRW Mana:Hot>
+A shining bee has arrived from the north.
+
+!. CRW Mana:Hot>san mo
+cast n 'sanct'  mo
+You start to concentrate...
+
+A mighty brown bear has arrived from the east.
+
+san
+cast n 'sanct' 
+Ok.
+Broni (mo) is surrounded by a white aura.
+
+!. CRW Mana:Warm>
+You start to concentrate...
+The huge, black bear utters a deafening growl.
+You feel an unbearable pain as your eardrums nearly burst.
+Argh! You cannot concentrate any more...
+
+!. CRW HP:Fine Mana:Warm>
+A grey dog has arrived from the west.
+
+!. CRW HP:Fine Mana:Warm>
+A mighty brown bear leaves >>>> E A S T >>>>
+
+!. CRW HP:Fine Mana:Warm>sa he will come back and resume
+Ok.
+
+!. CRW HP:Fine Mana:Hot>i
+You are carrying:
+Nothing.
+
+!. CRW HP:Fine Mana:Hot>st
+stat
+A grey dog leaves ^^^^ N O R T H ^^^^
+OB: 58%, DB: 55%, PB: 57%, Armour: 82%. Wimpy: 100. Mood: wimpy.
+Needed: 583,414 xp, 0 tp. Lauren: 84. Alert: normal.
+Affected by:
+- novoid
+- bless    (☼ 5m31s  )
+- sanctuary (5m49s)
+- potion
+- strength (💪 19m29s  )
+- armour   (🧥 19m6s  )
+- shield   (⛉ 19m4s  )
+- growth
+- vigour
+
+!. CRW HP:Fine Mana:Hot>
+Varmo narrates 'the softly glowing cup quest is it hard and can you do it more
+than once ?'
+
+!. CRW HP:Fine Mana:Hot>san
+cast n 'sanct' 
+You start to concentrate...
+A shining bee leaves vvvv S O U T H vvvv
+
+Your aura glows more intensely.
+
+!. CRW Mana:Cold>
+A sleek horse has arrived from the south.
+
+!. CRW Mana:Cold>look
+Path through Some Outbuildings
+Broni the Dwarf (mo) is standing here (glowing).
+A strong and agile dales-pony is standing here.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+A huge, black bear is here, proud heir to the great and ancient mountain bears
+(glowing).
+A well-groomed horse examines you with intelligent-looking eyes.
+Exits/emulated: -north-, -south-, {east}, -west-.
+
+!. CRW Mana:Cold>
+A mighty brown bear has arrived from the east.
+
+!. CRW Mana:Cold>rest
+You sit down and rest your tired bones.
+
+!. CRW Mana:Cold>
+A shining bee has arrived from the north.
+
+!. CRW Mana:Cold>
+A grey dog has arrived from the south.
+
+!. CRW Mana:Cold>
+The huge, black bear leaves vvvv S O U T H vvvv
+
+!. CRW Mana:Cold>
+Fain narrates 'no, yes'
+
+!. CRW Mana:Cold>
+A mighty brown bear leaves ^^^^ N O R T H ^^^^
+
+!. CRW Mana:Cold>
+A grey dog has arrived from the north.
+
+!. CRW Mana:Cold>
+A shining bee leaves vvvv S O U T H vvvv
+
+!. CRW Mana:Cold>
+A grey dog leaves ^^^^ N O R T H ^^^^
+
+!. CRW Mana:Cold>sa he will come back , return and resume
+Ok.
+
+!. CRW Mana:Cold>who
+A sleek horse leaves <<<< W E S T <<<<
+Players
+-------
+      Varmo the Man Adventurer
+      Fain Longbeard, Silversmith of Khazad-dum
+      Ayl the Elven Adventurer
+      Iminye
+      Broni the Little
+      Badijh the Berserker
+      Aretuza the Elf
+
+7 allies on.
+
+!. CRW Mana:Cold>
+Aretuza narrates 'not hard, yes you can. cup won't always load if you donig back
+to back'
+
+!. CRW Mana:Cold>look
+Path through Some Outbuildings
+Broni the Dwarf (mo) is standing here (glowing).
+A strong and agile dales-pony is standing here.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+A large, long-bodied grey dog moves around swiftly.
+Exits/emulated: -north-, -south-, {east}, -west-.
+
+!. CRW Mana:Cold>
+A grey dog leaves >>>> E A S T >>>>
+
+!. CRW Mana:Cold>north
+Nah... You feel too relaxed to do that.
+stand
+
+!. CRW Mana:Cold>
+You stop resting and stand up.
+
+!. CRW Mana:Cold>north
+A Track through the Gardens
+A large, long-bodied grey dog moves around swiftly.
+Exits: north, -south-, -west-.
+
+!. CRW Mana:Cold>west
+Inside the Farmstead
+A well-groomed horse examines you with intelligent-looking eyes.
+A mighty brown bear, huge among his kin, growls threateningly.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: north, -east-, -south-, [west].
+A mighty brown bear leaves >>>> E A S T >>>>
+
+!. CRW Mana:Cold>
+Varmo narrates 'and does cup decay?'
+
+!. CRW Mana:Warm>
+Aretuza narrates 'no'
+A sleek horse leaves vvvv S O U T H vvvv
+
+!. CRW Mana:Warm>sa noticed him meta?
+Ok.
+
+!. CRW Mana:Warm>
+Broni (mo) nods solemnly.
+
+!. CRW Mana:Warm>
+A grey dog has arrived from the north.
+
+!. CRW Mana:Warm>
+Aretuza narrates 'or a very long time and i've just never seen it'
+
+!. CRW Mana:Warm>
+A shining bee leaves >>>> E A S T >>>>
+
+!. CRW Mana:Warm>
+The huge, black bear has arrived from the south.
+
+!. CRW Mana:Warm>
+The huge, black bear opens the woodengate.
+
+!. CRW Mana:Warm>
+The huge, black bear leaves <<<< W E S T <<<<
+
+!. CRW Mana:Warm>
+A grey dog leaves ^^^^ N O R T H ^^^^
+
+!. CRW Mana:Warm>lo
+Inside the Farmstead
+Broni the Dwarf (mo) is standing here nodding (glowing).
+A strong and agile dales-pony is standing here.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+Exits/emulated: north, -south-, -east-, -{west}-.
+
+!. CRW Mana:Warm>
+Broni (mo) quietly scouts westwards...
+
+!. CRW Mana:Warm>grin
+You grin evilly.
+Broni (mo) stops scouting westwards.
+
+!. CRW Mana:Warm>lpa
+lead pa
+You stop riding a pack horse (pa).
+A pack horse (pa) starts following you.
+
+!. CW Mana:Warm>sa oh charmies alive even
+Ok.
+
+!. CW Mana:Warm>
+A shining bee has arrived from the east.
+
+!. CW Mana:Warm>south
+In Front of a Barn
+A helpful ram, black as coal, stands attentive to his master's commands.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+Exits: -north-, -east-, -south-, west.
+
+!. CW Mana:Warm>west
+Beorn's Stables
+A cup of pungent-smelling brew is here.
+A well-groomed horse examines you with intelligent-looking eyes.
+A well-groomed horse examines you with intelligent-looking eyes.
+Exits: east.
+
+![ CW Mana:Warm>ss
+order followers sleep
+A mountain troll (bb) lies down and falls asleep.
+A mountain troll (aa) lies down and falls asleep.
+Ok.
+Broni (mo) agrees.
+
+![ CW Mana:Warm>east
+In Front of a Barn
+A helpful ram, black as coal, stands attentive to his master's commands.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+Exits: -north-, -east-, -south-, west.
+
+!. CW Mana:Warm>north
+Inside the Farmstead
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: north, -east-, -south-, -(west)-.
+
+!. CW Mana:Warm>
+Broni (mo) says 'handy'
+
+!. CW Mana:Warm>sa lol
+Ok.
+
+!. CW Mana:Warm>wher
+Players in your zone
+--------------------
+Broni                - Inside the Farmstead
+Iminye               - Inside the Farmstead
+
+!. CW Mana:Warm>
+A shining bee has arrived from the north.
+
+!. CW Mana:Warm>south
+In Front of a Barn
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A well-groomed horse examines you with intelligent-looking eyes.
+Exits: -north-, -east-, -south-, west.
+
+!. CW Mana:Warm>south
+The Garden Path
+Exits: -north-, -east-.
+
+!. CW Mana:Warm>south
+Alas, you cannot go that way...
+
+!. CW Mana:Warm>east
+Flowered Gardens
+A tall plant with a perfectly smooth stem gracefully marks the landscape.
+Yellow flowers, with grey-green foliage, grow in clusters here.
+Exits: north, -west-.
+Note: Herb: hemlock x 1
+
+!. CW Mana:Warm>north
+A Veranda by the Gardens
+Exits: (north), south.
+
+!. CW Mana:Warm>north
+Beorn's Hall
+A large stone fireplace with a roaring fire warms the room.
+Exits: (north), (south).
+
+![ CW Mana:Warm>north
+The Courtyard
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: -north-, (south).
+
+!. CW Mana:Warm>north
+Path through Some Outbuildings
+A mighty brown bear, huge among his kin, growls threateningly.
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+Exits: -north-, (east), -south-, -west-.
+
+!. CW Mana:Warm>west
+In Front of a Barn
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A well-groomed horse examines you with intelligent-looking eyes.
+A well-groomed horse examines you with intelligent-looking eyes.
+Exits: -north-, -east-, -south-, west.
+
+!. CW Mana:Warm>
+A shining bee leaves >>>> E A S T >>>>
+
+!. CW Mana:Warm>south
+The Garden Path
+Exits: -north-, -east-.
+
+!. CW Mana:Warm>north
+In Front of a Barn
+A well-groomed horse examines you with intelligent-looking eyes.
+A well-groomed horse examines you with intelligent-looking eyes.
+Exits: -north-, -east-, -south-, west.
+
+!. CW Mana:Warm>north
+Inside the Farmstead
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: north, -east-, -south-, -(west)-.
+
+!. CW Mana:Hot>north
+Gardens by the Hedge
+A large, long-bodied grey dog moves around swiftly.
+Exits: east, south.
+
+!. CW Mana:Hot>south
+Inside the Farmstead
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: north, -east-, -south-, -(west)-.
+
+!. CW Mana:Hot>
+A shining bee leaves vvvv S O U T H vvvv
+
+!. CW Mana:Hot>sa ok. he is werebearing
+Ok.
+
+!. CW Mana:Hot>
+A sleek horse has arrived from the south.
+
+!. CW Mana:Hot>gig
+You giggle.
+
+!. CW Mana:Hot>st
+stat
+OB: 58%, DB: 55%, PB: 57%, Armour: 82%. Wimpy: 100. Mood: wimpy.
+Needed: 583,414 xp, 0 tp. Lauren: 84. Alert: normal.
+Affected by:
+- novoid
+- bless    (☼ 7m28s  )
+- sanctuary (1m54s)
+- potion
+- strength (💪 21m26s  )
+- armour   (🧥 21m3s  )
+- shield   (⛉ 21m1s  )
+- growth
+- vigour
+
+!. CW Mana:Hot>
+Varmo narrates 'last question: are there different type of pipe weed ? '
+
+!. CW Mana:Hot>mo
+(mo)'s sanct is 2m14s
+A shining bee leaves vvvv S O U T H vvvv
+
+!. CW Mana:Hot>
+A sleek horse leaves vvvv S O U T H vvvv
+
+!. CW Mana:Hot>
+Aretuza narrates 'mauve is LSD of pipe weed'
+
+!. CW Mana:Hot>na try mauve -D
+Ok.
+
+!. CW Mana:Hot>
+Badijh narrates 'well there are mauve petals'
+
+!. CW Mana:Hot>
+Ayl narrates 'first one is pipe-weed, second one is pipe-weed'
+A white pony has arrived from the east.
+
+!. CW Mana:Hot>
+Badijh narrates 'and tobys'
+
+!. CW Mana:Hot>
+Ayl narrates 'then there's pipeweed'
+
+!. CW Mana:Hot>
+A white pony has arrived from the east.
+
+!. CW Mana:Hot>
+A white pony leaves vvvv S O U T H vvvv
+
+!. CW Mana:Hot>tr
+You carefully examine the ground around you, looking for tracks...
+
+You see:
+   - two apparent tracks of a mountain troll leading south done less than 2
+hours ago
+   - an apparent track of the huge, black bear leading west done less than 2
+hours ago
+   - a clear track of a mighty brown bear leading east done less than 2 hours
+ago
+The huge, black bear has arrived from the west.
+
+   - a plain track of a white pony leading south done less than 1 hour ago
+   - a plain track of a sleek horse leading south done less than 1 hour ago
+   - a plain track of a Dwarf coming from the north done less than 1 hour ago
+   - a plain track of an Elf coming from the north done less than 1 hour ago
+   - a plain track of a dales-pony leading north done less than 1 hour ago
+   - a plain track of a Dwarf leading north done less than 1 hour ago
+   - a plain track of a pack horse leading north done less than 1 hour ago
+   - a plain track of an Elf leading north done less than 1 hour ago
+   - a plain track of a Dwarf coming from the south done less than 1 hour ago
+   - a plain track of an Elf coming from the south done less than 1 hour ago
+   - a plain track of a dales-pony leading south done less than 1 hour ago
+   - a plain track of a Dwarf leading south done less than 1 hour ago
+   - a plain track of a pack horse leading south done less than 1 hour ago
+   - a plain track of an Elf leading south done less than 1 hour ago
+   - two plain tracks of a mountain troll leading east done less than 4 hours
+ago
+   - a plain track of a pack horse leading east done less than 4 hours ago
+   - a clear track of the huge, black bear leading south done less than 4 hours
+ago
+
+Ayl narrates 'also pipeweed. don't forget pipeweed'
+
+The huge, black bear leaves vvvv S O U T H vvvv
+
+   - a vague track of a Dwarf coming from the east done less than 2 hours ago
+   - a vague track of a dales-pony leading east done less than 4 hours ago
+   - a vague track of a Dwarf leading east done less than 4 hours ago
+   - two vague tracks of a mountain troll leading west done less than 9 hours
+ago
+
+A white pony leaves >>>> E A S T >>>>
+
+   - a faint track of a grey dog leading north done less than 2 hours ago
+   - a faint track of a sleek horse leading east done less than 7 hours ago
+   - a faint track of a dales-pony leading west done less than 9 hours ago
+   - a faint track of a pack horse leading west done less than 9 hours ago
+A grey dog has arrived from the east.
+
+Varmo narrates 'oh and verry last flask of miruvor is given by erestor right ?
+do you need to give him artifacts to get it'
+
+You stop searching, you don't seem to find anything else.
+
+!. CW Mana:Hot>who
+Players
+-------
+      Varmo the Man Adventurer
+      Fain Longbeard, Silversmith of Khazad-dum
+      Ayl the Elven Adventurer
+      Iminye
+      Broni the Little
+      Badijh the Berserker
+      Aretuza the Elf
+
+7 allies on.
+
+!. CW Mana:Hot>trop #
+                    *** TROPHY *** (Kills, Knowledge, Name)
+
+|   1,  0%,  #Masi                     |   1,  0%,  #Ivanka                   |
+|   1,  0%,  #Buxurg                   |   1,  0%,  #Ulaz                     |
+|   1,  0%,  #Comanche                 |   1,  0%,  #Ornn                     |
+|   1,  0%,  #Bunt                     |   1,  0%,  #Grohm                    |
+|   1,  0%,  #Thumpie                  |   2,  1%,  #Echanor                  |
+|   1,  0%,  #Theseus                  |   1,  0%,  #Mutuk                    |
+|   1,  0%,  #Solenya                  |   1,  0%,  #Grimjaur                 |
+|   1,  0%,  #Scorponok                |   2,  2%,  #Zinister                 |
+|   1,  0%,  #Slabrog                  |   1,  0%,  #Katse                    |
+|   2,  1%,  #Tyrion                   |   1,  0%,  #Murahornargh             |
+|   1,  0%,  #Aenaeas                  |   2,  0%,  #Katniss                  |
+|   1,  0%,  #Iltz                     |   1,  0%,  #Trolgar                  |
+|   1,  0%,  #Kut                      |   1,  0%,  #Yaul                     |
+|   1,  0%,  #Boddah                   |   1,  0%,  #Zorg                     |
+|   3,  1%,  #Gringoire                |   1,  0%,  #Nugs                     |
+|   1,  0%,  #Boaz                     |   1,  0%,  #Namir                    |
+|   1,  0%,  #Horast                   |   2,  0%,  #Svarten                  |
+|   1,  0%,  #Arzorex                  |   2,  0%,  #Zakuzka                  |
+
+Total matching kills: 44 (36 distinct)
+
+!. CW Mana:Hot>who
+Players
+-------
+      Varmo the Man Adventurer
+      Fain Longbeard, Silversmith of Khazad-dum
+      Ayl the Elven Adventurer
+      Iminye
+      Broni the Little
+      Badijh the Berserker
+      Aretuza the Elf
+
+7 allies on.
+
+!. CW Mana:Hot>
+A grey dog leaves ^^^^ N O R T H ^^^^
+
+!. CW Mana:Hot>
+Fain narrates 'yes, no'
+
+!. CW Mana:Hot>
+The whitish gleam of the moon disappears from the Anduin waters.
+
+!. CW Mana:Hot>
+Fain narrates 'wait'
+
+!. CW Mana:Hot>
+Aretuza narrates 'given my ecthelion erestor elrond and maybe another?'
+
+!. CW Mana:Hot>
+Fain narrates 'also given in lorien'
+
+!. CW Mana:Hot>
+Aretuza narrates 'they are for helping each out in kind'
+
+!. CW Mana:Hot>tel fain 2 orcs with shadow were at valepack moment
+Ok.
+
+!. CW Mana:Hot>
+A white pony has arrived from the east.
+
+!. CW Mana:Hot>
+Aretuza narrates 'not that kind of help'
+
+!. CW Mana:Hot>
+A shining bee has arrived from the south.
+
+!. CW Mana:Hot>
+Fain tells you 'don't care'
+A white pony leaves vvvv S O U T H vvvv
+
+!. CW Mana:Hot>
+A white pony has arrived from the south.
+
+!. CW Mana:Hot>
+A mighty brown bear has arrived from the south.
+
+!. CW Mana:Hot>
+A shining bee leaves >>>> E A S T >>>>
+
+!. CW Mana:Hot>
+Varmo narrates 'well thx all you have been a great help!'
+
+!. CW Mana:Burning>
+A mighty brown bear leaves >>>> E A S T >>>>
+A white pony leaves vvvv S O U T H vvvv
+
+!. CW Mana:Burning>re meaning they can come anywhere now too
+tell Fain meaning they can come anywhere now too
+Ok.
+
+!. CW Mana:Burning>
+Varmo narrates 'now i can go to sleep at ease :)'
+
+!. CW Mana:Burning>tr bear
+You carefully examine the ground around you, looking for tracks...
+You see some apparent tracks of a mighty brown bear leading east, done less than
+1 hour ago.
+
+!. CW Mana:Burning>
+Fain tells you 'don't care'
+
+!. CW Mana:Burning>
+A shining bee has arrived from the east.
+
+!. CW Mana:Burning>
+A white pony has arrived from the south.
+
+!. CW Mana:Burning>
+The first morning rays dye the grassy Anduin Vales in golden hues.
+
+*. CW Mana:Burning>
+A mighty brown bear has arrived from the east.
+
+*. CW Mana:Burning>
+A shining bee has arrived from the east.
+
+*. CW Mana:Burning>
+A mighty brown bear leaves <<<< W E S T <<<<
+
+*. CW Mana:Burning>
+A shining bee leaves >>>> E A S T >>>>
+
+*. CW Mana:Burning>yawn
+You yawn. Feeling bored?
+
+*. CW Mana:Burning>
+A white pony leaves vvvv S O U T H vvvv
+
+*. CW Mana:Burning>
+A shining bee has arrived from the north.
+
+*. CW Mana:Burning>st
+stat
+OB: 58%, DB: 55%, PB: 57%, Armour: 82%. Wimpy: 100. Mood: wimpy.
+Needed: 583,414 xp, 0 tp. Lauren: 84. Alert: normal.
+Affected by:
+- novoid
+- bless    (☼ 9m26s  )
+- sanctuary (3m52s)
+- potion
+- strength (💪 23m24s  )
+- armour   (🧥 23m1s  )
+- shield   (⛉ 22m59s  )
+- growth
+- vigour
+
+*. CW Mana:Burning>
+A shining bee leaves >>>> E A S T >>>>
+
+*. CW Mana:Burning>look
+Inside the Farmstead
+A pack horse (pa) is standing here.
+Broni the Dwarf (mo) is standing here (glowing).
+A strong and agile dales-pony is standing here.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits/emulated: north, -south-, -east-, -{west}-.
+
+*. CW Mana:Burning>
+Broni (mo) hugs a shining bee.
+
+*. CW Mana:Burning>
+A shining bee leaves vvvv S O U T H vvvv
+
+*. CW Mana:Burning>
+Broni (mo) says 'cute'
+
+*. CW Mana:Burning>ar;sj
+cast n 'armour'
+cast n 'shield'
+You start to concentrate...
+
+Your magic armour is revitalised.
+
+*. CW Mana:Hot>
+You start to concentrate...
+
+Your protection is revitalised.
+
+*. CW Mana:Hot>
+The light of Aman fades away from you.
+     B L E S S   O F F
+
+The spell lasted 9m42s.
+
+*. CW Mana:Hot>
+A grey dog has arrived from the north.
+
+*. CW Mana:Hot>sa afaik 7 trolls needed for beorn
+Ok.
+
+*. CW Mana:Hot>north
+Gardens by the Hedge
+A large, long-bodied grey dog moves around swiftly.
+Exits: east, south.
+
+A grey dog has arrived from the south.
+
+east
+You see some plain tracks of a mighty brown bear leading east, done less than 4
+hours ago.
+
+*. CW Mana:Hot>
+The Giant Beehives
+There is a huge, pyramidal beehive here.
+Exits: south, west.
+
+You see some plain tracks of a mighty brown bear leading south, done less than 4
+hours ago.
+
+*. CW Mana:Hot>
+*. CW Mana:Hot>south
+A Track through the Gardens
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: north, -south-, -west-.
+
+You see some apparent tracks of a mighty brown bear leading west, done less than
+1 hour ago.
+
+*. CW Mana:Hot>
+*. CW Mana:Hot>south
+Path through Some Outbuildings
+A large, long-bodied grey dog moves around swiftly.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: -north-, (east), -south-, -west-.
+
+You see some clear tracks of a mighty brown bear leading west, done less than 2
+hours ago.
+
+*. CW Mana:Hot>south
+The Courtyard
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+A helpful ram, black as coal, stands attentive to his master's commands.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+Exits: -north-, (south).
+
+Hmm... you have lost the track.
+
+*. CW Mana:Hot>north
+Path through Some Outbuildings
+A large, long-bodied grey dog moves around swiftly.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: -north-, (east), -south-, -west-.
+
+*. CW Mana:Hot>
+A shining bee leaves vvvv S O U T H vvvv
+A shining bee has arrived from the west.
+
+*. CW Mana:Hot>east
+A Wooden Granary
+A heavy chest of oak, banded with iron, stands here.
+A water barrel has been left here.
+Some curdled goats milk sits inside a cheese mould.
+A sack of flour has been placed here.
+Exits: (west).
+
+![ CW Mana:Hot>
+Broni (mo) says 'yea ive done him on darkie. was a nightmare'
+
+![ CW Mana:Hot>west
+Path through Some Outbuildings
+A large, long-bodied grey dog moves around swiftly.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: -north-, (east), -south-, -west-.
+
+*. CW Mana:Hot>south
+The Courtyard
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+A helpful ram, black as coal, stands attentive to his master's commands.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: -north-, (south).
+
+*. CW Mana:Hot>south
+Beorn's Hall
+A large stone fireplace with a roaring fire warms the room.
+Exits: (north), (south).
+
+![ CW Mana:Hot>south
+A Veranda by the Gardens
+A well-groomed horse examines you with intelligent-looking eyes.
+Exits: (north), south.
+
+*. CW Mana:Hot>north
+Beorn's Hall
+A large stone fireplace with a roaring fire warms the room.
+Exits: (north), (south).
+
+![ CW Mana:Hot>north
+The Courtyard
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+A helpful ram, black as coal, stands attentive to his master's commands.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+A woolly sheep, white as snow, bleats ceaselessly.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: -north-, (south).
+
+*. CW Mana:Hot>
+The day has begun.
+
+*. CW Mana:Hot>
+Broni (mo) says 'i was on bn cleric, on sanc duty'
+
+*. CW Mana:Hot>
+Beorn leaves ^^^^ N O R T H ^^^^
+
+*. CW Mana:Hot>
+A shining bee has arrived from the north.
+
+*. CW Mana:Hot>
+A white pony leaves ^^^^ N O R T H ^^^^
+
+*. CW Mana:Hot>
+Broni (mo) says 'beorn is a true monster :P'
+
+*. CW Mana:Hot>north
+Path through Some Outbuildings
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+Exits: -north-, (east), -south-, -west-.
+
+*. CW Mana:Hot>sa i
+Ok.
+
+*. CW Mana:Hot>
+A black ram has arrived from the south.
+A white sheep has arrived from the south.
+A white sheep has arrived from the south.
+A white sheep has arrived from the south.
+
+*. CW Mana:Hot>
+A white pony leaves ^^^^ N O R T H ^^^^
+
+*. CW Mana:Hot>tel broni say wargchief or letter?
+Ok.
+
+*. CW Mana:Hot>tilt
+You tilt your head.
+
+*. CW Mana:Hot>
+A black ram leaves vvvv S O U T H vvvv
+A white sheep leaves vvvv S O U T H vvvv
+A white sheep leaves vvvv S O U T H vvvv
+A white sheep leaves vvvv S O U T H vvvv
+
+*. CW Mana:Hot>
+Broni (mo) says 'letter'
+
+*. CW Mana:Hot>
+Broni (mo) says 'wargchief'
+
+*. CW Mana:Hot>
+Broni (mo) says 'wargchief'
+
+*. CW Mana:Hot>
+Broni (mo) says 'letter'
+
+*. CW Mana:Hot>tel broni say warg
+Ok.
+
+*. CW Mana:Hot>
+Broni (mo) spits over his left shoulder.
+
+*. CW Mana:Hot>i
+You are carrying:
+Nothing.
+
+*. CW Mana:Hot>
+Broni (mo) says 'warg'
+
+*. CW Mana:Hot>
+Beorn says 'At times, when food is scarce during the icy winter, and the pale'
+
+*. CW Mana:Hot>i
+You are carrying:
+Nothing.
+
+*. CW Mana:Hot>
+Broni (mo) sniffs sadly.
+
+*. CW Mana:Hot>tilt
+You tilt your head.
+
+*. CW Mana:Hot>sa hm
+Ok.
+
+*. CW Mana:Hot>
+Beorn says 'moon casts its gloomy light over the foothills of the Misty'
+Time: 9:45 am. Dawn: 8 am (22m15s). Dusk: 6 pm (8m15s). Winter 3
+
+*. CW Mana:Burning>
+Broni (mo) says 'well, that's disappointing'
+
+*. CW Mana:Burning>
+Beorn says 'Mountains, beyond the Great River, a horrendous sound can be'
+
+*. CW Mana:Burning>lo
+Path through Some Outbuildings
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+A pack horse (pa) is standing here.
+Broni the Dwarf (mo) is standing here sniffing.
+A strong and agile dales-pony is standing here.
+Exits/emulated: -north-, -south-, {east}, -west-.
+
+*. CW Mana:Burning>
+Beorn says 'heard echoing through the vales. Those are the terrible howls of'
+
+*. CW Mana:Burning>
+Beorn says 'the wargs, and the yelling of their orc-allies, talking to each'
+
+*. CW Mana:Burning>
+A shining bee has arrived from the south.
+
+*. CW Mana:Burning>
+A shining bee has arrived from the north.
+
+*. CW Mana:Burning>
+Broni (mo) says 'i guess i needed to talk to him first'
+
+*. CW Mana:Burning>sa last time when happened he resumed
+Ok.
+
+*. CW Mana:Burning>who
+Beorn says 'other in their dark, dreadful tongue.'
+
+*. CW Mana:Burning>
+Players
+-------
+      Fain Longbeard, Silversmith of Khazad-dum
+      Ayl the Elven Adventurer
+      Iminye
+      Broni the Little
+      Badijh the Berserker
+      Aretuza the Elf
+
+6 allies on.
+
+*. CW Mana:Burning>pray hi you there
+You send your prayer to the Ainur.
+
+*. CW Mana:Burning>
+A shining bee leaves vvvv S O U T H vvvv
+
+*. CW Mana:Burning>
+A fierce grimace of disgust comes to Beorn's face as he speaks.
+
+*. CW Mana:Burning>pray ?
+You send your prayer to the Ainur.
+Broni (mo) says 'ah hope so'
+
+*. CW Mana:Burning>
+Beorn says 'Many a night I've journeyed into the dales alone, to hunt those'
+
+*. CW Mana:Burning>
+Beorn says 'loathsome creatures. And if you take the path from my homestead'
+
+*. CW Mana:Burning>
+A shining bee leaves ^^^^ N O R T H ^^^^
+
+*. CW Mana:Burning>
+The white aura around your body fades.
+     S A N C T U A R Y   D O W N
+
+The spell lasted 6m9s.
+
+*. CW Mana:Burning>
+Beorn says 'to the Carrock, a little north of the trail you will find that my'
+
+*. CW Mana:Burning>st
+stat
+OB: 55%, DB: 55%, PB: 55%, Armour: 82%. Wimpy: 100. Mood: wimpy.
+Needed: 583,414 xp, 0 tp. Lauren: 84. Alert: normal.
+Affected by:
+- novoid
+- strength (💪 25m44s  )
+- armour   (🧥 2m6s  )
+- shield   (⛉ 2m4s  )
+- growth
+- vigour
+
+*. CW Mana:Burning>
+Beorn says 'hunts have not been in vain!'
+
+*. CW Mana:Burning>
+A white pony has arrived from the west.
+
+*. CW Mana:Burning>
+Beorn cackles excitedly, clenching his huge fists.
+
+*. CW Mana:Burning>
+A shining bee has arrived from the north.
+
+*. CW Mana:Burning>
+Beorn says 'However, those are minor prey. The greater beasts, and mainly'
+
+*. CW Mana:Burning>
+A white pony leaves <<<< W E S T <<<<
+
+*. CW Mana:Burning>
+Beorn says 'their leader, the Warg Chief, are much more slippery.'
+
+*. CW Mana:Burning>
+Beorn grunts in frustration.
+
+*. CW>sa well i am logging this session and we will contact Ainurs
+Ok.
+
+*. CW>
+Beorn says 'At times, wargs and orcs gather together in the mountainside'
+
+*. CW>
+Beorn says 'forests to make sinister plans under the moonlight. And then they'
+
+*. CW>
+A shining bee leaves <<<< W E S T <<<<
+
+*. CW>
+Beorn says 'march down into the lower lands, wreaking havoc among our smaller'
+
+*. CW>look
+Path through Some Outbuildings
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+A pack horse (pa) is standing here.
+Broni the Dwarf (mo) is standing here.
+A strong and agile dales-pony is standing here.
+Exits/emulated: -north-, -south-, {east}, -west-.
+
+*. CW>
+The coarsegate closes quietly.
+
+*. CW>
+Broni (mo) thanks you heartily.
+
+*. CW>
+A shining bee has arrived from the south.
+
+*. CW>
+Beorn says 'settlements on the other side of the river.'
+
+*. CW>
+Beorn's voice lowers, rage showing clearly on his face.
+
+*. CW>
+A shining bee has arrived from the south.
+
+*. CW>
+Beorn says 'But those foul creatures take good care not to come close to my'
+
+*. CW>
+Beorn says 'lands. And despite my efforts, I've never been able to give them'
+
+*. CW>i
+You are carrying:
+Nothing.
+
+*. CW>
+A shining bee leaves <<<< W E S T <<<<
+
+*. CW>
+A shining bee leaves vvvv S O U T H vvvv
+
+*. CW>
+Beorn says 'chase in time. I wish I could lay my hands on that damned Warg'
+
+*. CW>sa u have achievment?
+Ok.
+
+*. CW>
+Beorn says 'Chief!'
+
+*. CW>
+With a loud growl, Beorn finishes his tale.
+
+*. CW>
+Beorn opens the coarsegate.
+
+*. CW>
+Beorn leaves >>>> E A S T >>>>
+
+*. CW>
+The coarsegate closes quietly.
+
+*. CW>
+You begin to feel thirsty.
+
+*. CW>
+Broni (mo) says 'no'
+
+*. CW>
+A white pony has arrived from the north.
+
+*. CW>oe
+open exit east
+Ok.
+
+*. CW>east
+A Wooden Granary
+A sticky honeycomb lies on the ground.
+A heavy chest of oak, banded with iron, stands here.
+A water barrel has been left here.
+Some curdled goats milk sits inside a cheese mould.
+A sack of flour has been placed here.
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+Exits: (west).
+
+![ CW>sa letter
+Ok.
+
+![ CW>sa citizen
+Ok.
+
+![ CW>
+Broni (mo) says 'letter'
+
+![ CW>
+Broni (mo) says 'citizen'
+A white pony has arrived from the west.
+
+![ CW>sa say ingrove
+Ok.
+
+![ CW>
+Broni (mo) says 'warg chief'
+
+![ CW>
+Beorn says 'At times, when food is scarce during the icy winter, and the pale'
+
+![ CW>sa say loryen
+Ok.
+
+![ CW>st
+stat
+OB: 55%, DB: 55%, PB: 55%, Armour: 82%. Wimpy: 100. Mood: wimpy.
+Needed: 583,414 xp, 0 tp. Lauren: 84. Alert: normal.
+Affected by:
+- novoid
+- strength (💪 27m40s  )
+- armour   (🧥 4m2s  )
+- shield   (⛉ 4m  )
+- growth
+- vigour
+
+![ CW>i
+Beorn says 'moon casts its gloomy light over the foothills of the Misty'
+Time: 12:26 pm. Dawn: 8 am (19m34s). Dusk: 6 pm (5m34s). Winter 3
+
+![ CW>
+You are carrying:
+Nothing.
+
+![ CW>
+Broni (mo) says 'opps'
+
+![ CW>
+Broni (mo) giggles.
+
+![ CW>
+Beorn says 'Mountains, beyond the Great River, a horrendous sound can be'
+
+![ CW>sa really
+Ok.
+
+![ CW>
+Broni (mo) bonks himself on the head for being a fool!
+
+![ CW>
+Beorn says 'heard echoing through the vales. Those are the terrible howls of'
+
+![ CW>
+Beorn says 'the wargs, and the yelling of their orc-allies, talking to each'
+
+![ CW>
+Beorn says 'other in their dark, dreadful tongue.'
+
+![ CW>
+A fierce grimace of disgust comes to Beorn's face as he speaks.
+
+![ CW>na really
+Ok.
+
+![ CW>who
+Players
+-------
+      Fain Longbeard, Silversmith of Khazad-dum
+      Ayl the Elven Adventurer
+      Iminye
+      Broni the Little
+      Badijh the Berserker
+      Aretuza the Elf
+
+6 allies on.
+
+![ CW>
+Broni (mo) says 'idk if this will work regardless of what i say'
+
+![ CW>look
+A Wooden Granary
+A sticky honeycomb lies on the ground.
+A heavy chest of oak, banded with iron, stands here.
+A water barrel has been left here.
+Some curdled goats milk sits inside a cheese mould.
+A sack of flour has been placed here.
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+A pack horse (pa) is standing here.
+Broni the Dwarf (mo) is standing here.
+A strong and agile dales-pony is standing here.
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+Exits/emulated: {west}.
+
+![ CW>
+Broni (mo) ponders life, the universe, and everything.
+
+![ CW>
+You begin to feel thirsty.
+
+![ CW>
+Beorn says 'Many a night I've journeyed into the dales alone, to hunt those'
+
+![ CW>wat
+cast n 'create w'
+You start to concentrate...
+
+You feel less thirsty.
+
+![ CW Mana:Burning>oo
+cast n 'create food';eat food
+You start to concentrate...
+
+Beorn says 'loathsome creatures. And if you take the path from my homestead'
+
+A magic mushroom suddenly appears.
+
+![ CW Mana:Burning>
+You eat the mushroom.
+You are full.
+
+![ CW Mana:Burning>
+Beorn says 'to the Carrock, a little north of the trail you will find that my'
+
+![ CW Mana:Burning>
+A white pony leaves <<<< W E S T <<<<
+
+![ CW Mana:Burning>
+Beorn says 'hunts have not been in vain!'
+
+![ CW Mana:Burning>rev head
+You begin to search...
+
+Beorn cackles excitedly, clenching his huge fists.
+
+You didn't find a head hidden here.
+
+![ CW>
+Beorn says 'However, those are minor prey. The greater beasts, and mainly'
+
+![ CW>sa you have trophy too, right?
+Ok.
+
+![ CW>st
+stat
+OB: 55%, DB: 55%, PB: 55%, Armour: 82%. Wimpy: 100. Mood: wimpy.
+Needed: 583,414 xp, 0 tp. Lauren: 84. Alert: normal.
+Affected by:
+- novoid
+- strength (💪 28m47s  )
+- armour   (🧥 5m9s  )
+- shield   (⛉ 5m7s  )
+- growth
+- vigour
+
+![ CW>
+Beorn says 'their leader, the Warg Chief, are much more slippery.'
+
+![ CW>
+Broni (mo) says 'yea '
+
+![ CW>trop chief
+                    *** TROPHY *** (Kills, Knowledge, Name)
+
+|   5,  1%,  Shaghosh                  |   7,  1%,  Broghha the Dunlending ch |
+|  45, 21%,  an undead chieftain       |   6,  1%,  a goblin leader           |
+|  12,  4%,  a chief of smugglers      |  12,  6%,  Big John, the chief briga |
+|   3,  1%,  an orkish chieftain       |  24, 13%,  Mab the Dunlending Chieft |
+|  11,  5%,  a hillman-chief           |  13,  4%,  the Ohurk-uai chief       |
+|  21, 10%,  the warg chief            |  41, 14%,  the Chief of Tharbad      |
+|  14,  6%,  Wuda                      |  26,  9%,  Wyrdda                    |
+|  19, 11%,  the chief thug            |                                      |
+
+Total matching kills: 259 (15 distinct)
+
+![ CW>who
+Players
+-------
+      Fain Longbeard, Silversmith of Khazad-dum
+      Ayl the Elven Adventurer
+      Iminye
+      Broni the Little
+      Badijh the Berserker
+      Aretuza the Elf
+
+6 allies on.
+
+![ CW>
+Beorn grunts in frustration.
+
+![ CW>
+Broni (mo) says '1,  0%,  the warg chief   '
+
+![ CW>
+Beorn says 'At times, wargs and orcs gather together in the mountainside'
+
+![ CW>
+Beorn says 'forests to make sinister plans under the moonlight. And then they'
+
+![ CW>sa ok. i will talk rogon tomorrow
+Ok.
+
+![ CW>
+Beorn says 'march down into the lower lands, wreaking havoc among our smaller'
+
+![ CW>
+A grey dog has arrived from the west.
+
+![ CW>
+Broni (mo) thanks everyone for their hard work!
+
+![ CW>
+Beorn says 'settlements on the other side of the river.'
+
+![ CW>timedk
+........ DK unlocks in 4m42s at 01:43 CEST.
+Beorn's voice lowers, rage showing clearly on his face.
+
+![ CW>st
+stat
+OB: 55%, DB: 55%, PB: 55%, Armour: 82%. Wimpy: 100. Mood: wimpy.
+Needed: 583,414 xp, 0 tp. Lauren: 84. Alert: normal.
+Affected by:
+- novoid
+- strength (💪 29m25s  )
+- armour   (🧥 5m47s  )
+- shield   (⛉ 5m45s  )
+- growth
+- vigour
+
+![ CW>
+Beorn says 'But those foul creatures take good care not to come close to my'
+
+![ CW>west
+Path through Some Outbuildings
+Exits: -north-, (east), -south-, -west-.
+
+*. CW>east
+A Wooden Granary
+A sticky honeycomb lies on the ground.
+A heavy chest of oak, banded with iron, stands here.
+A water barrel has been left here.
+Some curdled goats milk sits inside a cheese mould.
+A sack of flour has been placed here.
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+A large, long-bodied grey dog moves around swiftly.
+Exits: (west).
+
+![ CW>
+Beorn says 'lands. And despite my efforts, I've never been able to give them'
+
+![ CW>west
+Path through Some Outbuildings
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: -north-, (east), -south-, -west-.
+
+*. CW>north
+A Track through the Gardens
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: north, -south-, -west-.
+
+*. CW>north
+The Giant Beehives
+There is a huge, pyramidal beehive here.
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+A large, long-bodied grey dog moves around swiftly.
+Exits: south, west.
+
+*. CW>south
+A Track through the Gardens
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: north, -south-, -west-.
+
+*. CW>rev head
+You begin to search...
+
+south
+rev head
+You didn't find a head hidden here.
+
+*. CW>
+Path through Some Outbuildings
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: -north-, (east), -south-, -west-.
+
+*. CW>
+You begin to search...
+
+You didn't find a head hidden here.
+
+*. CW>east
+A Wooden Granary
+A sticky honeycomb lies on the ground.
+A heavy chest of oak, banded with iron, stands here.
+A water barrel has been left here.
+Some curdled goats milk sits inside a cheese mould.
+A sack of flour has been placed here.
+A bearded man towers above you, the noble look of the First Edain in his face
+(glowing).
+A large, long-bodied grey dog moves around swiftly.
+Exits: (west).
+
+![ CW>who
+Players
+-------
+      Ayl the Elven Adventurer
+      Iminye
+      Broni the Little
+      Badijh the Berserker
+      Aretuza the Elf
+
+5 allies on.
+
+![ CW>
+Broni (mo) says 'ingrove'
+
+![ CW>
+Broni (mo) says 'ingrove'
+
+![ CW>tilt
+You tilt your head.
+
+![ CW>sa ok,
+Ok.
+
+![ CW>west
+Broni (mo) says 'letter'
+Path through Some Outbuildings
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+Exits: -north-, (east), -south-, -west-.
+
+*. CW>ride pa
+A pack horse (pa) stops following you.
+You pick up a pack horse (pa)'s reins and start riding him.
+
+*. CRW>look
+Path through Some Outbuildings
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+Broni the Dwarf (mo) is standing here.
+A strong and agile dales-pony is standing here.
+Exits/emulated: -north-, -south-, {east}, -west-.
+
+*. CRW>
+Broni (mo) shrugs indifferently.
+
+*. CRW>
+A dales-pony stops following Broni (mo).
+Broni (mo) picks up a dales-pony's reins and starts riding him.
+
+*. CRW>north
+A Track through the Gardens
+Exits: north, -south-, -west-.
+
+*. CRW>sa not ok
+Ok.
+
+*. CRW>
+Broni (mo) says 'no dice!'
+
+*. CRW>sa in fact
+Ok.
+
+*. CRW>look
+west
+A Track through the Gardens
+Broni the Dwarf (mo) is here, riding a dales-pony.
+Exits/emulated: north, -south-, -west-.
+
+*. CRW>
+Inside the Farmstead
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+A well-groomed horse examines you with intelligent-looking eyes.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: north, -east-, -south-, [west].
+
+*. CRW>
+A sleek horse leaves vvvv S O U T H vvvv
+
+*. CRW>
+A grey dog has arrived from the south.
+
+Broni (mo) dismounts from a dales-pony, and stops riding him.
+A dales-pony now follows Broni (mo).
+
+*. CRW>st
+stat
+OB: 55%, DB: 55%, PB: 55%, Armour: 82%. Wimpy: 100. Mood: wimpy.
+Needed: 583,414 xp, 0 tp. Lauren: 84. Alert: normal.
+Affected by:
+- novoid
+- strength (💪 30m15s  )
+- armour   (🧥 6m37s  )
+- shield   (⛉ 6m35s  )
+- growth
+- vigour
+
+*. CRW>
+A sleek horse has arrived from the south.
+
+*. CRW>
+A grey dog leaves vvvv S O U T H vvvv
+
+*. CRW>na the management
+Ok.
+
+*. CRW>shr
+cast n 'shr'
+You start to concentrate...
+
+You are surrounded by a misty shroud.
+
+*. CRW Mana:Burning>shr mo
+cast n 'shr' mo
+You start to concentrate...
+
+Ok.
+Broni (mo) blurs softly as a misty shroud surrounds him.
+
+*. CRW Mana:Burning>op
+call;say open
+You call out.
+
+*. CRW Mana:Burning>
+Ok.
+A white pony leaves ^^^^ N O R T H ^^^^
+
+*. CRW Mana:Burning>west
+The woodengate seems to be closed.
+
+*. CRW Mana:Burning>south
+In Front of a Barn
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: -north-, -east-, -south-, west.
+
+*. CRW Mana:Burning>south
+The Garden Path
+A large, long-bodied grey dog moves around swiftly.
+Exits: -north-, -east-.
+
+*. CRW Mana:Burning>north
+north
+In Front of a Barn
+A beautiful white pony with a long mane fixes you with a knowing gaze.
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+Exits: -north-, -east-, -south-, west.
+
+*. CRW Mana:Burning>
+Inside the Farmstead
+A thumb-long bee buzzes loudly as it flutters among the flowers.
+A well-groomed horse examines you with intelligent-looking eyes.
+Exits: north, -east-, -south-, [west].
+
+*. CRW Mana:Burning>
+A shining bee leaves vvvv S O U T H vvvv
+
+*. CRW Mana:Burning>
+A dales-pony stops following Broni (mo).
+Broni (mo) picks up a dales-pony's reins and starts riding him.
+
+*. CRW Mana:Burning>ow
+open exit west
+Ok.
+A shining bee has arrived from the north.
+
+*. CRW Mana:Burning>
+A sleek horse leaves vvvv S O U T H vvvv
+
+*. CRW Mana:Burning>west
+A Belt of Tall and Very Ancient Oaks
+Exits: north, -(east)-, south, -west-.
+
+*f CRW Mana:Burning>west
+A Path among the Flower-covered Hillocks
+A woodpecker is here, tapping on a tree.
+Exits: -north-, -east-, south, west.
+
+*. CRW Mana:Burning>south
+The Bear Rock
+Exits: north, east, south, west.
+
+*( CRW Mana:Burning>look
+The Bear Rock
+Broni the Dwarf (mo) is here, riding a dales-pony (shrouded).
+Exits/emulated: north, south, east, west.
+
+*( CRW Mana:Burning>south
+With effort, your mount climbs up the steep hillside.
+
+A Particularly Steep Hill
+Exits: north, east, south.
+
+*( CRW>south
+A gradual, yet difficult descent leads to a small rise.
+
+Gradual Northern Rise
+Exits: north, east, south, west.
+
+*. CRW>south
+Brush Thicket
+Exits: north, east, south, west.
+
+*. CRW>south
+Soft Incline
+A small grasshopper clings to a blade of grass, ready to spring.
+Exits: north, east, south, west.
+
+*. CRW>west
+Grassy Knoll
+A cockroach is scuttling across the floor carrying some debris.
+A large rabbit looks peacefully at you, ready to dart away.
+A small grasshopper clings to a blade of grass, ready to spring.
+Exits: north, east, south, west.
+
+*. CRW>west
+Grasslands
+Exits: north, east, south, west.
+
+*. CRW>west
+Grassy Plains
+A cute rabbit is here.
+Exits: north, east, south, west.
+
+*. CRW>south
+Level Plains
+A colourful butterfly is fluttering around here.
+A colourful butterfly is fluttering around here.
+Exits: north, east, south, west.
+
+*. CRW>south
+Slight Depression in the Plains
+A fat rabbit is here, chewing on some grass.
+A brown fox is here, looking for some rabbits to chew up.
+Exits: north, east, south, west.
+
+*. CRW>south
+Grassy Plains
+Exits: north, \east/, south, west.
+
+*. CRW>south
+Large Basin
+An angry bee is here, collecting nectar from all the flowers of the garden.
+Exits: north, \east/, south, west.
+
+*. CRW>south
+Lush Grass
+Exits: north, east, south, west.
+
+*. CRW>south
+Old Forest Road
+Exits: north, -east-, south, -west-.
+
+*. CRW>south
+Wild Weeds
+Exits: north, east, south, west.
+
+*. CRW>look
+Wild Weeds
+Broni the Dwarf (mo) is here, riding a dales-pony (shrouded).
+Exits/emulated: north, *south*, east, west.
+
+*. CRW>west
+A Small Hill by the Bend
+Exits: north, east, south, west.
+
+*. CRW>west
+Bend in the Old Forest Road
+Exits: =north=, east, south, =west=.
+
+*+ CRW>west
+Old Forest Road
+Exits: north, =east=, south, =west=.
+
+*+ CRW>west
+Old Forest Road
+Exits: north, =east=, south, =west=.
+
+*+ CRW>west
+Bend in the Old Forest Road
+Exits: =north=, =east=, south, ~west~.
+
+*+ CRW>north
+Bend in the Old Forest Road
+The corpse of a bearded man is lying here.
+The corpse of a bearded man is lying here.
+Exits: north, east, =south=, west.
+
+*+ CRW>west
+Old Ford
+Exits: ~north~, east, ~south~, west.
+
+*% CRW>west
+West of the Old Ford
+Exits: north, east, ~south~, =west=.
+The ground is frozen solid.
+
+*+ CRW>west
+Old Forest Road
+The corpse of a rabid, grey wolf is lying here.
+Exits: =north=, =east=, south, west.
+
+*+ CRW>north
+Road South of a Quarry
+Exits: north, east, =south=, =west=.
+
+*+ CRW>west
+Bend in the Old Forest Road
+Exits: =north=, =east=, south, west.
+
+*+ CRW>north
+Bend around a Quarry
+Exits: north, =south=, -west-, \down/.
+
+*+ CRW>sa rd?
+Ok.
+
+*+ CRW>st
+stat
+OB: 54%, DB: 65%, PB: 54%, Armour: 82%. Wimpy: 100. Mood: wimpy.
+Needed: 583,414 xp, 0 tp. Lauren: 84. Alert: normal.
+Affected by:
+- shroud   (32s)
+- novoid
+- strength (💪 31m  )
+- armour   (🧥 7m22s  )
+- shield   (⛉ 7m20s  )
+- growth
+- vigour
+
+*+ CRW>
+Broni (mo) nods solemnly.
+
+*+ CRW>west
+The Old Forest Road
+Exits: north, -east-, south, -west-.
+
+*. CRW>west
+north
+Bend in the Old Forest Road
+Exits: -north-, -east-, south, west.
+
+*. CRW>west
+Bend in the Old Forest Road
+Exits: north, east, -south-, -west-.
+
+*. CRW>west
+Old Forest Road
+Exits: north, -east-, south, -west-.
+
+*. CRW>west
+Old Forest Road
+The corpse of a boar is lying here.
+Exits: north, -east-, south, -west-.
+
+*. CRW>west
+Broni (mo) says 'was bout to head that way'
+
+west
+Old Forest Road
+Exits: north, -east-, south, -west-.
+
+*. CRW>gr
+Old Forest Road
+Exits: north, -east-, south, -west-.
+
+*. CRW>
+Fork in the Road
+The corpse of a brown fox is lying here.
+Exits: -north-, -east-, -south-, west.
+
+*. CRW>
+Your group consists of:
+     Iminye (head of group)
+     a dales-pony
+     Broni (mo)
+     a pack horse (pa)
+
+*. CRW>west
+Grass beside the Road
+A wild bull seems ready to charge you.
+Exits: north, east, south, west.
+
+*. CRW>west
+Stony Soil
+Exits: north, east, south, west.
+
+*. CRW>east
+north
+Grass beside the Road
+A wild bull seems ready to charge you.
+Exits: north, east, south, west.
+
+*. CRW>north
+Broni (mo) gives everyone a big thumbs up.
+Bend in the Old Forest Road
+The corpse of a black snake is lying here.
+Exits: -north-, -east-, south, west.
+
+*. CRW>north
+Bend in the Old Forest Road
+A swallow flies high above the ground.
+Exits: north, -south-, -west-, down.
+
+*. CRW>north
+Cramped Grove
+Exits: north, east, south, west.
+
+*. CRW>north
+Brushwood
+A wild bull seems ready to charge you.
+Exits: north, east, south, west.
+
+*. CRW>north
+Brushwood
+Exits: north, east, south, west.
+
+*. CRW>north
+Brushy Plains
+Exits: north, east, south, west.
+
+*. CRW>north
+Tangled Plain
+Exits: north, east, south, west.
+
+*. CRW>west
+Vanishing Path
+Exits: -north-, ~east~, south, west.
+
+*. CRW>west
+Withering Field
+Exits: ~north~, east, south, west.
+
+*. CRW>
+Light Forest
+A forest spider is here crawling around.
+Exits: north, east, south, west.
+
+*f CRW>sa well we can do anytime 
+Ok.
+
+*f CRW>
+Broni tells the group 'cant log w/o my mottled hoard'
+
+*f CRW>west
+Bleeding Forest
+A very large tree branch has been ripped from a tree.
+Exits: north, east, south, west.
+
+!f CRW>west
+Road to the Old Ford
+A rabbit is here eyeing your presence warily.
+Exits: north, east, =west=.
+
+*+ CRW>west
+Old Dwarven Road
+Exits: =north=, =east=, west, ~down~.
+
+*+ CRW>north
+Old Dwarven Road
+Exits: north, east, =south=, =west=.
+
+*+ CRW>west
+north
+Old Dwarven Road
+A hungry warg stands here, sniffing around for flesh.
+A rabbit is here eyeing your presence warily.
+Exits: =north=, =east=, south, west.
+
+*+ CRW>west
+Old Dwarven Road
+A rabbit is here eyeing your presence warily.
+Exits: north, east, =south=, =west=.
+
+*+ CRW>
+Bend in the Old Dwarven Road
+Exits: =north=, =east=, south, west.
+
+*+ CRW>
+Broni (mo) gives everyone a big thumbs up.
+
+*+ CRW>north
+Old Dwarven Road
+A very strong orkish leader is here on patrol.
+An experienced orkish scout is looking for tracks on the ground.
+An orc soldier is standing here.
+An orc soldier is standing here.
+An orc soldier is standing here.
+An orc soldier is standing here.
+Exits: =north=, east, =south=, west.
+An orkish scout yells 'I Tsarf amp aw Irz elo helu oz dmi Old Dsalves Load!'
+
+*+ CRW>west
+Slope above a Stream
+Exits: ~/north\~, east, south, west.
+
+*. CRW>west
+Rocky Plains
+A tall stag is here, grazing peacefully.
+Exits: ~north~, east, south, -west-, down.
+
+*. CRW>west
+Rough Path
+Exits: north, -east-, south, -west-.
+
+*( CRW>west
+Rough Path
+Exits: -north-, -east-.
+
+*( CRW>north
+Small Dell
+Exits: -north-, east, -south-.
+
+*. CRW>north
+Road through the Lower Pass
+Exits: =east=, -south-, =west=.
+
+*+ CRW>west
+Road through the Lower Pass
+Exits: =east=, =west=. - n:mountainside.
+
+*+ CRW>west
+Road through the Lower Pass
+Exits: =east=, =up=.
+
+*+ CRW>up
+Sharp Bend
+An experienced orkish scout is looking for tracks on the ground.
+A black wolf pads restlessly, looking for its next prey.
+Exits: =east=, =down=.
+An orkish scout yells 'A Dwarm amd un Elf ara holo og bne Snelg Devg!'
+
+*+ CRW>east
+Sharp Bend
+A black wolf pads restlessly, looking for its next prey.
+Exits: =west=, =up=.
+
+*+ CRW>up
+Trail through the Mountains
+Exits: =west=, =down=.
+
+*+ CRW>west
+Small Crossing
+A black wolf pads restlessly, looking for its next prey.
+Exits: -north-, =east=, -west-.
+
+*+ CRW>west
+Trail through the Mountains
+Exits: -east-, -west-.
+
+*< CRW>west
+Trail through the Mountains
+Exits: -east-, -west-.
+
+*< CRW>west
+Bend in the Trail
+A statue of a troll is posed in a moment of flight yet forever frozen in stone.
+Exits: -north-, -east-, -south-.
+
+*< CRW>west
+Alas, you cannot go that way...
+
+*< CRW>north
+Bend in the Trail
+Exits: -south-, -west-.
+
+*< CRW>west
+Trail through the Mountains
+Exits: -east-, -west-.
+
+*< CRW>west
+Crossing of the Paths
+Exits: north, -east-, south, -west-.
