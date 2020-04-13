@@ -1,0 +1,3869 @@
+Enclosure of Black Trees
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+Exits/emulated: {east}, up. - e:corpsepile.
+
+!f CW Mana:Burning Move:Weak>
+Caureondil (mo) closes the bones.
+
+!f CW Mana:Burning Move:Weak>
+Caureondil (mo) says 'block exit w'
+
+!f CW Mana:Burning Move:Slow>sa weak
+Ok.
+
+!f CW Mana:Burning Move:Slow>bw
+cast n 'block d' exit w
+You start to concentrate...
+
+Caureondil (mo) starts gathering wood for a campfire.
+
+The exit west seems to blur for a while.
+
+!f CW Mana:Burning Move:Slow>
+Caureondil (mo) finishes gathering the wood into a pile and sets it on
+fire.
+A warm fire lights the place.
+
+!f CW Mana:Burning Move:Slow>
+Caureondil (mo) says 'aba'
+
+!f CW Mana:Burning Move:Slow>
+A pack horse stops following Caureondil (mo).
+
+!f CW Mana:Burning Move:Slow>aba
+A mountain mule (pa) stops following you.
+
+!f CW Mana:Burning Move:Slow>
+Caureondil (mo) says 'get full mana'
+
+!f CW Mana:Burning Move:Slow>
+Caureondil (mo) sits down and rests.
+
+!f CW Mana:Burning Move:Slow>sc
+200/200 hits, 112/133 mana, and 19/104 moves.
+
+!f CW Mana:Burning Move:Slow>bob
+cast n 'breath of b'
+You start to concentrate...
+
+An energy begins to flow within your legs as your body becomes
+lighter.
+
+!f CW Mana:Hot Move:Tired>stand;lead pa;look;sleep bed
+You are already standing.
+
+!f CW Mana:Hot Move:Tired>
+A mountain mule (pa) starts following you.
+
+!f CW Mana:Hot Move:Tired>
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+Caureondil (mo) is resting here.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!f CW Mana:Hot Move:Tired>
+You go to sleep.
+
+of CW Mana:Hot Move:Tired>sc
+200/200 hits, 94/133 mana, and 42/104 moves.
+
+of CW Mana:Hot Move:Tired>st
+stat
+The white aura around your body fades.
+     S A N C T U A R Y   D O W N
+
+The spell lasted 5m4s.
+OB: 56%, DB: -19%, PB: 47%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 341,945 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- breath of briskness (3s)
+- noquit
+- sanctuary (5m4s)
+- strength (💪 22m22s  )
+- shield   (⛉ 1m57s  )
+- armour   (🧥 1m50s  )
+- vigour
+- growth
+
+of CW Mana:Hot Move:Tired>sc
+200/200 hits, 106/133 mana, and 56/104 moves.
+
+of CW Mana:Burning>st
+stat
+OB: 56%, DB: -19%, PB: 47%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 341,945 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- breath of briskness (19s)
+- noquit
+- strength (💪 22m38s  )
+- shield   (⛉ 2m13s  )
+- armour   (🧥 2m6s  )
+- vigour
+- growth
+
+of CW Mana:Burning>,- sanct isold
+Ok.
+
+of CW Mana:Burning>sc
+200/200 hits, 114/133 mana, and 66/104 moves.
+
+of CW Mana:Burning>sc
+200/200 hits, 133/133 mana, and 98/104 moves.
+
+of CW>wake;look;stand;ride pa
+You wake, and sit up.
+
+!f CW>
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+Caureondil (mo) is resting here.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!f CW>
+You stand up.
+
+!f CW>
+It's too difficult to ride here.
+
+!f CW>
+Caureondil (mo) says 'omg i forgot to quaff the philtre'
+
+!f CW>
+Caureondil (mo) says 'oh well'
+
+!f CW>
+Caureondil (mo) stops resting and clambers to his feet.
+
+!f CW>use staff
+You raise your staff and call upon the Valar.
+You begin to feel the light of Aman shine upon you.
+
+!f CW>
+Caureondil (mo) says 'aba mount'
+
+!f CW>aba
+A mountain mule (pa) stops following you.
+
+!f CW>
+Caureondil (mo) says 'blind grey and tarantula'
+
+!f CW>
+Caureondil (mo) stops using a forest green cloak.
+
+!f CW>
+Caureondil (mo) gets a fine grey cloak from a silvan satchel.
+
+!f CW>
+Caureondil (mo) wears a fine grey cloak about his body.
+
+!f CW>
+Caureondil (mo) puts a forest green cloak in a silvan satchel.
+
+!f CW>
+Caureondil (mo) takes a war horn off his belt.
+Caureondil (mo) takes a laced quiver off his belt.
+Caureondil (mo) takes a small pouch off his belt.
+Caureondil (mo) takes an enhanced herbal kit off his belt.
+Caureondil (mo) takes a red ruby off his belt.
+Caureondil (mo) stops using a belt of fell hide.
+
+!f CW>
+Caureondil (mo) gets a broad silver belt from a silvan satchel.
+
+!f CW>
+Caureondil (mo) wears a broad silver belt about his waist.
+
+!f CW>
+Caureondil (mo) puts a belt of fell hide in a silvan satchel.
+
+!f CW>
+Caureondil (mo) puts a red ruby on his belt.
+
+!f CW>
+Caureondil (mo) puts an enhanced herbal kit on his belt.
+Caureondil (mo) puts a small pouch on his belt.
+Caureondil (mo) puts a laced quiver on his belt.
+Caureondil (mo) puts a war horn on his belt.
+
+!f CW>
+Caureondil (mo) leaves ^^^^ N O R T H ^^^^
+The low tunnel forces you to stoop.
+
+Dark, Narrow Tunnel
+A half-decayed corpse of a goblin lies rotting on the ground.
+A newborn spider is here.
+A grey spider is stalking here, preparing to drain you of life.
+A huge, poisonous spider is here.
+A huge, poisonous tarantula extends her legs to you.
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!= CW>
+Caureondil (mo) pierces a newborn spider's body very hard and shatters
+it.
+You receive your share of experience.
+One more death... It seems to be a litany... 
+A newborn spider is dead! R.I.P.
+get all.coins corpse
+A grey spider strongly hits Caureondil (mo)'s right leg and tickles
+it.
+
+!= CW>
+Needed: 341937 xp, 0 tp.
+Total: 47908063 xp, 249566 tp.
+You gained 115 xp.You gained 375 tp.
+
+!= CW>bli grey;bli tarantula
+You can't find any coins in the corpse.
+
+!= CW>
+cast n 'bli' grey
+You start to concentrate...
+
+A huge, poisonous spider barely hits Caureondil (mo)'s right foot and
+tickles it.
+
+A grey spider hits Caureondil (mo)'s body hard and tickles it.
+
+Ok.
+A grey spider   ___ b l i n d 
+
+!= CW Mana:Burning>
+cast n 'bli' tarantula
+You start to concentrate...
+
+Caureondil (mo) pierces a huge, poisonous spider's body hard.
+
+Caureondil (mo) seems to avoid the fight.
+
+Ok.
+A huge tarantula   ___ b l i n d 
+
+!= CW Mana:Burning>
+Caureondil (mo) escaped the fight.
+
+!= CW Mana:Burning>
+Caureondil (mo) approaches a huge, poisonous spider, trying to pierce
+it.
+
+!= CW Mana:Burning>
+Caureondil (mo) strongly pierces a huge, poisonous spider's right
+forefoot.
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'do'
+
+!= CW Mana:Burning>
+Caureondil (mo) pierces a huge, poisonous spider's body hard.
+
+!= CW Mana:Burning>
+Caureondil (mo) pierces a huge, poisonous spider's left hindfoot hard.
+
+!= CW Mana:Burning>bli 2.tarantula
+cast n 'bli' 2.tarantula
+Nobody here by that name.
+
+!= CW Mana:Burning>a
+You assist Caureondil (mo).
+You pierce a huge, poisonous spider's body.
+
+!= CW Mana:Burning a huge, poisonous spider:Hurt Caureondil (mo):Fine>
+Caureondil (mo) pierces a huge, poisonous spider's left foreleg very
+hard and shatters it.
+
+(mo):Fine>look
+Caureondil (mo) pierces a huge, poisonous spider's right hindleg very
+hard and shatters it.
+
+!= CW Mana:Burning a huge, poisonous spider:Bad Caureondil (mo):Fine>
+Dark, Narrow Tunnel
+The corpse of a newborn spider is lying here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A grey spider is stalking here, preparing to drain you of life.
+A huge, poisonous spider is here, fighting Caureondil (mo).
+A huge, poisonous tarantula extends her legs to you.
+Caureondil (mo) is here, fighting a huge, poisonous spider.
+Exits/emulated: north, south.
+
+!= CW Mana:Burning a huge, poisonous spider:Bad Caureondil (mo):Fine>
+You pierce a huge, poisonous spider's left hindleg and shatter it.
+
+!= CW Mana:Burning a huge, poisonous spider:Bad Caureondil (mo):Fine>
+Caureondil (mo) pierces a huge, poisonous spider's body very hard and
+shatters it.
+
+!= CW Mana:Burning a huge, poisonous spider:Awful Caureondil
+(mo):Fine>
+Caureondil (mo) pierces a huge, poisonous spider's left hindleg very
+hard and shatters it.
+A huge, poisonous spider is mortally wounded and will die soon if not
+aided.
+
+!= CW Mana:Burning a huge, poisonous spider:Dying Caureondil
+(mo):Fine>
+You pierce a huge, poisonous spider's right hindleg extremely hard and
+shatter it.
+Your victim is shocked by your hit!
+You receive your share of experience.
+Well, you begin to know this creature's anatomy.
+You hear a huge, poisonous spider's death cry as it collapses.
+A huge, poisonous spider is dead! R.I.P.
+get all.coins corpse
+
+!= CW Mana:Burning>
+Needed: 341632 xp, 0 tp.
+Total: 47908368 xp, 249566 tp.
+You gained 305 xp.
+
+!= CW Mana:Burning>
+You can't find any coins in the corpse.
+
+!= CW Mana:Burning>
+Caureondil (mo) gets a black runed dagger from a silvan satchel.
+
+!= CW Mana:Burning>assist
+Who do you want to assist?
+Caureondil (mo) removes a nimble blade.
+Caureondil (mo) skilfully draws a black runed dagger.
+
+!= CW Mana:Burning>
+Caureondil (mo) tries to sneak behind a huge tarantula...
+
+!= CW Mana:Burning>
+Caureondil (mo) places a black runed dagger in the back of a huge
+tarantula, resulting in some strange noises and some blood.
+
+!= CW Mana:Burning>
+Caureondil (mo) gets a sharp thorn from a silvan satchel.
+
+!= CW Mana:Burning>
+Caureondil (mo) gets a long hollow stem from a silvan satchel.
+A huge tarantula bites Caureondil (mo)!
+
+!= CW Mana:Burning>g blade all
+You get a nimble blade from a leather backpack.
+Caureondil (mo) gets an ornate, steel-shafted warhammer from a silvan
+satchel.
+
+!= CW Mana:Burning>
+Caureondil (mo) removes a black runed dagger.
+Caureondil (mo) skilfully draws a nimble blade.
+
+!= CW Mana:Burning>
+Caureondil (mo) strongly pierces a huge tarantula's right foreleg and
+shatters it.
+
+!= CW Mana:Burning>wi blade
+You stop using a black runed dagger.
+You awkwardly wield a nimble blade, ready to protect the weak.
+Caureondil (mo) pierces a huge tarantula's right hindfoot hard and
+shatters it.
+A huge tarantula is incapacitated and will slowly die, if not aided.
+
+!= CW Mana:Burning>
+Caureondil (mo) pierces a huge tarantula's left hindfoot extremely
+hard and shatters it.
+You receive your share of experience.
+It's really not interesting anymore! 
+You hear a huge tarantula's death cry as she collapses.
+A huge tarantula is dead! R.I.P.
+get all.coins corpse
+
+!= CW Mana:Burning>a
+Needed: 340858 xp, 0 tp.
+Total: 47909142 xp, 249566 tp.
+You gained 774 xp.
+
+!= CW Mana:Burning>
+You can't find any coins in the corpse.
+
+!= CW Mana:Burning>
+Who do you want to assist?
+Caureondil (mo) says 'rest'
+
+!= CW Mana:Burning>
+Caureondil (mo) removes a nimble blade.
+Caureondil (mo) skilfully draws a black runed dagger.
+
+!= CW Mana:Burning>
+Caureondil (mo) tries to sneak behind a grey spider...
+
+!= CW Mana:Burning>i
+You are carrying:
+a black runed dagger (flawless)
+
+!= CW Mana:Burning>rest
+You sit down and rest your tired bones.
+
+!= CW Mana:Burning>wi dagger
+You stop using a nimble blade.
+You awkwardly wield a black runed dagger, ready to protect the weak.
+
+!= CW Mana:Burning>p all pack
+You put a nimble blade in a leather backpack.
+
+!= CW Mana:Burning>
+Caureondil (mo) places a black runed dagger in the back of a grey
+spider, resulting in some strange noises and some blood.
+
+!= CW Mana:Burning>eq
+Caureondil (mo) seems to avoid the fight.
+You are using:
+<wielded>            a black runed dagger (flawless)
+<used as shield>     a bejewelled oak staff; it has a soft glowing
+aura
+<worn on head>       a mithril circlet
+<worn on body>       a fine chain mail hauberk (flawless)
+<worn about body>    a forest green cloak (flawless)
+<worn on arms>       a fine pair of chain mail sleeves (flawless)
+<worn on hands>      a fine pair of chain mail gloves (flawless)
+<worn on legs>       a shining pair of chain mail leggings (flawless)
+<worn on feet>       a soft pair of padded boots (flawless)
+<worn around neck>   a pale blue stone
+<worn around neck>   a necklace
+<worn on wrist>      a keyring with a key and a set of lock picks
+<worn on finger>     a golden ruby ring
+<worn on back>       a leather backpack
+<worn across back>   an embellished longbow
+<worn as belt>       a broad silver belt
+<worn on belt>       a butcher knife (flawless)
+<worn on belt>       a laced quiver
+<worn on belt>       a herbal kit
+
+!= CW Mana:Burning>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!= CW Mana:Burning>look
+Dark, Narrow Tunnel
+The corpse of a huge tarantula is lying here.
+The corpse of a huge, poisonous spider is lying here.
+The corpse of a newborn spider is lying here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+A grey spider is stalking here, preparing to drain you of life.
+Exits/emulated: north, south.
+
+!= CW Mana:Burning>
+Caureondil (mo) tries to pierce a grey spider, but it parries
+successfully.
+
+!= CW>
+Caureondil (mo) seems to avoid the fight.
+
+!= CW>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!= CW>x grey
+examine grey
+This giant spider appears to be a rarity among its kin. Fairly pulsing
+with 
+malice and hate, this distant spawn of Ungoliant seeks to consume as
+many 
+victims as possible. The venom of its fangs is evidence enough that
+this is a
+menace not to be trifled with.
+A grey spider has several bruises.
+A grey spider seems to have:
+       A clean deep wound at the right forefoot.
+A grey spider swiftly dodges Caureondil (mo)'s attempt to pierce it.
+
+!= CW>
+Caureondil (mo) seems to avoid the fight.
+
+!= CW>
+A grey spider bleeds from open wounds.
+
+!= CW>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!= CW>
+A grey spider swiftly dodges Caureondil (mo)'s attempt to pierce it.
+
+!= CW>
+Caureondil (mo) seems to avoid the fight.
+
+!= CW>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!= CW>
+A grey spider swiftly dodges Caureondil (mo)'s attempt to pierce it.
+
+!= CW>
+Caureondil (mo) seems to avoid the fight.
+
+!= CW>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!= CW>
+Caureondil (mo) has arrived from the south.
+
+!= CW>
+Caureondil (mo) tries to sneak behind a grey spider...
+
+!= CW>
+Caureondil (mo) tries to pierce a grey spider, but it parries
+successfully.
+
+!= CW>
+Caureondil (mo) seems to avoid the fight.
+
+!= CW>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!= CW>
+Caureondil (mo) has arrived from the south.
+
+!= CW>
+Caureondil (mo) tries to sneak behind a grey spider...
+
+!= CW>
+Caureondil (mo) tries to pierce a grey spider, but it parries
+successfully.
+
+!= CW>
+Caureondil (mo) seems to avoid the fight.
+
+!= CW>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!= CW>
+Caureondil (mo) leaves his hiding place.
+Caureondil (mo) places a black runed dagger in the back of a grey
+spider, resulting in some strange noises and some blood.
+
+!= CW>
+Caureondil (mo) seems to avoid the fight.
+
+!= CW>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!= CW>
+Caureondil (mo) has arrived from the south.
+
+!= CW>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!= CW>x grey
+examine grey
+This giant spider appears to be a rarity among its kin. Fairly pulsing
+with 
+malice and hate, this distant spawn of Ungoliant seeks to consume as
+many 
+victims as possible. The venom of its fangs is evidence enough that
+this is a
+menace not to be trifled with.
+A grey spider is in very bad shape.
+A grey spider seems to have:
+       A clean critical wound at the right forefoot.
+
+!= CW>
+Caureondil (mo) shoots a grey spider's right hindleg extremely hard
+and shatters it.
+
+!= CW>sta
+You stop resting and stand up.
+Caureondil (mo) seems to avoid the fight.
+
+!= CW>a
+You assist Caureondil (mo).
+
+!= CW a grey spider:Awful Caureondil (mo):Fine>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!= CW a grey spider:Awful>
+Caureondil (mo) has arrived from the south.
+
+!= CW a grey spider:Awful>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!= CW a grey spider:Awful>
+A grey spider stings you and injects its fiery poison in your veins!
+
+!= CW HP:Fine a grey spider:Awful>
+Caureondil (mo) shoots a grey spider's body hard and shatters it.
+A grey spider is incapacitated and will slowly die, if not aided.
+
+!= CW HP:Fine a grey spider:Dying>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!= CW HP:Fine a grey spider:Dying>
+Caureondil (mo) joins your fight.
+Caureondil (mo) hits a grey spider's right forefoot extremely hard and
+shatters it.
+You receive your share of experience.
+Good job!
+You hear a grey spider's death cry as it collapses.
+A grey spider is dead! R.I.P.
+get all.coins corpse
+
+!= CW HP:Fine>
+Needed: 334222 xp, 0 tp.
+Total: 47915778 xp, 249566 tp.
+You gained 6636 xp.
+
+!= CW HP:Fine>
+You can't find any coins in the corpse.
+
+!= CW HP:Fine>
+Caureondil (mo) gets a silver-tipped arrow from the corpse of a grey
+spider.
+Caureondil (mo) gets a silver-tipped arrow from the corpse of a grey
+spider.
+
+!= CW HP:Fine>
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+
+!= CW HP:Fine>
+Caureondil (mo) hangs an elven longbow across his back.
+Caureondil (mo) skilfully draws a nimble blade.
+
+!= CW HP:Fine>st
+stat
+OB: 59%, DB: 56%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 334,222 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- noquit
+- bless    (☼ 1m56s  )
+- breath of briskness (2m59s)
+- strength (💪 25m18s  )
+- shield   (⛉ 4m53s  )
+- armour   (🧥 4m46s  )
+- vigour
+- growth
+
+!= CW HP:Fine>sc
+194/200 hits, 133/133 mana, and 104/104 moves.
+
+!= CW HP:Fine>ex
+  North   - You can't distinguish a lot of details.
+  South   - Enclosure of Black Trees
+
+!= CW HP:Fine>
+Caureondil (mo) says 'ok if 1 green melee it'
+
+!= CW HP:Fine>
+Caureondil (mo) says 'if 1 green + another spider nuke green'
+
+!= CW HP:Fine>
+Caureondil (mo) says 'until it dies'
+
+!= CW HP:Fine>
+Caureondil (mo) says 'ok?'
+
+!= CW HP:Fine>ta green
+sa ok
+Ok.
+
+!= CW HP:Fine>
+Caureondil (mo) leaves ^^^^ N O R T H ^^^^
+You proceed through the low, twisting tunnel.
+
+A Webbed Spider Lair
+A huge, poisonous tarantula extends her legs to you.
+Exits/emulated: north, south.
+
+!O CW HP:Fine>
+Caureondil (mo) swiftly dodges a huge tarantula's attempt to hit him.
+
+!O CW HP:Fine>a
+You assist Caureondil (mo).
+
+!O CW HP:Fine a huge tarantula:Healthy Caureondil (mo):Fine>
+A huge tarantula barely hits Caureondil (mo)'s left arm and tickles
+it.
+
+!O CW HP:Fine a huge tarantula:Healthy Caureondil (mo):Fine>
+Caureondil (mo) B A S H E S ____a huge tarantula
+Caureondil (mo) pierces a huge tarantula's right hindleg hard.
+
+!O CW HP:Fine a huge tarantula:Fine Caureondil (mo):Fine>
+Caureondil (mo) says 'melee'
+
+!O CW HP:Fine a huge tarantula:Fine Caureondil (mo):Fine>
+Caureondil (mo) removes a nimble blade.
+Caureondil (mo) swiftly draws an elven longbow from across his back.
+
+!O CW HP:Fine a huge tarantula:Fine Caureondil (mo):Fine>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!O CW HP:Fine a huge tarantula:Fine Caureondil (mo):Fine>
+You pierce a huge tarantula's right hindfoot and tickle it.
+
+!O CW HP:Fine a huge tarantula:Fine Caureondil (mo):Fine>
+Caureondil (mo) shoots a huge tarantula's left hindfoot extremely
+hard.
+
+!O CW HP:Fine a huge tarantula:Fine Caureondil (mo):Fine>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!O CW HP:Fine a huge tarantula:Fine Caureondil (mo):Fine>
+A huge, hideous spider has arrived from the west.
+
+!O CW HP:Fine a huge tarantula:Fine Caureondil (mo):Fine>look
+A Webbed Spider Lair
+A huge tarantula is here, fighting Caureondil (mo).
+Caureondil (mo), aiming an elven longbow, is here, fighting a huge
+tarantula.
+A huge, horrific spider is prowling here.
+Caureondil (mo) shoots a huge tarantula's right hindleg extremely hard
+and shatters it.
+Exits/emulated: south, west.
+
+!O CW HP:Fine a huge tarantula:Hurt Caureondil (mo):Fine>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!O CW HP:Fine a huge tarantula:Hurt Caureondil (mo):Fine>
+Your legs feel heavier.
+The spell lasted 3m27s.
+
+!O CW HP:Fine a huge tarantula:Hurt Caureondil (mo):Fine>
+A huge, hideous spider tries to hit Caureondil (mo), but he parries
+successfully.
+
+!O CW HP:Fine a huge tarantula:Hurt Caureondil (mo):Fine>
+Caureondil (mo) shoots a huge tarantula's right hindleg extremely hard
+and shatters it.
+
+!O CW HP:Fine a huge tarantula:Wounded Caureondil (mo):Fine>
+Caureondil (mo) says 'switch to green if it comes'
+A huge tarantula   ___ u n b a s h e d
+Caureondil (mo) barely hits a huge tarantula's right forefoot and
+tickles it.
+
+!O CW HP:Fine a huge tarantula:Wounded Caureondil (mo):Fine>
+Caureondil (mo) hangs an elven longbow across his back.
+Caureondil (mo) skilfully draws a nimble blade.
+
+!O CW HP:Fine a huge tarantula:Wounded Caureondil (mo):Fine>
+A huge, hideous spider barely hits Caureondil (mo)'s head and tickles
+it.
+
+!O CW HP:Fine a huge tarantula:Wounded Caureondil (mo):Fine>x green
+examine green
+Leafy green hues swathe into light brown tones to make the fabric of
+this light
+cloak blend in to the surroundings of any forest. Although the cloth
+does not
+feel thick to the touch, it looks to provide an earthly warmth that
+reaches the
+tips of your toes.
+
+!O CW HP:Fine a huge tarantula:Wounded Caureondil (mo):Fine>
+A huge tarantula barely hits Caureondil (mo)'s left leg and tickles
+it.
+
+!O CW HP:Fine a huge tarantula:Wounded Caureondil (mo):Fine>
+A huge, hideous spider lightly hits Caureondil (mo)'s left leg and
+tickles it.
+
+!O CW HP:Fine a huge tarantula:Wounded Caureondil (mo):Fine>
+Caureondil (mo) B A S H E S ____a huge tarantula
+You pierce a huge tarantula's body.
+
+!O CW HP:Fine a huge tarantula:Wounded Caureondil (mo):Fine>esc
+You seek to escape...
+Caureondil (mo) says 'we're fine'
+Nobody was fighting you.
+
+!O CW HP:Fine>assist
+You assist Caureondil (mo).
+You pierce a huge tarantula's head hard and shatter it.
+Your victim is shocked by your hit!
+A huge, hideous spider barely hits Caureondil (mo)'s left leg and
+tickles it.
+
+!O CW HP:Fine a huge tarantula:Wounded Caureondil (mo):Fine>
+Caureondil (mo) pierces a huge tarantula's right forefoot hard and
+shatters it.
+
+!O CW HP:Fine a huge tarantula:Bad Caureondil (mo):Fine>
+Caureondil (mo) pierces a huge tarantula's left foreleg hard and
+shatters it.
+
+!O CW HP:Fine a huge tarantula:Bad Caureondil (mo):Fine>
+A horrible, dark-green spider has arrived from the west.
+Caureondil (mo) swiftly dodges a horrible, dark-green spider's attempt
+to hit him.
+
+!O CW HP:Fine a huge tarantula:Bad Caureondil (mo):Fine>
+Caureondil (mo) pierces a huge tarantula's body hard and shatters it.
+
+!O CW HP:Fine a huge tarantula:Awful Caureondil (mo):Fine>
+You strongly pierce a huge tarantula's right forefoot and shatter it.
+
+!O CW HP:Fine a huge tarantula:Awful Caureondil (mo):Fine>
+Caureondil (mo) says 'do green if it comes'
+
+!O CW HP:Fine a huge tarantula:Awful Caureondil (mo):Fine>
+A huge, hideous spider barely hits Caureondil (mo)'s right leg and
+tickles it.
+
+!O CW HP:Fine a huge tarantula:Awful Caureondil (mo):Fine>
+A huge tarantula   ___ u n b a s h e d
+
+!O CW HP:Fine a huge tarantula:Awful Caureondil (mo):Fine>
+Caureondil (mo) says 'green'
+
+!O CW HP:Fine a huge tarantula:Awful Caureondil (mo):Fine>
+A huge tarantula bites Caureondil (mo)!
+Caureondil (mo)'s body turns numb as the poison speeds to his brain!
+Caureondil (mo) strongly pierces a huge tarantula's left foreleg and
+shatters it.
+A huge tarantula is incapacitated and will slowly die, if not aided.
+
+!O CW HP:Fine a huge tarantula:Dying Caureondil (mo):Fine>
+A huge, hideous spider barely hits Caureondil (mo)'s right foot and
+tickles it.
+
+!O CW HP:Fine a huge tarantula:Dying Caureondil (mo):Fine>
+A horrible, dark-green spider barely hits Caureondil (mo)'s left arm
+and tickles it.
+
+!O CW HP:Fine a huge tarantula:Dying Caureondil (mo):Fine>
+You pierce a huge tarantula's left hindfoot extremely hard and shatter
+it.
+You receive your share of experience.
+It's really not interesting anymore! 
+You hear a huge tarantula's death cry as she collapses.
+A huge tarantula is dead! R.I.P.
+get all.coins corpse
+
+!O CW HP:Fine>
+A horrible, dark-green spider quickly begins to weave a tight, sticky
+web around Caureondil (mo)'s body!
+Needed: 333105 xp, 0 tp.
+Total: 47916895 xp, 249566 tp.
+You gained 1117 xp.
+
+!O CW HP:Fine>x green
+examine green
+You can't find any coins in the corpse.
+
+!O CW HP:Fine>
+A monstrous, dark-green spider looks at you with small, evil eyes. It
+stands on
+eight hairy legs, each one at least ten inches thick. Its dark-green,
+leathery
+body is covered in slime and some litter of the forest, making it
+blend in to
+the dark trees. Small drops of poison are trickling from two nasty
+-looking
+fangs.
+A horrible, dark-green spider is in an excellent condition.
+
+!O CW HP:Fine>kill green
+You approach a horrible, dark-green spider, trying to pierce her.
+
+!O CW HP:Fine a horrible, dark-green spider:Healthy Caureondil
+(mo):Fine>
+Caureondil (mo) B A S H E S ____a horrible, dark-green spider
+
+!O CW HP:Fine a horrible, dark-green spider:Fine Caureondil (mo):Fine>
+You pierce a horrible, dark-green spider's body and tickle it.
+
+!O CW HP:Fine a horrible, dark-green spider:Fine Caureondil (mo):Fine>look
+A Webbed Spider Lair
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is here, fighting a horrible, dark-green spider.
+A huge, hideous spider is here, fighting Caureondil (mo).
+A horrible, dark-green spider is here, fighting Caureondil (mo).
+Caureondil (mo) removes a nimble blade.
+Caureondil (mo) swiftly draws an elven longbow from across his back.
+Exits/emulated: south, west.
+
+!O CW HP:Fine a horrible, dark-green spider:Fine Caureondil (mo):Fine>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!O CW HP:Fine a horrible, dark-green spider:Fine Caureondil (mo):Fine>
+Caureondil (mo) shoots a horrible, dark-green spider's right forefoot
+extremely hard.
+Caureondil (mo) barely hits a horrible, dark-green spider's right
+foreleg and tickles it.
+
+!O CW HP:Fine a horrible, dark-green spider:Fine Caureondil (mo):Fine>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!O CW HP:Fine a horrible, dark-green spider:Fine Caureondil (mo):Fine>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!O CW HP:Fine a horrible, dark-green spider:Fine Caureondil (mo):Fine>
+A huge, hideous spider barely hits Caureondil (mo)'s right arm and
+tickles it.
+
+!O CW HP:Fine a horrible, dark-green spider:Fine Caureondil (mo):Fine>bli
+Caureondil (mo) says 'nuke green'
+
+!O CW HP:Fine a horrible, dark-green spider:Fine Caureondil (mo):Fine>
+cast n 'bli'
+You start to concentrate...
+Caureondil (mo) says 'nuke green'
+
+Caureondil (mo) nocks a missile in an elven longbow.
+
+label LOH
+!O CW HP:Fine a horrible, dark-green spider:Fine Caureondil (mo):Fine>
+Ok.
+
+(mo):Fine>esc
+(mo):Fine>esc
+You seek to escape...
+Nobody was fighting you.
+
+!O CW HP:Fine>
+You are not fighting.
+A horrible, dark-green spider (LOH)   ___ u n b a s h e d
+
+!O CW HP:Fine>cast normal 'dispel e' green
+You start to concentrate...
+Caureondil (mo) shoots a horrible, dark-green spider (LOH)'s right
+hindleg extremely hard.
+
+Caureondil (mo) hangs an elven longbow across his back.
+Caureondil (mo) skilfully draws a nimble blade.
+
+cast normal 'dispel e' green
+cast normal 'dispel e' green
+Ok.
+As you call upon Elbereth, a horrible, dark-green spider (LOH) shivers
+in pain.
+A huge, hideous spider lightly hits Caureondil (mo)'s left leg and
+tickles it.
+
+!O CW HP:Fine Mana:Burning>
+You start to concentrate...
+
+cast normal 'dispel e' green
+A horrible, dark-green spider (LOH) barely hits Caureondil (mo)'s
+right hand and tickles it.
+
+Ok.
+As you call upon Elbereth, a horrible, dark-green spider (LOH) shivers
+in pain.
+
+!O CW HP:Fine Mana:Burning>
+You start to concentrate...
+
+Caureondil (mo) B A S H E S ____a horrible, dark-green spider (LOH)
+
+Ok.
+A horrible, dark-green spider (LOH) is dissolved by your goodness.
+You receive your share of experience.
+Congratulations! This is the first time you've killed it!
+A horrible, dark-green spider (LOH) is dead! R.I.P.
+get all.coins corpse
+
+!O CW HP:Fine Mana:Hot>
+Nobody here by that name.
+Caureondil (mo) removes the last web on him.
+
+!O CW HP:Fine Mana:Hot>
+Needed: 324708 xp, 0 tp.
+Total: 47925292 xp, 249566 tp.
+You gained 8397 xp.
+
+!O CW HP:Fine Mana:Hot>
+You can't find any coins in the corpse.
+Caureondil (mo) pierces a huge, hideous spider's right foreleg hard
+and tickles it.
+
+!O CW HP:Fine Mana:Hot>
+Caureondil (mo) says 'good'
+
+!O CW HP:Fine Mana:Hot>
+Caureondil (mo) pierces a huge, hideous spider's left hindfoot and
+tickles it.
+
+!O CW HP:Fine Mana:Hot>a
+You assist Caureondil (mo).
+A huge, hideous spider says 'Vilr, vile Mlf! Rnragonivkng
+dkatnrinknynwebrawaits yau!'
+
+!O CW HP:Fine Mana:Hot a huge, hideous spider:Fine Caureondil
+(mo):Fine>
+A huge, hideous spider barely hits Caureondil (mo)'s right hand and
+tickles it.
+
+!O CW HP:Fine Mana:Hot a huge, hideous spider:Fine Caureondil
+(mo):Fine>
+Caureondil (mo) B A S H E S ____a huge, hideous spider
+
+(mo):Fine>x green
+examine green
+Leafy green hues swathe into light brown tones to make the fabric of
+this light
+cloak blend in to the surroundings of any forest. Although the cloth
+does not
+feel thick to the touch, it looks to provide an earthly warmth that
+reaches the
+tips of your toes.
+
+!O CW HP:Fine Mana:Hot a huge, hideous spider:Fine Caureondil
+(mo):Fine>
+Caureondil (mo) strongly pierces a huge, hideous spider's body and
+tickles it.
+
+!O CW HP:Fine Mana:Hot a huge, hideous spider:Fine Caureondil
+(mo):Fine>
+Caureondil (mo) says 'be ready for another'
+
+!O CW HP:Fine Mana:Hot a huge, hideous spider:Fine Caureondil
+(mo):Fine>
+Caureondil (mo) pierces a huge, hideous spider's right forefoot hard.
+
+(mo):Fine>esc
+You seek to escape...
+Nobody was fighting you.
+
+!O CW HP:Fine Mana:Hot>
+A horrible, dark-green spider has arrived from the west.
+
+!O CW HP:Fine Mana:Hot>
+Caureondil (mo) pierces a huge, hideous spider's body and tickles it.
+
+!O CW HP:Fine Mana:Hot>cast normal 'dispel e' green
+You start to concentrate...
+A horrible, dark-green spider barely hits Caureondil (mo)'s right hand
+and tickles it.
+
+Caureondil (mo) says 'green'
+Caureondil (mo) pierces a huge, hideous spider's right hindleg hard
+and tickles it.
+
+A huge, hideous spider   ___ u n b a s h e d
+Ok.
+As you call upon Elbereth, a horrible, dark-green spider shivers in
+pain.
+
+!O CW HP:Fine Mana:Hot>cast normal 'dispel e' green
+You start to concentrate...
+
+A horrible, dark-green spider lightly hits Caureondil (mo)'s right leg
+and tickles it.
+
+Caureondil (mo) yawns and stretches his limbs.
+
+A huge, hideous spider barely hits Caureondil (mo)'s head and tickles
+it.
+
+Caureondil (mo) B A S H E S ____a horrible, dark-green spider
+Ok.
+As you call upon Elbereth, a horrible, dark-green spider shivers in
+pain.
+
+!O CW HP:Fine Mana:Warm>
+Caureondil (mo) strongly pierces a horrible, dark-green spider's body.
+
+!O CW HP:Fine Mana:Warm>look
+A Webbed Spider Lair
+The corpse of a horrible, dark-green spider is lying here.
+A silver-tipped arrow lies on the ground.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is here, fighting a horrible, dark-green spider.
+A huge, hideous spider is here, fighting Caureondil (mo).
+A horrible, dark-green spider is here, fighting Caureondil (mo).
+Exits/emulated: south, west.
+
+!O CW HP:Fine Mana:Warm>
+A huge, hideous spider strongly hits Caureondil (mo)'s left foot and
+tickles it.
+
+!O CW HP:Fine Mana:Warm>cast normal 'dispel e' green
+You start to concentrate...
+Caureondil (mo) pierces a horrible, dark-green spider's right foreleg
+hard.
+
+Caureondil (mo) says 'do'
+
+Ok.
+As you call upon Elbereth, a horrible, dark-green spider shivers in
+pain.
+Caureondil (mo) pierces a horrible, dark-green spider's left foreleg
+and shatters it.
+
+!O CW HP:Fine Mana:Warm>assist
+Caureondil (mo) pierces a horrible, dark-green spider's right hindfoot
+and shatters it.
+A horrible, dark-green spider is incapacitated and will slowly die, if
+not aided.
+
+!O CW HP:Fine Mana:Warm>
+You assist Caureondil (mo).
+You pierce a horrible, dark-green spider's left hindleg extremely hard
+and shatter it.
+You receive your share of experience.
+Yes! You're beginning to get the idea.
+A horrible, dark-green spider is dead! R.I.P.
+get all.coins corpse
+
+!O CW HP:Fine Mana:Warm>
+Needed: 315386 xp, 0 tp.
+Total: 47934614 xp, 249566 tp.
+You gained 9322 xp.
+
+!O CW HP:Fine Mana:Warm>
+You can't find any coins in the corpse.
+
+!O CW HP:Fine Mana:Warm>
+Caureondil (mo) pierces a huge, hideous spider's left foreleg hard.
+
+!O CW HP:Fine Mana:Warm>assist
+You assist Caureondil (mo).
+A huge, hideous spider says 'Nr mokksattvrckp taunta frNf
+yru,zwilkrElv!'
+
+(mo):Fine>look
+A Webbed Spider Lair
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+A silver-tipped arrow lies on the ground.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is here, fighting a huge, hideous spider.
+A huge, hideous spider is here, fighting Caureondil (mo).
+Exits/emulated: south, west.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider:Fine Caureondil
+(mo):Fine>
+A huge, hideous spider lightly hits Caureondil (mo)'s left foot and
+tickles it.
+
+(mo):Fine>x green
+examine green
+Leafy green hues swathe into light brown tones to make the fabric of
+this light
+cloak blend in to the surroundings of any forest. Although the cloth
+does not
+feel thick to the touch, it looks to provide an earthly warmth that
+reaches the
+tips of your toes.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider:Fine Caureondil
+(mo):Fine>
+Caureondil (mo) B A S H E S ____a huge, hideous spider
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider:Fine Caureondil
+(mo):Fine>
+Caureondil (mo) says 'nice work 1 more left'
+
+(mo):Fine>label LOH
+You pierce a huge, hideous spider's left foreleg and tickle it.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider:Hurt Caureondil
+(mo):Fine>
+Ok.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+Caureondil (mo) pierces a huge, hideous spider (LOH)'s body and
+tickles it.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+Caureondil (mo) strongly pierces a huge, hideous spider (LOH)'s body
+and tickles it.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+Caureondil (mo) strongly pierces a huge, hideous spider (LOH)'s left
+foreleg.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+Caureondil (mo) gets a silver-tipped arrow from the corpse of a
+horrible, dark-green spider.
+Caureondil (mo) gets a silver-tipped arrow from the corpse of a
+horrible, dark-green spider.
+Caureondil (mo) gets a silver-tipped arrow from the corpse of a huge
+tarantula.
+Caureondil (mo) gets a silver-tipped arrow from the corpse of a huge
+tarantula.
+Caureondil (mo) gets a silver-tipped arrow from the corpse of a huge
+tarantula.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+Caureondil (mo) gets a silver-tipped arrow.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+You lightly pierce a huge, hideous spider (LOH)'s body and tickle it.
+
+(mo):Fine>sa warm
+Ok.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+Caureondil (mo) strongly pierces a huge, hideous spider (LOH)'s left
+forefoot.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+A huge, hideous spider (LOH)   ___ u n b a s h e d
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+A huge, hideous spider (LOH) barely hits Caureondil (mo)'s left arm
+and tickles it.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+A huge, hideous spider (LOH) says 'I'mrravenZki!sElfkmlksh vell ds
+marMhlorwrnly!'
+Caureondil (mo) B A S H E S ____a huge, hideous spider (LOH)
+Caureondil (mo) pierces a huge, hideous spider (LOH)'s right forefoot
+hard.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Hurt Caureondil
+(mo):Fine>
+You lightly pierce a huge, hideous spider (LOH)'s body and tickle it.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Wounded
+Caureondil (mo):Fine>
+Caureondil (mo) pierces a huge, hideous spider (LOH)'s left hindleg.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Wounded
+Caureondil (mo):Fine>
+Caureondil (mo) pierces a huge, hideous spider (LOH)'s left hindleg
+very hard.
+
+Caureondil (mo):Fine>look
+A Webbed Spider Lair
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is here, fighting a huge, hideous spider (LOH).
+A huge, hideous spider (LOH) is here, fighting Caureondil (mo).
+Exits/emulated: south, west.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Wounded
+Caureondil (mo):Fine>
+Caureondil (mo) pierces a huge, hideous spider (LOH)'s left hindleg
+hard.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Wounded
+Caureondil (mo):Fine>
+Caureondil (mo) strongly pierces a huge, hideous spider (LOH)'s right
+foreleg.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Wounded
+Caureondil (mo):Fine>
+A huge, hideous spider (LOH)   ___ u n b a s h e d
+
+Caureondil (mo):Fine>sa this onis green too
+Ok.
+A huge, hideous spider (LOH) strongly hits Caureondil (mo)'s body and
+tickles it.
+
+!O CW HP:Fine Mana:Warm a huge, hideous spider (LOH):Wounded
+Caureondil (mo):Fine>
+A huge, hideous spider (LOH) says 'K'll MatRyourrlifw asdflkkwk
+yfurkbknUv ahdrskkhkhzmgmzgMrf K trki!'
+Caureondil (mo) B A S H E S ____a huge, hideous spider (LOH)
+Caureondil (mo) pierces a huge, hideous spider (LOH)'s right forefoot
+hard.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Bad Caureondil (mo):Fine>
+You pierce a huge, hideous spider (LOH)'s body.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Bad Caureondil (mo):Fine>
+Caureondil (mo) strongly pierces a huge, hideous spider (LOH)'s head
+and shatters it.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Bad Caureondil (mo):Fine>sa this
+one is green too
+Ok.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Bad Caureondil (mo):Fine>
+Caureondil (mo) pierces a huge, hideous spider (LOH)'s right hindleg
+hard and shatters it.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Bad Caureondil (mo):Fine>look
+A Webbed Spider Lair
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is here, fighting a huge, hideous spider (LOH).
+A huge, hideous spider (LOH) is here, fighting Caureondil (mo).
+Exits/emulated: south, west.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Bad Caureondil (mo):Fine>
+You lightly pierce a huge, hideous spider (LOH)'s left hindfoot.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Awful Caureondil
+(mo):Fine>
+Caureondil (mo) shakes his head.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Awful Caureondil
+(mo):Fine>
+Caureondil (mo) yawns and stretches his limbs.
+Caureondil (mo) pierces a huge, hideous spider (LOH)'s body and
+shatters it.
+
+(mo):Fine>x green
+examine green
+Leafy green hues swathe into light brown tones to make the fabric of
+this light
+cloak blend in to the surroundings of any forest. Although the cloth
+does not
+feel thick to the touch, it looks to provide an earthly warmth that
+reaches the
+tips of your toes.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Awful Caureondil
+(mo):Fine>
+Caureondil (mo) pierces a huge, hideous spider (LOH)'s body hard and
+shatters it.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Awful Caureondil
+(mo):Fine>
+Caureondil (mo) says 'it isn't keyword green'
+A huge, hideous spider (LOH)   ___ u n b a s h e d
+Caureondil (mo) pierces a huge, hideous spider (LOH)'s left hindleg
+hard and shatters it.
+A huge, hideous spider (LOH) is incapacitated and will slowly die, if
+not aided.
+
+!O CW Mana:Warm a huge, hideous spider (LOH):Dying Caureondil
+(mo):Fine>
+You pierce a huge, hideous spider (LOH)'s head extremely hard and
+shatter it.
+Your victim is shocked by your hit!
+You receive your share of experience.
+Yes! You're beginning to get the idea.
+You hear a huge, hideous spider (LOH)'s death cry as it collapses.
+A huge, hideous spider (LOH) is dead! R.I.P.
+get all.coins corpse
+
+!O CW Mana:Warm>
+Needed: 309064 xp, 0 tp.
+Total: 47940936 xp, 249566 tp.
+You gained 6322 xp.
+
+!O CW Mana:Warm>
+You can't find any coins in the corpse.
+
+!O CW Mana:Warm>
+Caureondil (mo) says 'remp please'
+
+!O CW Mana:Warm>sa has green keyword
+Ok.
+
+!O CW Mana:Warm>
+Caureondil (mo) says 'and rest'
+
+!O CW Mana:Warm>remp mo
+cast n 'remove p' mo
+You start to concentrate...
+
+rest
+Ok.
+Caureondil (mo) looks better.
+
+!O CW Mana:Warm>
+You sit down and rest your tired bones.
+
+!O CW Mana:Warm>
+Caureondil (mo) says 'it does not, it is hideous'
+
+!O CW Mana:Warm>
+Caureondil (mo) begins some strange incantations...
+
+!O CW Mana:Warm>
+Caureondil (mo) utters the words 'judicandus dies'
+
+!O CW Mana:Warm>
+Caureondil (mo) begins some strange incantations...
+
+!O CW Mana:Warm>
+Caureondil (mo) utters the words 'judicandus dies'
+
+!O CW Mana:Warm>
+Caureondil (mo) begins some strange incantations...
+
+!O CW Mana:Warm>
+Caureondil (mo) utters the words 'judicandus dies'
+
+!O CW Mana:Warm>
+Caureondil (mo) begins some strange incantations...
+
+!O CW Mana:Warm>
+Caureondil (mo) utters the words 'judicandus dies'
+
+!O CW Mana:Warm>
+Caureondil (mo) says 'i just tried it'
+
+!O CW Mana:Warm>sa oh
+Ok.
+
+!O CW Mana:Warm>
+Caureondil (mo) sits down and rests.
+
+!O CW Mana:Warm>sa green is cloak
+Ok.
+
+!O CW Mana:Warm>bonk self
+You bonk yourself on the head and hear a slight echo.
+
+!O CW Mana:Warm>
+A horrible, dark-green spider has arrived from the west.
+
+!O CW Mana:Warm>
+A horrible, dark-green spider barely hits Caureondil (mo)'s head and
+tickles it.
+
+!O CW Mana:Warm>
+Caureondil (mo) strongly pierces a horrible, dark-green spider's body
+and tickles it.
+
+!O CW Mana:Warm>
+Caureondil (mo) says 'there is 1 more roaming green before w'
+
+!O CW Mana:Warm>sta
+You stop resting and stand up.
+
+!O CW Mana:Warm>cast normal 'dispel e' green
+You start to concentrate...
+
+A horrible, dark-green spider barely hits Caureondil (mo)'s right hand
+and tickles it.
+
+Ok.
+As you call upon Elbereth, a horrible, dark-green spider shivers in
+pain.
+
+!O CW Mana:Warm>
+Caureondil (mo) B A S H E S ____a horrible, dark-green spider
+
+!O CW Mana:Warm>
+Caureondil (mo) removes a nimble blade.
+Caureondil (mo) swiftly draws an elven longbow from across his back.
+
+!O CW Mana:Warm>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!O CW Mana:Warm>cast normal 'dispel e' green
+You start to concentrate...
+
+Caureondil (mo) shoots a horrible, dark-green spider's head extremely
+hard and shatters it.
+Caureondil (mo) barely hits a horrible, dark-green spider's right
+forefoot and tickles it.
+
+Caureondil (mo) nocks a missile in an elven longbow.
+
+Ok.
+As you call upon Elbereth, a horrible, dark-green spider shivers in
+pain.
+
+!O CW Mana:Cold>
+Caureondil (mo) shoots a horrible, dark-green spider's right hindleg
+extremely hard and shatters it.
+
+!O CW Mana:Cold>
+Caureondil (mo) nocks a missile in an elven longbow.
+
+!O CW Mana:Cold>cast normal 'dispel e' green
+You start to concentrate...
+
+Caureondil (mo) shoots a horrible, dark-green spider's left hindleg
+extremely hard and shatters it.
+A horrible, dark-green spider is incapacitated and will slowly die, if
+not aided.
+
+Caureondil (mo) nocks a missile in an elven longbow.
+Ok.
+A horrible, dark-green spider is dissolved by your goodness.
+You receive your share of experience.
+Yes! You're beginning to get the idea.
+A horrible, dark-green spider is dead! R.I.P.
+get all.coins corpse
+
+!O CW Mana:Icy>
+Needed: 301455 xp, 0 tp.
+Total: 47948545 xp, 249566 tp.
+You gained 7609 xp.
+
+!O CW Mana:Icy>
+You can't find any coins in the corpse.
+
+!O CW Mana:Icy>
+Caureondil (mo) hangs an elven longbow across his back.
+Caureondil (mo) skilfully draws a nimble blade.
+
+!O CW Mana:Icy>a
+Caureondil (mo) gets a silver-tipped arrow from the corpse of a
+horrible, dark-green spider.
+Caureondil (mo) gets a silver-tipped arrow from the corpse of a
+horrible, dark-green spider.
+Caureondil (mo) gets a silver-tipped arrow from the corpse of a
+horrible, dark-green spider.
+Who do you want to assist?
+
+!O CW Mana:Icy>
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+Caureondil (mo) puts a silver-tipped arrow in a laced quiver.
+
+!O CW Mana:Icy>
+Caureondil (mo) says 'ok sleep full'
+
+!O CW Mana:Icy>
+Caureondil (mo) starts gathering wood for a campfire.
+
+!O CW Mana:Icy>stand;lead pa;look;sleep bed
+You are already standing.
+
+!O CW Mana:Icy>
+Lead what?
+
+!O CW Mana:Icy>
+A Webbed Spider Lair
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is standing here gathering wood for a campfire.
+Exits/emulated: south, west.
+
+!O CW Mana:Icy>
+You go to sleep.
+
+oO CW Mana:Icy>sc
+200/200 hits, 35/133 mana, and 104/104 moves.
+
+oO CW Mana:Warm>sc
+200/200 hits, 44/133 mana, and 104/104 moves.
+
+oO CW Mana:Warm>sc
+200/200 hits, 98/133 mana, and 104/104 moves.
+
+oO CW Mana:Hot>st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 301,455 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- noquit
+- bless    (☼ 6m15s  )
+- strength (💪 29m37s  )
+- shield   (⛉ 9m12s  )
+- armour   (🧥 9m5s  )
+- vigour
+- growth
+
+oO CW Mana:Burning>sc
+200/200 hits, 107/133 mana, and 104/104 moves.
+
+oO CW Mana:Burning>st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 301,455 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- noquit
+- bless    (☼ 6m21s  )
+- strength (💪 29m43s  )
+- shield   (⛉ 9m18s  )
+- armour   (🧥 9m11s  )
+- vigour
+- growth
+
+oO CW Mana:Burning>sc
+200/200 hits, 125/133 mana, and 104/104 moves.
+
+oO CW Mana:Burning>st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 301,455 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- noquit
+- bless    (☼ 6m40s  )
+- strength (💪 30m2s  )
+- shield   (⛉ 9m37s  )
+- armour   (🧥 9m30s  )
+- vigour
+- growth
+
+oO CW Mana:Burning>sc
+200/200 hits, 129/133 mana, and 104/104 moves.
+
+oO CW Mana:Burning>sc
+200/200 hits, 131/133 mana, and 104/104 moves.
+
+oO CW Mana:Burning>wake;look;stand;ride pa
+You wake, and sit up.
+
+!O CW>
+A Webbed Spider Lair
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is resting here.
+Exits/emulated: south, west.
+
+!O CW>
+You stand up.
+
+!O CW>
+No one here by that name.
+
+!O CW>nod
+You nod solemnly.
+
+!O CW>
+Caureondil (mo) says 'frychra is west alone but it will summon 4
+spiders as we do it. we want to lure it to this room then you nuke it 
+3x. '
+
+!O CW>
+Caureondil (mo) says 'west is a no cast room'
+
+!O CW>sa i rest here?
+Ok.
+
+!O CW>
+Caureondil (mo) says 'so we have to lure it here and it will hit flee
+me. you nuke 3x dispel evil'
+
+!O CW>
+Caureondil (mo) nods solemnly.
+
+!O CW>sa i sanct us?
+Ok.
+
+!O CW>
+Caureondil (mo) says 'sure can do both if you're worried'
+
+!O CW>sta
+You are already standing.
+
+!O CW>san mo
+cast n 'sanct'  mo
+You start to concentrate...
+
+san
+cast n 'sanct' 
+Caureondil (mo) stops resting and clambers to his feet.
+
+stand;lead pa;look;sleep bed
+Ok.
+Caureondil (mo) is surrounded by a white aura.
+
+!O CW Mana:Hot>
+You start to concentrate...
+
+You start glowing.
+
+!O CW Mana:Warm>
+You are already standing.
+
+!O CW Mana:Warm>
+Lead what?
+
+!O CW Mana:Warm>
+A Webbed Spider Lair
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is standing here (glowing).
+Exits/emulated: south, west.
+
+!O CW Mana:Warm>
+You go to sleep.
+
+oO CW Mana:Warm>sc
+200/200 hits, 69/133 mana, and 104/104 moves.
+
+oO CW Mana:Hot>sc
+200/200 hits, 73/133 mana, and 104/104 moves.
+
+oO CW Mana:Hot>st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 301,455 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- sanctuary (30s)
+- bless    (☼ 7m53s  )
+- strength (💪 31m15s  )
+- shield   (⛉ 10m50s  )
+- armour   (🧥 10m43s  )
+- vigour
+- growth
+
+oO CW Mana:Hot>sc
+200/200 hits, 76/133 mana, and 104/104 moves.
+
+oO CW Mana:Hot>wake;look;stand;ride pa
+You wake, and sit up.
+
+!O CW Mana:Hot>
+A Webbed Spider Lair
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is standing here (glowing).
+Exits/emulated: south, west.
+
+!O CW Mana:Hot>
+You stand up.
+
+!O CW Mana:Hot>g juniper all;g mauve all;g sage all;g thyme all
+No one here by that name.
+
+!O CW Mana:Hot>
+You get a cluster of hard, round, black berries from a leather
+backpack.
+
+!O CW Mana:Hot>
+You get some petals of MAUVE: Clearthoughts_D from a leather backpack.
+
+!O CW Mana:Hot>
+You get some leaves of SAGE: Healing, Soothing, Clearthoughts_B from a
+leather backpack.
+Caureondil (mo) says 'after the 3 dispel evils you want to start
+blinding it'
+
+!O CW Mana:Hot>
+You get some leaves of THYME: Soothing, Clearthoughts_C from a leather
+backpack.
+
+!O CW Mana:Hot>sa mix mana
+Ok.
+
+!O CW Mana:Hot>
+Caureondil (mo) says 'if it does spawn mobs'
+
+!O CW Mana:Hot>i
+You are carrying:
+some leaves of THYME: Soothing, Clearthoughts_C
+some leaves of SAGE: Healing, Soothing, Clearthoughts_B
+some petals of MAUVE: Clearthoughts_D
+a cluster of hard, round, black berries
+
+!O CW Mana:Hot>
+Caureondil (mo) says 'go south right away'
+
+!O CW Mana:Hot>p all kit
+You put some leaves of THYME: Soothing, Clearthoughts_C in a herbal
+kit.
+You put some leaves of SAGE: Healing, Soothing, Clearthoughts_B in a
+herbal kit.
+You put some petals of MAUVE: Clearthoughts_D in a herbal kit.
+You put a cluster of hard, round, black berries in a herbal kit.
+
+!O CW Mana:Burning>
+Caureondil (mo) says 'so we can assess'
+
+!O CW Mana:Burning>
+Caureondil (mo) says 'ok?'
+
+!O CW Mana:Burning>mix kit
+You start mixing the contents of a herbal kit.
+
+sa sec
+Caureondil (mo) stops using a forest green cloak.
+
+Caureondil (mo) gets a fine grey cloak from a silvan satchel.
+
+Caureondil (mo) wears a fine grey cloak about his body.
+
+Caureondil (mo) puts a forest green cloak in a silvan satchel.
+
+Caureondil (mo) removes a nimble blade.
+Caureondil (mo) skilfully draws a black runed dagger.
+
+You have finished mixing the contents of a herbal kit.
+You have produced a pungent brew.
+
+!O CW Mana:Burning>
+Ok.
+
+!O CW Mana:Burning>quaff brew
+Ok.
+
+!O CW Mana:Burning>sa nuke frychra?
+Ok.
+
+!O CW Mana:Burning>
+Caureondil (mo) leaves vvvv S O U T H vvvv
+The low tunnel forces you to stoop.
+
+Dark, Narrow Tunnel
+The corpse of a grey spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge, poisonous spider is lying here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+Exits/emulated: south, west.
+
+!= CW Mana:Burning>tilt
+You tilt your head.
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'rest here'
+
+!= CW Mana:Burning>rest
+Caureondil (mo) says 'when i say come'
+You sit down and rest your tired bones.
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'come n'
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'nuke 3x dispel evil'
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'it hit flees'
+
+!= CW Mana:Burning>resta
+Arglebargle, glop-glyf!?!
+
+!= CW Mana:Burning>sa on frychara?
+look
+Caureondil (mo) says 'after 3rd'
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'start to blind'
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'if at any moment it spawns mobs'
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'go s'
+
+!= CW Mana:Burning>
+Caureondil (mo) leaves ^^^^ N O R T H ^^^^
+
+!= CW Mana:Burning>
+Caureondil (mo) has arrived from the north.
+
+!= CW Mana:Burning>
+Caureondil (mo) leaves ^^^^ N O R T H ^^^^
+
+!= CW>
+Ok.
+
+!= CW>
+Dark, Narrow Tunnel
+The corpse of a grey spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge, poisonous spider is lying here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+Exits/emulated: north, south.
+
+!= CW>
+Caureondil tells you 'come'
+
+!= CW>sta
+You stop resting and stand up.
+
+!= CW>north
+You proceed through the low, twisting tunnel.
+
+A Webbed Spider Lair
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is here, fighting Frychra (glowing).
+Frychra is here, fighting Caureondil (mo).
+Exits/emulated: south, west.
+
+!O CW>ta Frychra
+Frychra panics, and attempts to flee.
+
+!O CW>cast normal 'dispel e' Frychra
+You start to concentrate...
+
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+Your victim has disappeared!
+
+!O CW>cast normal 'dispel e' Frychra
+Nobody here by that name.
+Frychra has arrived from the west.
+
+!O CW Mana:Burning>
+Frychra lightly hits Caureondil (mo)'s right foot and tickles it.
+
+!O CW>
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW>cast normal 'dispel e' Frychra
+Frychra has arrived from the west.
+
+!O CW>
+You start to concentrate...
+The light of Aman fades away from you.
+     B L E S S   O F F
+
+The spell lasted 9m42s.
+
+cast normal 'dispel e' Frychra
+Frychra tries to hit Caureondil (mo), but he parries successfully.
+
+Ok.
+As you call upon Elbereth, Frychra shivers in pain.
+
+!O CW Mana:Burning>
+You start to concentrate...
+
+cast normal 'dispel e' Frychra
+Frychra bites Caureondil (mo)!
+
+Frychra panics, and attempts to flee.
+
+Ok.
+As you call upon Elbereth, Frychra shivers in pain.
+
+!O CW Mana:Burning>
+You start to concentrate...
+Frychra hits Caureondil (mo)'s body and tickles it.
+
+cast normal 'dispel e' Frychra
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+Your victim has disappeared!
+
+!O CW Mana:Burning>
+Nobody here by that name.
+
+!O CW Mana:Burning>
+Frychra has arrived from the west.
+
+!O CW Mana:Burning>cast normal 'dispel e' Frychra
+You start to concentrate...
+Frychra approaches Caureondil (mo), trying to hit him.
+
+As Caureondil (mo) concentrates on a golden quartzite ring, it flashes
+briefly.
+
+Ok.
+As you call upon Elbereth, Frychra shivers in pain.
+
+!O CW Mana:Hot>
+Frychra lets out a high-pitched shriek, and answering calls come from
+all around!
+A huge tarantula has suddenly arrived.
+A huge tarantula now follows Frychra.
+A huge, hideous spider has suddenly arrived.
+A huge, hideous spider now follows Frychra.
+A horrible, dark-green spider has suddenly arrived.
+A horrible, dark-green spider now follows Frychra.
+A huge tarantula has suddenly arrived.
+A huge tarantula now follows Frychra.
+Frychra panics, and attempts to flee.
+
+!O CW Mana:Hot>
+Caureondil (mo) says 'blind'
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW Mana:Hot>
+A huge, hideous spider tries to hit Caureondil (mo), but he parries
+successfully.
+
+!O CW Mana:Hot>
+Frychra has arrived from the west.
+
+!O CW Mana:Hot>
+Caureondil (mo) says 's'
+
+!O CW Mana:Hot>
+Caureondil (mo) swiftly dodges a huge tarantula's attempt to hit him.
+
+!O CW Mana:Hot>
+Caureondil (mo) seems to avoid the fight.
+Frychra joins a huge, hideous spider's fight.
+Frychra strongly hits Caureondil (mo)'s left foot and tickles it.
+
+!O CW Mana:Hot>
+A horrible, dark-green spider tries to hit Caureondil (mo), but he
+parries successfully.
+
+!O CW Mana:Hot>tbli Frychra
+cast t 'bli' Frychra
+You start to concentrate...
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+The low tunnel forces you to stoop.
+
+You were not able to keep your concentration while moving.
+Dark, Narrow Tunnel
+The corpse of a grey spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge, poisonous spider is lying here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+Exits/emulated: south, west.
+
+!= CW Mana:Hot>look
+Dark, Narrow Tunnel
+The corpse of a grey spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge, poisonous spider is lying here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+Caureondil (mo) is standing here (glowing).
+Exits/emulated: north, south.
+
+!= CW Mana:Hot>sa he ate 3 displs
+Ok.
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'ok rest, it spawned 1 green 2 tarantula 1
+hideous'
+
+!= CW Mana:Burning>rest
+You sit down and rest your tired bones.
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'i will lure it 1n again'
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'you nuke the green dead'
+
+!= CW Mana:Burning>
+Caureondil (mo) says 'then go s ok?'
+
+!= CW Mana:Burning>sa k
+Ok.
+
+!= CW Mana:Burning>
+Caureondil (mo) begins some strange incantations...
+
+!= CW Mana:Burning>
+Caureondil (mo) utters the words 'judicandus dies'
+
+!= CW Mana:Burning>
+Caureondil (mo) leaves ^^^^ N O R T H ^^^^
+
+!= CW Mana:Burning>ta green
+You hear some very close noise from the north.
+
+!= CW Mana:Burning>sta
+Caureondil tells you 'come'
+You stop resting and stand up.
+
+!= CW Mana:Burning>north
+You proceed through the low, twisting tunnel.
+
+A Webbed Spider Lair
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is here, fighting Frychra (glowing).
+Frychra is here, fighting Caureondil (mo).
+A huge tarantula is here, fighting Caureondil (mo).
+A dark-green spider is here, poison dripping from its fangs.
+A huge, hideous spider is here, fighting Caureondil (mo).
+A huge, poisonous tarantula extends her legs to you.
+Exits/emulated: south, west.
+
+!O CW Mana:Burning>cast normal 'dispel e' green
+You start to concentrate...
+Frychra panics, and attempts to flee.
+
+A horrible, dark-green spider barely hits Caureondil (mo)'s left hand
+and tickles it.
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+cast normal 'dispel e' green
+A huge tarantula leaves <<<< W E S T <<<<
+Frychra has arrived from the west.
+A huge tarantula has arrived from the west.
+
+Ok.
+As you call upon Elbereth, a horrible, dark-green spider shivers in
+pain.
+Caureondil (mo) swiftly dodges a huge tarantula's attempt to hit him.
+
+!O CW Mana:Burning>
+You start to concentrate...
+
+A huge tarantula bites Caureondil (mo)!
+Caureondil (mo)'s body turns numb as the poison speeds to his brain!
+Caureondil (mo) pierces a huge tarantula's right foreleg and tickles
+it.
+
+Frychra joins a huge tarantula's fight.
+Frychra hits Caureondil (mo)'s left leg.
+
+cast normal 'dispel e' green
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+A huge tarantula barely hits Caureondil (mo)'s head and tickles it.
+
+Frychra has arrived from the west.
+
+cast normal 'dispel e' green
+Ok.
+As you call upon Elbereth, a horrible, dark-green spider shivers in
+pain.
+A huge tarantula barely hits Caureondil (mo)'s left foot and tickles
+it.
+
+!O CW Mana:Hot>
+You start to concentrate...
+
+Frychra joins a huge tarantula's fight.
+
+Caureondil (mo) removes a black runed dagger.
+Caureondil (mo) skilfully draws a nimble blade.
+Frychra bites Caureondil (mo)!
+
+Frychra hits Caureondil (mo)'s right foot and tickles it.
+
+Ok.
+As you call upon Elbereth, a horrible, dark-green spider shivers in
+pain.
+A horrible, dark-green spider barely hits Caureondil (mo)'s left hand
+and tickles it.
+A huge tarantula barely hits Caureondil (mo)'s right foot and tickles
+it.
+
+!O CW Mana:Hot>cast normal 'dispel e' green
+You start to concentrate...
+
+Frychra hits Caureondil (mo)'s right hand.
+
+Frychra panics, and attempts to flee.
+
+A huge tarantula barely hits Caureondil (mo)'s left foot and tickles
+it.
+A huge, hideous spider lightly hits Caureondil (mo)'s right leg and
+tickles it.
+
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+Ok.
+A horrible, dark-green spider is dissolved by your goodness.
+You receive your share of experience.
+Yes! You're beginning to get the idea.
+A horrible, dark-green spider is dead! R.I.P.
+get all.coins corpse
+A huge tarantula bites Caureondil (mo)!
+
+!O CW Mana:Hot>cast normal 'dispel e' green
+Nobody here by that name.
+Frychra has arrived from the west.
+
+!O CW Mana:Hot>
+A huge tarantula barely hits Caureondil (mo)'s left arm and tickles
+it.
+Needed: 287966 xp, 0 tp.
+Total: 47962034 xp, 249566 tp.
+You gained 13489 xp.
+
+!O CW Mana:Hot>
+You can't find any coins in the corpse.
+Caureondil (mo) says 's'
+
+!O CW Mana:Hot>
+Nobody here by that name.
+Caureondil (mo) seems to avoid the fight.
+
+!O CW Mana:Warm>south
+The low tunnel forces you to stoop.
+
+Dark, Narrow Tunnel
+The corpse of a grey spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge, poisonous spider is lying here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+Exits: north, south.
+
+!= CW Mana:Warm>rest
+You sit down and rest your tired bones.
+
+!= CW Mana:Hot>
+Caureondil (mo) has arrived from the north.
+
+!= CW Mana:Hot>rpo
+info hasss info %(%z%)/%(%Z%)   %(%e%)/%(%E%)   %(%j%)/%(%J%)
+hasss info 200/200   69/148   101/104
+emote has 200/200   69/148   101/104
+
+!= CW Mana:Hot>
+Caureondil (mo) nods solemnly.
+Ok.
+
+!= CW Mana:Hot>
+Caureondil (mo) says 'remp please'
+
+!= CW Mana:Hot>use staff
+Nah... You feel too relaxed to do that.
+stand
+
+!= CW Mana:Hot>
+You stop resting and stand up.
+
+!= CW Mana:Hot>sta
+You are already standing.
+
+!= CW Mana:Hot>remp mo
+cast n 'remove p' mo
+You start to concentrate...
+
+use staff
+Caureondil (mo) begins some strange incantations...
+
+Ok.
+Caureondil (mo) looks better.
+
+!= CW Mana:Hot>
+You raise your staff and call upon the Valar.
+You begin to feel the light of Aman shine upon you.
+
+!= CW Mana:Hot>
+Caureondil (mo) utters the words 'judicandus dies'
+
+!= CW Mana:Hot>
+Caureondil (mo) begins some strange incantations...
+
+!= CW Mana:Hot>sc
+Caureondil (mo) utters the words 'judicandus dies'
+
+!= CW Mana:Hot>
+200/200 hits, 74/148 mana, and 104/104 moves.
+Caureondil (mo) begins some strange incantations...
+
+!= CW Mana:Hot>
+Caureondil (mo) utters the words 'judicandus dies'
+
+!= CW Mana:Hot>
+Caureondil (mo) begins some strange incantations...
+
+!= CW Mana:Hot>
+Caureondil (mo) utters the words 'judicandus dies'
+
+!= CW Mana:Hot>
+Caureondil (mo) says 'lets try to nuke a tarantula dead'
+
+!= CW Mana:Hot>
+Caureondil (mo) says 'then regen'
+
+!= CW Mana:Hot>sa k
+Ok.
+
+!= CW Mana:Hot>
+Caureondil (mo) begins some strange incantations...
+
+!= CW Mana:Hot>ta tarantula
+Caureondil (mo) utters the words 'judicandus dies'
+
+!= CW Mana:Hot>
+Caureondil (mo) says 'rest'
+
+!= CW Mana:Hot>rest
+You sit down and rest your tired bones.
+
+!= CW Mana:Hot>
+Caureondil (mo) leaves ^^^^ N O R T H ^^^^
+
+!= CW Mana:Hot>sta
+You stop resting and stand up.
+
+!= CW Mana:Hot>
+You begin to feel hungry.
+
+!= CW Mana:Hot>ta
+
+               Target is tarantula
+Caureondil tells you 'come'
+
+!= CW Mana:Hot>north
+cast normal 'dispel e' tarantula
+You proceed through the low, twisting tunnel.
+
+A Webbed Spider Lair
+The corpse of a horrible, dark-green spider is lying here.
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is here, fighting a huge tarantula (glowing).
+Frychra is here, fighting Caureondil (mo).
+A huge tarantula is here, fighting Caureondil (mo).
+A huge, hideous spider is here, fighting Caureondil (mo).
+A huge, poisonous tarantula extends her legs to you.
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+Exits/emulated: south, west.
+
+!O CW Mana:Hot>
+You start to concentrate...
+Frychra has arrived from the west.
+
+cast normal 'dispel e' tarantula
+A huge tarantula bites Caureondil (mo)!
+Caureondil (mo)'s body turns numb as the poison speeds to his brain!
+Caureondil (mo) pierces a huge tarantula's left hindfoot and tickles
+it.
+
+cast normal 'dispel e' tarantula
+Frychra joins a huge, hideous spider's fight.
+
+A huge tarantula barely hits Caureondil (mo)'s body and tickles it.
+Frychra hits Caureondil (mo)'s right foot and tickles it.
+A huge tarantula barely hits Caureondil (mo)'s right hand and tickles
+it.
+
+Ok.
+As you call upon Elbereth, a huge tarantula shivers in pain.
+
+!O CW Mana:Hot>
+You start to concentrate...
+Caureondil (mo) pierces a huge tarantula's left hindleg hard.
+
+g wafer all
+A huge tarantula bites Caureondil (mo)!
+Frychra hits Caureondil (mo)'s right arm and tickles it.
+
+A huge, hideous spider barely hits Caureondil (mo)'s left arm and
+tickles it.
+
+Caureondil (mo) strongly pierces a huge tarantula's right foreleg.
+
+Frychra bites Caureondil (mo)!
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+Ok.
+As you call upon Elbereth, a huge tarantula shivers in pain.
+Frychra has arrived from the west.
+
+!O CW Mana:Warm>
+You start to concentrate...
+
+eat wafer
+Frychra joins a huge tarantula's fight.
+Frychra hits Caureondil (mo)'s left arm and tickles it.
+
+Frychra bites Caureondil (mo)!
+Caureondil (mo) strongly pierces a huge tarantula's body and shatters
+it.
+
+A huge tarantula barely hits Caureondil (mo)'s right arm and tickles
+it.
+
+Ok.
+As you call upon Elbereth, a huge tarantula shivers in pain.
+You receive your share of experience.
+It's really not interesting anymore! 
+You hear a huge tarantula's death cry as she collapses.
+A huge tarantula is dead! R.I.P.
+get all.coins corpse
+A huge, hideous spider barely hits Caureondil (mo)'s right hand and
+tickles it.
+
+!O CW Mana:Warm>
+You get a lembas wafer from a leather backpack.
+Frychra barely hits Caureondil (mo)'s right leg and tickles it.
+
+!O CW Mana:Warm>
+Caureondil (mo) seems to avoid the fight.
+You eat the lembas.
+You are full.
+
+!O CW Mana:Warm>
+Needed: 286652 xp, 0 tp.
+Total: 47963348 xp, 249566 tp.
+You gained 1314 xp.
+
+!O CW Mana:Warm>
+You can't find any coins in the corpse.
+
+!O CW Mana:Warm>south
+The low tunnel forces you to stoop.
+
+Dark, Narrow Tunnel
+The corpse of a grey spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge, poisonous spider is lying here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+Exits: north, south.
+
+!= CW Mana:Warm>
+Caureondil (mo) has arrived from the north.
+
+!= CW Mana:Warm>rpo
+info hasss info %(%z%)/%(%Z%)   %(%e%)/%(%E%)   %(%j%)/%(%J%)
+hasss info 200/200   41/140   100/104
+emote has 200/200   41/140   100/104
+
+!= CW Mana:Warm>
+Ok.
+
+!= CW Mana:Warm>
+Caureondil (mo) leaves vvvv S O U T H vvvv
+You proceed through the low, twisting tunnel.
+
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Exits/emulated: north, south.
+
+!f CW Mana:Warm>
+Caureondil (mo) starts gathering wood for a campfire.
+
+!f CW Mana:Warm>
+Caureondil (mo) says 'get full'
+
+!f CW Mana:Warm>
+Caureondil (mo) puts some wood in the fire.
+
+!f CW Mana:Warm>aba
+Abandon what?
+
+!f CW Mana:Warm>stand;lead pa;look;sleep bed
+You are already standing.
+Caureondil (mo) says 'remp'
+
+!f CW Mana:Warm>
+A mountain mule (pa) starts following you.
+
+!f CW Mana:Warm>
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Caureondil (mo) is standing here (glowing).
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!f CW Mana:Warm>
+You go to sleep.
+
+of CW Mana:Warm>wake;look;stand;ride pa
+You wake, and sit up.
+
+!f CW Mana:Warm>
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Caureondil (mo) is standing here (glowing).
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!f CW Mana:Warm>
+You stand up.
+
+!f CW Mana:Warm>
+It's too difficult to ride here.
+
+!f CW Mana:Warm>remp mo
+cast n 'remove p' mo
+You start to concentrate...
+
+stand;lead pa;look;sleep bed
+Ok.
+Caureondil (mo) looks better.
+
+!f CW Mana:Warm>
+You are already standing.
+
+!f CW Mana:Warm>
+A mountain mule (pa) is already following you!
+
+!f CW Mana:Warm>
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Caureondil (mo) is standing here (glowing).
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!f CW Mana:Warm>
+You go to sleep.
+
+of CW Mana:Warm>sc
+200/200 hits, 72/140 mana, and 104/104 moves.
+
+of CW Mana:Hot>exps
+Session: 55400 xp, 375 tp in 0h35m39s.
+Per minute: 1553 xp, 10 tp.
+Per hour: 93239 xp, 631 tp.
+sc
+200/200 hits, 88/140 mana, and 104/104 moves.
+
+of CW Mana:Hot>st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 286,652 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- noquit
+- bless    (☼ 1m25s  )
+- potion
+- sanctuary (4m49s)
+- strength (💪 35m34s  )
+- shield   (⛉ 15m9s  )
+- armour   (🧥 15m2s  )
+- vigour
+- growth
+
+of CW Mana:Hot>sc
+200/200 hits, 112/140 mana, and 104/104 moves.
+
+of CW Mana:Burning>st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 286,652 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- noquit
+- bless    (☼ 1m43s  )
+- potion
+- sanctuary (5m7s)
+- strength (💪 35m52s  )
+- shield   (⛉ 15m27s  )
+- armour   (🧥 15m20s  )
+- vigour
+- growth
+
+of CW Mana:Burning>sc
+200/200 hits, 118/140 mana, and 104/104 moves.
+
+of CW Mana:Burning>sc
+200/200 hits, 135/140 mana, and 104/104 moves.
+
+of CW Mana:Burning>who
+Players
+-------
+      Wathinn the Elven Apprentice (Linkless)
+      Haldakh Khazad-Azaghal
+      Ena the Elven Adventurer
+      Nottred the Hobbit Scout
+      Iminye
+      Ibar the Dwarf (Idle)
+      Raoul Duke
+      Kidur the Elven Adventurer
+      Nitar the Half-Elven Hero
+      Caureondil
+ [Mw] Ryalnos is never Wrong, so he always (Idle)
+      Helfire ~ Elf on Fire
+      Deon the Man Apprentice
+      Theshark of the endless ocean
+      Mirasantika Ma book Lagee Ahhh...
+ [Va] Rogon Rogoff
+
+16 allies and visible Ainur on.
+
+of CW Mana:Burning>sc
+200/200 hits, 139/140 mana, and 104/104 moves.
+
+of CW Mana:Burning>wake;look;stand;ride pa
+You wake, and sit up.
+
+!f CW>
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Caureondil (mo) is resting here.
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!f CW>aba
+You stand up.
+
+!f CW>
+It's too difficult to ride here.
+
+!f CW>
+A mountain mule (pa) stops following you.
+
+!f CW>nod
+You nod solemnly.
+
+!f CW>
+Caureondil (mo) reports: 223/359 Hit Points, 18/67 Mana Points,
+139/139 Move Points
+
+!f CW>
+Caureondil (mo) says 'need a re sanc and a heal'
+
+!f CW>cast n 'heal' mo
+You start to concentrate...
+
+Caureondil (mo) says 'then we can do the other 2'
+
+Ok.
+You heal Caureondil (mo).
+
+!f CW Mana:Hot>san mo
+cast n 'sanct'  mo
+You start to concentrate...
+
+Ok.
+Caureondil (mo) is surrounded by a white aura.
+
+!f CW Mana:Warm>stand;lead pa;look;sleep bed
+You are already standing.
+
+!f CW Mana:Warm>
+A mountain mule (pa) starts following you.
+
+!f CW Mana:Warm>
+Caureondil (mo) says 'frychra hits like a truck without sanc'
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Caureondil (mo) is resting here (glowing).
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!f CW Mana:Warm>
+You go to sleep.
+
+of CW Mana:Warm>sc
+200/200 hits, 61/140 mana, and 104/104 moves.
+
+of CW Mana:Warm>wake;look;stand;ride pa
+You wake, and sit up.
+
+!f CW Mana:Warm>
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Caureondil (mo) is resting here (glowing).
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!f CW Mana:Warm>
+You stand up.
+
+!f CW Mana:Warm>
+It's too difficult to ride here.
+
+!f CW Mana:Warm>san
+cast n 'sanct' 
+You start to concentrate...
+
+stand;lead pa;look;sleep bed
+The white aura around your body fades.
+     S A N C T U A R Y   D O W N
+
+The spell lasted 5m55s.
+
+You start glowing.
+
+!f CW Mana:Cold>
+You are already standing.
+
+!f CW Mana:Cold>
+A mountain mule (pa) is already following you!
+
+!f CW Mana:Cold>
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Caureondil (mo) is resting here (glowing).
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!f CW Mana:Cold>
+You go to sleep.
+
+of CW Mana:Cold>sc
+200/200 hits, 69/140 mana, and 104/104 moves.
+
+of CW Mana:Hot>sc
+200/200 hits, 83/140 mana, and 104/104 moves.
+
+of CW Mana:Hot>sc
+200/200 hits, 84/140 mana, and 104/104 moves.
+
+of CW Mana:Hot>inf %l
+57
+
+of CW Mana:Hot>who
+Players
+-------
+      Wathinn the Elven Apprentice (Linkless)
+      Haldakh Khazad-Azaghal
+      Ena the Elven Adventurer
+      Nottred the Hobbit Scout
+      Iminye
+      Ibar the Dwarf
+      Raoul Duke
+      Kidur the Elven Adventurer
+      Nitar the Half-Elven Hero
+      Caureondil
+ [Mw] Ryalnos is never Wrong, so he always (Idle)
+      Helfire ~ Elf on Fire
+      Deon the Man Apprentice
+      Theshark of the endless ocean
+      Mirasantika Ma book Lagee Ahhh...
+ [Va] Rogon Rogoff
+
+16 allies and visible Ainur on.
+
+of CW Mana:Hot>exps
+Session: 55400 xp, 375 tp in 0h37m53s.
+Per minute: 1462 xp, 9 tp.
+Per hour: 87743 xp, 593 tp.
+st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 286,652 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- sanctuary (1m3s)
+- bless    (☼ 3m36s  )
+- potion
+- strength (💪 37m45s  )
+- shield   (⛉ 17m20s  )
+- armour   (🧥 17m13s  )
+- vigour
+- growth
+
+of CW Mana:Hot>sc
+200/200 hits, 104/140 mana, and 104/104 moves.
+
+of CW Mana:Burning>sc
+200/200 hits, 128/128 mana, and 104/104 moves.
+
+of CW>wake;look;stand;ride pa
+You wake, and sit up.
+
+!f CW>
+Enclosure of Black Trees
+A small campfire burns here, its low flames giving off only a little
+light.
+A stiletto is lying here.
+A skeleton of some humanoid lies in the dust.
+A sturdy pack horse is standing here.
+A mountain mule (pa) is standing here.
+Caureondil (mo) is resting here (glowing).
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!f CW>
+You stand up.
+
+!f CW>
+It's too difficult to ride here.
+
+!f CW>aba
+A mountain mule (pa) stops following you.
+
+!f CW>
+Caureondil (mo) stops resting and clambers to his feet.
+
+!f CW>rest
+You sit down and rest your tired bones.
+
+!f CW>
+Caureondil (mo) says '1n can pop'
+
+!f CW>
+Caureondil (mo) says 'so be ready just in case'
+
+!f CW>
+Caureondil (mo) says 'lets go 1n'
+
+!f CW>sa nuke tarantula ?
+Ok.
+
+!f CW>sta
+You stop resting and stand up.
+
+!f CW>
+Caureondil (mo) leaves ^^^^ N O R T H ^^^^
+The low tunnel forces you to stoop.
+
+Dark, Narrow Tunnel
+The corpse of a grey spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge, poisonous spider is lying here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+Exits/emulated: north, south, {west}. - s:(oneway).
+
+!= CW>aba
+Caureondil (mo) says 'ok rest'
+
+!= CW>
+Abandon what?
+
+!= CW>
+Caureondil (mo) says 'i call you'
+
+!= CW>rest
+You sit down and rest your tired bones.
+
+!= CW>
+Caureondil (mo) says 'do tarantula then hideous'
+
+!= CW>
+Caureondil (mo) removes a nimble blade.
+Caureondil (mo) skilfully draws a black runed dagger.
+
+!= CW>nod
+You nod solemnly.
+
+!= CW>
+Caureondil (mo) leaves ^^^^ N O R T H ^^^^
+
+!= CW>ta
+
+               Target is tarantula
+sta
+You stop resting and stand up.
+
+!= CW>sco n
+scout n
+Thick webs make it impossible to see more than a short distance ahead.
+
+!= CW>ex
+  North   - A Webbed Spider Lair
+  South   - Enclosure of Black Trees
+
+!= CW>
+Caureondil tells you 'come'
+
+!= CW>north
+You proceed through the low, twisting tunnel.
+
+A Webbed Spider Lair
+The corpse of a huge tarantula is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is here, fighting a huge, hideous spider (glowing).
+Frychra is here, fighting Caureondil (mo).
+A huge, hideous spider is here, fighting Caureondil (mo).
+A huge, poisonous tarantula extends her legs to you.
+Exits/emulated: south, west.
+
+!O CW>
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW>cast normal 'dispel e' tarantula
+You start to concentrate...
+
+A huge tarantula barely hits Caureondil (mo)'s right hand and tickles
+it.
+Frychra has arrived from the west.
+
+Frychra hits Caureondil (mo)'s head and tickles it.
+Caureondil (mo) pierces a huge, hideous spider's body and tickles it.
+
+cast normal 'dispel e' tarantula
+A huge, hideous spider barely hits Caureondil (mo)'s right arm and
+tickles it.
+
+Ok.
+As you call upon Elbereth, a huge tarantula shivers in pain.
+Frychra bites Caureondil (mo)!
+
+!O CW Mana:Burning>
+You start to concentrate...
+
+Frychra hits Caureondil (mo)'s head and tickles it.
+
+cast normal 'dispel e' tarantula
+Caureondil (mo) removes a black runed dagger.
+Caureondil (mo) skilfully draws a nimble blade.
+
+Frychra hits Caureondil (mo)'s right hand and tickles it.
+
+Ok.
+As you call upon Elbereth, a huge tarantula shivers in pain.
+Frychra panics, and attempts to flee.
+
+!O CW Mana:Hot>
+You start to concentrate...
+
+Caureondil (mo) pierces a huge tarantula's left hindleg.
+
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+Frychra has arrived from the west.
+
+Ok.
+As you call upon Elbereth, a huge tarantula shivers in pain.
+A huge tarantula is mortally wounded and will die soon if not aided.
+Caureondil (mo) pierces a huge tarantula's left foreleg extremely hard
+and shatters it.
+You receive your share of experience.
+It's really not interesting anymore! 
+You hear a huge tarantula's death cry as she collapses.
+A huge tarantula is dead! R.I.P.
+get all.coins corpse
+
+!O CW Mana:Hot>
+Needed: 285318 xp, 0 tp.
+Total: 47964682 xp, 249566 tp.
+You gained 1334 xp.
+
+!O CW Mana:Hot>
+You can't find any coins in the corpse.
+
+!O CW Mana:Hot>
+Frychra joins a huge, hideous spider's fight.
+Frychra hits Caureondil (mo)'s right hand and tickles it.
+
+!O CW Mana:Hot>
+Caureondil (mo) lightly pierces a huge, hideous spider's body and
+tickles it.
+
+!O CW Mana:Hot>
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW Mana:Hot>
+Frychra has arrived from the west.
+
+!O CW Mana:Hot>ta hideous
+Frychra joins a huge, hideous spider's fight.
+Frychra strongly hits Caureondil (mo)'s left foot and tickles it.
+
+!O CW Mana:Hot>cast normal 'dispel e' hideous
+You start to concentrate...
+
+Ok.
+As you call upon Elbereth, a huge, hideous spider shivers in pain.
+A huge, hideous spider says 'No moEemattezcop tahntKkfron
+you,rvklVmEls!'
+
+!O CW Mana:Hot>
+Frychra panics, and attempts to flee.
+
+!O CW Mana:Hot>
+Frychra hits Caureondil (mo)'s left leg and tickles it.
+
+!O CW Mana:Hot>cast normal 'dispel e' hideous
+You start to concentrate...
+
+Frychra panics, and attempts to flee.
+
+Frychra bites Caureondil (mo)!
+
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+cast normal 'dispel e' hideous
+Ok.
+As you call upon Elbereth, a huge, hideous spider shivers in pain.
+Frychra has arrived from the west.
+
+!O CW Mana:Warm>
+You start to concentrate...
+Caureondil (mo) pierces a huge, hideous spider's right hindfoot hard.
+
+Frychra joins a huge, hideous spider's fight.
+
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+Ok.
+As you call upon Elbereth, a huge, hideous spider shivers in pain.
+Frychra has arrived from the west.
+
+!O CW Mana:Cold>
+Frychra approaches Caureondil (mo), trying to hit him.
+
+!O CW Mana:Cold>cast normal 'dispel e' hideous
+Frychra hits Caureondil (mo)'s head and tickles it.
+
+!O CW Mana:Cold>
+You start to concentrate...
+
+A huge, hideous spider hits Caureondil (mo)'s right leg and tickles
+it.
+
+Frychra barely hits Caureondil (mo)'s head and tickles it.
+Caureondil (mo) pierces a huge, hideous spider's body.
+
+Ok.
+As you call upon Elbereth, a huge, hideous spider shivers in pain.
+
+!O CW Mana:Cold>
+Frychra panics, but can't stop fighting to flee.
+
+!O CW Mana:Cold>
+Caureondil (mo) says 'any mana?'
+
+!O CW Mana:Cold>
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW Mana:Cold>
+Caureondil (mo) pierces a huge, hideous spider's head and shatters it.
+A huge, hideous spider is incapacitated and will slowly die, if not
+aided.
+
+!O CW Mana:Cold>
+Frychra has arrived from the west.
+
+!O CW Mana:Cold>
+Caureondil (mo) pierces a huge, hideous spider's body extremely hard
+and shatters it.
+You receive your share of experience.
+Yes! You're beginning to get the idea.
+You hear a huge, hideous spider's death cry as it collapses.
+A huge, hideous spider is dead! R.I.P.
+get all.coins corpse
+
+!O CW Mana:Cold>
+Needed: 276462 xp, 0 tp.
+Total: 47973538 xp, 249566 tp.
+You gained 8856 xp.
+
+!O CW Mana:Cold>cast normal 'dispel e' hideous
+You can't find any coins in the corpse.
+
+!O CW Mana:Cold>
+Nobody here by that name.
+
+!O CW Mana:Cold>
+Frychra hits Caureondil (mo)'s right leg.
+
+!O CW Mana:Cold>sa cold
+Ok.
+Frychra panics, and attempts to flee.
+
+!O CW Mana:Cold>
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW Mana:Cold>
+Frychra has arrived from the west.
+
+!O CW Mana:Cold>
+Caureondil (mo) leaves vvvv S O U T H vvvv
+The low tunnel forces you to stoop.
+
+Dark, Narrow Tunnel
+The corpse of a grey spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge, poisonous spider is lying here.
+A half-decayed corpse of a goblin lies rotting on the ground.
+Exits/emulated: south, west.
+
+!= CW Mana:Cold>
+Caureondil (mo) starts gathering wood for a campfire.
+
+!= CW Mana:Cold>
+Caureondil (mo) finishes gathering the wood into a pile and sets it on
+fire.
+A warm fire lights the place.
+
+!= CW Mana:Cold>
+Caureondil (mo) leaves ^^^^ N O R T H ^^^^
+You proceed through the low, twisting tunnel.
+
+A Webbed Spider Lair
+The corpse of a huge, hideous spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Exits/emulated: north, south.
+
+!O CW Mana:Cold>x mo
+examine mo
+Caureondil (mo) starts gathering wood for a campfire.
+This 6'8" giant towers over you. He is clad in iron but moves with
+a grace unbefitting his stature. As you go to take another look he
+vanishes without leaving a trace. You find yourself looking over
+your shoulder as you walk away.
+Caureondil is an adult male Elf.
+Caureondil (mo) has several bruises.
+Caureondil (mo) seems to have:
+       A clean light wound at the right leg.
+Caureondil (mo) is using:
+<wielded>            a nimble blade (flawless)
+<worn as shield>     a bejewelled shield (flawless)
+<worn on head>       a horse-crested helm (flawless)
+<worn on body>       a shining breastplate (flawless)
+<worn about body>    a fine grey cloak (flawless)
+<worn on arms>       a shining pair of vambraces (flawless)
+<worn on hands>      a pair of lobstered steel gauntlets (flawless)
+<worn on legs>       a shining pair of greaves (flawless)
+<worn on feet>       a fine pair of metal boots (flawless)
+<worn around neck>   a necklace
+<worn around neck>   a pale blue stone
+<worn on wrist>      a black-thorned wristband
+<worn on wrist>      a keyring with a key and a set of lock picks
+<worn on finger>     a sapphire ring
+<worn on finger>     a golden quartzite ring
+<worn on back>       a silvan satchel
+<worn across back>   an elven longbow
+<worn as belt>       a broad silver belt
+<worn on belt>       a red ruby; it has a soft glowing aura
+<worn on belt>       an enhanced herbal kit
+<worn on belt>       a small pouch
+<worn on belt>       a laced quiver
+<worn on belt>       a war horn
+
+!O CW Mana:Cold>
+Caureondil (mo) says 'rest here'
+
+!O CW Mana:Cold>
+Caureondil (mo) puts some wood in the fire.
+
+!O CW Mana:Cold>rest
+You sit down and rest your tired bones.
+
+!O CW Mana:Cold>
+Caureondil (mo) says 'well sleep'
+
+!O CW Mana:Cold>stand;lead pa;look;sleep bed
+You stop resting and stand up.
+
+!O CW Mana:Cold>
+Lead what?
+
+!O CW Mana:Cold>
+A Webbed Spider Lair
+The corpse of a huge, hideous spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is standing here (glowing).
+Exits/emulated: south, west.
+
+!O CW Mana:Cold>
+You go to sleep.
+
+oO CW Mana:Cold>sc
+200/200 hits, 36/128 mana, and 104/104 moves.
+
+oO CW Mana:Warm>st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 276,462 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- noquit
+- sanctuary (3m52s)
+- bless    (☼ 6m25s  )
+- potion
+- strength (💪 40m34s  )
+- shield   (⛉ 20m9s  )
+- armour   (🧥 20m2s  )
+- vigour
+- growth
+
+oO CW Mana:Hot>sc
+200/200 hits, 61/128 mana, and 104/104 moves.
+
+oO CW Mana:Hot>sc
+200/200 hits, 77/128 mana, and 104/104 moves.
+
+oO CW Mana:Hot>st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 276,462 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- noquit
+- sanctuary (4m14s)
+- bless    (☼ 6m47s  )
+- potion
+- strength (💪 40m56s  )
+- shield   (⛉ 20m31s  )
+- armour   (🧥 20m24s  )
+- vigour
+- growth
+
+oO CW Mana:Hot>sc
+200/200 hits, 87/128 mana, and 104/104 moves.
+
+oO CW Mana:Hot>st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 276,462 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- noquit
+- sanctuary (4m25s)
+- bless    (☼ 6m58s  )
+- potion
+- strength (💪 41m7s  )
+- shield   (⛉ 20m42s  )
+- armour   (🧥 20m35s  )
+- vigour
+- growth
+
+oO CW Mana:Hot>trop spider
+               *** TROPHY *** (Kills, Knowledge, Name)
+
+|   4,  2%,  a horrible, dark-green spider                          |
+|   1,  0%,  a great brood mother                                   |
+|   3,  0%,  a large, fanged spider                                 |
+|  12,  3%,  a huge, hideous spider                                 |
+|   7, 10%,  a golden spider                                        |
+|  37,  7%,  a brown, long-legged spider                            |
+|  27,  5%,  a red-spotted spider                                   |
+|   9,  4%,  Mormaeg                                                |
+|  20,  6%,  a grey spider                                          |
+|  60, 23%,  a black widow                                          |
+|  28, 22%,  a monstrous black spider                               |
+|  56, 33%,  a great, dark spider                                   |
+| 116, 64%,  a newborn spider                                       |
+|   7,  4%,  a tiny spider                                          |
+| 178, 89%,  a huge, poisonous spider                               |
+|  61, 27%,  a forest spider                                        |
+|  39, 24%,  a water spider                                         |
+| 105, 54%,  a huge tarantula                                       |
+
+
+*** Return: continue, b: back, r: redisplay, q: quit (97%) *** 
+
+Total matching kills: 770 (18 distinct)
+
+oO CW Mana:Burning>sc
+200/200 hits, 107/128 mana, and 104/104 moves.
+
+oO CW Mana:Burning>st
+stat
+OB: 59%, DB: -19%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 276,462 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- noquit
+- sanctuary (4m47s)
+- bless    (☼ 7m20s  )
+- potion
+- strength (💪 41m29s  )
+- shield   (⛉ 21m4s  )
+- armour   (🧥 20m57s  )
+- vigour
+- growth
+
+oO CW Mana:Burning>sc
+200/200 hits, 116/128 mana, and 104/104 moves.
+
+oO CW Mana:Burning>who
+Players
+-------
+      Wathinn the Elven Apprentice (Linkless)
+      Haldakh Khazad-Azaghal
+      Ena the Elven Adventurer
+      Nottred the Hobbit Scout
+      Iminye
+      Ibar the Dwarf
+      Raoul Duke
+      Kidur the Elven Adventurer
+      Nitar the Half-Elven Hero
+      Caureondil
+ [Mw] Ryalnos is never Wrong, so he always
+      Helfire ~ Elf on Fire
+      Deon the Man Apprentice
+      Theshark of the endless ocean
+      Mirasantika Ma book Lagee Ahhh...
+ [Va] Rogon Rogoff
+
+16 allies and visible Ainur on.
+
+oO CW Mana:Burning>sc
+200/200 hits, 122/128 mana, and 104/104 moves.
+
+oO CW Mana:Burning>wake;look;stand;ride pa
+You wake, and sit up.
+Caureondil (mo) begins some strange incantations...
+
+!O CW Mana:Burning>
+A Webbed Spider Lair
+The corpse of a huge, hideous spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is standing here trying to concentrate (glowing).
+Exits/emulated: south, west.
+
+!O CW Mana:Burning>
+You stand up.
+
+!O CW Mana:Burning>
+No one here by that name.
+
+!O CW Mana:Burning>
+Caureondil (mo) utters the words 'judicandus dies'
+
+!O CW Mana:Burning>sa resancts
+Ok.
+
+!O CW Mana:Burning>
+Caureondil (mo) says 'lets go'
+
+!O CW Mana:Burning>
+Caureondil (mo) shakes his head.
+
+!O CW Mana:Burning>
+Caureondil (mo) says 'just blind it'
+
+!O CW Mana:Burning>
+Caureondil (mo) removes a nimble blade.
+Caureondil (mo) skilfully draws a black runed dagger.
+
+!O CW>sa ok
+Ok.
+
+!O CW>
+Caureondil (mo) says 'or just sanc me'
+
+!O CW>
+Caureondil (mo) says 'you'll be ok'
+
+!O CW>sa ok
+Ok.
+
+!O CW>look
+A Webbed Spider Lair
+The corpse of a huge, hideous spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Caureondil (mo) is standing here shaking his head (glowing).
+Exits/emulated: south, west.
+
+!O CW>sa i rest ?
+Ok.
+
+!O CW>aba
+Abandon what?
+
+!O CW>tilt
+You tilt your head.
+
+!O CW>
+Caureondil (mo) says 'sanc me please'
+
+!O CW>sta
+You are already standing.
+
+!O CW>san mo
+cast n 'sanct'  mo
+You start to concentrate...
+
+Ok.
+Caureondil (mo) is surrounded by a white aura.
+
+!O CW Mana:Hot>
+Caureondil (mo) says 'lets go'
+
+!O CW Mana:Hot>
+Caureondil (mo) says 'i'll escape with you'
+
+!O CW Mana:Hot>sa w nocast?
+Ok.
+
+!O CW Mana:Hot>
+Caureondil (mo) nods solemnly.
+
+!O CW Mana:Hot>
+Caureondil (mo) says 'i'll try to escape back here to be 1.'
+
+!O CW Mana:Hot>sa how to blind ?
+Ok.
+
+!O CW Mana:Hot>
+Caureondil (mo) says 'just blind 3x successful'
+
+!O CW Mana:Hot>
+Caureondil (mo) leaves <<<< W E S T <<<<
+A Horrifying Chamber
+A bulky cocoon hangs from the ceiling.
+A strange white skull lies on the floor looking at you.
+You have found Frychra!
+Exits/emulated: south, west.
+
+!O CW Mana:Hot>
+Frychra leaves her hiding place.
+Caureondil (mo) pierces Frychra's body and tickles it.
+
+!O CW Mana:Hot>
+Caureondil (mo) seems to avoid the fight.
+
+!O CW Mana:Hot>
+Frychra barely hits Caureondil (mo)'s left arm and tickles it.
+
+!O CW Mana:Hot>
+Caureondil (mo) tried to escape but failed.
+
+!O CW Mana:Hot>
+Caureondil (mo) seems to avoid the fight.
+Frychra hits Caureondil (mo)'s left foot and tickles it.
+
+!O CW Mana:Hot>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves >>>> E A S T >>>>
+A Webbed Spider Lair
+The corpse of a huge, hideous spider is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a huge tarantula is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+A small campfire burns here, its low flames giving off only a little
+light.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge, hideous spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a horrible, dark-green spider is lying here.
+The corpse of a huge tarantula is lying here.
+Exits/emulated: south, east. - s:(random) e:(random).
+
+!O CW Mana:Hot>
+Frychra has arrived from the west.
+
+!O CW Mana:Burning>tbli from
+Frychra tries to hit Caureondil (mo), but he parries successfully.
+
+!O CW Mana:Burning>
+cast t 'bli' from
+What should the spell be cast upon?
+
+!O CW Mana:Burning>
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW Mana:Burning>
+Frychra has arrived from the west.
+
+!O CW Mana:Burning>tbli Frychra
+cast t 'bli' Frychra
+You start to concentrate...
+Frychra approaches Caureondil (mo), trying to hit him.
+
+Frychra hits Caureondil (mo)'s head and tickles it.
+
+Caureondil (mo) says 'land 3 norm blinds'
+
+Nothing seems to happen.
+Frychra panics, and attempts to flee.
+
+!O CW Mana:Hot>
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW Mana:Hot>
+Frychra has arrived from the west.
+
+!O CW Mana:Hot>ko 1
+cast n 'bli' 1.spider
+You start to concentrate...
+
+Caureondil (mo) swiftly dodges Frychra's attempt to hit him.
+Caureondil (mo) pierces Frychra's body and tickles it.
+
+Nothing seems to happen.
+
+!O CW Mana:Hot>
+Frychra bites Caureondil (mo)!
+
+!O CW Mana:Hot>ko 1
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW Mana:Hot>
+cast n 'bli' 1.spider
+Nobody here by that name.
+Frychra has arrived from the west.
+
+!O CW Mana:Hot>ko 1
+cast n 'bli' 1.spider
+You start to concentrate...
+The white aura around your body fades.
+     S A N C T U A R Y   D O W N
+
+The spell lasted 6m18s.
+
+Frychra hits Caureondil (mo)'s right leg and tickles it.
+
+Some of Frychra's eyes become glazed.
+
+!O CW Mana:Hot>
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW Mana:Hot>
+Frychra has arrived from the west.
+
+!O CW Mana:Hot>
+Caureondil (mo) swiftly dodges Frychra's attempt to hit him.
+
+!O CW Mana:Hot>
+Caureondil (mo) says '1'
+
+!O CW Mana:Hot>ko 1
+cast n 'bli' 1.spider
+You start to concentrate...
+
+Some of Frychra's eyes become glazed.
+
+!O CW Mana:Hot>
+Frychra panics, and attempts to flee.
+
+!O CW Mana:Hot>
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW Mana:Hot>ko 1
+cast n 'bli' 1.spider
+Nobody here by that name.
+Frychra has arrived from the west.
+
+!O CW Mana:Hot>ko 1
+cast n 'bli' 1.spider
+You start to concentrate...
+
+Frychra strongly hits Caureondil (mo)'s left foot and tickles it.
+
+Ok.
+Frychra   ___ b l i n d 
+Frychra panics, and attempts to flee.
+Frychra leaves <<<< W E S T <<<<
+
+!O CW Mana:Warm>sa 3
+Ok.
+
+!O CW Mana:Warm>
+Caureondil (mo) leaves <<<< W E S T <<<<
+A Horrifying Chamber
+A bulky cocoon hangs from the ceiling.
+A strange white skull lies on the floor looking at you.
+Frychra the bone-white spider is lurking here.
+Exits/emulated: south, west.
+
+!O CW Mana:Warm>
+Caureondil (mo) tries to sneak behind Frychra...
+
+!O CW Mana:Warm>x cocoon
+examine cocoon
+This large bundle of cobwebs has a very peculiar form, as if a
+humanoid body
+was wrapped in it.
+
+!O CW Mana:Warm>
+Caureondil (mo) tries to pierce Frychra, but she parries successfully.
+
+!O CW Mana:Warm>
+Caureondil (mo) says 'can rest'
+
+!O CW Mana:Warm>
+Caureondil (mo) seems to avoid the fight.
+
+!O CW Mana:Warm>rest
+You sit down and rest your tired bones.
+
+!O CW Mana:Hot>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!O CW Mana:Hot>x cocoon
+examine cocoon
+This large bundle of cobwebs has a very peculiar form, as if a
+humanoid body
+was wrapped in it.
+
+!O CW Mana:Hot>x spider
+examine spider
+A very large, eight-legged spider is lurking here. Her long, slightly
+hairy
+legs are black and nimble. The big, round abdomen is white as bone;
+her entire
+body pulsates as she breathes. Two black-tipped fangs are clearly
+visible
+beneath the mouth, shining in the faint light. Eight watchful eyes
+seize all
+who enter, as she longs for another prey to suck the life force out
+of.
+Frychra has a few scratches.
+
+!O CW Mana:Hot>
+Caureondil (mo) leaves his hiding place.
+Caureondil (mo) places a black runed dagger in the back of Frychra,
+resulting in some strange noises and some blood.
+
+!O CW Mana:Hot>
+Caureondil (mo) seems to avoid the fight.
+
+!O CW Mana:Hot>
+Frychra bleeds from open wounds.
+
+!O CW Mana:Hot>
+Frychra bites Caureondil (mo)!
+
+!O CW Mana:Hot>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!O CW Mana:Hot>
+Caureondil (mo) tries to pierce Frychra, but she parries successfully.
+
+!O CW Mana:Hot>
+Caureondil (mo) seems to avoid the fight.
+
+!O CW Mana:Hot>look
+A Horrifying Chamber
+A bulky cocoon hangs from the ceiling.
+A strange white skull lies on the floor looking at you.
+Frychra is here, fighting Caureondil (mo).
+Caureondil (mo) is here, fighting Frychra (glowing).
+Exits/emulated: south, east. - s:(random) e:(random).
+
+!O CW Mana:Hot>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!O CW Mana:Hot>
+A cocoon swings in the air.
+
+!O CW Mana:Hot>
+Caureondil (mo) tries to pierce Frychra, but she parries successfully.
+
+!O CW Mana:Hot>
+Caureondil (mo) seems to avoid the fight.
+
+!O CW Mana:Hot>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!O CW Mana:Hot>
+Caureondil (mo) has arrived from the south.
+
+!O CW Mana:Hot>
+Caureondil (mo) tries to sneak behind Frychra...
+
+!O CW Mana:Hot>st
+stat
+OB: 59%, DB: 6%, PB: 49%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 276,462 xp, 0 tp. Lauren: 55. Alert: normal.
+Affected by:
+- bless    (☼ 9m39s  )
+- potion
+- strength (💪 43m48s  )
+- shield   (⛉ 23m23s  )
+- armour   (🧥 23m16s  )
+- vigour
+- growth
+
+!O CW Mana:Hot>sta
+You stop resting and stand up.
+Caureondil (mo) places a black runed dagger in the back of Frychra,
+resulting in some strange noises and some blood.
+
+!O CW Mana:Hot>ar
+cast n 'armour'
+Caureondil (mo) seems to avoid the fight.
+Frychra barely hits Caureondil (mo)'s left hand and tickles it.
+
+!O CW Mana:Hot>
+You start to concentrate...
+
+The light of Aman fades away from you.
+     B L E S S   O F F
+
+The spell lasted 9m42s.
+
+rest
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+You were not able to keep your concentration while moving.
+Chamber Covered by Spider Webs
+The rib-bone of an animated skeleton lies here.
+Exits/emulated: south, east. - s:(random) e:(random).
+
+!O CW Mana:Hot>
+You sit down and rest your tired bones.
+Caureondil (mo) leaves north sneaking.
+
+!O CW Mana:Hot>sta
+You stop resting and stand up.
+
+!O CW Mana:Hot>use staff
+You raise your staff and call upon the Valar.
+You begin to feel the light of Aman shine upon you.
+
+!O CW Mana:Hot>north
+A Horrifying Chamber
+A bulky cocoon hangs from the ceiling.
+A strange white skull lies on the floor looking at you.
+Frychra the bone-white spider is lurking here.
+You have found Caureondil (mo)!
+Exits/emulated: south, east. - s:(random) e:(random).
+
+!O CW Mana:Hot>rest
+You sit down and rest your tired bones.
+
+!O CW Mana:Hot>
+Caureondil (mo) tries to pierce Frychra, but she parries successfully.
+
+!O CW Mana:Hot>
+Caureondil (mo) seems to avoid the fight.
+
+!O CW Mana:Hot>
+A pungent brew decays into dust in your hands.
+
+!O CW Mana:Hot>
+Caureondil (mo) escaped the fight.
+Caureondil (mo) leaves vvvv S O U T H vvvv
+
+!O CW Mana:Hot>
+Caureondil (mo) has arrived from the south.
+
+!O CW Mana:Hot>
+Caureondil (mo) tries to sneak behind Frychra...
+
+!O CW Mana:Hot>
+Caureondil (mo) places a black runed dagger in the back of Frychra,
+resulting in some strange noises, a lot of blood and a corpse.
+You receive your share of experience.
+Congratulations! This is the first time you've killed it!
+You hear Frychra's death cry as she collapses.
+Frychra is dead! R.I.P.
+get all.coins corpse
+Some of the great, sticky webs seem to wither and droop.
+You achieved something new!
+You slew the spider Frychra in her lair, deep in the forest of
+Mirkwood.
+
+!O CW Mana:Hot>
+Caureondil (mo) leaves >>>> E A S T >>>>
+Needed: 267593 xp, 0 tp.
+Total: 47982407 xp, 249566 tp.
+You gained 8869 xp.
+
+!O CW Mana:Hot>
+You can't find any coins in the corpse.
+
+!O CW Mana:Hot>sta
+You stop resting and stand up.
+
+!O CW Mana:Hot>
+   A R M O U R   D O W N
+The spell lasted 23m37s.
+
+!O CW Mana:Hot>xc
+look in 1.corpse
+You suddenly notice Caureondil (mo).
+Caureondil (mo) says 'cut cocoon'
+
+!O CW Mana:Hot>
+In the corpse (here):
+Nothing.
+
+!O CW Mana:Hot>ar
+cast n 'armour'
+You start to concentrate...
+
+A blue transparent wall slowly appears around you.
+
+!O CW Mana:Warm>cut concentrate
+You do not see anything like that.
+
+!O CW Mana:Hot>
+!O CW Mana:Hot>cut cocoon
+You quickly cut the withered threads open and a corpse tumbles down.
+
+!O CW Mana:Warm>
+Caureondil (mo) says 'gac'
+
+!O CW Mana:Warm>gac
+get all corpse
+You get some gold coins from a husk.
+There were 3 lauren coins.
+You get a gem-inlaid knife from a husk.
+You get a forest green cloak from a husk.
+You get a Dunadan blade from a husk.
