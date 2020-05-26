@@ -1,0 +1,318 @@
+!. CRW HP:Fine Mana:Burning>
+*Ogluk the Orc* has arrived from the south riding a hungry warg.
+
+!. CRW HP:Fine Mana:Burning>
+*Ogluk the Orc* lightly pounds your right hand and tickles it.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Healthy>
+You feel bolder.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Healthy>na Ogluk
+Ok.
+You barely pierce *Ogluk the Orc*'s left arm and tickle it.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>
+
+*Ogluk the Orc* B A S H E S you
+
+flee
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>
+
+A swallow makes a circle high in the sky and flies away at a great speed.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>na Ogluk igrove gate
+
+Kanur tells you 'nordish, near orc caves'
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>
+
+*Ogluk the Orc* pounds your left hand and tickles it.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>
+        You recover from B A S H
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>
+You flee head over heels.
+You flee north.
+Under the Watchtower
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Burning>
+Ok.
+
+!. CRW HP:Fine Mana:Burning>na Ogluk igrove gate
+Ok.
+
+!. CRW HP:Fine Mana:Burning>xx
+*Ogluk the Orc* has arrived from the west riding a hungry warg.
+
+!. CRW HP:Fine Mana:Burning>alias ko cast 'blind' &.orc
+Ok.
+
+!. CRW HP:Fine Mana:Burning>
+*Ogluk the Orc* lightly pounds your right foot and tickles it.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Healthy>flee
+You flee head over heels.
+You flee west.
+Wide Path
+A large rabbit looks peacefully at you, ready to dart away.
+Exits: -north-, east, -south-, -west-.
+
+!. CRW HP:Fine Mana:Burning>west
+*Ogluk the Orc* has arrived from the east riding a hungry warg.
+Bend in the Old Forest Road
+A fat rabbit is here, chewing on some grass.
+A brown fox is here, looking for some rabbits to chew up.
+Exits: north, -east-, -south-, -west-.
+
+!. CRW HP:Fine Mana:Burning>east
+Wide Path
+A large rabbit looks peacefully at you, ready to dart away.
+*Ogluk the Orc* is here, riding a hungry warg.
+Exits: -north-, east, -south-, -west-.
+*Ogluk the Orc* quickly approaches, trying to pound you.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Healthy>
+You barely pierce *Ogluk the Orc*'s body and tickle it.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>ko 1
+cast 'blind' 1.orc
+You start to concentrate...
+
+flee
+*Ogluk the Orc* panics, and attempts to flee.
+Your victim has disappeared!
+*Ogluk the Orc* leaves west riding a hungry warg.
+
+!. CRW HP:Fine Mana:Burning>
+You flee head over heels.
+You flee south.
+Old Forest Road
+A colourful butterfly is fluttering around here.
+A colourful butterfly is fluttering around here.
+Exits: -north-, -east-, south, -west-.
+
+!. CRW HP:Fine Mana:Burning>
+A large rabbit has arrived from the north.
+
+!. CRW HP:Fine Mana:Burning>west
+Bend in the Old Forest Road
+A small grasshopper clings to a blade of grass, ready to spring.
+Exits: -north-, -east-, south, -west-.
+
+!. CRW HP:Fine Mana:Burning>east
+Old Forest Road
+A colourful butterfly is fluttering around here.
+A colourful butterfly is fluttering around here.
+A large rabbit looks peacefully at you, ready to dart away.
+Exits: -north-, -east-, south, -west-.
+
+!. CRW HP:Fine Mana:Burning>east
+At the Gates of Ingrove
+Traces of intense white tones form the aura of this place.
+Exits: north, [east], -south-, -west-.
+
+!. CRW HP:Fine Mana:Burning>ko 1
+cast 'blind' 1.orc
+Nobody here by that name.
+
+!. CRW HP:Fine Mana:Burning>wher
+Players in your zone
+--------------------
+Iminye               - At the Gates of Ingrove
+
+!. CRW HP:Fine Mana:Burning>north
+Under the Watchtower
+A great male deer with reddish hair and twisted antlers stands here proudly.
+A soft-skinned female deer wanders peacefully among the grass.
+A reddish fawn romps harmlessly among the tender grass shoots.
+*Ogluk the Orc* is here, riding a hungry warg.
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Burning>north
+north
+You swiftly dodge *Ogluk the Orc*'s attempt to pound you.
+No way! You are fighting for your life!
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Healthy>
+No way! You are fighting for your life!
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Healthy>
+*Ogluk the Orc* swiftly dodges a large red deer's attempt to hit him.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Healthy>flee
+You flee head over heels.
+You flee north.
+Winding Faint Path
+Exits: -north-, east, south, -west-.
+
+!. CRW HP:Fine Mana:Burning>
+*Ogluk the Orc* has arrived from the south riding a hungry warg.
+
+!. CRW HP:Fine Mana:Burning>west
+Narrowing Path
+Exits: north, -east-, -south-, west.
+
+!. CRW HP:Fine Mana:Burning>
+*Ogluk the Orc* has arrived from the east riding a hungry warg.
+
+!. CRW HP:Fine Mana:Burning>south
+Wide Path
+Exits: -north-, east, -south-, -west-.
+*Ogluk the Orc* has arrived from the north riding a hungry warg.
+
+!. CRW HP:Fine Mana:Burning>west
+Bend in the Old Forest Road
+A fat rabbit is here, chewing on some grass.
+A brown fox is here, looking for some rabbits to chew up.
+Exits: north, -east-, -south-, -west-.
+
+!. CRW HP:Fine Mana:Burning>
+*Ogluk the Orc* has arrived from the north riding a hungry warg.
+
+!. CRW HP:Fine Mana:Burning>west
+You swiftly dodge *Ogluk the Orc*'s attempt to pound you.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Healthy>
+No way! You are fighting for your life!
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Healthy>
+You strongly pierce *Ogluk the Orc*'s right leg and tickle it.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>flee
+You flee head over heels.
+You flee east.
+Wide Path
+Exits: -north-, east, -south-, -west-.
+
+!. CRW HP:Fine Mana:Burning>west
+*Ogluk the Orc* has arrived from the west riding a hungry warg.
+Bend in the Old Forest Road
+A fat rabbit is here, chewing on some grass.
+A brown fox is here, looking for some rabbits to chew up.
+Exits: north, -east-, -south-, -west-.
+
+!. CRW HP:Fine Mana:Burning>west
+Old Forest Road
+Exits: north, -east-, -south-, -west-.
+
+!. CRW HP:Fine Mana:Burning>west
+Old Forest Road
+An angry bee is here, collecting nectar from all the flowers of the garden.
+Exits: north, -east-, south, -west-.
+
+!. CRW HP:Fine Mana:Burning>east
+Old Forest Road
+*Ogluk the Orc* is here, riding a hungry warg.
+Exits: north, -east-, -south-, -west-.
+
+!. CRW HP:Fine Mana:Burning>
+*Ogluk the Orc* leaves east riding a hungry warg.
+
+!. CRW HP:Fine Mana:Burning>ko 1
+cast 'blind' 1.orc
+Nobody here by that name.
+
+!. CRW HP:Fine Mana:Burning>
+*Ogluk the Orc* has arrived from the east riding a hungry warg.
+
+!. CRW HP:Fine Mana:Burning>
+You swiftly dodge *Ogluk the Orc*'s attempt to pound you.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>west
+ko 1
+No way! You are fighting for your life!
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>
+cast 'blind' 1.orc
+You start to concentrate...
+
+flee
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>
+
+*Ogluk the Orc* B A S H E S you
+Argh! You cannot concentrate any more...
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>stare
+
+The huge, black bear has arrived from the north.
+*Ogluk the Orc* lightly pounds your right leg and tickles it.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>
+
+The huge, black bear hits *Ogluk the Orc*'s left foot extremely hard.
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>
+        You recover from B A S H
+
+!. CRW HP:Fine Mana:Burning *Ogluk the Orc*:Fine>x Ogluk
+examine Ogluk
+You flee head over heels.
+You flee west.
+Old Forest Road
+Exits: north, -east-, south, -west-.
+
+!. CRW HP:Fine Mana:Burning>
+You stare at the sky.
+
+!. CRW HP:Fine Mana:Burning>
+You don't see an Ogluk.
+
+!. CRW HP:Fine Mana:Burning>east
+Old Forest Road
+*Ogluk the Orc* is here, riding a hungry warg, fighting the huge, black bear.
+The huge, black bear is here, fighting *Ogluk the Orc* (glowing).
+Exits: north, -east-, -south-, -west-.
+
+!. CRW HP:Fine Mana:Burning>bli orc
+cast n 'bli' orc
+You start to concentrate...
+
+*Ogluk the Orc* hurls himself at the huge, black bear, but flies back stunned.
+
+The huge, black bear hits *Ogluk the Orc*'s body extremely hard and shatters it.
+
+Alas! There was no clear line of sight to him!
+
+!. CRW HP:Fine Mana:Burning>cast  q  'dispel e' *orc*
+You start to concentrate...
+The huge, black bear utters a deafening growl.
+You feel an unbearable pain as your eardrums nearly burst.
+Argh! You cannot concentrate any more...
+
+!. CRW HP:Fine Mana:Burning>cast  q  'dispel e' *orc*
+cast  q  'dispel e' *orc*
+You start to concentrate...
+
+cast  q  'dispel e' *orc*
+The huge, black bear utters a deafening growl.
+You feel an unbearable pain as your eardrums nearly burst.
+Argh! You cannot concentrate any more...
+
+!. CRW HP:Fine Mana:Burning>cast  q  'dispel e' *orc*
+cast  q  'dispel e' *orc*
+You start to concentrate...
+
+cast  q  'dispel e' *orc*
+The huge, black bear hits *Ogluk the Orc*'s left leg extremely hard and shatters
+it.
+
+cast  q  'dispel e' *orc*
+Ok.
+As you call upon Elbereth, *Ogluk the Orc* shivers in pain.
+*Ogluk the Orc* dismounts from a hungry warg, and stops riding it.
+*Ogluk the Orc* is incapacitated and will slowly die, if not aided.
+
+!. CRW HP:Fine Mana:Hot>cast  q  'dispel e' *orc*
+You start to concentrate...
+
+cast  q  'dispel e' *orc*
+cast  q  'dispel e' *orc*
+The huge, black bear utters a deafening growl.
+You feel an unbearable pain as your eardrums nearly burst.
+You gained some renown in this battle!
+You hear *Ogluk the Orc*'s death cry as he collapses.
+*Ogluk the Orc* has drawn his last breath! R.I.P.
+A shadow slowly rises above the corpse of *Ogluk the Orc*.
+Your victim has disappeared!
