@@ -1064,8 +1064,6 @@ You hear *a Woman*'s death cry as she collapses.
 A shadow slowly rises above the corpse of *a Woman*.
 
 !f~ CR HP:Fine Mana:Hot>
-Needed: 796422 xp, 0 tp.
-Total: 89203578 xp, 600699 tp.
 You gained 100000 xp.You gained 139 tp.
 
 |   1,  1%,  #Bayonetta  
