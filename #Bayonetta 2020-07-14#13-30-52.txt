@@ -1,0 +1,1074 @@
+Cliff
+There is some snow on the ground.
+*a Woman* is standing here.
+Exits: north, east.
+Aha, you have found your victim!
+
+*< CR HP:Fine>cast q 'harm' *man*
+A huge stone giant (aa) strongly hits *a Woman*'s left leg and tickles it.
+
+*< CR HP:Fine>
+You start to concentrate...
+A huge stone giant (bb) hits *a Woman*'s right leg hard.
+
+*a Woman* seems to avoid the fight.
+
+Ok.
+As you call on ancient powers, *a Woman* twists in great pain.
+
+*< CR HP:Fine Mana:Burning>cast q 'dispel e' *man*
+*a Woman* panics, and attempts to flee.
+*a Woman* leaves >>>> E A S T >>>>
+
+*< CR HP:Fine Mana:Burning>
+Nobody here by that name.
+
+*< CR HP:Fine Mana:Burning>east
+Cliff
+There is some snow on the ground.
+Exits: north, east, west.
+
+*< CR HP:Fine Mana:Burning>tr *man*
+You carefully examine the ground around you, looking for tracks...
+You see some apparent, bloody tracks of *a Man* leading east, done less than 1
+hour ago.
+
+*< CR HP:Fine Mana:Burning>east
+Dark Forest
+There is some snow on the ground.
+Exits: north, east, west.
+
+You see some apparent, bloody tracks of *a Man* leading east, done less than 1
+hour ago.
+
+!f CR HP:Fine Mana:Burning>east
+Rotten Forest
+There is some snow on the ground.
+A huge warg is here, moving in for the kill.
+Exits: north, east, west.
+
+You see some apparent, bloody tracks of *a Man* leading east, done less than 1
+hour ago.
+
+*f CR HP:Fine Mana:Burning>east
+Cliff
+There is some snow on the ground.
+Exits: north, east, west.
+
+You see some apparent, bloody tracks of *a Man* leading east, done less than 1
+hour ago.
+
+*< CR HP:Fine Mana:Burning>
+The sun disappears in the west and darkness comes over the land.
+
+*< CR HP:Fine Mana:Burning>east
+Cliff
+There is some snow on the ground.
+Exits: north, east, west.
+
+You see some apparent, bloody tracks of *a Man* leading east, done less than 1
+hour ago.
+
+*< CR HP:Fine Mana:Burning>east
+Edge of the Cliff
+There is some snow on the ground.
+Exits: north, ~\east/~, west.
+
+You see some apparent, bloody tracks of *a Man* leading east, done less than 1
+hour ago.
+
+*< CR HP:Fine Mana:Burning>east
+You cannot ride there.
+
+*< CR HP:Fine Mana:Burning>north
+Rocky Plain
+There is some snow on the ground.
+Exits: north, east, south, west.
+
+north
+Hmm... you have lost the track.
+
+*< CR HP:Fine Mana:Burning>
+Path to Angmar
+There is some snow on the ground.
+Exits: north, -east-, south, -west-.
+
+*( CR HP:Fine Mana:Burning>east
+Path to Angmar
+There is some snow on the ground.
+Exits: -east-, -west-.
+
+*( CR HP:Fine Mana:Burning>east
+Path to Angmar
+There is some snow on the ground.
+The corpse of a hungry warg is lying here.
+Bodies lie piled on a funeral pyre, the flames consuming the flesh.
+Exits: -north-, ~east~, ~south~, -west-.
+A light snow begins to fall upon the ground.
+
+*.* CR HP:Fine Mana:Burning>south
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: north, ~east~, ~south~.
+The water is frozen solid.
+
+*~* CR HP:Fine Mana:Burning>south
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, south, ~west~.
+
+*~* CR HP:Fine Mana:Burning>tr *man*
+You carefully examine the ground around you, looking for tracks...
+A huge stone giant (bb) sits down and rests.
+
+A huge stone giant (bb) stops resting and stands up.
+
+non
+cast n 'breath of b'
+A huge stone giant (aa) sits down and rests.
+
+A huge stone giant (aa) stops resting and stands up.
+
+ww
+order followers wake;order followers stand
+Hmm... It seems there is no sign of *man* here.
+
+*~* CR HP:Fine Mana:Burning>
+You start to concentrate...
+
+west
+A huge stone giant (bb) sits down and rests.
+
+tr *man*
+An energy begins to flow within your legs as your body becomes lighter.
+
+*~* CR HP:Fine Mana:Hot>
+Ok.
+A huge stone giant (bb) stops resting and stands up.
+
+*~* CR HP:Fine Mana:Hot>
+Ok.
+
+*~* CR HP:Fine Mana:Hot>
+Northern Branch of the Bruinen
+There is some snow on the ice.
+*a Woman* is standing here.
+Exits: ~east~, south, /west\.
+The clouds suddenly disappear.
+
+*~ CR HP:Fine Mana:Hot>
+You carefully examine the ground around you, looking for tracks...
+
+cast q 'harm' *man*
+tr *man*
+*a Woman* panics, and attempts to flee.
+*a Woman* leaves >>>> E A S T >>>>
+
+cast q 'dispel e' *man*
+east
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+*~ CR HP:Fine Mana:Hot>
+Nobody here by that name.
+
+*~ CR HP:Fine Mana:Hot>
+You stop tracking your victim.
+You carefully examine the ground around you, looking for tracks...
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+*~ CR HP:Fine Mana:Hot>
+Nobody here by that name.
+
+*~ CR HP:Fine Mana:Hot>
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, south, ~west~.
+A light flurry of snow begins to fall down upon the water.
+
+You see some faint tracks of *a Man* leading north, done less than 1 hour ago.
+
+*~* CR HP:Fine Mana:Hot>north
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: north, ~east~, ~south~.
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+*~* CR HP:Fine Mana:Hot>east
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, ~west~.
+
+You see some faint tracks of *a Man* leading north, done less than 1 hour ago.
+
+*~* CR HP:Fine Mana:Hot>north
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~east~, ~south~, west.
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+*~* CR HP:Fine Mana:Hot>east
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, east, ~west~.
+
+You see some faint tracks of *a Man* leading north, done less than 1 hour ago.
+
+*~* CR HP:Fine Mana:Hot>north
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, east, ~south~, west.
+
+You see some faint tracks of *a Man* leading west, done less than 1 hour ago.
+
+*~* CR HP:Fine Mana:Hot>west
+Path to Angmar
+There is some snow on the ground.
+Exits: -north-, ~east~, -west-.
+The ground is frozen solid.
+
+You see some apparent tracks of *a Man* leading west, done less than 1 hour ago.
+
+*.* CR HP:Fine Mana:Hot>west
+Path to Angmar
+There is some snow on the ground.
+Exits: -east-, -south-.
+
+You see some apparent tracks of *a Man* leading south, done less than 1 hour
+ago.
+
+*.* CR HP:Fine Mana:Hot>south
+Path to Angmar
+There is some snow on the ground.
+The corpse of a hungry warg is lying here.
+Bodies lie piled on a funeral pyre, the flames consuming the flesh.
+Exits: -north-, ~east~, ~south~, -west-.
+
+You see some apparent tracks of *a Man* leading west, done less than 1 hour ago.
+
+*.* CR HP:Fine Mana:Hot>west
+Path to Angmar
+There is some snow on the ground.
+Exits: -east-, -west-.
+The clouds suddenly disappear.
+
+You see some apparent tracks of *a Man* leading west, done less than 1 hour ago.
+
+*( CR HP:Fine Mana:Burning>west
+Path to Angmar
+There is some snow on the ground.
+Exits: north, -east-, south, -west-.
+
+You see some apparent tracks of *a Man* leading south, done less than 1 hour
+ago.
+
+*( CR HP:Fine Mana:Burning>south
+Rocky Plain
+There is some snow on the ground.
+Exits: north, east, south, west.
+
+You see some apparent tracks of *a Man* leading west, done less than 1 hour ago.
+
+*< CR HP:Fine Mana:Burning>west
+Bend in the Path
+There is some snow on the ground.
+Exits: -north-, east, south, -west-.
+
+You see some apparent tracks of *a Man* leading west, done less than 1 hour ago.
+
+*( CR HP:Fine Mana:Burning>west
+Gentle Path
+There is some snow on the ground.
+Exits: north, -east-, south, -west-.
+
+You see some apparent tracks of *a Man* leading south, done less than 1 hour
+ago.
+
+*( CR HP:Fine Mana:Burning>south
+Cliff
+There is some snow on the ground.
+Exits: north, east, west.
+
+You see some clear tracks of *a Man* leading west, done less than 1 hour ago.
+
+*< CR HP:Fine Mana:Burning>west
+Rotten Forest
+There is some snow on the ground.
+Exits: north, east, west.
+
+You see some apparent tracks of *a Man* leading west, done less than 1 hour ago.
+
+*f CR HP:Fine Mana:Burning>
+The night has begun.
+
+!f CR HP:Fine Mana:Burning>west
+Dark Forest
+There is some snow on the ground.
+A huge warg is here, moving in for the kill.
+Exits: north, east, west.
+
+You see some apparent tracks of *a Man* leading west, done less than 1 hour ago.
+
+!f CR Mana:Burning>west
+Cliff
+There is some snow on the ground.
+Exits: north, east, west.
+
+You see some clear tracks of *a Man* leading west, done less than 1 hour ago.
+
+!< CR Mana:Burning>west
+Cliff
+There is some snow on the ground.
+A white wolf is here.
+A white wolf is here.
+Exits: north, east.
+
+You see some clear tracks of *a Man* leading north, done less than 1 hour ago.
+
+!< CR Mana:Burning>north
+Rocky Path
+There is some snow on the ground.
+Exits: north, -east-, south, -west-.
+
+You see some apparent tracks of *a Man* leading west, done less than 1 hour ago.
+
+!( CR Mana:Burning>west
+Bend in the Path
+There is some snow on the ground.
+*a Woman* is standing here.
+Exits: north, -east-, -south-.
+Aha, you have found your victim!
+
+!( CR Mana:Burning>cast q 'dispel e' *man*
+You start to concentrate...
+*a Woman* leaves >>>> E A S T >>>>
+Your victim has disappeared!
+
+!( CR Mana:Burning>east
+cast q 'dispel e' *man*
+Rocky Path
+There is some snow on the ground.
+Exits: north, -east-, south, -west-.
+
+!( CR Mana:Burning>
+Nobody here by that name.
+
+!( CR Mana:Burning>kill *man*
+They aren't here.
+
+!( CR Mana:Burning>east
+Rocky and Foggy Path
+There is some snow on the ground.
+Exits: north, -east-, south, -west-.
+
+!( CR Mana:Burning>east
+Rocky and Foggy Path
+There is some snow on the ground.
+A black crow flies low to the ground here, looking for carrion to eat.
+Exits: north, -east-, south, -west-.
+
+!( CR Mana:Burning>tr *man*
+You carefully examine the ground around you, looking for tracks...
+
+shr
+Hmm... It seems there is no sign of *man* here.
+
+!( CR Mana:Burning>
+cast n 'shr'
+You start to concentrate...
+A black crow leaves ^^^^ N O R T H ^^^^
+
+west
+You are surrounded by a misty shroud.
+
+!( CR Mana:Burning>
+Rocky and Foggy Path
+There is some snow on the ground.
+Exits: north, -east-, south, -west-.
+
+!( CR Mana:Burning>
+!( CR Mana:Burning>shr
+cast n 'shr'
+You start to concentrate...
+
+!( CR Mana:Burning>tr *man*
+You carefully examine the ground around you, looking for tracks...
+
+Hmm... It seems there is no sign of *man* here.
+
+!( CR Mana:Burning>west
+Rocky Path
+There is some snow on the ground.
+Exits: north, -east-, south, -west-.
+
+!( CR Mana:Burning>tr *man*
+You carefully examine the ground around you, looking for tracks...
+You see some apparent tracks of *a Man* leading south, done less than 1 hour
+ago.
+
+!( CR Mana:Burning>south
+Cliff
+There is some snow on the ground.
+A white wolf is here.
+A white wolf is here.
+Exits: north, east.
+
+You see some clear tracks of *a Man* leading east, done less than 1 hour ago.
+
+!< CR Mana:Burning>east
+Cliff
+There is some snow on the ground.
+Exits: north, east, west.
+
+You see some clear tracks of *a Man* leading east, done less than 1 hour ago.
+
+!< CR Mana:Burning>east
+Dark Forest
+There is some snow on the ground.
+Exits: north, east, west.
+
+You see some apparent tracks of *a Man* leading east, done less than 1 hour ago.
+
+!f CR Mana:Burning>east
+Rotten Forest
+There is some snow on the ground.
+A huge warg is here, moving in for the kill.
+Exits: north, east, west.
+
+You see some apparent tracks of *a Man* leading east, done less than 1 hour ago.
+
+!f CR Mana:Burning>east
+Cliff
+There is some snow on the ground.
+Exits: north, east, west.
+
+You see some clear tracks of *a Man* leading east, done less than 1 hour ago.
+
+!< CR Mana:Burning>east
+Cliff
+There is some snow on the ground.
+Exits: north, east, west.
+
+You see some clear tracks of *a Man* leading east, done less than 1 hour ago.
+
+!< CR Mana:Burning>east
+Edge of the Cliff
+There is some snow on the ground.
+Exits: north, ~\east/~, west.
+
+You see some clear tracks of *a Man* leading east, done less than 1 hour ago.
+
+!< CR Mana:Burning>lead pa
+You stop riding a horse of the Rohirrim (pa).
+A horse of the Rohirrim (pa) starts following you.
+
+!< C Mana:Burning>east
+You carefully try to walk on the frozen water.
+Northern Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~east~, south, /west\.
+The water is frozen solid.
+ACK! A horse of the Rohirrim didn't follow you, you lost him.
+ACK! A huge stone giant didn't follow you, you lost him.
+ACK! A huge stone giant didn't follow you, you lost him.
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+!~ C Mana:Burning>east
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, south, ~west~.
+Cloud banks assemble in the sky above the water.
+
+You see some faint tracks of *a Man* leading north, done less than 1 hour ago.
+
+!~~ C Mana:Burning>north
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: north, ~east~, ~south~.
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+!~~ C Mana:Burning>east
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, ~west~.
+
+You see some faint tracks of *a Man* leading north, done less than 1 hour ago.
+
+!~~ C Mana:Burning>north
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~east~, ~south~, west.
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+!~~ C Mana:Burning>east
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, east, ~west~.
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+!~~ C Mana:Burning>east
+You carefully try to walk on the frozen water.
+Some Woods
+There is some snow on the ground.
+A woody evergreen plant grows here, with many stems reaching upward.
+*a Woman* is resting here.
+Exits: north, ~west~.
+Note: Herb: rosemary
+The ground is frozen solid.
+Aha, you have found your victim!
+
+!f~ C Mana:Burning>cast q 'dispel e' *man*
+You start to concentrate...
+
+*a Woman* stops resting and clambers to her feet.
+
+*a Woman* leaves <<<< W E S T <<<<
+Your victim has disappeared!
+
+!f~ C Mana:Burning>west
+cast q 'dispel e' *man*
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+*a Woman* is standing here.
+Exits: ~north~, east, ~west~.
+The water is frozen solid.
+
+!~~ C Mana:Burning>
+You start to concentrate...
+
+*a Woman* leaves <<<< W E S T <<<<
+Your victim has disappeared!
+
+!~~ C Mana:Burning>west
+kill *man*
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~east~, ~south~, west.
+
+!~~ C Mana:Burning>
+They aren't here.
+
+!~~ C Mana:Burning>cast q 'dispel e' *man*
+Nobody here by that name.
+
+!~~ C Mana:Burning>south
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, ~west~.
+
+!~~ C Mana:Burning>north
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~east~, ~south~, west.
+
+!~~ C Mana:Burning>tr *man*
+You carefully examine the ground around you, looking for tracks...
+
+You see some faint tracks of *a Man* leading south, done less than 1 hour ago.
+
+!~~ C Mana:Burning>south
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, ~west~.
+
+You see some faint tracks of *a Man* leading west, done less than 1 hour ago.
+
+!~~ C Mana:Burning>west
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: north, ~east~, ~south~.
+
+You see some faint tracks of *a Man* leading south, done less than 1 hour ago.
+
+!~~ C Mana:Burning>south
+You carefully try to walk on the frozen water.
+Branch of the Bruinen
+There is some snow on the ice.
+*a Woman* is standing here trying to concentrate.
+Exits: ~north~, south, ~west~.
+Aha, you have found your victim!
+
+!~~ C Mana:Burning>kill *man*
+You feel more exposed.
+*a Woman* swiftly dodges your attempt to pierce her.
+
+!~~ C Mana:Burning *a Woman*:Fine>cast q 'dispel e' *man*
+You start to concentrate...
+
+*a Woman* barely pierces your head and tickles it.
+Argh! You cannot concentrate any more...
+
+!~~ C HP:Fine Mana:Burning *a Woman*:Fine>
+*a Woman* panics, and attempts to flee.
+*a Woman* leaves vvvv S O U T H vvvv
+
+!~~ C HP:Fine Mana:Burning>cast q 'dispel e' *man*
+Nobody here by that name.
+
+!~~ C HP:Fine Mana:Burning>south
+You carefully try to walk on the frozen water.
+Steppes
+There is some snow on the ground.
+Exits: ~north~, -east-, ~south~, -west-.
+The ground is frozen solid.
+
+!f~ C HP:Fine Mana:Burning>tr *man*
+You carefully examine the ground around you, looking for tracks...
+You see some apparent tracks of *a Man* leading west, done less than 1 hour ago.
+
+!f~ C HP:Fine Mana:Burning>west
+Hastily Built Bridge over a River
+There is some snow on the ice.
+Exits: ~north~, -east-, ~south~, -west-.
+The clouds begin to disappear.
+The water is frozen solid.
+
+You see some apparent tracks of *a Man* leading south, done less than 1 hour
+ago.
+
+!% C HP:Fine Mana:Burning>north
+You carefully try to walk on the frozen water.
+Northern Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~east~, south, /west\.
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+!~ C HP:Fine Mana:Burning>
+!~ C HP:Fine>west
+You carefully try to walk on the frozen water.
+Edge of the Cliff
+There is some snow on the ground.
+A horse of the Rohirrim (pa) is standing here.
+A huge stone giant (bb) is standing here.
+A huge stone giant (aa) is standing here.
+Exits: north, ~\east/~, west.
+The ground is frozen solid.
+
+ride pa
+You see some clear tracks of *a Man* leading east, done less than 2 hours ago.
+
+!< C HP:Fine>
+A horse of the Rohirrim (pa) stops following you.
+You pick up a horse of the Rohirrim (pa)'s reins and start riding him.
+
+!< CR HP:Fine>north
+Rocky Plain
+There is some snow on the ground.
+Exits: north, east, south, west.
+
+north
+east
+You see some clear tracks of *a Man* leading west, done less than 2 hours ago.
+
+!< CR HP:Fine Move:Tired>
+Path to Angmar
+There is some snow on the ground.
+Exits: north, -east-, south, -west-.
+
+east
+You see some apparent tracks of *a Man* leading south, done less than 2 hours
+ago.
+
+!( CR HP:Fine Move:Tired>
+Path to Angmar
+There is some snow on the ground.
+Exits: -east-, -west-.
+
+You see some apparent tracks of *a Man* leading west, done less than 2 hours
+ago.
+
+!( CR HP:Fine Move:Tired>
+Path to Angmar
+There is some snow on the ground.
+The corpse of a hungry warg is lying here.
+Exits: -north-, ~east~, ~south~, -west-.
+Large clouds assemble in the sky above, covering the flat terrain with odd
+shadows.
+
+You see some apparent tracks of *a Man* leading west, done less than 2 hours
+ago.
+
+!.~ CR HP:Fine Move:Tired>south
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: north, ~east~, ~south~.
+The water is frozen solid.
+
+south
+You see some faint tracks of *a Man* leading south, done less than 1 hour ago.
+
+!~~ CR HP:Fine Move:Tired>
+Branch of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, south, ~west~.
+
+You see some faint tracks of *a Man* leading south, done less than 1 hour ago.
+
+!~~ CR HP:Fine Move:Tired>south
+Steppes
+There is some snow on the ground.
+Exits: ~north~, -east-, ~south~, -west-.
+The ground is frozen solid.
+
+You see some apparent tracks of *a Man* leading west, done less than 1 hour ago.
+
+!f~ CR HP:Fine Move:Tired>west
+Hastily Built Bridge over a River
+There is some snow on the ice.
+Exits: ~north~, -east-, ~south~, -west-.
+The clouds begin to disappear.
+The water is frozen solid.
+
+You see some apparent tracks of *a Man* leading south, done less than 1 hour
+ago.
+
+!% CR HP:Fine Move:Tired>bob
+cast n 'breath of b'
+You start to concentrate...
+
+south
+The energy in your legs is refreshed.
+
+!% CR HP:Fine Mana:Burning>
+Stream Crossing
+There is some snow on the ice.
+Exits: north, ~east~, south, west.
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+!~ CR Mana:Burning>east
+Tributary of the Bruinen
+There is some snow on the ice.
+Exits: north, ~east~, south, ~west~.
+Long clouds trail off into wisps above the water.
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+!~~ CR Mana:Burning>east
+Tributary of the Bruinen
+There is some snow on the ice.
+Exits: north, ~east~, south, ~west~.
+
+You see some faint tracks of *a Man* leading east, done less than 1 hour ago.
+
+!~~ CR Mana:Burning>
+!~~ CR Mana:Burning>east
+Tributary of the Bruinen
+There is some snow on the ice.
+Exits: ~north~, south, ~west~.
+
+You see some faint tracks of *a Man* leading south, done less than 1 hour ago.
+
+!~~ CR Mana:Burning>south
+Trail to the Misty Mountains
+There is some snow on the ground.
+Exits: ~north~, -east-, -west-.
+The ground is frozen solid.
+Some close noise can be heard from the east.
+
+You see some apparent tracks of *a Man* leading east, done less than 1 hour ago.
+
+!<~ CR Mana:Burning>east
+Bend in the Trail
+There is some snow on the ground.
+Exits: -north-, east, -west-.
+
+You see some apparent tracks of *a Man* leading east, done less than 1 hour ago.
+
+!<~ CR Mana:Burning>
+Some rather far noise can be heard from the east.
+
+!<~ CR Mana:Burning>
+Some rather far noise can be heard from the east.
+
+!<~ CR Mana:Burning>east
+Pine-Forest
+There is some snow on the ground.
+A brutish forest troll is hunting here, looking for some tasty flesh.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+Exits: north, east, south, west.
+
+You see some apparent tracks of *a Man* leading east, done less than 1 hour ago.
+
+!f~ CR Mana:Burning>east
+Pine-Forest
+There is some snow on the ground.
+A huge, black wolf is here, ready to devour.
+Exits: north, east, south, west. - n:(oneway).
+
+You see some apparent tracks of *a Man* leading east, done less than 1 hour ago.
+
+!f~ CR Mana:Burning>east
+You hear some close noise from the east.
+
+!f~ CR Mana:Burning>
+Pine-Forest
+There is some snow on the ground.
+A huge, black wolf is here, ready to devour.
+Exits: north, east, south, west.
+You hear some very close noise from the south.
+
+You see some apparent tracks of *a Man* leading south, done less than 1 hour
+ago.
+
+!f~ CR Mana:Burning>south
+Pine-Forest
+There is some snow on the ground.
+A huge, black wolf is here, ready to devour.
+A brutish forest troll is hunting here, looking for some tasty flesh.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A brutish forest troll is hunting here, looking for some tasty flesh.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+Exits: north, east, west.
+A huge, black wolf leaves <<<< W E S T <<<<
+
+You see some apparent tracks of *a Man* leading east, done less than 1 hour ago.
+
+!f~ CR Mana:Burning>
+A huge, black wolf has arrived from the east.
+
+!f~ CR Mana:Burning>
+A brutish forest troll barely crushes your left foot and tickles it.
+
+!f~ CR HP:Fine Mana:Burning a brutish forest troll:Healthy>east
+No way! You are fighting for your life!
+
+!f~ CR HP:Fine Mana:Burning a brutish forest troll:Healthy>
+An ugly forest troll tries to hit you, but your parry is successful.
+
+!f~ CR HP:Fine Mana:Burning a brutish forest troll:Healthy>flee
+An ugly forest troll tries to hit you, but your parry is successful.
+A brutish forest troll lightly crushes your head and tickles it.
+You flee head over heels.
+You flee north.
+Pine-Forest
+There is some snow on the ground.
+Exits: north, east, south, west.
+
+!f~ CR HP:Fine Mana:Burning>
+You stop tracking your victim.
+
+!f~ CR HP:Fine Mana:Burning>south
+Pine-Forest
+There is some snow on the ground.
+A brutish forest troll is hunting here, looking for some tasty flesh.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A brutish forest troll is hunting here, looking for some tasty flesh.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A disgusting forest troll is searching for fresh meat here.
+A huge stone giant (bb) is standing here.
+A huge stone giant (aa) is standing here.
+A huge, black wolf is here, ready to devour.
+Exits: north, east, west.
+Some close noise can be heard from the west.
+
+!f~ CR HP:Fine Mana:Burning>east
+Pine-Forest
+There is some snow on the ground.
+The leader of the pack of wargs stalks towards you, his dark eyes blazing.
+A huge warg is here, moving in for the kill.
+A huge warg is here, moving in for the kill.
+A huge warg is here, moving in for the kill.
+A ferocious warg is here, snarling angrily.
+A ferocious warg is here, snarling angrily.
+A ferocious warg is here, snarling angrily.
+A ferocious warg is here, snarling angrily.
+Exits: north, east, south, west.
+
+!f~ CR HP:Fine Mana:Burning>east
+A huge warg barely hits your left leg and tickles it.
+
+!f~ CR HP:Fine Mana:Burning a huge warg:Healthy>
+No way! You are fighting for your life!
+A huge warg says 'I will wunt you unxil you're dead, Elj!'
+A ferocious warg barely hits your body and tickles it.
+A ferocious warg barely hits your left leg and tickles it.
+
+!f~ CR HP:Fine Mana:Burning a huge warg:Healthy>
+A ferocious warg says 'I will xunh you until you're dead, Elt!'
+A ferocious warg says 'I hill wunh you unzil you're dead, Elf!'
+
+!f~ CR HP:Fine Mana:Burning a huge warg:Healthy>flee
+A huge warg barely hits your right arm and tickles it.
+You flee head over heels.
+You flee east.
+Low Hills
+There is some snow on the ground.
+Exits: north, east, west.
+
+!(~ CR HP:Fine Mana:Burning>
+Some close noise can be heard from the west.
+
+!(~ CR HP:Fine Mana:Burning>
+Some close noise can be heard from the west.
+
+!(~ CR HP:Fine Mana:Burning>west
+Pine-Forest
+There is some snow on the ground.
+A huge stone giant (bb) is standing here.
+A huge stone giant (aa) is standing here.
+Exits: north, east, south, west.
+Some very close noise can be heard from the west.
+
+!f~ CR HP:Fine Mana:Burning>east
+Low Hills
+There is some snow on the ground.
+Exits: north, east, west.
+
+!(~ CR HP:Fine Mana:Burning>east
+The High Hill
+There is some snow on the ground.
+Exits: north, east, south, west.
+
+!(~ CR HP:Fine Mana:Burning>shr
+cast n 'shr'
+You start to concentrate...
+
+tr *man*
+You are surrounded by a misty shroud.
+
+!(~ CR HP:Fine Mana:Burning>
+You carefully examine the ground around you, looking for tracks...
+You see some apparent tracks of *a Man* leading north, done less than 1 hour
+ago.
+
+!(~ CR HP:Fine Mana:Burning>
+You hear some apparently close noise from the north.
+
+!(~ CR HP:Fine Mana:Burning>north
+Low Hills
+There is some snow on the ground.
+A huge, black wolf is here, fighting *a Woman*.
+*a Woman* is here, fighting a huge, black wolf.
+Exits: north, east, south, west.
+Aha, you have found your victim!
+
+!(~ CR HP:Fine Mana:Burning>
+Some apparently close noise can be heard from the west.
+
+!(~ CR HP:Fine Mana:Burning>kill *man*
+You feel more exposed.
+You pierce *a Woman*'s right leg and tickle it.
+You hear some close noise from the east.
+A huge stone giant (aa) strongly hits *a Woman*'s left arm.
+
+!(~ CR HP:Fine Mana:Burning *a Woman*:Hurt a huge, black wolf:Fine>
+A huge stone giant (bb) hits *a Woman*'s left arm hard.
+
+!(~ CR HP:Fine Mana:Burning *a Woman*:Hurt a huge, black wolf:Fine>
+*a Woman* tried to escape but failed.
+*a Woman* panics, and attempts to flee.
+*a Woman* leaves ^^^^ N O R T H ^^^^
+
+!(~ CR HP:Fine Mana:Burning>cast q 'dispel e' *man*
+Nobody here by that name.
+
+!(~ CR HP:Fine Mana:Burning>north
+Pine-Forest
+There is some snow on the ground.
+Exits: north, east, south, west.
+
+!f~ CR HP:Fine Mana:Burning>kill *man*
+cast q 'burning hands' *man*
+They aren't here.
+A brutish forest troll has arrived from the east.
+An ugly forest troll has arrived from the east.
+An ugly forest troll has arrived from the east.
+An ugly forest troll has arrived from the east.
+
+!f~ CR HP:Fine Mana:Burning>
+Nobody here by that name.
+
+!f~ CR HP:Fine Mana:Burning>north
+Pine-Forest
+There is some snow on the ground.
+*a Woman* is standing here.
+Exits: north, east, south, west. - w:(oneway).
+You hear some close noise from the east.
+You hear some very close noise from the north.
+
+!f~ CR HP:Fine Mana:Burning>
+You hear some rather far noise from the north.
+
+!f~ CR HP:Fine Mana:Burning>
+*a Woman* swiftly dodges a huge stone giant (aa)'s attempt to hit her.
+
+!f~ CR HP:Fine Mana:Burning>kill *man*
+You pierce *a Woman*'s body.
+A huge stone giant (bb) hits *a Woman*'s left arm very hard and shatters it.
+
+!f~ CR HP:Fine Mana:Burning *a Woman*:Wounded a huge stone giant (aa):Healthy>
+*a Woman* panics, but can't stop fighting to flee.
+
+!f~ CR HP:Fine Mana:Burning *a Woman*:Wounded a huge stone giant (aa):Healthy>cast q
+'dispel e' *man*
+You start to concentrate...
+
+*a Woman* panics, and attempts to flee.
+*a Woman* leaves >>>> E A S T >>>>
+Your victim has disappeared!
+
+!f~ CR HP:Fine Mana:Burning>east
+cast q 'dispel e' *man*
+Pine-Forest
+There is a lot of snow on the ground.
+*a Woman* is standing here.
+Exits: north, east, south, west.
+
+!f~ CR HP:Fine Mana:Burning>
+You start to concentrate...
+
+kill *man*
+Ok.
+As you call upon Elbereth, *a Woman* shivers in pain.
+*a Woman* is stunned and will probably die soon.
+A huge stone giant (aa) hits *a Woman*'s left hand extremely hard and shatters
+it.
+*a Woman* is mortally wounded and will die soon if not aided.
+
+!f~ CR HP:Fine Mana:Hot *a Woman*:Dying>
+You're already fighting!
+A huge stone giant (bb) hits *a Woman*'s right foot extremely hard and shatters
+it.
+You feel more experienced.
+Congratulations! This is the first time you've killed it!
+You hear *a Woman*'s death cry as she collapses.
+*a Woman* has drawn her last breath! R.I.P.
+A shadow slowly rises above the corpse of *a Woman*.
+
+!f~ CR HP:Fine Mana:Hot>
+Needed: 796422 xp, 0 tp.
+Total: 89203578 xp, 600699 tp.
+You gained 100000 xp.You gained 139 tp.
+
+|   1,  1%,  #Bayonetta  
+
+whois Bayonetta
+Bayonetta the Witch Queen is a level twenty-five Black Numenorean Envoy.
