@@ -1,0 +1,172 @@
+You see some clear tracks of *a Troll* leading east, done less than 2 hours ago.
+
+!(~ CR Mana:Burning>east
+The door seems to be closed.
+
+!(~ CR Mana:Burning>oe
+open exit east
+Ok.
+
+!(~ CR Mana:Burning>lpa
+lead pa
+You stop riding a horse of the Rohirrim (pa).
+A horse of the Rohirrim (pa) starts following you.
+
+!(~ C Mana:Burning>sco e
+scout e
+You quietly scout eastwards...
+
+Illusionist's House
+Traces of fierce white tones form the aura of this place.
+The Illusionist is here, fighting *a Troll*.
+*a Troll* is here, fighting the Illusionist.
+Exits/emulated: north, south, {east}, west.
+
+You stop scouting.
+
+!(~ C Mana:Burning>east
+Illusionist's House
+Traces of fierce white tones form the aura of this place.
+The Illusionist is here, fighting *a Troll*.
+*a Troll* is here, fighting the Illusionist.
+Exits: (west), [down]. - d:chest.
+A horse of the Rohirrim (pa) has arrived from the west.
+Aha, you have found your victim!
+
+![ C Mana:Burning>
+The Illusionist utters the words 'burning hands'
+The Illusionist burns *a Troll*.
+
+![ C Mana:Burning>
+The Illusionist hits *a Troll*'s right leg extremely hard.
+
+![ C Mana:Burning>cw
+close exit west
+Ok.
+
+![ C Mana:Burning>bw
+cast n 'block d' exit w
+You start to concentrate...
+
+The Illusionist hits *a Troll*'s body extremely hard.
+
+The Illusionist avoids being bashed by *a Troll* who loses his balance.
+
+The Illusionist begins some strange incantations...
+
+The exit west seems to blur for a while.
+
+![ C Mana:Burning>cast q 'dispel e' *troll*
+You start to concentrate...
+
+cast q 'dispel e' *troll*
+The Illusionist utters the words 'burning hands'
+The Illusionist burns *a Troll*.
+
+Ok.
+You feel more exposed.
+As you call upon Elbereth, *a Troll* shivers in pain.
+
+![ C Mana:Hot>
+You start to concentrate...
+
+Ok.
+As you call upon Elbereth, *a Troll* shivers in pain.
+
+![ C Mana:Warm>
+*a Troll* panics, and attempts to flee.
+
+![ C Mana:Warm>con *troll*
+Easy.
+The Illusionist begins some strange incantations...
+
+![ C Mana:Warm>
+*a Troll* panics, and attempts to flee.
+
+![ C Mana:Warm>cast q 'harm' *troll*
+You start to concentrate...
+*a Troll* seems to avoid the fight.
+
+*a Troll* panics, and attempts to flee.
+
+*a Troll* panics, and attempts to flee.
+
+Ok.
+As you call on ancient powers, *a Troll* twists in great pain.
+
+![ C Mana:Cold>cast q 'dispel e' *troll*
+Alas, not enough mana flows through you...
+
+![ C Mana:Cold>
+*a Troll* panics, and attempts to flee.
+
+![ C Mana:Cold>
+*a Troll* hits the Illusionist's left leg extremely hard.
+
+![ C Mana:Cold>
+*a Troll* panics, and attempts to flee.
+
+![ C Mana:Cold>kill *troll*
+![ C Mana:Cold>
+
+Alas! You failed to reach him through the melee.
+
+![ C Mana:Cold>
+
+*a Troll* panics, and attempts to flee.
+
+![ C Mana:Cold>
+
+The Illusionist begins some strange incantations...
+
+![ C Mana:Cold>kill *troll*
+
+*a Troll* panics, and attempts to flee.
+
+![ C Mana:Cold>
+You slash *a Troll*'s body and shatter it.
+
+![ C Mana:Cold *a Troll*:Awful the Illusionist:Hurt>kill *troll*
+You're already fighting!
+*a Troll* panics, and attempts to flee.
+
+![ C Mana:Cold *a Troll*:Awful the Illusionist:Hurt>
+*a Troll* glares around him.
+*a Troll* panics, and attempts to flee.
+
+![ C Mana:Cold *a Troll*:Awful the Illusionist:Hurt>
+The Illusionist utters the words 'burning hands'
+The Illusionist burns *a Troll*.
+*a Troll* is incapacitated and will slowly die, if not aided.
+
+![ C Mana:Cold *a Troll*:Dying the Illusionist:Hurt>na dies
+Ok.
+
+![ C Mana:Cold *a Troll*:Dying the Illusionist:Hurt>
+You slash *a Troll*'s left leg extremely hard and shatter it.
+Your victim is shocked by your hit!
+You feel more experienced.
+Congratulations! This is the first time you've killed it!
+You gain a level!
+You gained some renown in this battle!
+You hear *a Troll*'s death cry as he collapses.
+*a Troll* has drawn his last breath! R.I.P.
+A shadow slowly rises above the corpse of *a Troll*.
+
+![ C HP:Fine Mana:Cold>
+Needed: some xp, 0 tp.
+Total: some xp, some tp.
+You gained 100000 xp.You gained 140 tp.
+
+![ C HP:Fine Mana:Cold>imi
+The bluish glow on your blade fades entirely.
+
+![ C HP:Fine Mana:Cold>trop #
+                    *** TROPHY *** (Kills, Knowledge, Name)
+
+|   1,  1%,  #Xirt                     
+Xirt the Wabbit
+This silly old Wabbit once wandered alllover Arda: from Rivendell, to Bree,
+thru wittle Hobbiton, and all the way to GreyHaven.
+Now he rests, forever a permanent fixture in the Warrens.
+Send your tales to: yojimbo@employees.org
