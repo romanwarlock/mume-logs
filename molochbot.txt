@@ -1,0 +1,288 @@
+Log session starting at 05:52:20 on miércoles, 12 agosto 2020.
+
+Welcome to the land of Middle-earth. May your visit here be... interesting.
+eq
+rem pack;wear pack;change wimpy 100;rem mantle;wear mantle;rem cloak;wear 
+cloak;rem shield;wear shield;rem staff;wear staff shield
+change height 50;inf;look
+Never forget! Try to role-play...
+
+
+Last login 8 minutes ago from 148.56.11.26.
+Imladris Private Guest Rooms
+A large bulletin board, entitled "Board of the Free Peoples", is mounted here.
+Erienal, the host to guests of Imladris is standing here.
+An elven guard is standing here at his post.
+A sturdy pack horse is standing here.
+A sturdy pack horse is standing here.
+A sturdy pack horse is standing here.
+A sturdy pack horse is standing here.
+A sturdy pack horse is standing here.
+Exits: north.
+
+Your default tongue is Westron.
+Free rent.
+You feel more exposed.
+   A R M O U R   D O W N
+The spell lasted 30m45s.
+
+!# CW HP:Fine>
+You are using:
+<wielded>            an engraved broadsword (flawless)
+<used as shield>     a bejewelled oak staff; it has a soft glowing aura
+<worn on head>       a large visored helmet (flawless)
+<worn on body>       a fine metal breastplate (flawless)
+<worn about body>    an imposing, golden mantle (flawless)
+<worn on arms>       a fine pair of metal vambraces (flawless)
+<worn on hands>      a fine pair of metal gauntlets (flawless)
+<worn on legs>       a fine pair of metal greaves (flawless)
+<worn on feet>       a black pair of padded boots (flawless)
+<worn around neck>   a necklace
+<worn around neck>   a pale blue stone
+<worn on wrist>      a keyring with a set of lock picks
+<worn on finger>     a golden ruby ring
+<worn on back>       a leather backpack
+<worn as belt>       a gleaming belt
+<worn on belt>       a hunting knife (used)
+<worn on belt>       a water skin
+<worn on belt>       a sable pouch
+<worn on belt>       an enhanced herbal kit
+<worn on belt>       a stone
+
+!# CW HP:Fine>
+You stop using a leather backpack.
+
+!# CW HP:Fine>
+You put a leather backpack on your back.
+
+!# CW HP:Fine>
+Wimpy set to: 100
+
+!# CW HP:Fine>
+You stop using an imposing, golden mantle.
+
+!# CW HP:Fine>
+You wear an imposing, golden mantle about your body.
+
+!# CW HP:Fine>
+You aren't wearing any cloak.
+Ishmal narrates 'they going towards tbad s gate'
+
+!# CW HP:Fine>
+You don't have any cloak.
+
+!# CW HP:Fine>
+You aren't wearing any shield.
+
+!# CW HP:Fine>
+You don't have any shield.
+
+!# CW HP:Fine>
+You stop using a bejewelled oak staff.
+
+!# CW HP:Fine>
+You hold a bejewelled oak staff.
+
+         C A S T E R
+
+You light a bejewelled oak staff.
+
+!# CW HP:Fine>
+Ok.
+
+!# CW HP:Fine>
+You are a male Dwarf.
+You are 50 years, 2 months, and 6 days old.
+You have played 19 days and 2 hours (real time). Session: 4 secs (encrypted).
+This ranks you as Vidgri Vi Vigilant (level 34).
+You are four feet seven and weigh fourteen stone and three pounds.
+Perception: vision 35, hearing 0, smell -25. Alertness: normal.
+You must have been sent to Arda to free it from the sorrows that weigh upon it.
+You are welcome in the Anduin Vale, the Blue Mountains, Bree, Fornost, the Grey
+Havens, Lorien, Rivendell, and the Shire.
+Your equipment weighs one hundred seventy-four pounds. That is REALLY heavy!
+Your base abilities are: Str:16 Int:19 Wis:13 Dex:15 Con:18(17) Wil:16(15)
+Per:11.
+Offensive Bonus: 52%, Dodging Bonus: 45%, Parrying Bonus: 58%.
+Your armour provides an average protection of 87%.
+You have 231/239 hit, 109/109 mana, and 133/133 movement points.
+Your mood is wimpy. You will flee if your hit points go below 100.
+You have scored 14,185,867 experience points and you have 175,687 travel points.
+You are not known for any acts of war.
+You need 814,133 exp. points and 0 travel points to reach the next level.
+You have 395 gold coins, 3 silver pennies, and 78 copper pennies.
+You are speaking Westron.
+You will swim if necessary.
+You will try to climb even under unsafe conditions.
+
+You are subjected to the following temporary effects:
+- shield   (⛉ 30m47s  )
+- vigour (0.5 days)
+- growth (0.9 days)
+
+!# CW HP:Fine>
+Imladris Private Guest Rooms
+A large bulletin board, entitled "Board of the Free Peoples", is mounted here.
+Erienal, the host to guests of Imladris is standing here.
+An elven guard is standing here at his post.
+A sturdy pack horse is standing here.
+A sturdy pack horse is standing here.
+A sturdy pack horse is standing here.
+A sturdy pack horse is standing here.
+A sturdy pack horse is standing here.
+Exits/emulated: north.
+
+!# CW HP:Fine>up
+Alas, you cannot go that way...
+
+!# CW HP:Fine>where
+Players in your zone
+--------------------
+Moloch               - The Courtyard
+Vidgri               - Imladris Private Guest Rooms
+
+!# CW HP:Fine>north
+Grand Hallway
+An elven guard is wandering here, keeping the peace.
+Exits: north, east, south, west.
+
+!# CW HP:Fine>west
+Stairway
+Exits: north, east, south, up, down.
+
+!# CW HP:Fine>down
+Entrance to the Last Homely Home
+A graceful and slender tree grows here.
+Arwen Undomiel stands here in radiant beauty (glowing).
+Exits: north, east, south, west, up.
+
+*# CW HP:Fine>east
+The Courtyard
+A graceful and slender tree grows here.
+Exits: north, east, south, west.
+
+*# CW HP:Fine>north
+The Courtyard
+A graceful and slender tree grows here.
+Exits: north, east, south, west.
+
+*# CW HP:Fine>east
+The Courtyard
+A graceful and slender tree grows here.
+Exits: north, east, south, west.
+
+*# CW HP:Fine>east
+The Courtyard
+A graceful and slender tree grows here.
+Elrond the Master of Rivendell is standing here (glowing).
+Moloch the Man is standing here.
+An elf is here walking around.
+Exits: north, east, south, west.
+
+*# CW HP:Fine>south
+The Courtyard
+A graceful and slender tree grows here.
+An elven guard is wandering here, keeping the peace.
+Exits: north, east, south, west.
+
+*# CW HP:Fine>north
+The Courtyard
+A graceful and slender tree grows here.
+Elrond the Master of Rivendell is standing here (glowing).
+Moloch the Man is standing here.
+An elf is here walking around.
+Exits: north, east, south, west.
+
+*# CW HP:Fine>oie
+cha la s;ask elrond ost-in-edhil;cha la w
+Very well, you now speak Sindarin.
+
+*# CW HP:Fine>
+Ok.
+
+*# CW HP:Fine>
+Very well, you now speak Westron.
+
+*# CW HP:Fine>who
+Players
+-------
+      Vidgri Vi Vigilant
+      Tadey the Elven Apprentice
+      Zippo Zarboff, Honey Dipper of the Shire (Idle)
+      Ishmal
+      Nahor the Weary
+      Olosure the Elven Warlock
+ [Ms] Almarian - Queen of Numenor, Beloved of Meneldur
+      Squirl the Dwarven Champion
+      Morlathiel the Elven Adventurer
+      Wibowo the Man Adventurer
+      Tolgan the Dwarven Soldier
+      Dyno the Crusader
+      Bhiri the Dwarven Adventurer
+      Moloch Sturgeonbane
+
+14 allies and visible Ainur on.
+
+*# CW HP:Fine>
+   S H I E L D   D O W N
+The spell lasted 31m2s.
+
+*# CW HP:Fine>who
+Players
+-------
+      Vidgri Vi Vigilant
+      Tadey the Elven Apprentice
+      Zippo Zarboff, Honey Dipper of the Shire (Idle)
+      Ishmal
+      Nahor the Weary
+      Olosure the Elven Warlock
+ [Ms] Almarian - Queen of Numenor, Beloved of Meneldur
+      Squirl the Dwarven Champion
+      Morlathiel the Elven Adventurer
+      Wibowo the Man Adventurer
+      Tolgan the Dwarven Soldier
+      Dyno the Crusader
+      Bhiri the Dwarven Adventurer
+      Moloch Sturgeonbane
+
+14 allies and visible Ainur on.
+
+*# CW HP:Fine>fol elrond
+You now follow Elrond.
+
+*# CW HP:Fine>
+An elf leaves vvvv S O U T H vvvv
+
+*# CW>
+Elrond leaves >>>> E A S T >>>>
+Hunter's Guild
+A large bulletin board, entitled "Thieves' Guild", is mounted here.
+A weapons rack stands against the wall.
+In the rack are a shortbow, three arrows, and a quiver.
+An elven hunter is here, ready to teach.
+Elrond the Master of Rivendell is standing here (glowing).
+Moloch has arrived from the west.
+Exits/emulated: north, west, {up}, {down}.
+
+*# CW>
+Elrond says 'I trust you are enjoying your stay here in Imladris.'
+
+*# CW>
+Moloch asks Elrond a question.
+
+*# CW>fol
+You stop following Elrond.
+You will not follow anyone else now.
+
+*# CW>oie
+cha la s;ask elrond ost-in-edhil;cha la w
+Very well, you now speak Sindarin.
+
+*# CW>
+Ok.
+
+*# CW>
+Very well, you now speak Westron.
+
+*# CW>
+Log session ending at 05:53:05 on miércoles, 12 agosto 2020.
