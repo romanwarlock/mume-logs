@@ -1,0 +1,1882 @@
+!f CRW Mana:Hot>
+Your blade starts to glow very brightly!
+
+!f CRW Mana:Hot>sta
+Edegil says '2pb 1 opal'
+You stop resting and stand up.
+
+!f CRW Mana:Burning>sa orc
+Ok.
+A horse of the Rohirrim (pa) tosses its neck and stamps its hooves aggressively.
+
+!f CRW Mana:Burning>of flush q
+order followers flush q
+Ok.
+
+!f CRW Mana:Burning>
+Edegil says 'ooops'
+
+!f CRW Mana:Burning>ww
+order followers wake;order followers stand
+A mother eagle (cc) wakes up.
+A mother eagle (bb) wakes up.
+A mother eagle (aa) wakes up.
+Ok.
+
+!f CRW Mana:Burning>
+A mother eagle (cc) stands up.
+A mother eagle (bb) stands up.
+A mother eagle (aa) stands up.
+Ok.
+
+!f CRW Mana:Burning>of flush q
+order followers flush q
+Ok.
+
+!f CRW Mana:Burning>
+The moon disappears in the west.
+
+!f CRW Mana:Burning>
+*Dong the Black Numenorean* has arrived from the west.
+*an Orc* has arrived from the west riding a hungry warg.
+*a Man* has arrived from the west riding a pack horse.
+
+!f CRW Mana:Burning>
+*an Orc* leaves west riding a hungry warg.
+
+!f CRW Mana:Burning>
+*Dong the Black Numenorean         I S   C A S T I N G
+
+!f CRW Mana:Burning>
+*an Orc* has arrived from the west riding a hungry warg.
+
+!f CRW Mana:Burning>
+Edegil leaves <<<< W E S T <<<<
+
+!f CRW Mana:Burning>w
+Deep inside the Old Forest
+A sturdy pack horse is standing here.
+Edegil is standing here.
+A sturdy trained horse is standing here.
+The noise of battle reaches you from very close to the east.
+The earth trembles and shivers.
+Edegil swiftly dodges a mother eagle (bb)'s attempt to hit him.
+A mother eagle (cc) lightly hits Edegil's left leg and tickles it.
+A mother eagle (aa) barely hits Edegil's body and tickles it.
+Exits/emulated: east.
+
+!f CRW Mana:Burning>
+A pony has arrived from the east.
+
+!f CRW Mana:Burning>
+You hear a death cry from the east.
+You hear a death cry from the east.
+The earth trembles and shivers.
+
+!f CRW Mana:Burning>kk dong
+order followers kil dong
+Ok.
+
+!f CRW Mana:Burning>
+A mother eagle (aa) barely hits Edegil's left foot and tickles it.
+
+!f CRW Mana:Burning>
+Edegil panics, and attempts to flee.
+A mother eagle (bb) lightly hits Edegil's left leg and tickles it.
+
+!f CRW Mana:Burning>
+A mother eagle (cc) barely hits Edegil's left hand and tickles it.
+
+!f CRW Mana:Burning>
+*a Man* has arrived from the east.
+
+!f CRW Mana:Burning>
+Edegil panics, and attempts to flee.
+Edegil leaves >>>> E A S T >>>>
+
+!f CRW Mana:Burning>ff
+order followers flee
+A mother eagle (cc) panics, and attempts to flee.
+A mother eagle (cc) leaves >>>> E A S T >>>>
+A mother eagle (bb) panics, and attempts to flee.
+A mother eagle (bb) leaves >>>> E A S T >>>>
+A mother eagle (aa) panics, and attempts to flee.
+A mother eagle (aa) leaves >>>> E A S T >>>>
+Ok.
+
+!f CRW Mana:Burning>east
+Deep inside the Old Forest
+Traces of fierce red and pale white tones form the aura of this place.
+The corpse of a pack horse is lying here.
+The corpse of a pack horse is lying here.
+A small campfire burns here, its low flames giving off only a little light
+*Dong the Black Numenorean* is standing here trying to concentrate.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits/emulated: ~south~, east, west. - s:(random,oneway) e:(random)
+w:(random,loop).
+
+!f CRW Mana:Burning>
+*Dong the Black Numenorean* utters the word 'zabrahpdjatz'
+*Dong the Black Numenorean* makes the earth tremble and shiver.
+You fall, and hit yourself!
+A horse of the Rohirrim (pa) says 'Leave now or perivh!'
+
+!f CRW HP:Fine Mana:Burning>order followers assist
+*Dong the Black Numenorean         I S   C A S T I N G
+A mother eagle (cc) barely hits *Dong the Black Numenorean*'s left foot and
+tickles it.
+
+!f CRW HP:Fine Mana:Burning>
+Ok.
+A mother eagle (aa) barely hits *Dong the Black Numenorean*'s left foot and
+tickles it.
+
+!f CRW HP:Fine Mana:Burning>
+A mother eagle (bb) barely hits *Dong the Black Numenorean*'s body and tickles
+it.
+
+!f CRW HP:Fine Mana:Burning>assist
+Alas! There is no fighting space left to reach him!
+
+!f CRW HP:Fine Mana:Burning>
+!f CRW HP:Fine Mana:Burning>west
+*Dong the Black Numenorean* utters the word 'zabrahpdjatz'
+*Dong the Black Numenorean* makes the earth tremble and shiver.
+You fall, and hit yourself!
+
+!f CRW HP:Fine Mana:Burning>
+Deep inside the Old Forest
+A sturdy pack horse is standing here.
+A sturdy trained horse is standing here.
+A domesticated pony, beast of burden to many, stands here.
+*a Man* is standing here.
+Exits/emulated: east.
+
+!f CRW HP:Fine Mana:Burning>
+*a Man* leaves >>>> E A S T >>>>
+
+!f CRW HP:Fine Mana:Burning>
+The earth trembles and shivers.
+
+!f CRW HP:Fine Mana:Burning>
+*a Man* has arrived from the east.
+
+!f CRW HP:Fine Mana:Burning>
+*Dong the Black Numenorean* has arrived from the east.
+
+!f CRW HP:Fine Mana:Burning>
+*a Man         I S   C A S T I N G
+
+!f CRW HP:Fine Mana:Burning>east
+Deep inside the Old Forest
+Traces of fierce red and pale white tones form the aura of this place.
+The corpse of a pack horse is lying here.
+The corpse of a pack horse is lying here.
+A small campfire burns here, its low flames giving off only a little light
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits/emulated: ~south~, east, west. - s:(random,oneway) e:(random)
+w:(random,loop).
+
+!f CRW HP:Fine Mana:Burning>
+You hear a death cry from the west.
+The earth trembles and shivers.
+
+!f CRW HP:Fine Mana:Burning>
+*Dong the Black Numenorean* has arrived from the west.
+*a Man* has arrived from the west.
+
+!f CRW HP:Fine Mana:Burning>tel tom hlep
+*a Man         I S   C A S T I N G
+Ok.
+
+!f CRW HP:Fine Mana:Burning>west
+Deep inside the Old Forest
+Traces of pale red tones form the aura of this place.
+The corpse of a pony is lying here.
+A sturdy pack horse is standing here.
+A sturdy trained horse is standing here.
+Exits/emulated: east.
+
+!f CRW HP:Fine Mana:Burning>
+The earth trembles and shivers.
+
+!f CRW HP:Fine Mana:Burning>tel tom help
+Ok.
+Tom Bombadil tells you 'Wait there, do not wander! Tom comes soon to help you.'
+
+!f CRW HP:Fine Mana:Burning>
+Your blade glows less brightly.
+
+!f CRW HP:Fine Mana:Burning>ta dong
+Your blade starts to glow very brightly!
+
+!f CRW HP:Fine Mana:Burning>east
+Deep inside the Old Forest
+Traces of fierce red and white tones form the aura of this place.
+The corpse of a pack horse is lying here.
+The corpse of a pack horse is lying here.
+A small campfire burns here, its low flames giving off only a little light
+*Anmir the Black Numenorean* is standing here trying to concentrate.
+*Anmir the Black Numenorean* utters the words 'cure serious'
+Exits/emulated: ~south~, east, west. - s:(random,oneway) e:(random)
+w:(random,loop).
+
+!f CRW HP:Fine Mana:Burning>
+*Anmir the Black Numenorean* leaves <<<< W E S T <<<<
+
+!f CRW HP:Fine Mana:Burning>west
+Deep inside the Old Forest
+Traces of pale red tones form the aura of this place.
+The corpse of a pony is lying here.
+A sturdy pack horse is standing here.
+A sturdy trained horse is standing here.
+*Anmir the Black Numenorean* is standing here.
+Exits/emulated: east.
+
+!f CRW HP:Fine Mana:Burning>san
+cast n 'sanct' 
+You start to concentrate...
+
+*Anmir the Black Numenorean* leaves >>>> E A S T >>>>
+Your blade glows less brightly.
+A Voice flows to you through the wind: 'Old Tom Bombadil is a merry fellow,'
+
+kill dong
+You start glowing.
+
+!f CRW HP:Fine Mana:Hot>
+They aren't here.
+
+!f CRW HP:Fine Mana:Hot>east
+kill dong
+Deep inside the Old Forest
+Traces of fierce red and white tones form the aura of this place.
+The corpse of a pack horse is lying here.
+The corpse of a pack horse is lying here.
+A small campfire burns here, its low flames giving off only a little light
+Exits/emulated: ~south~, east, west. - s:(random,oneway) e:(random)
+w:(random,loop).
+
+!f CRW HP:Fine Mana:Hot>
+They aren't here.
+
+!f CRW HP:Fine Mana:Hot>
+Your blade starts to glow very brightly!
+A Voice flows to you through the wind: 'Bright blue his jacket is, and his boots
+are yellow.'
+
+!f CRW HP:Fine Mana:Hot>look
+Deep inside the Old Forest
+Traces of fierce red and white tones form the aura of this place.
+The corpse of a pack horse is lying here.
+The corpse of a pack horse is lying here.
+A small campfire burns here, its low flames giving off only a little light
+Nahor the Dwarf is standing here.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits/emulated: ~south~, east, west. - s:(random,oneway) e:(random)
+w:(random,loop).
+
+!f CRW HP:Fine Mana:Hot>
+A Voice flows to you through the wind: 'None has ever caught him yet, for Tom,
+he is the master:'
+
+!f CRW HP:Fine Mana:Hot>gr
+Your group consists of:
+     Iminye (head of group)
+     Edegil
+     Nahor
+     a mother eagle (cc)
+     a mother eagle (bb)
+     a mother eagle (aa)
+
+!f CRW HP:Fine Mana:Hot>
+A Voice flows to you through the wind: 'His songs are stronger songs, and his
+feet are faster.'
+
+!f CRW HP:Fine Mana:Hot>east
+Small Dark River in the Forest
+Traces of pale red and fierce white tones form the aura of this place.
+The remains of Old Man Willow lie here in a heap of rotting compost.
+A huge, old and hoary willow tree looms above you.
+*Lilbit the Orc* is here, riding a hungry warg.
+Exits/emulated: north, {east}, west. - n:(random) e:tree(random,oneway)
+w:(random).
+
+!f CRW HP:Fine Mana:Hot>c tree
+close tree
+It's already closed!
+*Lilbit the Orc* leaves west riding a hungry warg.
+
+!f CRW HP:Fine Mana:Hot>
+*Lilbit the Orc* has arrived from the west riding a hungry warg.
+
+!f CRW HP:Fine Mana:Hot>west
+Deep inside the Old Forest
+Traces of fierce red and white tones form the aura of this place.
+The corpse of a pack horse is lying here.
+The corpse of a pack horse is lying here.
+A small campfire burns here, its low flames giving off only a little light
+Exits/emulated: ~south~, east, west. - s:(random,oneway) e:(random)
+w:(random,loop).
+
+!f CRW HP:Fine Mana:Hot>
+*Lilbit the Orc* has arrived from the east riding a hungry warg.
+
+!f CRW HP:Fine Mana:Hot>
+*Lilbit the Orc         I S   C A S T I N G
+
+!f CRW HP:Fine Mana:Hot>east
+Withywindle
+Exits: ~east~, ~west~. - s:(random,oneway) e:(random) w:(random,loop).
+Thick ice covers the water.
+*Lilbit the Orc* has suddenly arrived riding a hungry warg.
+
+!~ CRW HP:Fine Mana:Hot>
+*Lilbit the Orc         I S   C A S T I N G
+
+!~ CRW HP:Fine Mana:Hot>
+*Lilbit the Orc* utters the words 'diesilla barh'
+*Lilbit the Orc* sends a powerful lightning bolt at you, you stagger from the
+impact.
+
+!~ CRW HP:Fine Mana:Hot *Lilbit the Orc*:Hurt>
+*Lilbit the Orc         I S   C A S T I N G
+
+!~ CRW HP:Fine Mana:Hot *Lilbit the Orc*:Hurt>k orc
+You're already fighting!
+
+!~ CRW HP:Fine Mana:Hot *Lilbit the Orc*:Hurt>order followers assist
+A mother eagle (cc) joins your fight.
+A mother eagle (bb) joins your fight.
+A mother eagle (aa) joins your fight.
+Ok.
+A mother eagle (bb) barely hits *Lilbit the Orc*'s right hand and tickles it.
+A mother eagle (cc) strongly hits *Lilbit the Orc*'s right foot.
+
+!~ CRW HP:Fine Mana:Hot *Lilbit the Orc*:Hurt>
+*Lilbit the Orc         I S   C A S T I N G
+
+!~ CRW HP:Fine Mana:Hot *Lilbit the Orc*:Hurt>order followers assist
+Ok.
+
+!~ CRW HP:Fine Mana:Hot *Lilbit the Orc*:Hurt>
+*Lilbit the Orc         I S   C A S T I N G
+A mother eagle (bb) strongly hits *Lilbit the Orc*'s body.
+
+!~ CRW HP:Fine Mana:Hot *Lilbit the Orc*:Hurt>
+*Lilbit the Orc         I S   C A S T I N G
+You slash *Lilbit the Orc*'s body very hard.
+
+!~ CRW HP:Fine Mana:Hot *Lilbit the Orc*:Hurt>
+A mother eagle (cc) hits *Lilbit the Orc*'s body.
+*Lilbit the Orc* panics, and attempts to flee.
+*Lilbit the Orc* leaves west riding a hungry warg.
+
+!~ CRW HP:Fine Mana:Hot>de
+cast q 'dispel e' 
+Edegil narrates 'feels like cheating'
+
+!~ CRW HP:Fine Mana:Hot>
+Who should the spell be cast upon?
+
+!~ CRW HP:Fine Mana:Hot>c tree
+close tree
+You don't see any tree here.
+
+!~ CRW HP:Fine Mana:Hot>
+The sun rises in the east.
+
+*~ CRW HP:Fine Mana:Hot>west
+k orc
+Withywindle
+A black catfish is here, lurking in the mud.
+Exits: ~east~, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>
+They aren't here.
+
+*~ CRW HP:Fine Mana:Hot>east
+Withywindle
+Traces of pale red tones form the aura of this place.
+Exits: ~east~, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>look
+Withywindle
+Traces of pale red tones form the aura of this place.
+Nahor the Dwarf is standing here.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits/emulated: ~east~, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>east
+Withywindle
+Exits: ~north~, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>
+Your blade glows less brightly.
+
+*~ CRW HP:Fine Mana:Hot>north
+Withywindle
+Exits: ~east~, ~south~.
+
+*~ CRW HP:Fine Mana:Hot>east
+Withywindle
+A black catfish is here, lurking in the mud.
+Exits: ~east~, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>east
+A Creek in Front of Tom's House
+*Dong the Black Numenorean* is standing here.
+Exits: east, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>east
+The Threshold
+Exits: north, -east-, south, ~west~, up.
+The ground is very frosty.
+
+*. CRW HP:Fine Mana:Hot>
+The bluish glow on your blade fades entirely.
+
+*. CRW HP:Fine Mana:Hot>west
+A Creek in Front of Tom's House
+*Dong the Black Numenorean* is standing here.
+Exits: east, ~west~.
+Thick ice covers the water.
+
+*~ CRW HP:Fine Mana:Hot>k odng
+They aren't here.
+
+*~ CRW HP:Fine Mana:Hot>order followers assist
+*Dong the Black Numenorean* leaves <<<< W E S T <<<<
+Ok.
+
+*~ CRW HP:Fine Mana:Hot>west
+Withywindle
+A black catfish is here, lurking in the mud.
+*Dong the Black Numenorean* is standing here.
+Exits: ~east~, ~west~.
+A mother eagle (bb) strongly hits *Dong the Black Numenorean*'s head.
+A mother eagle (cc) hits *Dong the Black Numenorean*'s left foot.
+A mother eagle (aa) tries to hit *Dong the Black Numenorean*, but he parries
+successfully.
+
+*~ CRW HP:Fine Mana:Hot>k odng
+They aren't here.
+
+*~ CRW HP:Fine Mana:Hot>assist
+*~ CRW HP:Fine Mana:Hot>
+
+Alas! You failed to reach him through the melee.
+
+*~ CRW HP:Fine Mana:Hot>
+
+*Dong the Black Numenorean* panics, and attempts to flee.
+
+de
+cast q 'dispel e' 
+*~ CRW HP:Fine Mana:Hot>
+
+Your whole blade now glows with a pale blue light.
+
+*~ CRW HP:Fine Mana:Hot>
+
+*Dong the Black Numenorean* panics, and attempts to flee.
+*Dong the Black Numenorean* leaves <<<< W E S T <<<<
+
+*~ CRW HP:Fine Mana:Hot>
+Who should the spell be cast upon?
+
+*~ CRW HP:Fine Mana:Hot>east
+A Creek in Front of Tom's House
+Exits: east, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>west
+Withywindle
+A black catfish is here, lurking in the mud.
+*Anmir the Black Numenorean* is standing here.
+*Lilbit the Orc* is here, riding a hungry warg.
+Exits: ~east~, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>
+A mother eagle (bb) tries to hit *Anmir the Black Numenorean*, but he parries
+successfully.
+A mother eagle (cc) tries to hit *Anmir the Black Numenorean*, but he parries
+successfully.
+A mother eagle (aa) barely hits *Anmir the Black Numenorean*'s right leg and
+tickles it.
+
+*~ CRW HP:Fine Mana:Hot>k odng
+They aren't here.
+
+*~ CRW HP:Fine Mana:Hot>
+*Anmir the Black Numenorean* panics, and attempts to flee.
+*Anmir the Black Numenorean* leaves <<<< W E S T <<<<
+
+*~ CRW HP:Fine Mana:Hot>
+Your blade starts to glow very brightly!
+
+*~ CRW HP:Fine Mana:Hot>
+*Anmir the Black Numenorean* has arrived from the west.
+
+*~ CRW HP:Fine Mana:Hot>k dong
+They aren't here.
+
+*~ CRW HP:Fine Mana:Hot>
+*Anmir the Black Numenorean* leaves >>>> E A S T >>>>
+
+*~ CRW HP:Fine Mana:Hot>order followers assist
+Ok.
+
+*~ CRW HP:Fine Mana:Hot>
+*Lilbit the Orc* swiftly dodges a mother eagle (bb)'s attempt to hit him.
+*Lilbit the Orc* swiftly dodges a mother eagle (cc)'s attempt to hit him.
+*Lilbit the Orc* swiftly dodges a mother eagle (aa)'s attempt to hit him.
+
+*~ CRW HP:Fine Mana:Hot>east
+k dong
+A Creek in Front of Tom's House
+Exits: east, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>order followers assist
+They aren't here.
+
+*~ CRW HP:Fine Mana:Hot>
+But you have no loyal subjects here?
+
+*~ CRW HP:Fine Mana:Hot>k orc
+They aren't here.
+
+*~ CRW HP:Fine Mana:Hot>
+*Lilbit the Orc* has arrived from the west riding a hungry warg.
+
+*~ CRW HP:Fine Mana:Hot>west
+Withywindle
+A black catfish is here, lurking in the mud.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits: ~east~, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>k orc
+They aren't here.
+
+*~ CRW HP:Fine Mana:Hot>east
+k orc
+A Creek in Front of Tom's House
+*Lilbit the Orc* is here trying to concentrate, riding a hungry warg.
+Exits: east, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>
+*Lilbit the Orc* swiftly dodges your attempt to slash him.
+
+*~ CRW HP:Fine Mana:Hot *Lilbit the Orc*:Wounded>order followers assist
+A mother eagle (cc) joins your fight.
+A mother eagle (bb) joins your fight.
+A mother eagle (aa) joins your fight.
+Ok.
+A mother eagle (aa) barely hits *Lilbit the Orc*'s left arm and tickles it.
+A mother eagle (bb) strongly hits *Lilbit the Orc*'s left hand.
+
+*~ CRW HP:Fine Mana:Hot *Lilbit the Orc*:Wounded>
+*Lilbit the Orc* panics, and attempts to flee.
+*Lilbit the Orc* leaves east riding a hungry warg.
+
+*~ CRW HP:Fine Mana:Hot>cast q 'dispel e' *orc*
+Nobody here by that name.
+
+*~ CRW HP:Fine Mana:Hot>east
+The Threshold
+*Anmir the Black Numenorean* is standing here.
+Exits: north, -east-, south, ~west~, up.
+The ground is very frosty.
+
+*. CRW HP:Fine Mana:Hot>k orc
+*Anmir the Black Numenorean* leaves >>>> E A S T >>>>
+
+*. CRW HP:Fine Mana:Hot>
+They aren't here.
+
+*. CRW HP:Fine Mana:Hot>cast q 'dispel e' *orc*
+Nobody here by that name.
+
+*. CRW HP:Fine Mana:Hot>east
+Tom and Goldberry's Flower Garden
+A large beautiful rose bush is blooming here.
+Deep inside the bush, there are two red roses with leaves and thorny stems.
+*Anmir the Black Numenorean* is standing here.
+Exits: -north-, south, -west-.
+
+*. CRW HP:Fine Mana:Hot>cast q 'dispel e' *orc*
+Nobody here by that name.
+
+*. CRW HP:Fine Mana:Hot>k orc
+They aren't here.
+
+*. CRW HP:Fine Mana:Hot>north
+In Front of the Garden Gate
+Traces of red tones form the aura of this place.
+*Lilbit the Orc* is here trying to concentrate, riding a hungry warg.
+Exits: [north], -south-, west.
+
+*. CRW HP:Fine Mana:Hot>
+*Lilbit the Orc* utters the word 'armour'
+
+*. CRW HP:Fine Mana:Hot>cast q 'dispel e' *orc*
+You start to concentrate...
+
+kill *orc*
+Your victim has disappeared!
+*Lilbit the Orc* leaves south riding a hungry warg.
+They aren't here.
+
+*. CRW HP:Fine Mana:Hot>k orc
+They aren't here.
+
+*. CRW HP:Fine Mana:Hot>
+*Lilbit the Orc* has arrived from the south riding a hungry warg.
+
+*. CRW HP:Fine Mana:Hot>cast q 'dispel e' *orc*
+You start to concentrate...
+
+Ok.
+As you call upon Elbereth, *Lilbit the Orc* shivers in pain.
+You lightly slash *Lilbit the Orc*'s left arm.
+
+*. CRW HP:Fine Mana:Warm *Lilbit the Orc*:Bad>
+*Lilbit the Orc* panics, and attempts to flee.
+*Lilbit the Orc* leaves south riding a hungry warg.
+
+*. CRW HP:Fine Mana:Warm>cast q 'dispel e' *orc*
+Nobody here by that name.
+
+*. CRW HP:Fine Mana:Warm>south
+Tom and Goldberry's Flower Garden
+A large beautiful rose bush is blooming here.
+Deep inside the bush, there are two red roses with leaves and thorny stems.
+Exits: -north-, south, -west-.
+
+*. CRW HP:Fine Mana:Warm>k orc
+They aren't here.
+
+*. CRW HP:Fine Mana:Warm>
+The bluish glow on your blade fades entirely.
+
+*. CRW HP:Fine Mana:Warm>tr warg
+You carefully examine the ground around you, looking for tracks...
+
+You see some plain tracks of a hungry warg leading south, done less than 1 hour
+ago.
+
+*. CRW HP:Fine Mana:Warm>south
+Tom and Goldberry's Flower Garden
+Exits: north, south, west.
+
+The tip of your blade shows a faint bluish glow.
+
+You see some clear tracks of a hungry warg leading south, done less than 1 hour
+ago.
+
+*. CRW HP:Fine Mana:Warm>
+Surtur narrates 'ask iminye for tips'
+
+*. CRW HP:Fine Mana:Warm>south
+The Hunting Place
+Exits: north, east, south, west.
+
+You see some clear tracks of a hungry warg leading west, done less than 1 hour
+ago.
+
+*. CRW HP:Fine Mana:Warm>west
+The Hunting Place
+Exits: north, east, south.
+
+You see some clear tracks of a hungry warg leading south, done less than 1 hour
+ago.
+
+*. CRW HP:Fine Mana:Warm>south
+The Hunting Place
+Exits: north, east, west. - w:(oneway).
+
+You see some plain tracks of a hungry warg leading west, done less than 1 hour
+ago.
+
+*. CRW HP:Fine Mana:Warm>
+Your whole blade now glows with a pale blue light.
+
+*. CRW HP:Fine Mana:Warm>west
+The Old Forest
+A copper penny lies on the ground.
+Exits/emulated: north, west. - n:(random) w:(random).
+
+You see some clear tracks of a hungry warg leading west, done less than 1 hour
+ago.
+
+*f CRW HP:Fine Mana:Warm>west
+Old Forest
+Traces of red tones form the aura of this place.
+Exits: north, east, south, west. - n:(random,oneway) s:(random) e:(random)
+w:(random).
+
+You see some clear tracks of a hungry warg leading north, done less than 1 hour
+ago.
+
+*f CRW HP:Fine Mana:Warm>east
+The Old Forest
+A copper penny lies on the ground.
+The glow on your blade is now just a faint glimmer.
+Exits/emulated: north, south, east, west. - n:(random,oneway) s:(random)
+e:(random) w:(random).
+
+You see some clear tracks of a hungry warg leading west, done less than 1 hour
+ago.
+
+*f CRW HP:Fine Mana:Warm>north
+The Old Forest
+There are two copper pennies here.
+Exits/emulated: ~east~, ~west~.
+
+The bluish glow on your blade fades entirely.
+
+You see some plain tracks of a hungry warg leading west, done less than 3 hours
+ago.
+
+*f CRW HP:Fine Mana:Warm>look
+The Old Forest
+There are two copper pennies here.
+Nahor the Dwarf is standing here.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits/emulated: ~north~, south, west. - n:(oneway) w:(oneway).
+
+*f CRW HP:Fine Mana:Warm>west
+The Old Forest
+On the ground, there are three copper pennies.
+Exits/emulated: north, ~south~, east. - n:(oneway) s:(oneway) e:(loop).
+
+You see some plain tracks of a hungry warg leading west, done less than 3 hours
+ago.
+The day has begun.
+A mother eagle (cc) bleeds from open wounds.
+
+*f CRW HP:Fine Mana:Warm>west
+The Old Forest
+There are four copper pennies here.
+Exits/emulated: north, south, east, west, {down}. - n:(loop) s:(loop) e:(loop)
+w:(loop) d:leaves.
+
+You see some plain tracks of a hungry warg leading south, done less than 3 hours
+ago.
+
+*f CRW HP:Fine Mana:Hot>south
+The Old Forest
+You see five copper pennies on the ground.
+Exits/emulated: north, south, east, west, {down}. - n:(loop) s:(loop) e:(loop)
+w:(loop) d:leaves.
+
+You see some plain tracks of a hungry warg leading west, done less than 3 hours
+ago.
+
+*f CRW HP:Fine Mana:Hot>west
+The Old Forest
+On the ground, there are six copper pennies.
+Exits/emulated: north, south, east, west, {down}. - n:(loop) s:(loop) e:(loop)
+w:(loop) d:leaves.
+
+You see some plain tracks of a hungry warg leading west, done less than 3 hours
+ago.
+
+*f CRW HP:Fine Mana:Hot>west
+The Old Forest
+You see seven copper pennies on the ground.
+Exits/emulated: north, south, east, west, {down}. - n:(loop) s:(loop) e:(loop)
+w:(loop) d:leaves.
+
+You see some plain tracks of a hungry warg leading north, done less than 3 hours
+ago.
+
+*f CRW HP:Fine Mana:Hot>north
+The Old Forest
+There are eight copper pennies here.
+Exits/emulated: north, south, east, west, {down}. - n:(loop) s:(loop) e:(loop)
+w:(loop) d:leaves.
+
+You see some plain tracks of a hungry warg leading west, done less than 3 hours
+ago.
+
+*f CRW HP:Fine Mana:Hot>west
+A Dangerous Path in the Forest
+Exits: north, east, ~south~. - n:(loop) s:(loop) e:(loop) w:(loop) d:leaves.
+
+You see some plain tracks of a hungry warg leading north, done less than 3 hours
+ago.
+
+*f CRW HP:Fine Mana:Hot>north
+Deep inside the Old Forest
+Traces of red and pale white tones form the aura of this place.
+The corpse of a pony is lying here.
+A sturdy pack horse is standing here.
+A sturdy trained horse is standing here.
+Exits/emulated: east.
+
+You see some plain tracks of a hungry warg leading east, done less than 3 hours
+ago.
+
+*f CRW HP:Fine Mana:Hot>east
+Deep inside the Old Forest
+Traces of fierce red tones form the aura of this place.
+The corpse of a pack horse is lying here.
+The corpse of a pack horse is lying here.
+A small campfire burns here, its low flames giving off only a little light
+Exits/emulated: ~south~, east, west. - s:(random,oneway) e:(random)
+w:(random,loop).
+
+You see some plain tracks of a hungry warg leading south, done less than 2 hours
+ago.
+
+*f CRW HP:Fine Mana:Hot>east
+Small Dark River in the Forest
+Traces of red and fierce white tones form the aura of this place.
+The remains of Old Man Willow lie here in a heap of rotting compost.
+A huge, old and hoary willow tree looms above you.
+Exits/emulated: north, {east}, west. - n:(random) e:tree(random,oneway)
+w:(random).
+
+You see some plain tracks of a hungry warg leading west, done less than 2 hours
+ago.
+
+*f CRW HP:Fine Mana:Hot>west
+Deep inside the Old Forest
+Traces of fierce red tones form the aura of this place.
+The corpse of a pack horse is lying here.
+The corpse of a pack horse is lying here.
+A small campfire burns here, its low flames giving off only a little light
+Exits/emulated: ~south~, east, west. - s:(random,oneway) e:(random)
+w:(random,loop).
+
+A Voice flows to you through the wind: 'Old Tom Bombadil is a merry fellow,'
+
+You see some plain tracks of a hungry warg leading south, done less than 2 hours
+ago.
+
+*f CRW HP:Fine Mana:Hot>look
+Deep inside the Old Forest
+Traces of fierce red tones form the aura of this place.
+The corpse of a pack horse is lying here.
+The corpse of a pack horse is lying here.
+A small campfire burns here, its low flames giving off only a little light
+Nahor the Dwarf is standing here.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits/emulated: ~south~, east, west. - s:(random,oneway) e:(random)
+w:(random,loop).
+
+*f CRW HP:Fine Mana:Hot>
+Nahor says 'I need to rent'
+
+*f CRW HP:Fine Mana:Hot>
+A Voice flows to you through the wind: 'Old Tom Bombadil is a merry fellow,'
+
+*f CRW HP:Fine Mana:Hot>
+A Voice flows to you through the wind: 'Bright blue his jacket is, and his boots
+are yellow.'
+
+*f CRW HP:Fine Mana:Hot>sa ok
+Ok.
+
+*f CRW HP:Fine Mana:Hot>south
+Withywindle
+Traces of pale red tones form the aura of this place.
+Exits: ~east~, ~west~.
+Thick ice covers the water.
+You stop tracking your victim.
+
+*~ CRW HP:Fine Mana:Hot>
+A Voice flows to you through the wind: 'Bright blue his jacket is, and his boots
+are yellow.'
+
+*~ CRW HP:Fine Mana:Hot>
+A Voice flows to you through the wind: 'None has ever caught him yet, for Tom,
+he is the master:'
+
+*~ CRW HP:Fine Mana:Hot>east
+Withywindle
+Exits: ~north~, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>north
+Withywindle
+Exits: ~east~, ~south~.
+
+*~ CRW HP:Fine Mana:Hot>east
+Withywindle
+A black catfish is here, lurking in the mud.
+Exits: ~east~, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>east
+A Creek in Front of Tom's House
+Exits: east, ~west~.
+
+*~ CRW HP:Fine Mana:Hot>east
+A Voice flows to you through the wind: 'None has ever caught him yet, for Tom,
+he is the master:'
+
+The Threshold
+Traces of rich red tones form the aura of this place.
+Exits: north, -east-, south, ~west~, up.
+The ground is very frosty.
+
+*. CRW HP:Fine Mana:Hot>
+A Voice flows to you through the wind: 'His songs are stronger songs, and his
+feet are faster.'
+
+*. CRW HP:Fine Mana:Hot>east
+Tom and Goldberry's Flower Garden
+A large beautiful rose bush is blooming here.
+Deep inside the bush, there are two red roses with leaves and thorny stems.
+Exits: -north-, south, -west-.
+
+*. CRW HP:Fine Mana:Hot>
+A Voice flows to you through the wind: 'His songs are stronger songs, and his
+feet are faster.'
+
+*. CRW HP:Fine Mana:Hot>
+Nahor begins some strange incantations...
+
+*. CRW HP:Fine Mana:Hot>north
+In Front of the Garden Gate
+Traces of red and pale white tones form the aura of this place.
+Exits: [north], -south-, west.
+
+*. CRW HP:Fine Mana:Hot>on
+open exit north
+       The gate B L O C K E D
+
+*. CRW Mana:Hot>brn
+cast n 'break d' exit n
+You start to concentrate...
+
+The gate seems to blur for a while.
+
+*. CRW Mana:Warm>na Lilbit runs on bad -(
+Ok.
+
+*. CRW Mana:Warm>on
+open exit north
+Ok.
+
+*. CRW Mana:Warm>north
+A Path along the Bean Field
+Exits: -(south)-, -west-.
+
+*. CRW Mana:Warm>west
+A Path along the Bean Field
+Exits: -east-, -west-.
+
+*. CRW Mana:Warm>look
+A Path along the Bean Field
+Nahor the Dwarf is standing here.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits/emulated: -east-, -west-.
+
+*. CRW Mana:Warm>west
+A Path along the Bean Field
+Exits: north, -east-.
+
+*. CRW Mana:Warm>north
+On Some Short Springy Turf
+Exits: north, east, south.
+
+*. CRW Mana:Warm>north
+On Some Short Springy Turf
+Exits: north, east, south.
+
+*. CRW Mana:Warm>north
+north
+The Well-tended Path
+A dirty hobwill is standing here.
+Exits: -north-, south.
+
+*. CRW Mana:Warm>
+The Well-tended Path
+Exits: -north-, -south-.
+
+*. CRW Mana:Warm>north
+The Well-tended Path
+A tall stag is here, grazing peacefully.
+A tall stag is here, grazing peacefully.
+Exits: -east-, -south-.
+A mother eagle (cc) bleeds from open wounds.
+
+*. CRW Mana:Warm>east
+The Well-tended Path
+Exits: -north-, -west-.
+
+*. CRW Mana:Warm>north
+east
+The Well-tended Path
+A tall stag is here, grazing peacefully.
+A rabbit is here eyeing your presence warily.
+A brown fox is here, looking for some rabbits to chew up.
+Exits: -east-, -south-.
+
+*. CRW Mana:Warm>
+A cute, bouncing rabbit leaves vvvv S O U T H vvvv
+
+The Well-tended Path
+Exits: north, east, -west-. - e:(oneway).
+
+*. CRW Mana:Warm>east
+In the Bushes
+Exits: north, east, south, west. - s:(oneway) e:(oneway).
+
+*: CRW Mana:Warm>
+A Voice flows to you through the wind: 'Hey dol! merry dol! ring a dong dillo!'
+
+*: CRW Mana:Warm>north
+In the Bushes
+Exits: north, east, south, west. - n:(oneway).
+
+*: CRW Mana:Warm>north
+On a Runway
+Exits: north, -east-, (south), -west-. - s:fissures(oneway) w:(oneway).
+
+*: CRW Mana:Warm>east
+On a Runway
+Exits: -east-, -west-.
+
+*: CRW Mana:Warm>east
+On a Runway
+Exits: north, -west-.
+
+*: CRW Mana:Warm>north
+The Small Hill
+Exits: north, east, south.
+
+*( CRW Mana:Warm>east
+east
+Grassy Plain
+Exits: north, east, west.
+
+*( CRW Mana:Warm>north
+Old Ruins
+Exits: north, west.
+
+*[ CRW Mana:Warm>north
+Small Path in Grassy Field
+Exits: -north-, south.
+
+*. CRW Mana:Warm>
+Old East Road
+Exits: -north-, =east=, -south-, =west=.
+
+*+ CRW Mana:Warm>east
+Large Road
+Exits: =east=, =west=.
+
+*+ CRW Mana:Warm>east
+tr
+Old East Road Meets Greenway
+Exits: =north=, =east=, =south=, =west=.
+
+*+ CRW Mana:Warm>
+You carefully examine the ground around you, looking for tracks...
+
+Nahor begins some strange incantations...
+You see:
+   - a vague track of a Dwarf coming from the west done less than 1 hour ago
+   - two vague tracks of a young ranger leading north done less than 1 hour ago
+   - two vague tracks of a young ranger leading east done less than 1 hour ago
+   - a vague track of the hardened ranger leading south done less than 2 hours
+ago
+
+   - a faint track of the hardened ranger leading south done less than 2 hours
+ago
+   - a faint track of a pack horse leading west done less than 6 hours ago
+   - a faint track of a hungry warg leading west done less than 6 hours ago
+   - a faint track of a pack horse leading south done less than 8 hours ago
+   - a faint track of a horse of the Rohirrim leading west done less than 11
+hours ago
+
+Nahor utters the words 'breath of briskness'
+An energy begins to flow within your legs as your body becomes lighter.
+
+You stop searching, you don't seem to find anything else.
+
+*+ CRW Mana:Warm>
+Nahor thanks you heartily.
+
+*+ CRW Mana:Warm>na Lilbit anything dong were willow
+Ok.
+
+*+ CRW Mana:Warm>
+Nahor stops following you.
+
+*+ CRW Mana:Warm>
+The coach from Bree rolls past you, heading towards Fornost.
+
+*+ CRW Mana:Warm>na Lilbit anmir dong were willow
+Ok.
+
+*+ CRW Mana:Warm>wher
+Players in your zone
+--------------------
+Iminye               - Old East Road Meets Greenway
+Nahor                - Old East Road Meets Greenway
+
+*+ CRW Mana:Hot>
+Nahor waves.
+
+*+ CRW Mana:Hot>
+Nahor leaves >>>> E A S T >>>>
+
+*+ CRW Mana:Hot>wav
+You wave.
+
+*+ CRW Mana:Hot>tr
+You carefully examine the ground around you, looking for tracks...
+
+cha m w
+You see:
+   - a vague track of a Dwarf leading east done less than 1 hour ago
+   - a vague track of a Dwarf coming from the west done less than 1 hour ago
+   - two vague tracks of a young ranger leading north done less than 1 hour ago
+   - a vague track of the hardened ranger leading south done less than 2 hours
+ago
+
+Edegil tells you 'lost forest damn'
+
+ta
+
+               Target is *orc*
+   - two faint tracks of a young ranger leading east done less than 2 hours ago
+   - a faint track of the hardened ranger leading south done less than 2 hours
+ago
+   - a faint track of a pack horse leading west done less than 7 hours ago
+   - a faint track of a hungry warg leading west done less than 7 hours ago
+   - a faint track of a pack horse leading south done less than 9 hours ago
+
+Edegil tells you 'orc here'
+
+You stop searching, you don't seem to find anything else.
+
+*+ CRW Mana:Hot>
+Ok.
+
+*+ CRW Mana:Hot>
+Fitzcarraldo has arrived from the east riding a pack horse.
+
+*+ CRW Mana:Hot>west
+Large Road
+Exits: =east=, =west=.
+
+*+ CRW Mana:Hot>west
+Old East Road
+Exits: -north-, =east=, -south-, =west=.
+
+*+ CRW Mana:Hot>south
+Small Path in Grassy Field
+Exits: -north-, south.
+A mother eagle (cc) bleeds from open wounds.
+
+*. CRW Mana:Hot>south
+Old Ruins
+Exits: north, west.
+
+*[ CRW Mana:Hot>west
+west
+Grassy Plain
+Exits: north, east, west.
+
+*( CRW Mana:Hot>south
+The Small Hill
+Exits: north, east, south.
+
+*( CRW Mana:Hot>west
+On a Runway
+Exits: north, -west-.
+
+*: CRW Mana:Hot>
+On a Runway
+Exits: -east-, -west-.
+
+*: CRW Mana:Hot>west
+On a Runway
+Exits: north, -east-, (south), -west-. - s:fissures(oneway) w:(oneway).
+
+*: CRW Mana:Hot>south
+In the Bushes
+Exits: north, east, south, west. - s:(oneway) e:(oneway).
+
+*: CRW Mana:Hot>east
+In the Bushes
+A sturdy pack horse is standing here.
+Exits: north, east, south, west.
+
+*: CRW Mana:Hot>north
+In the Bushes
+Exits: north, east, south, west. - s:(oneway).
+
+*: CRW Mana:Hot>west
+In the Bushes
+Exits: north, east, south, west.
+
+*: CRW Mana:Hot>south
+By the Bushes
+Exits: north, east, south, west. - w:(oneway).
+
+*( CRW Mana:Hot>east
+On the Small Hill
+Exits: north, east, south, west.
+
+*( CRW Mana:Hot>east
+On the Small Hill
+Exits: north, east, south, west. - n:(oneway).
+
+*( CRW Mana:Hot>east
+On the Small Hill
+Exits: north, east, south, west.
+
+*( CRW Mana:Hot>north
+On the Small Hill
+A Large Sign is standing here.
+Exits: north, east, south, west. - w:(oneway).
+
+*( CRW Mana:Hot>west
+The Hunting Place
+Exits: north, east, south, west.
+
+*. CRW Mana:Hot>west
+The Hunting Place
+A rabid raccoon stands here, frothing at the mouth.
+Exits: north, east, south.
+
+*. CRW Mana:Hot>tr warg
+You carefully examine the ground around you, looking for tracks...
+Argh! You cannot concentrate any more...
+A rabid raccoon tries to hit you, but your parry is successful.
+
+*. CRW Mana:Hot a rabid raccoon:Hurt>
+You stop searching.
+You slash a rabid raccoon's head hard and shatter it.
+
+*. CRW Mana:Hot a rabid raccoon:Wounded>order followers assist
+A mother eagle (cc) joins your fight.
+A mother eagle (bb) joins your fight.
+A mother eagle (aa) joins your fight.
+Ok.
+A mother eagle (aa) hits a rabid raccoon's left hindleg very hard and shatters
+it.
+A rabid raccoon is mortally wounded and will die soon if not aided.
+A mother eagle (bb) hits a rabid raccoon's body very hard and shatters it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a rabid raccoon's death cry as it collapses.
+A rabid raccoon is dead! R.I.P.
+
+*. CRW Mana:Hot>
+Needed: 1384250 xp, 0 tp.
+Total: 93615750 xp, 653885 tp.
+You gained 112 xp.You gained 3 tp.
+
+*. CRW Mana:Hot>tr warg
+You carefully examine the ground around you, looking for tracks...
+
+You see some vague tracks of a hungry warg leading south, done less than 3 hours
+ago.
+
+*. CRW Mana:Hot>south
+The Hunting Place
+Exits: north, east, west. - w:(oneway).
+
+You see some vague tracks of a hungry warg leading west, done less than 3 hours
+ago.
+
+*. CRW Mana:Hot>west
+The Old Forest
+A copper penny lies on the ground.
+*Dong the Black Numenorean* is here, riding a pack horse.
+A sturdy trained horse is standing here.
+Exits/emulated: north, west. - n:(random) w:(random).
+
+*Dong the Black Numenorean* leaves north riding a pack horse.
+
+You see some vague tracks of a hungry warg leading west, done less than 3 hours
+ago.
+
+*f CRW Mana:Hot>west
+Old Forest
+Exits: north, east, south, west. - n:(random,oneway) s:(random) e:(random)
+w:(random).
+
+You see some vague tracks of a hungry warg leading north, done less than 3 hours
+ago.
+
+*f CRW Mana:Hot>north
+Old Forest
+Exits: north, east, south, west. - n:(random,oneway) s:(random) e:(random)
+w:(random).
+
+You see some plain tracks of a hungry warg leading west, done less than 3 hours
+ago.
+
+*f CRW Mana:Hot>
+The tip of your blade shows a faint bluish glow.
+
+*f CRW Mana:Hot>west
+Old Forest
+Exits: north, east, south, west. - n:(oneway) s:(oneway) e:(oneway).
+
+You see some plain tracks of a hungry warg leading north, done less than 3 hours
+ago.
+
+*f CRW Mana:Hot>north
+Old Forest
+Exits: north, east, south, west. - s:river e:(oneway).
+Edegil tells you 'tom came to help'
+
+You see some plain tracks of a hungry warg leading north, done less than 3 hours
+ago.
+
+*f CRW Mana:Hot>north
+Old Forest
+Exits: north, east, south, west. - s:river e:(oneway).
+Your whole blade now glows with a pale blue light.
+
+You see some plain tracks of a hungry warg leading west, done less than 3 hours
+ago.
+
+*f CRW Mana:Hot>west
+Old Forest
+Exits: north, east, south, west. - n:(oneway).
+
+You see some vague tracks of a hungry warg leading west, done less than 3 hours
+ago.
+
+*f CRW Mana:Hot>west
+Old Forest
+Exits: north, east, south. - n:(oneway).
+
+Your blade starts to glow very brightly!
+
+You see some vague tracks of a hungry warg leading north, done less than 3 hours
+ago.
+A hungry warg has arrived from the north.
+
+*f CRW Mana:Hot>
+You hear a death cry from the north.
+
+*f CRW Mana:Hot>north
+Old Forest
+The corpse of *an Orc* is lying here.
+Tom Bombadil stands here, singing a happy song (glowing).
+Edegil is standing here.
+Exits: north, east, south. - d:shortcut(oneway).
+
+kill *orc*
+order followers assist
+You see some plain tracks of a hungry warg leading south, done less than 1 hour
+ago.
+
+*f CRW Mana:Hot>
+They aren't here.
+
+*f CRW Mana:Hot>
+Ok.
+
+*f CRW Mana:Hot>xc
+look in 1.corpse
+In the corpse (here):
+a fortune in gold
+an embellished longbow; it glows blue
+a water skin
+a quiver
+a stone
+a herbal kit
+a butcher knife (flawless)
+a gleaming belt; it glows blue
+an engraved broadsword (flawless); it glows blue
+a keyring with a key and a set of lock picks
+a leather backpack
+a forest green cloak (flawless); it glows blue
+a gilded round shield (flawless)
+a fine pair of chain mail sleeves (flawless)
+a fine pair of metal gauntlets (well-maintained)
+a black pair of padded boots (flawless)
+a fine pair of chain mail leggings (flawless)
+a twisted crown; it glows blue
+a fine chain mail hauberk (well-maintained)
+an old length of iron chain; it glows blue
+a black amulet; it glows blue
+a golden ruby ring; it glows blue
+a large sack
+a flask of orkish draught
+
+*f CRW Mana:Hot>
+The bluish glow on your blade fades entirely.
+
+*f CRW Mana:Hot>gac
+get all corpse
+You get a fortune in gold from the corpse of *an Orc*.
+There were 352 lauren coins, 4 celeb pennies, and 97 busc pennies.
+You get an embellished longbow from the corpse of *an Orc*.
+You get a water skin from the corpse of *an Orc*.
+drop skin
+You get a quiver from the corpse of *an Orc*.
+You get a stone from the corpse of *an Orc*.
+You get a herbal kit from the corpse of *an Orc*.
+You get a butcher knife from the corpse of *an Orc*.
+You get a gleaming belt from the corpse of *an Orc*.
+You get an engraved broadsword from the corpse of *an Orc*.
+You get a keyring with a key and a set of lock picks from the corpse of *an
+Orc*.
+You get a leather backpack from the corpse of *an Orc*.
+You get a forest green cloak from the corpse of *an Orc*.
+You get a gilded round shield from the corpse of *an Orc*.
+You get a fine pair of chain mail sleeves from the corpse of *an Orc*.
+You can't get a fine pair of metal gauntlets, they're too heavy.
+You get a black pair of padded boots from the corpse of *an Orc*.
+You can't get a fine pair of chain mail leggings, they're too heavy.
+You get a twisted crown from the corpse of *an Orc*.
+You can't get a fine chain mail hauberk, it's too heavy.
+You get an old length of iron chain from the corpse of *an Orc*.
+You get a black amulet from the corpse of *an Orc*.
+You get a golden ruby ring from the corpse of *an Orc*.
+You can't get a large sack, it's too heavy.
+You can't get a flask of orkish draught, it's too heavy.
+Edegil says 'dead'
+
+*f CRW Mana:Hot>
+You drop a water skin.
+A mother eagle (bb) tries to hit Edegil, but he parries successfully.
+Edegil swiftly dodges a mother eagle (cc)'s attempt to hit him.
+A mother eagle (aa) barely hits Edegil's left hand and tickles it.
+
+*f CRW Mana:Hot>i
+You are carrying:
+a golden ruby ring; it glows blue
+a black amulet; it glows blue
+an old length of iron chain; it glows blue
+a twisted crown; it glows blue
+a black pair of padded boots (flawless)
+a fine pair of chain mail sleeves (flawless)
+a gilded round shield (flawless)
+a forest green cloak (flawless); it glows blue
+a leather backpack
+a keyring with a key and a set of lock picks
+an engraved broadsword (flawless); it glows blue
+a gleaming belt; it glows blue
+a butcher knife (flawless)
+a herbal kit
+a stone
+a quiver
+an embellished longbow; it glows blue
+
+*f CRW Mana:Hot>
+A mother eagle (bb) lightly hits Edegil's left arm and tickles it.
+
+*f CRW Mana:Hot>
+A mother eagle (aa) barely hits Edegil's right arm and tickles it.
+Edegil panics, and attempts to flee.
+Edegil leaves ^^^^ N O R T H ^^^^
+
+*f CRW Mana:Hot>
+Tom Bombadil leaves ^^^^ N O R T H ^^^^
+
+*f CRW Mana:Hot>ff
+order followers flee
+A mother eagle (cc) panics, and attempts to flee.
+A mother eagle (cc) leaves >>>> E A S T >>>>
+A mother eagle (bb) panics, and attempts to flee.
+A mother eagle (bb) leaves ^^^^ N O R T H ^^^^
+A mother eagle (aa) panics, and attempts to flee.
+A mother eagle (aa) leaves ^^^^ N O R T H ^^^^
+Ok.
+
+*f CRW Mana:Hot>gac
+get all corpse
+You can't get a fine pair of metal gauntlets, they're too heavy.
+You can't get a fine pair of chain mail leggings, they're too heavy.
+You can't get a fine chain mail hauberk, it's too heavy.
+You can't get a large sack, it's too heavy.
+You get a flask of orkish draught from the corpse of *an Orc*.
+
+*f CRW Mana:Hot>i
+You are carrying:
+a flask of orkish draught
+a golden ruby ring; it glows blue
+a black amulet; it glows blue
+an old length of iron chain; it glows blue
+a twisted crown; it glows blue
+a black pair of padded boots (flawless)
+a fine pair of chain mail sleeves (flawless)
+a gilded round shield (flawless)
+a forest green cloak (flawless); it glows blue
+a leather backpack
+a keyring with a key and a set of lock picks
+an engraved broadsword (flawless); it glows blue
+a gleaming belt; it glows blue
+a butcher knife (flawless)
+a herbal kit
+a stone
+a quiver
+an embellished longbow; it glows blue
+
+*f CRW Mana:Hot>look
+Old Forest
+There is a water skin lying on the ground.
+The corpse of *an Orc* is lying here.
+Exits/emulated: north, south, east.
+
+*f CRW Mana:Hot>gi all pa
+give all pa
+Ok.
+Ok.
+Ok.
+Ok.
+Ok.
+Ok.
+Ok.
+Ok.
+Ok.
+Ok.
+Ok.
+Ok.
+Ok.
+Ok.
+A horse of the Rohirrim (pa) doesn't seem to be able to carry anything else.
+A horse of the Rohirrim (pa) doesn't seem to be able to carry anything else.
+A horse of the Rohirrim (pa) doesn't seem to be able to carry anything else.
+A horse of the Rohirrim (pa) doesn't seem to be able to carry anything else.
+
+*f CRW Mana:Hot>xc
+look in 1.corpse
+In the corpse (here):
+a fine pair of metal gauntlets (well-maintained)
+a fine pair of chain mail leggings (flawless)
+a fine chain mail hauberk (well-maintained)
+a large sack
+
+*f CRW Mana:Hot>gac
+get all corpse
+You get a fine pair of metal gauntlets from the corpse of *an Orc*.
+You get a fine pair of chain mail leggings from the corpse of *an Orc*.
+You get a fine chain mail hauberk from the corpse of *an Orc*.
+You get a large sack from the corpse of *an Orc*.
+
+*f CRW Mana:Hot>
+Edegil tells you 'i follow tom out'
+
+*f CRW Mana:Hot>na lilbit died
+Ok.
+
+*f CRW Mana:Hot>gr
+Your group consists of:
+     Iminye (head of group)
+     Edegil
+Edegil tells you 'great loot btw'
+
+*f CRW Mana:Hot>
+A hungry warg has arrived from the south.
+
+*f CRW Mana:Hot>xc
+look in 1.corpse
+In the corpse (here):
+Nothing.
+
+*f CRW Mana:Hot>kk warg
+order followers kil warg
+But you have no loyal subjects here?
+
+*f CRW Mana:Hot>north
+Lost in the Old Forest
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits: north, east, south, west. - d:shortcut(oneway).
+
+You see some clear tracks of a hungry warg leading south, done less than 1 hour
+ago.
+
+*f CRW Mana:Hot>south
+Old Forest
+There is a water skin lying on the ground.
+The corpse of *an Orc* is lying here.
+A hungry warg stands here, sniffing around for flesh.
+Exits: north, east, south. - w:(oneway).
+Aha, you have found your victim!
+
+*f CRW Mana:Burning>kk warg
+order followers kil warg
+A mother eagle (bb) hits a hungry warg's right hindleg hard and shatters it.
+A mother eagle (aa) tries to hit a hungry warg, but it parries successfully.
+Ok.
+A hungry warg says 'Grroar!'
+
+*f CRW Mana:Burning>xc
+look in 1.corpse
+In the corpse (here):
+Nothing.
+
+*f CRW Mana:Burning>a
+You assist a mother eagle (bb).
+You slash a hungry warg's left foreleg very hard and shatter it.
+
+*f CRW Mana:Burning a hungry warg:Wounded a mother eagle (bb):Hurt>
+A mother eagle (aa) hits a hungry warg's head hard and shatters it.
+A mother eagle (bb) hits a hungry warg's head very hard and shatters it.
+
+*f CRW Mana:Burning a hungry warg:Awful a mother eagle (bb):Hurt>
+You strongly slash a hungry warg's left forefoot and shatter it.
+A hungry warg is incapacitated and will slowly die, if not aided.
+
+*f CRW Mana:Burning a hungry warg:Dying a mother eagle (bb):Hurt>
+A mother eagle (aa) hits a hungry warg's head very hard and shatters it.
+You receive your share of experience.
+One more death... It seems to be a litany... 
+You hear a hungry warg's death cry as it collapses.
+A hungry warg is dead! R.I.P.
+
+*f CRW Mana:Burning>
+Needed: 1384190 xp, 0 tp.
+Total: 93615810 xp, 653985 tp.
+You gained 60 xp.You gained 100 tp.
+
+*f CRW Mana:Burning>xc
+look in 1.corpse
+In the corpse (here):
+Nothing.
+
+*f CRW Mana:Burning>xc
+look in 1.corpse
+In the corpse (here):
+Nothing.
+The white aura around your body fades.
+     S A N C T U A R Y   D O W N
+
+The spell lasted 4m50s.
+
+*f CRW Mana:Burning>xc2
+look in 2.corpse
+In the corpse (here):
+Nothing.
+
+*f CRW Mana:Burning>st
+stat
+OB: 64%, DB: 55%, PB: 57%, Armour: 79%. Wimpy: 100. Mood: wimpy.
+Needed: 1,384,190 xp, 0 tp. Lauren: 695. Alert: normal.
+Affected by:
+- noquit
+- novoid
+- breath of briskness (2m10s)
+- detect magic (24m40s)
+- armour   (🧥 17m12s  )
+- potion (🍺 38m6s )
+- shield   (⛉ 17m10s  )
+- vigour (1.7 days)
+- growth (2.2 days)
+
+*f CRW Mana:Burning>east
+Old Forest
+A mother eagle (cc) is standing here.
+Exits: north, east, south, west. - n:(oneway) e:(oneway).
+
+*f CRW Mana:Burning>west
+Bonfire Glade
+You see two slender plants on the ground.
+You see two hemlock plants on the ground.
+A large shrub covered with dark violet berries grows here.
+On the shrub, there are three piles of violet berries.
+A large bonfire is burning here.
+Exits: north, east, south, west. - w:(loop).
+
+*f CRW Mana:Burning>look
+Bonfire Glade
+There are two slender plants here.
+On the ground, there are two hemlock plants.
+A large shrub covered with dark violet berries grows here.
+On the shrub, there are three piles of violet berries.
+A large bonfire is burning here.
+A mother eagle (cc) is standing here.
+A mother eagle (bb) is standing here.
+A mother eagle (aa) is standing here.
+Exits/emulated: north, south, east, west. - n:(random) s:(random)
+e:(random,oneway) w:(random,oneway).
+
+*f CRW Mana:Burning>ex
+  North   - Old Forest
+  East    - Old Forest
+  South   - Old Forest
+  West    - Old Forest - n:(random) s:(random) e:(random,oneway)
+w:(random,oneway).
+
+*f CRW Mana:Burning>o leaves
+You don't see any leaves here.
+
+*f CRW Mana:Burning>north
+Old Forest
+Exits: north, east, south, west. - n:(random) s:(random) e:(random,oneway)
+w:(random,oneway).
+
+*f CRW Mana:Burning>look
+Old Forest
+Exits/emulated: north, south, east, west. - n:(oneway).
+
+*f CRW Mana:Burning>east
+Old Forest
+Exits: north, east, south, west. - n:(random,oneway) s:(random) e:(random)
+w:(random).
+
+*f CRW Mana:Burning>look
+Old Forest
+Exits/emulated: north, south, east, west. - n:(oneway) s:(oneway) e:(oneway).
+
+*f CRW Mana:Burning>west
+Old Forest
+Exits: north, east, south, west. - n:(oneway) s:(oneway) e:(oneway).
+
+*f CRW Mana:Burning>south
+Old Forest
+Exits: north, east, south, west. - n:(oneway).
+
+*f CRW Mana:Burning>west
+Bonfire Glade
+You see two slender plants on the ground.
+There are two hemlock plants here.
+A large shrub covered with dark violet berries grows here.
+On the shrub, there are three piles of violet berries.
+A large bonfire is burning here.
+Exits: north, east, south, west. - n:(oneway).
+
+*f CRW Mana:Burning>north
+Old Forest
+Exits: north, east, south, west. - n:(random) s:(random) e:(random,oneway)
+w:(random,oneway).
+
+*f CRW Mana:Burning>west
+Old Forest
+Exits: north, east, south, west. - n:(oneway).
+
+*f CRW Mana:Burning>north
+Bonfire Glade
+You see two slender plants on the ground.
+On the ground, there are two hemlock plants.
+A large shrub covered with dark violet berries grows here.
+On the shrub, there are three piles of violet berries.
+A large bonfire is burning here.
+Exits: north, east, south, west. - s:river e:(oneway).
+
+*f CRW Mana:Burning>east
+Old Forest
+Traces of fierce red tones form the aura of this place.
+*Dong the Black Numenorean* is here, riding a pack horse, fighting a mother
+eagle (bb).
+*Anmir the Black Numenorean* is here trying to concentrate, riding a trained
+horse.
+A mother eagle (bb) is here, fighting *Dong the Black Numenorean*.
+A mother eagle (aa) is here, fighting *Dong the Black Numenorean*.
+Exits: north, east, south, west. - n:(random,oneway) s:(random) e:(random)
+w:(random).
+A mother eagle (aa) lightly hits *Dong the Black Numenorean*'s head and tickles
+it.
+
+*f CRW Mana:Burning>
+*Anmir the Black Numenorean* utters the word 'yufzbarr'
+The fireball sent by *Anmir the Black Numenorean* hits a mother eagle (bb) with
+full force, causing an immediate death.
+You hear a mother eagle (bb)'s death cry as she collapses.
+A mother eagle (bb) is dead! R.I.P.
+
+*f CRW Mana:Burning>
+*Anmir the Black Numenorean         I S   C A S T I N G
+
+*f CRW Mana:Burning>order followers assist
+Ok.
+
+*f CRW Mana:Burning>
+Your legs feel heavier.
+The spell lasted 2m39s.
+
+*f CRW Mana:Burning>
+A mother eagle (aa) barely hits *Dong the Black Numenorean*'s body and tickles
+it.
+
+*f CRW Mana:Burning>cast q 'dispel e' *man*
+You start to concentrate...
+
+cast q 'dispel e' *man*
+*Anmir the Black Numenorean* utters the word 'yufzbarr'
+*Anmir the Black Numenorean* throws a fireball at a mother eagle (aa),
+completely enveloping her in flames.
+Ok.
+As you call upon Elbereth, *Dong the Black Numenorean* shivers in pain.
+
+*f CRW Mana:Hot>
+*Anmir the Black Numenorean         I S   C A S T I N G
+You start to concentrate...
+
+cast q 'dispel e' *man*
+*Dong the Black Numenorean         I S   C A S T I N G
+
+Ok.
+As you call upon Elbereth, *Dong the Black Numenorean* shivers in pain.
+
+*f CRW Mana:Hot>cast q 'dispel e' *man*
+You start to concentrate...
+
+cast q 'dispel e' *man*
+*Dong the Black Numenorean         I S   C A S T I N G
+
+cast q 'dispel e' *man*
+Ok.
+As you call upon Elbereth, *Dong the Black Numenorean* shivers in pain.
+*Dong the Black Numenorean* dismounts from a pack horse, and stops riding him.
+*Dong the Black Numenorean* is mortally wounded and will die soon if not aided.
+
+*f CRW Mana:Warm>
+You start to concentrate...
+
+cast q 'dispel e' *man*
+cast q 'dispel e' *man*
+*Anmir the Black Numenorean* utters the word 'yufzbarr'
+*Anmir the Black Numenorean* throws a fireball at a mother eagle (aa),
+completely enveloping her in flames.
+
+Ok.
+*Dong the Black Numenorean* is dissolved by your goodness.
+You feel more experienced.
+Congratulations! This is the first time you've killed it!
+You gained great renown in this battle!
+You hear *Dong the Black Numenorean*'s death cry as he collapses.
+*Dong the Black Numenorean* has drawn his last breath! R.I.P.
+
+*f CRW Mana:Cold>
+Alas, not enough mana flows through you...
+
+*f CRW Mana:Cold>
+Alas, not enough mana flows through you...
+
+*f CRW Mana:Cold>
+Alas, not enough mana flows through you...
+
+*f CRW Mana:Cold>
+*Anmir the Black Numenorean* dismounts from a trained horse, and stops riding
+him.
+A trained horse now follows *Anmir the Black Numenorean*.
+Alas, not enough mana flows through you...
+A mother eagle (aa) lightly hits *Anmir the Black Numenorean*'s head and tickles
+it.
+
+*f CRW Mana:Cold>
+Needed: some xp, 0 tp.
+Total: some xp, some tp.
+You gained 100000 xp.You gained 39 tp.
+|   1,  1%,  #Dong                     |   1,  0%,  #Lilbit                   |
