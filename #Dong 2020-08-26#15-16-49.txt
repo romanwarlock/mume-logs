@@ -1,0 +1,381 @@
+![ CW HP:Fine Mana:Warm>look
+A Natural Cavern
+Traces of pale red and fierce white tones form the aura of this place.
+The corpse of a huge, poisonous spider is lying here.
+The corpse of Mormaeg is lying here.
+A rotten corpse is hanging here.
+A horse of the Rohirrim (pa) is standing here.
+A mountain troll (aa) is standing here.
+A mountain troll (bb) is standing here.
+Exits/emulated: north, {down}. - d:crack(oneway).
+
+![ CW HP:Fine Mana:Warm>down
+Alas, you cannot go that way...
+
+![ CW HP:Fine Mana:Warm>o crack
+Ok.
+
+![ CW HP:Fine Mana:Warm>d
+Secret Tunnel
+Traces of rich red tones form the aura of this place.
+A brigand, looking at your nice purse, is sneaking here.
+*Dong the Black Numenorean* is here, riding a pack horse (shrouded).
+A shadowy and lithe orc stands here, half-hidden in the darkness.
+A shadowy and lithe orc stands here, half-hidden in the darkness.
+Exits: [south], [up]. - s:(oneway) u:plug.
+A horse of the Rohirrim (pa) has suddenly arrived.
+
+!= CW HP:Fine Mana:Warm>
+A mountain troll (bb) barely hits *Dong the Black Numenorean*'s body and tickles
+it.
+
+!= CW HP:Fine Mana:Warm>
+*Dong the Black Numenorean* stops using an engraved broadsword.
+*Dong the Black Numenorean* holds an obsidian eye.
+
+!= CW HP:Fine Mana:Warm>
+*Dong the Black Numenorean* points an obsidian eye at a mountain troll (aa).
+
+!= CW HP:Fine Mana:Warm>
+*Dong the Black Numenorean* points an obsidian eye at a mountain troll (bb).
+A mountain troll (bb)   ___ b l i n d 
+You swiftly dodge a lithe orc's attempt to stab you.
+A lithe orc barely stabs your left leg and tickles it.
+
+!= CW HP:Fine Mana:Warm a lithe orc:Healthy>
+*Dong the Black Numenorean* removes an obsidian eye.
+*Dong the Black Numenorean* awkwardly draws an engraved broadsword.
+
+!= CW HP:Fine Mana:Warm a lithe orc:Healthy>
+*Dong the Black Numenorean* drops an obsidian eye.
+
+!= CW HP:Fine Mana:Warm a lithe orc:Healthy>kk dong
+order followers kil dong
+*Dong the Black Numenorean* issues the order 'k iminye'.
+Ok.
+
+!= CW HP:Fine Mana:Warm a lithe orc:Healthy>
+*Dong the Black Numenorean* stops using an engraved broadsword.
+*Dong the Black Numenorean* holds an obsidian eye.
+A mountain troll (aa) says 'YOU! Dont! You will die begore your fime.'
+A mountain troll (aa) tries to hit *Dong the Black Numenorean*, but he parries
+successfully.
+
+!= CW HP:Fine Mana:Warm a lithe orc:Healthy>kk dong
+order followers kil dong
+*Dong the Black Numenorean* points an obsidian eye at a mountain troll (aa).
+
+!= CW HP:Fine Mana:Warm a lithe orc:Healthy>
+*Dong the Black Numenorean* points an obsidian eye at a mountain troll (bb).
+Ok.
+
+!= CW HP:Fine Mana:Warm a lithe orc:Healthy>
+*Dong the Black Numenorean* removes an obsidian eye.
+*Dong the Black Numenorean* awkwardly draws an engraved broadsword.
+
+!= CW HP:Fine Mana:Warm a lithe orc:Healthy>rr iminye
+order followers rescue iminye
+*Dong the Black Numenorean* drops an obsidian eye.
+You are rescued by a mountain troll (aa), you are confused!
+Ok.
+A mountain troll (aa) says 'Our cook's gonna boil ya vit' hahers!'
+A lithe orc says 'Obmorf nava elraeky draup do pall vo. Tzey are goep nes.'
+
+rr iminye
+order followers rescue iminye
+*Dong the Black Numenorean* gives a lithe orc an order.
+
+rr iminye
+order followers rescue iminye
+A lithe orc strongly stabs a mountain troll (aa)'s left leg and tickles it.
+
+A mountain troll (aa) strongly hits a lithe orc's body and tickles it.
+
+*Dong the Black Numenorean* gives a lithe orc an order.
+
+*Dong the Black Numenorean* gives a lithe orc an order.
+
+cast q 'dispel e' *man*
+A lithe orc B A S H E S ____a mountain troll (aa)
+A lithe orc stabs a mountain troll (aa)'s body hard.
+
+cast q 'dispel e' *man*
+A lithe orc stabs a mountain troll (aa)'s right foot hard.
+
+!= CW HP:Fine Mana:Warm>
+Ok.
+
+!= CW HP:Fine Mana:Warm>
+Ok.
+
+!= CW HP:Fine Mana:Warm>
+You start to concentrate...
+
+cast q 'dispel e' *man*
+*Dong the Black Numenorean* issues the order 'resc dong'.
+A lithe orc heroically rescues *Dong the Black Numenorean*.
+A mountain troll (bb) says 'Swoh yourself, coward!'
+
+cast q 'dispel e' *man*
+A lithe orc stabs a mountain troll (aa)'s body hard.
+
+Ok.
+As you call upon Elbereth, *Dong the Black Numenorean* shivers in pain.
+
+!= CW HP:Fine Mana:Cold *Dong the Black Numenorean*:Fine>
+You start to concentrate...
+
+cast q 'dispel e' *man*
+cast q 'dispel e' *man*
+Ok.
+As you call upon Elbereth, *Dong the Black Numenorean* shivers in pain.
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>rr iminye
+order followers rescue iminye
+Alas, not enough mana flows through you...
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>
+Alas, not enough mana flows through you...
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>
+Alas, not enough mana flows through you...
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>
+Alas, not enough mana flows through you...
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>
+Ok.
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>
+A lithe orc strongly stabs a mountain troll (bb)'s left leg and tickles it.
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>
+You barely slash *Dong the Black Numenorean*'s body and tickle it.
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>rr iminye
+order followers rescue iminye
+Ok.
+A mountain troll (bb) strongly hits a lithe orc's body and tickles it.
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>
+A mountain troll (aa)   ___ u n b a s h e d
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Fine>rr iminye
+order followers rescue iminye
+*Dong the Black Numenorean* issues the order 'resc dong'.
+
+!= CW HP:Fine Mana:Frozen a lithe orc:Fine>
+Ok.
+
+!= CW HP:Fine Mana:Frozen a lithe orc:Fine>rr iminye
+order followers rescue iminye
+Ok.
+
+!= CW HP:Fine Mana:Frozen a lithe orc:Fine>rr iminye
+order followers rescue iminye
+Ok.
+
+!= CW HP:Fine Mana:Frozen a lithe orc:Fine>
+A mountain troll (bb) strongly hits a lithe orc's body and tickles it.
+A mountain troll (aa) hits a lithe orc's left hand very hard.
+
+!= CW HP:Fine Mana:Frozen a lithe orc:Fine>
+A lithe orc stabs a mountain troll (bb)'s body and tickles it.
+
+!= CW HP:Fine Mana:Frozen a lithe orc:Fine>rr iminye
+order followers rescue iminye
+A lithe orc barely stabs your right arm and tickles it.
+
+!= CW HP:Fine Mana:Frozen a lithe orc:Fine>
+Ok.
+
+!= CW HP:Fine Mana:Frozen a lithe orc:Fine>look
+Secret Tunnel
+Traces of fierce red and fierce white tones form the aura of this place.
+On the ground, there are two obsidian eyes.
+A brigand, looking at your nice purse, is sneaking here.
+*Dong the Black Numenorean* is here, riding a pack horse.
+A lithe orc is here, fighting a mountain troll (bb).
+A lithe orc is here, fighting YOU.
+A horse of the Rohirrim (pa) is standing here.
+A mountain troll (aa) is here, fighting a lithe orc.
+A mountain troll (bb) is here, fighting a lithe orc.
+Exits/emulated: {north}, {south}, {up}. - s:(oneway) u:plug.
+
+!= CW HP:Fine Mana:Frozen a lithe orc:Fine>rr iminye
+order followers rescue iminye
+You are rescued by a mountain troll (aa), you are confused!
+Ok.
+A lithe orc says 'Ab'n tome fol you po die!'
+
+rr iminye
+order followers rescue iminye
+ex
+A mountain troll (aa) strongly hits a lithe orc's left foot and tickles it.
+
+A lithe orc strongly stabs a mountain troll (bb)'s right leg and tickles it.
+
+A lithe orc lightly stabs a mountain troll (aa)'s left arm and tickles it.
+
+*Dong the Black Numenorean         I S   C A S T I N G
+
+o plug
+*Dong the Black Numenorean* utters the word 'zabrahpdjatz'
+*Dong the Black Numenorean* makes the earth tremble and shiver.
+A lithe orc realises that *Dong the Black Numenorean* is a jerk!
+A lithe orc stops following *Dong the Black Numenorean*.
+You fall, and hit yourself!
+A lithe orc realises that *Dong the Black Numenorean* is a jerk!
+A lithe orc stops following *Dong the Black Numenorean*.
+*Dong the Black Numenorean* dismounts from a pack horse, and stops riding him.
+A mean brigand yells 'HELP! *Dong the Black Numenorean* is trying to kill me in
+the Secret Tunnel!'
+A mountain troll (aa) says 'No one will remember your tace, Dont! Me smasf iv
+noh!'
+A mountain troll (bb) says 'I can'h see you, buw you'll soon be dead anyzay!'
+A lithe orc says 'Is that tve bosd yau cah do? Pry harker!'
+A horse of the Rohirrim (pa) says 'Yor'll zevezkrkturwuto thk vfle yok
+camkkfrom,kDong!'
+
+*Dong the Black Numenorean         I S   C A S T I N G
+
+A pack horse panics, and attempts to flee.
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Hurt a horse of the
+Rohirrim (pa):Wounded>
+Ok.
+A mean brigand barely crushes *Dong the Black Numenorean*'s left arm and tickles
+it.
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Hurt a horse of the
+Rohirrim (pa):Wounded>
+ [South]  - A closed 'board'
+ [Up]     - A closed 'plug' - s:(oneway) u:plug.
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Hurt a horse of the
+Rohirrim (pa):Wounded>
+       The plug B L O C K E D
+A mountain troll (aa) hits a lithe orc's body.
+
+!= CW HP:Fine Mana:Frozen *Dong the Black Numenorean*:Hurt a horse of the
+Rohirrim (pa):Wounded>
+*Dong the Black Numenorean* utters the word 'zabrahpdjatz'
+*Dong the Black Numenorean* makes the earth tremble and shiver.
+You hear a pack horse's death cry as he collapses.
+A pack horse is dead! R.I.P.
+You fall, and hit yourself!
+A horse of the Rohirrim (pa) is mortally wounded and will die soon if not aided.
+
+!= CW HP:Hurt Mana:Frozen *Dong the Black Numenorean*:Hurt a horse of the
+Rohirrim (pa):Dying>
+*Dong the Black Numenorean         I S   C A S T I N G
+
+Rohirrim (pa):Dying>g rock all
+You get a twisted rock fragment from a silvan satchel.
+
+!= CW HP:Hurt Mana:Frozen *Dong the Black Numenorean*:Hurt a horse of the
+Rohirrim (pa):Dying>
+A lithe orc stabs a mountain troll (bb)'s left foot and tickles it.
+
+!= CW HP:Hurt Mana:Frozen *Dong the Black Numenorean*:Hurt a horse of the
+Rohirrim (pa):Dying>
+*Dong the Black Numenorean* utters the word 'zabrahpdjatz'
+*Dong the Black Numenorean* makes the earth tremble and shiver.
+You fall, and hit yourself!
+You hear a mountain troll (aa)'s death cry as it collapses.
+A mountain troll (aa) is dead! R.I.P.
+A shadow slowly rises above the corpse of a mountain troll (aa).
+You hear a horse of the Rohirrim (pa)'s death cry as he collapses.
+A horse of the Rohirrim (pa) is dead! R.I.P.
+A mean brigand is incapacitated and will slowly die, if not aided.
+
+!= CW HP:Hurt Mana:Frozen *Dong the Black Numenorean*:Hurt a mean brigand:Dying>
+*Dong the Black Numenorean         I S   C A S T I N G
+A lithe orc joins a lithe orc's fight.
+A lithe orc says 'Dia, yoa faol!'
+
+!= CW HP:Hurt Mana:Frozen *Dong the Black Numenorean*:Hurt a mean brigand:Dying>
+A mountain troll (bb) hits a lithe orc's body very hard and shatters it.
+A lithe orc is incapacitated and will slowly die, if not aided.
+
+!= CW HP:Hurt Mana:Frozen *Dong the Black Numenorean*:Hurt a mean brigand:Dying>
+A lithe orc stabs a mountain troll (bb)'s right arm very hard and shatters it.
+
+!= CW HP:Hurt Mana:Frozen *Dong the Black Numenorean*:Hurt a mean brigand:Dying>
+*Dong the Black Numenorean* utters the word 'zabrahpdjatz'
+*Dong the Black Numenorean* makes the earth tremble and shiver.
+You hear a lithe orc's death cry as he collapses.
+A lithe orc is dead! R.I.P.
+A shadow slowly rises above the corpse of a lithe orc.
+You hear a mean brigand's death cry as he collapses.
+A mean brigand is dead! R.I.P.
+get pouch brigand-corpse;get key all;put all.key keyring;drop beltpouch
+get all.coins all.corpse
+   A R M O U R   D O W N
+The spell lasted 7m58s.
+You fall, and hit yourself!
+You hear a lithe orc's death cry as he collapses.
+A lithe orc is dead! R.I.P.
+A shadow says 'Degend yourselg, Dont, or die by my wand!'
+
+!= CW HP:Wounded Mana:Frozen *Dong the Black Numenorean*:Wounded>
+You can't find any pouch in the brigand-corpse.
+You flee head over heels.
+PANIC! You couldn't escape!
+
+!= CW HP:Wounded Mana:Frozen *Dong the Black Numenorean*:Wounded>
+*Dong the Black Numenorean         I S   C A S T I N G
+You remove a black key from your keyring.
+The icy grasp of a shadow blocks your attempt!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+The icy grasp of a shadow blocks your attempt!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+!= CW HP:Wounded Mana:Frozen *Dong the Black Numenorean*:Wounded>
+You put a black key on your keyring.
+
+!= CW HP:Wounded Mana:Frozen *Dong the Black Numenorean*:Wounded>
+You don't have any beltpouch.
+
+!= CW HP:Wounded Mana:Frozen *Dong the Black Numenorean*:Wounded>
+You get a pile of coins from the corpse of a lithe orc.
+There was 1 celeb penny.
+You get a pile of coins from the corpse of a mean brigand.
+There were 10 celeb pennies.
+The icy grasp of a shadow blocks your attempt!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+The icy grasp of a shadow blocks your attempt!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+You flee head over heels.
+PANIC! You couldn't escape!
+
+!= CW HP:Wounded Mana:Frozen *Dong the Black Numenorean*:Wounded>throw rock exit s
+As you throw a twisted rock fragment at the board, there is an explosion.
+*Dong the Black Numenorean* staggers as a twisted rock fragment explodes in his
+hands!
+The board seems to blur for a while.
+*Dong the Black Numenorean* utters the word 'zabrahpdjatz'
+*Dong the Black Numenorean* makes the earth tremble and shiver.
+That really HURT!
+You are wracked with overwhelming PAIN!
+You fall, and hit yourself!
+You hear a mountain troll (bb)'s death cry as it collapses.
+A mountain troll (bb) is dead! R.I.P.
+A shadow says 'Dofozg yoarvelf, Dosg, or tue by vy mavd!'
+A shadow hits *Dong the Black Numenorean*'s head extremely hard and shatters it.
+*Dong the Black Numenorean* is incapacitated and will slowly die, if not aided.
+
+!= CW HP:Awful Mana:Frozen *Dong the Black Numenorean*:Dying>os
+open exit south
+You flee head over heels.
+PANIC! You couldn't escape!
+
+!= CW HP:Awful Mana:Frozen *Dong the Black Numenorean*:Dying>
+Ok.
+
+!= CW HP:Awful Mana:Frozen *Dong the Black Numenorean*:Dying>
+You flee head over heels.
+You flee south.
+Old East Road
+Exits: =east=, =west=. - s:(oneway) u:plug.
