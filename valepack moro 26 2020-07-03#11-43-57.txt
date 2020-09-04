@@ -1,0 +1,2967 @@
+Log session starting at 11:43:57 on viernes, 3 julio 2020.
+
+Welcome to the land of Middle-earth. May your visit here be... interesting.
+eq
+rem pack;wear pack;change wimpy 100;rem mantle;wear mantle;rem cloak;wear 
+cloak;rem shield;wear shield;rem staff;wear staff shield
+change height 50;inf;look
+Never forget! Try to role-play...
+
+
+Last login really recently from 148.56.9.30.
+In a Mirrored Hallway
+Traces of fierce white tones form the aura of this place.
+A large sack is on the ground.
+A light boat made of reeds has been left here.
+A large bulletin board, entitled "Board of the Free Peoples", is mounted here.
+A small loyal cat is here.
+A steward is here, ready to help you with your things.
+A sturdy pack horse is standing here.
+A sturdy pack horse is standing here.
+A sturdy pack horse is standing here.
+A stocky mountain mule is here, waiting to serve.
+A cockroach is scuttling across the floor carrying some debris.
+Exits: down.
+
+Your default tongue is Westron.
+Free rent.
+
+![ CW HP:Fine Mana:Hot>
+You are using:
+<wielded>            a ceremonial dagger (flawless); it glows blue
+<used as shield>     a bejewelled oak staff; it glows blue; it has a soft
+glowing aura
+<worn on head>       a great helm (flawless)
+<worn on body>       a fine metal breastplate (flawless)
+<worn about body>    a russet cloak (flawless); it glows blue
+<worn on arms>       a fine pair of metal vambraces (flawless)
+<worn on hands>      a fine pair of metal gauntlets (flawless)
+<worn on legs>       a fine pair of metal greaves (flawless)
+<worn on feet>       a fine pair of metal boots (flawless)
+<worn on wrist>      a keyring with a set of lock picks
+<worn on finger>     a golden topaz ring; it glows blue
+<worn on back>       a leather backpack
+<worn across back>   a fine elven rope
+<worn as belt>       a gleaming belt; it glows blue
+<worn on belt>       a herbal kit
+<worn on belt>       a sable pouch; it glows blue
+
+![ CW HP:Fine Mana:Hot>
+You are a male Fallohid.
+You are 41 years, 4 months and 28 days old.
+You have played 6 days and 1 hour (real time). Session: 3 secs (encrypted).
+This ranks you as Moro Burrows (level 26).
+You are two feet eight and weigh three stone and ten pounds.
+Perception: vision 35, hearing 25, smell 10. Alertness: normal.
+You must have been sent to Arda to free it from the sorrows that weigh upon it.
+You are welcome in the Anduin Vale, the Blue Mountains, Bree, Fornost, the Grey
+Havens, Lorien, Rivendell, and the Shire.
+Your equipment weighs one hundred four pounds. Heavy, but we will manage...
+Your base abilities are: Str:13(11) Int:18 Wis:18 Dex:10 Con:15(14) Wil:19(18)
+Per:13.
+Offensive Bonus: 44%, Dodging Bonus: 52%, Parrying Bonus: 48%.
+Your armour provides an average protection of 95%.
+You have 191/198 hit, 81/124 mana, and 93/103 movement points.
+Your mood is wimpy. You will flee if your hit points go below 100.
+You have scored 7,237,316 experience points and you have 62,388 travel points.
+You are not known for any acts of war.
+You need 662,684 exp. points and 0 travel points to reach the next level.
+You have 122 gold coins, 14 silver pennies, and 11 copper pennies.
+You are speaking Westron.
+You will swim if necessary.
+You will try to climb even under unsafe conditions.
+
+You are subjected to the following temporary effects:
+- strength (💪 23s  )
+- bless    (☼ 4m56s  )
+- stored spell earthquake
+- stored spell earthquake
+- stored spell earthquake
+- stored spell earthquake
+- detect magic (27m13s)
+- shield   (⛉ 42s  )
+- armour   (🧥 44s  )
+- vigour
+- growth
+!. CRW>look
+
+West of a Village
+A mountain troll (bb)  S L E E P I N G
+A mountain troll (aa)  S L E E P I N G
+Exits/emulated: north, south, west.
+
+!. CRW>ss
+order followers sleep
+Ok.
+
+!. CRW>south
+A Vale in the Fields
+Exits: north, east, south, west.
+
+!. CRW>south
+south
+A Vale in the Fields
+A large beautiful rose bush is blooming here.
+Deep inside the bush, there are two red roses with leaves and thorny stems.
+Exits: north, east, south, west.
+
+!. CRW>west
+A Dense Clump of Trees
+A mass of wriggling vines drops on you from the trees.
+A mass of wriggling vines drops on you from the trees.
+Exits: north, east, south, west. - d:roots.
+
+!. CRW>west
+Fields by the Road
+A swallow flies high above the ground.
+Exits: north, east, south, west.
+You feel a hidden presence.
+
+!. CRW>west
+Bend in the Old Forest Road
+A swallow flies high above the ground.
+Exits: north, east, =south=, west.
+
+!+ CRW>west
+Old Ford
+Exits: ~north~, east, ~south~, west.
+
+!% CRW>west
+West of the Old Ford
+Exits: north, east, ~south~, =west=.
+The ground is frozen solid.
+
+!+ CRW>look
+Old Forest Road
+Exits: =north=, =east=, south, west.
+
+!+ CRW>north
+Old Forest Road
+Exits/emulated: ^=north=^, ^south^, ^=east=^, ^west^.
+
+!+ CRW>
+Road South of a Quarry
+A grey wolf is here, salivating profusely.
+Exits: north, east, =south=, =west=.
+
+!+ CRW>west
+north
+Bend in the Old Forest Road
+A rabid raccoon stands here, frothing at the mouth.
+Exits: =north=, =east=, south, west.
+
+!+ CRW>west
+Bend around a Quarry
+Exits: north, =south=, -west-, \down/.
+
+!+ CRW>north
+The Old Forest Road
+Exits: north, -east-, south, -west-.
+
+!. CRW>west
+Fields beside the Road
+Exits: east, south, west, \down/.
+
+!. CRW>west
+Bend in the Old Forest Road
+Exits: north, east, -south-, -west-.
+
+!. CRW>west
+west
+Old Forest Road
+Exits: north, -east-, south, -west-.
+
+!. CRW>west
+Old Forest Road
+Exits: north, -east-, south, -west-.
+
+!. CRW>west
+Old Forest Road
+Exits: north, -east-, south, -west-.
+
+!. CRW>north
+Old Forest Road
+A black snake hurries towards you with sly intentions.
+Exits: north, -east-, south, -west-.
+
+!. CRW>west
+Fork in the Road
+Exits: -north-, -east-, -south-, west.
+
+!. CRW>north
+Bend in the Old Forest Road
+Exits: north, east, -south-, -west-.
+
+!. CRW>west
+Bend in the Old Forest Road
+Exits: -north-, -east-, south, west.
+
+!. CRW>north
+Bend in the Old Forest Road
+Exits: north, -south-, -west-, down.
+
+!. CRW>north
+Old Forest Road
+A black snake hurries towards you with sly intentions.
+A small vicious black rat squeaks at you for disturbing it.
+Exits: north, -east-, south, -west-.
+
+!. CRW>north
+Tangled Cutting Grounds
+Exits: north, east, south, west.
+
+!. CRW>
+Woody Coppice
+Exits: north, east, south, west.
+
+!. CRW>
+Gentle Slope
+Exits: north, east, south, west.
+
+!. CRW>west
+Rough Plains
+Exits: north, east, south, west.
+
+!. CRW>
+The light of Aman fades away from you.
+use staff
+
+     B L E S S   O F F
+
+The spell lasted 9m42s.
+
+!. CRW>
+You raise your staff and call upon the Valar.
+You begin to feel the light of Aman shine upon you.
+
+!. CRW>east
+Gentle Slope
+Exits: north, east, south, west.
+
+!. CRW>south
+Woody Coppice
+Exits: north, east, south, west.
+
+!. CRW>dism
+You stop riding a mountain mule (pa).
+
+!. CW>
+A squirrel has arrived from the west.
+
+!. CW>
+A squirrel suddenly darts across the ground.
+
+!. CW>
+A wild bull has arrived from the east.
+
+!. CW>
+You hear some very far noise from the west.
+
+!. CW>
+A squirrel leaves vvvv S O U T H vvvv
+
+!. CW>
+A wild bull leaves vvvv S O U T H vvvv
+
+!. CW>
+You hear some rather far noise from the west.
+
+!. CW>
+You hear some apparently close noise from the west.
+--------------------olny 1 short sanct will be used----------------------------
+!. CW>recite scroll
+You start reciting a purple scroll.
+
+Some very close noise can be heard from the west.
+
+You recite a purple scroll which dissolves.
+Your eyes tingle.
+You start glowing.
+
+!. CW>west
+Bend in the Old Forest Road
+The great orkish raider is here, riding the warg chief.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+An orkish raider is here, riding a large black warg.
+An orkish raider is here, riding a large black warg.
+An orkish raider is here, riding a large black warg.
+An orkish raider is here, riding a large black warg.
+An orkish raider is here, riding a great black warg.
+An orkish raider is here, riding a large black warg.
+An orkish raider is here, riding a large black warg.
+An orkish raider is here, riding a large black warg.
+Exits: north, east, -south-, -west-.
+You swiftly dodge the warg chief's attempt to hit you.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+You feel more exposed.
+An orkish raider barely slashes your body and tickles it.
+An orkish raider barely stabs your left leg and tickles it.
+An orkish raider barely slashes your head and tickles it.
+An orkish raider barely pounds your right leg and tickles it.
+An orkish raider barely stabs your body and tickles it.
+
+!. CW HP:Fine the warg chief:Healthy>
+You barely pierce the warg chief's right hindleg and tickle it.
+-----------------------------cast t 'earthquake' for damage------------------------
+!. CW HP:Fine the warg chief:Fine>tere
+cast t 'earthquake'
+You quickly recall your stored spell...
+
+tere
+cast t 'earthquake'
+tere
+cast t 'earthquake'
+The warg chief barely hits your right hand and tickles it.
+
+tere
+cast t 'earthquake'
+The earth trembles beneath your feet!
+
+!. CW HP:Fine Mana:Burning the warg chief:Fine>
+You quickly recall your stored spell...
+An orkish raider barely stabs your left leg and tickles it.
+
+An orkish raider barely pounds your left arm and tickles it.
+
+An orkish raider says 'YGA! Hapget! Yaa nall due dufori yaur peso.' in Orkish.
+
+An orkish raider barely slashes your head and tickles it.
+
+The earth trembles beneath your feet!
+
+!. CW HP:Fine Mana:Hot the warg chief:Fine>
+You quickly recall your stored spell...
+An orkish raider barely stabs your left arm and tickles it.
+The warg chief barely hits your right leg and tickles it.
+
+The great orkish raider says 'YPU! Hubbit! Yoa hill doa tofere yoal tuma.' in
+Orkish.
+
+The earth trembles beneath your feet!
+   A R M O U R   D O W N
+The spell lasted 16m.
+An orkish raider lightly stabs your head and tickles it.
+
+!. CW HP:Fine Mana:Hot the warg chief:Fine>
+You quickly recall your stored spell...
+
+An orkish raider barely slashes your body and tickles it.
+
+An orkish raider lightly cleaves your head and tickles it.
+An orkish raider barely stabs your right leg and tickles it.
+The warg chief strongly hits your left hand.
+
+The earth trembles beneath your feet!
+A large black warg is mortally wounded and will die soon if not aided.
+A large black warg is mortally wounded and will die soon if not aided.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+An orkish raider dismounts from a large black warg as it falls to the ground.
+A large black warg is incapacitated and will slowly die, if not aided.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+A large black warg is mortally wounded and will die soon if not aided.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+An orkish raider dismounts from a large black warg as it falls to the ground.
+A large black warg is incapacitated and will slowly die, if not aided.
+A large black warg is incapacitated and will slowly die, if not aided.
+
+!. CW HP:Fine Mana:Warm the warg chief:Hurt>
+An orkish raider barely slashes your head and tickles it.
+
+!. CW HP:Fine Mana:Warm the warg chief:Hurt>flee
+You flee head over heels.
+You flee east.
+Woody Coppice
+Traces of intense white tones form the aura of this place.
+A mountain mule (pa) is standing here.
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Warm>ride pa
+You pick up a mountain mule (pa)'s reins and start riding him.
+
+!. CRW HP:Fine Mana:Warm>east
+Brushwood
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Warm>east
+Among the Strange Bushes
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Warm>west
+north
+Brushwood
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Warm>west
+west
+Brushwood
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Warm>west
+Gentle Slope
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Warm>
+You hear some rather far noise from the south.
+
+Rough Plains
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Warm>
+Old Forest Road
+Exits: -north-, east, -south-.
+
+!. CRW HP:Fine Mana:Warm>south
+Bend in the Old Forest Road
+Exits: -north-, -east-, south.
+
+!. CRW HP:Fine Mana:Warm>east
+Bend in the Old Forest Road
+Traces of fierce white tones form the aura of this place.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a black snake is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A large black warg is lying here, incapacitated.
+A large black warg is lying here, incapacitated.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, riding a large black warg.
+An orkish raider is here, riding a large black warg.
+Exits: north, east, -south-, -west-.
+
+!. CRW HP:Fine Mana:Warm>
+An orkish raider dismounts from a large black warg, and stops riding it.
+An orkish raider dismounts from a large black warg, and stops riding it.
+
+!. CRW HP:Fine Mana:Warm>north
+Rough Plains
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Warm>stoe
+cast n 'store' earthquake
+Some rather far noise can be heard from the south.
+
+!. CRW HP:Fine Mana:Warm>
+You start to concentrate...
+
+lead pa
+You stored it.
+
+!. CRW HP:Fine Mana:Cold>
+You stop riding a mountain mule (pa).
+A mountain mule (pa) starts following you.
+
+!. CW HP:Fine Mana:Cold>
+You hear some very far noise from the south.
+
+!. CW HP:Fine Mana:Cold>aba
+A mountain mule (pa) stops following you.
+
+!. CW HP:Fine Mana:Warm>south
+Bend in the Old Forest Road
+Traces of fierce white tones form the aura of this place.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a black snake is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A large black warg is lying here, incapacitated.
+A large black warg is lying here, incapacitated.
+A large black warg is lying here, mortally wounded.
+A large black warg is lying here, mortally wounded.
+Exits: north, east, -south-, -west-.
+
+!. CW HP:Fine Mana:Warm>k warg
+You pierce a large black warg's right forefoot extremely hard and shatter it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+
+!. CW HP:Fine Mana:Warm>
+Raudo narrates 'smiles mors'
+
+!. CW HP:Fine Mana:Warm>stoe
+cast n 'store' earthquake
+You start to concentrate...
+
+Some very far noise can be heard from the east.
+
+k awrg
+You stored it.
+
+!. CW HP:Fine Mana:Icy>
+They aren't here.
+
+!. CW HP:Fine Mana:Icy>k warg
+You pierce a large black warg's body extremely hard and shatter it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+
+!. CW HP:Fine Mana:Icy>k warg
+!. CW HP:Fine Mana:Icy a large black warg:Dying>
+You pierce a large black warg's right foreleg extremely hard and shatter it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+
+!. CW HP:Fine Mana:Icy>k warg
+!. CW HP:Fine Mana:Icy a large black warg:Dying>
+You pierce a large black warg's body extremely hard and shatter it.
+Your victim is shocked by your hit!
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+
+!. CW HP:Fine Mana:Icy>north
+Rough Plains
+Traces of rich white tones form the aura of this place.
+A mountain mule (pa) is standing here.
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Icy>ride pa
+You pick up a mountain mule (pa)'s reins and start riding him.
+
+!. CRW HP:Fine Mana:Icy>look
+Rough Plains
+Traces of rich white tones form the aura of this place.
+Exits/emulated: ^north^, ^south^, ^east^, ^west^.
+
+!. CRW HP:Fine Mana:Icy>east
+Gentle Slope
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Icy>east
+Brushwood
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Icy>east
+east
+Sparse Bushes
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Icy>south
+The Valley Edge
+Exits: north, south, west, \down/.
+
+!. CRW HP:Fine Mana:Icy>south
+south
+The Valley Edge
+A black crow flies low to the ground here, looking for carrion to eat.
+Exits: north, south, west, /up\, \down/.
+
+!. CRW HP:Fine Mana:Icy>south
+east
+The Valley Edge
+Exits: north, south, west, down.
+
+!. CRW HP:Fine Mana:Icy>east
+east
+east
+Vast Plain
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Icy>east
+Vast Plain
+A brown fox is here, looking for some rabbits to chew up.
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Icy>
+Grass beside the Road
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Icy>i
+Flowery Grass
+A small rabbit glares angrily at you.
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Icy>
+Flowery Grass
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Icy>
+Plump Shrubbery
+A small animal, all covered in spines, snuffles amongst the undergrowth.
+Exits: north, south, west.
+
+!. CRW HP:Fine Mana:Icy>
+Alas, you cannot go that way...
+
+!. CRW HP:Fine Mana:Icy>south
+You are carrying:
+Nothing.
+
+!. CRW HP:Fine Mana:Icy>south
+Bend in the Old Forest Road
+Exits: north, east, -south-, -west-.
+
+!. CRW HP:Fine Mana:Icy>east
+east
+Bend in the Old Forest Road
+Exits: -north-, -east-, south, west.
+
+!. CRW HP:Fine Mana:Icy>south
+east
+The Old Forest Road
+Exits: north, -east-, south, -west-.
+
+!. CRW HP:Fine Mana:Icy>south
+east
+Bend around a Quarry
+Exits: north, =south=, -west-, \down/.
+
+!+ CRW HP:Fine Mana:Icy>
+Bend in the Old Forest Road
+A rabid raccoon stands here, frothing at the mouth.
+Exits: =north=, =east=, south, west.
+
+!+ CRW HP:Fine Mana:Icy>
+Road South of a Quarry
+Exits: north, east, =south=, =west=.
+
+!+ CRW HP:Fine Mana:Cold>st
+stat
+Old Forest Road
+A grey wolf is here, salivating profusely.
+Exits: =north=, =east=, south, west.
+
+!+ CRW HP:Fine Mana:Cold>east
+West of the Old Ford
+Exits: north, east, ~south~, =west=.
+
+!+ CRW HP:Fine Mana:Cold>east
+OB: 42%, DB: 52%, PB: 46%, Armour: 90%. Wimpy: 100. Mood: wimpy.
+Needed: 620,487 xp, 0 tp. Gold: 122. Alert: normal.
+Affected by:
+- noquit
+- stored spell earthquake
+- stored spell earthquake
+- panic
+- sanctuary (52s)
+- bless    (☼ 1m35s  )
+- strength (💪 16m25s  )
+- detect magic (43m15s)
+- shield   (⛉ 16m44s  )
+- vigour
+- growth
+
+!+ CRW HP:Fine Mana:Cold>east
+Old Ford
+Exits: ~north~, east, ~south~, west.
+
+!% CRW HP:Fine Mana:Cold>north
+north
+Bend in the Old Forest Road
+Exits: north, east, =south=, west.
+The ground is frozen solid.
+
+!+ CRW HP:Fine Mana:Cold>east
+north
+Fields by the Road
+A swallow flies high above the ground.
+Exits: north, east, south, west.
+A swallow panics, and attempts to flee.
+A swallow leaves vvvv S O U T H vvvv
+
+!. CRW HP:Fine Mana:Cold>
+Fields by the Ruins
+A detached white rose is lying here.
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Cold>
+Grassy Fields
+A colony of red ants is here. The ants seem to ignore you.
+Exits: north, east, south, west.
+You feel a hidden presence.
+
+!. CRW HP:Fine Mana:Cold>
+A Vale in the Fields
+Exits: north, east, south, west.
+
+!. CRW HP:Fine Mana:Cold>mis kit
+West of a Village
+A mountain troll (bb)  S L E E P I N G
+A mountain troll (aa)  S L E E P I N G
+Exits: north, south, west.
+
+!. CRW HP:Fine Mana:Cold>
+Arglebargle, glop-glyf!?!
+
+!. CRW HP:Fine Mana:Cold>shr
+Raudo narrates 'awfl'
+cast n 'shr'
+You start to concentrate...
+
+mix kit
+You are surrounded by a misty shroud.
+
+!. CRW HP:Fine Mana:Icy>
+You start mixing the contents of a herbal kit.
+
+You feel bolder.
+
+Raudo narrates 'khorga here'
+
+You have finished mixing the contents of a herbal kit.
+You have produced a pungent brew.
+
+!. CRW HP:Fine Mana:Icy>quaff brew
+Ok.
+
+!. CRW HP:Fine Mana:Icy>sleep
+You stop riding a mountain mule (pa).
+You go to sleep.
+
+o. CW HP:Fine Mana:Icy>sc
+165/198 hits, 14/139 mana, and 93/103 moves.
+
+o. CW HP:Fine Mana:Cold>wake;look;stand;ride pa
+You wake, and sit up.
+
+!. CW HP:Fine Mana:Cold>
+West of a Village
+A mountain troll (bb)  S L E E P I N G
+A mountain troll (aa)  S L E E P I N G
+A mountain mule (pa) is standing here.
+Exits/emulated: north, south, west.
+
+!. CW HP:Fine Mana:Cold>
+You stand up.
+
+!. CW HP:Fine Mana:Cold>
+You pick up a mountain mule (pa)'s reins and start riding him.
+
+!. CRW HP:Fine Mana:Cold>north
+Among the Blackberry Bushes
+A large thorny branched shrub is growing here.
+On the shrub, there are two piles of blackberries.
+A wild bull seems ready to charge you.
+Exits: north, east, south, west.
+Note: Herb: blackberries
+
+!. CRW HP:Fine Mana:Cold>dism
+You stop riding a mountain mule (pa).
+
+!. CW HP:Fine Mana:Cold>s
+West of a Village
+A mountain troll (bb)  S L E E P I N G
+A mountain troll (aa)  S L E E P I N G
+Exits: north, south, west.
+
+!. CW HP:Fine Mana:Cold>sleep
+You go to sleep.
+
+!. CW HP:Fine Mana:Cold>
+West of a Village
+A mountain troll (bb)  S L E E P I N G
+A mountain troll (aa)  S L E E P I N G
+Exits/emulated: north, south, west.
+
+!. CW HP:Fine Mana:Cold>
+You stand up.
+
+!. CW HP:Fine Mana:Cold>
+No one here by that name.
+
+!. CW HP:Fine Mana:Cold>south
+A Vale in the Fields
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Cold>north
+West of a Village
+A mountain troll (bb)  S L E E P I N G
+A mountain troll (aa)  S L E E P I N G
+Exits: north, south, west.
+
+!. CW HP:Fine Mana:Cold>south
+east
+A Vale in the Fields
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Cold>
+A Ridge in the Fields
+Exits: [north], east, -south-, west.
+
+!. CW HP:Fine Mana:Cold>st
+stat
+OB: 44%, DB: 62%, PB: 48%, Armour: 90%. Wimpy: 100. Mood: wimpy.
+Needed: 620,487 xp, 0 tp. Gold: 122. Alert: normal.
+Affected by:
+- potion
+- shroud   (40s)
+- noquit
+- stored spell earthquake
+- stored spell earthquake
+- sanctuary (1m42s)
+- bless    (☼ 2m25s  )
+- strength (💪 17m15s  )
+- detect magic (44m5s)
+- shield   (⛉ 17m34s  )
+- vigour
+- growth
+
+!. CW HP:Fine Mana:Cold>sc
+173/198 hits, 33/139 mana, and 96/103 moves.
+
+!. CW HP:Fine Mana:Cold>south
+Southern Slope of a Ridge
+Exits: -north-, east, -south-, west.
+
+!. CW HP:Fine Mana:Warm>north
+A Ridge in the Fields
+Exits: [north], east, -south-, west.
+
+!. CW HP:Fine Mana:Warm>sc
+175/198 hits, 37/139 mana, and 97/103 moves.
+
+!. CW HP:Fine Mana:Warm>
+The white aura around your body fades.
+     S A N C T U A R Y   D O W N
+
+The spell lasted 2m15s.
+
+!. CW HP:Fine Mana:Warm>sc
+179/198 hits, 50/139 mana, and 103/103 moves.
+
+!. CW HP:Fine Mana:Warm>ar
+cast n 'armour'
+You start to concentrate...
+
+A blue transparent wall slowly appears around you.
+
+!. CW HP:Fine Mana:Cold>
+You hear some apparently very far noise from the south.
+
+!. CW HP:Fine Mana:Warm>sc
+184/198 hits, 38/139 mana, and 103/103 moves.
+
+!. CW HP:Fine Mana:Warm>st
+stat
+OB: 44%, DB: 62%, PB: 48%, Armour: 95%. Wimpy: 100. Mood: wimpy.
+Needed: 620,487 xp, 0 tp. Gold: 122. Alert: normal.
+Affected by:
+- armour   (🧥 23s  )
+- potion
+- shroud   (1m43s)
+- noquit
+- stored spell earthquake
+- stored spell earthquake
+- bless    (☼ 3m28s  )
+- strength (💪 18m18s  )
+- detect magic (45m8s)
+- shield   (⛉ 18m37s  )
+- vigour
+- growth
+
+!. CW HP:Fine Mana:Warm>sc
+185/198 hits, 40/139 mana, and 103/103 moves.
+You hear some rather far noise from the south.
+
+!. CW HP:Fine Mana:Warm>look
+A Ridge in the Fields
+Exits/emulated: {north}, -south-, east, west.
+
+!. CW HP:Fine Mana:Warm>
+Your perception of magical auras wears off.
+The spell lasted 45m12s.
+
+!. CW HP:Fine Mana:Warm>
+Some close noise can be heard from the south.
+
+!. CW HP:Fine Mana:Warm>look
+A Ridge in the Fields
+Exits/emulated: {north}, -south-, east, west.
+
+!. CW HP:Fine Mana:Warm>
+Some very close noise can be heard from the south.
+
+!. CW HP:Fine Mana:Warm>look
+A Ridge in the Fields
+Exits/emulated: {north}, -south-, east, west.
+
+!. CW HP:Fine Mana:Warm>
+The great orkish raider has arrived from the south riding the warg chief.
+An orkish raider has arrived from the south.
+An orkish raider has arrived from the south.
+An orkish raider has arrived from the south.
+An orkish raider has arrived from the south.
+An orkish raider has arrived from the south.
+An orkish raider has arrived from the south.
+A great black warg has arrived from the south.
+A great black warg has arrived from the south.
+A large black warg has arrived from the south.
+An orkish raider has arrived from the south riding a large black warg.
+An orkish raider has arrived from the south riding a great black warg.
+
+!. CW HP:Fine Mana:Warm>
+The great orkish raider says 'YAA! Foppik! Yoi moll tae dasara yeur bive.' in
+Orkish.
+You feel more exposed.
+The great orkish raider barely slashes your right leg and tickles it.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Fine>
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider barely stabs your left arm and tickles it.
+An orkish raider barely pounds your right foot and tickles it.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Fine>ere
+cast normal 'earthquake'
+You quickly recall your stored spell...
+
+ere
+cast normal 'earthquake'
+An orkish raider barely stabs your right arm and tickles it.
+
+The earth trembles beneath your feet!
+A large black warg is mortally wounded and will die soon if not aided.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+An orkish raider dismounts from a large black warg as it falls to the ground.
+An orkish raider barely stabs your head and tickles it.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+You quickly recall your stored spell...
+The great orkish raider barely slashes your right arm and tickles it.
+
+An orkish raider barely slashes your left leg and tickles it.
+
+An orkish raider barely slashes your right hand and tickles it.
+
+The earth trembles beneath your feet!
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+The great orkish raider barely slashes your head and tickles it.
+
+!. CW HP:Fine Mana:Cold the great orkish raider:Hurt>
+An orkish raider barely stabs your right hand and tickles it.
+
+!. CW HP:Fine Mana:Cold the great orkish raider:Hurt>flee
+You flee head over heels.
+You flee east.
+Pastureland by a Ridge
+A well-fed cow stands here chewing her cud listlessly.
+A well-fed cow stands here chewing her cud listlessly.
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Cold>north
+north
+Turnip Field
+On the ground, there are two turnips.
+eat turnip
+A small rabbit glares angrily at you.
+Exits: north, east, south.
+
+!. CW HP:Fine Mana:Cold>west
+west
+Grasslands
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Cold>
+You can't find a turnip.
+
+!. CW HP:Fine Mana:Cold>south
+North of a Village
+Exits: north, east, west.
+
+!. CW HP:Fine Mana:Cold>ww
+order followers wake;order followers stand
+Among the Blackberry Bushes
+A large thorny branched shrub is growing here.
+On the shrub, there are two piles of blackberries.
+A mountain mule (pa) is standing here.
+Exits: north, east, south, west.
+Note: Herb: blackberries
+
+!. CW HP:Fine Mana:Cold>
+West of a Village
+A mountain troll (bb)  S L E E P I N G
+A mountain troll (aa)  S L E E P I N G
+Exits: north, south, west.
+
+!. CW HP:Fine Mana:Cold>
+A mountain troll (bb) wakes up.
+A mountain troll (aa) wakes up.
+Ok.
+
+!. CW HP:Fine Mana:Cold>
+A mountain troll (bb) clambers to its feet.
+A mountain troll (aa) clambers to its feet.
+Ok.
+
+!. CW HP:Fine Mana:Cold>south
+A Vale in the Fields
+A sand viper is slithering here on the ground.
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Cold>sco e
+scout e
+You quietly scout eastwards...
+
+Argh! You cannot concentrate any more...
+You stop scouting.
+You swiftly dodge a sand viper's attempt to hit you.
+
+!. CW HP:Fine Mana:Cold a sand viper:Healthy>
+You strongly pierce a sand viper's head.
+
+!. CW HP:Fine Mana:Cold a sand viper:Fine>flee
+You flee head over heels.
+You flee north.
+West of a Village
+Exits: north, south, west.
+
+!. CW HP:Fine Mana:Cold>south
+A Vale in the Fields
+A sand viper is slithering here on the ground.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Cold>east
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A tall orc, strong and swift, is here.
+A giant black warg, his eyes ablaze with wrath, is here, howling in fury.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+Exits: #north#, east, -south-, west.
+The great orkish raider strongly slashes a mountain troll (bb)'s left foot and
+tickles it.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider slashes a mountain troll (bb)'s left hand and tickles it.
+An orkish raider lightly cleaves a mountain troll (bb)'s left leg and tickles
+it.
+An orkish raider lightly stabs a mountain troll (bb)'s left leg and tickles it.
+An orkish raider strongly slashes a mountain troll (bb)'s right arm and tickles
+it.
+An orkish raider strongly pounds a mountain troll (bb)'s left foot and tickles
+it.
+An orkish raider strongly stabs a mountain troll (bb)'s right arm and tickles
+it.
+
+!. CW HP:Fine Mana:Cold>
+A mountain troll (bb) says 'orc-meat is surely tasty!' in Morbeth.
+
+!. CW HP:Fine Mana:Cold>
+A mountain troll (aa) swiftly dodges a great black warg's attempt to hit it.
+
+!. CW HP:Fine Mana:Cold>
+A mountain troll (aa) says 'varf-meaf is surely tasty!' in Morbeth.
+
+!. CW HP:Fine Mana:Cold>
+   A R M O U R   D O W N
+The spell lasted 1m.
+The warg chief barely hits your left arm and tickles it.
+
+!. CW HP:Fine Mana:Cold the warg chief:Fine>
+An orkish raider strongly slashes a mountain troll (bb)'s left arm and tickles
+it.
+
+!. CW HP:Fine Mana:Cold the warg chief:Fine>
+An orkish raider says 'YPU! Hobbut! Yoe zill toe before yoel tame.' in Orkish.
+An orkish raider barely crushes your left hand and tickles it.
+
+!. CW HP:Fine Mana:Cold the warg chief:Fine>kk chief
+order followers kil chief
+Ok.
+
+!. CW HP:Fine Mana:Cold the warg chief:Fine>
+An orkish raider says 'YOA! Nadbad! Yii helr dae donari yuil geso.' in Orkish.
+An orkish raider crushes your left foot.
+A mountain troll (aa) hits a great black warg's body very hard.
+An orkish raider strongly pounds a mountain troll (bb)'s left leg and tickles
+it.
+
+!. CW HP:Fine Mana:Cold the warg chief:Fine>
+An orkish raider lightly slashes a mountain troll (bb)'s head and tickles it.
+An orkish raider cleaves a mountain troll (bb)'s head and tickles it.
+The great orkish raider slashes a mountain troll (bb)'s left leg hard and
+tickles it.
+
+!. CW HP:Fine Mana:Cold the warg chief:Fine>ff
+order followers flee
+Ok.
+A mountain troll (aa) panics, and attempts to flee.
+A mountain troll (aa) leaves ^^^^ N O R T H ^^^^
+An orkish raider stabs a mountain troll (bb)'s body and tickles it.
+A mountain troll (bb) panics, and attempts to flee.
+A mountain troll (bb) leaves ^^^^ N O R T H ^^^^
+
+!. CW HP:Fine Mana:Cold the warg chief:Fine>flee
+You flee head over heels.
+You flee east.
+Pastureland by a Ridge
+A well-fed cow stands here chewing her cud listlessly.
+A well-fed cow stands here chewing her cud listlessly.
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Cold>
+You hear some close noise from the west.
+
+!. CW HP:Fine Mana:Cold>west
+north
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: #north#, east, -south-, west.
+
+!. CW HP:Fine Mana:Cold>north
+Inside a Small Village
+A circular stone well has been built here.
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+A woman stands here carefully guarding her village.
+A Beorning captain is here, keeping the watch.
+A dark woman moves with a determined look upon her face.
+A mountain troll (aa) is standing here.
+A mountain troll (bb) is standing here.
+A tall orc, strong and swift, is here.
+A giant black warg, his eyes ablaze with wrath, is here, howling in fury.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+An orkish raider is here, searching for valuables.
+Exits: north, [east], #south#, [west], [up].
+The great orkish raider slashes a Beorning woman's left arm very hard.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider slashes a Beorning woman's right foot very hard and shatters
+it.
+An orkish raider cleaves a Beorning woman's right leg hard and shatters it.
+An orkish raider stabs a Beorning woman's left arm hard and shatters it.
+An orkish raider slashes a Beorning woman's body hard and shatters it.
+An orkish raider strongly pounds a Beorning woman's right arm and shatters it.
+
+!. CW HP:Fine Mana:Cold>
+A Beorning woman says 'I will restlessly chase you like an angry bear after its
+prey!' in Beorning.
+
+Blacksmiths
+A pair of tongs lie on the ground.
+A dented pail has been carelessly left here.
+A well-muscled man stands here, covered in soot.
+A young man stands here carefully guarding his village.
+A little girl runs around underfoot.
+Exits: south.
+
+![ CW HP:Fine Mana:Cold>south
+ff
+order followers flee
+Inside a Small Village
+A circular stone well has been built here.
+A young man stands here carefully guarding his village.
+A young man stands here carefully guarding his village.
+A woman stands here carefully guarding her village.
+A Beorning captain is here, keeping the watch.
+A Beorning woman is here, fighting the great orkish raider.
+The great orkish raider is here, fighting a Beorning woman.
+A giant black warg, his eyes ablaze with wrath, is here, howling in fury.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, fighting a Beorning woman.
+An orkish raider is here, fighting a Beorning woman.
+An orkish raider is here, fighting a Beorning woman.
+An orkish raider is here, fighting a Beorning woman.
+An orkish raider is here, fighting a Beorning woman.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+An orkish raider is here, fighting a Beorning woman.
+Exits: north, [east], #south#, [west], [up].
+A great black warg hits a village guard's head very hard.
+The warg chief strongly hits a village guard's right arm and tickles it.
+
+!. CW HP:Fine Mana:Cold>north
+A mountain troll (bb) panics, and attempts to flee.
+A mountain troll (bb) leaves vvvv S O U T H vvvv
+A mountain troll (aa) panics, and attempts to flee.
+A mountain troll (aa) leaves vvvv S O U T H vvvv
+Ok.
+A village guard says 'I shall set your head upon a spike for all to see!' in
+Beorning.
+A village guard says 'I will rip your heart out, sweeten it with honey, and
+feast on it!' in Beorning.
+
+!. CW HP:Fine Mana:Cold>
+Blacksmiths
+A pair of tongs lie on the ground.
+A dented pail has been carelessly left here.
+A well-muscled man stands here, covered in soot.
+A young man stands here carefully guarding his village.
+A little girl runs around underfoot.
+Exits: south.
+
+![ CW HP:Fine Mana:Cold>
+You hear a death cry from the south.
+
+![ CW HP:Fine Mana:Cold>
+A Beorning captain of the guard yells loudly from the south 'We're attacked!
+Protect the village!' in Beorning.
+A Beorning captain of the guard yells loudly from the south 'We're attacked!
+Protect the village!' in Beorning.
+
+![ CW HP:Fine Mana:Cold>south
+Inside a Small Village
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+A village guard is here, fighting the warg chief.
+A village guard is here, fighting a great black warg.
+A village guard is here, fighting a great black warg.
+A Beorning captain of the guard is here, fighting a great black warg.
+A tall orc, strong and swift, is here.
+The warg chief is here, fighting a village guard.
+A great black warg is here, fighting a village guard.
+A great black warg is here, fighting a village guard.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+A great black warg is here, fighting a village guard.
+An orkish raider is here, searching for valuables.
+Exits: north, [east], #south#, [west], [up].
+A great black warg barely hits a village guard's right arm and tickles it.
+
+!. CW HP:Fine Mana:Cold>south
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+Exits: #north#, east, -south-, west.
+The noise of battle reaches you from very close to the north.
+
+!. CW HP:Fine Mana:Cold>north
+kk chief
+order followers kil chief
+Inside a Small Village
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+A village guard is here, fighting the warg chief.
+A village guard is here, fighting a great black warg.
+A village guard is here, fighting a great black warg.
+A Beorning captain of the guard is here, fighting a great black warg.
+A tall orc, strong and swift, is here.
+The warg chief is here, fighting a village guard.
+A great black warg is here, fighting a village guard.
+A great black warg is here, fighting a village guard.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+A great black warg is here, fighting a village guard.
+An orkish raider is here, searching for valuables.
+A young man stands here carefully guarding his village.
+Exits: north, [east], #south#, (west), [up].
+A village guard lights a lantern.
+An orkish raider stabs a village guard's right leg hard.
+
+!. CW HP:Fine Mana:Cold>
+A mountain troll (bb) hits the warg chief's left foreleg and tickles it.
+A mountain troll (aa) hits the warg chief's left hindleg very hard.
+Ok.
+The warg chief says 'I hill kill you, and xhen I vill eaw your cubs.' in
+Morbeth.
+
+!. CW HP:Fine Mana:Cold>
+An orkish raider says 'YAU! Hodgib! You will dae gavoro yaar dize.' in Orkish.
+An orkish raider tries to crush you, but your parry is successful.
+A village guard has arrived from the west.
+An orkish raider strongly pounds a village guard's body.
+
+!. CW HP:Fine Mana:Cold an orkish raider:Bad>north
+A village guard lights a lantern.
+A village guard closes the door.
+A village guard says 'Die, intruder!' in Beorning.
+A village guard joins a Beorning captain of the guard's fight.
+A Beorning captain of the guard cleaves a great black warg's right foreleg hard
+and shatters it.
+A great black warg hits a village guard's left foot hard.
+The warg chief hits a village guard's body and tickles it.
+
+!. CW HP:Fine Mana:Cold an orkish raider:Bad>
+No way! You are fighting for your life!
+An orkish raider strongly stabs a village guard's left arm.
+
+!. CW HP:Fine Mana:Cold an orkish raider:Bad>flee
+A great black warg hits a village guard's right arm very hard.
+
+!. CW HP:Fine Mana:Cold an orkish raider:Bad>
+You flee head over heels.
+You flee north.
+Blacksmiths
+A pair of tongs lie on the ground.
+A dented pail has been carelessly left here.
+A well-muscled man stands here, covered in soot.
+A little girl runs around underfoot.
+Exits: south.
+
+![ CW HP:Fine Mana:Cold>south
+x chief
+examine chief
+Inside a Small Village
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+A village guard is here, fighting the warg chief.
+A village guard is here, fighting a great black warg.
+A village guard is here, fighting a great black warg.
+A Beorning captain of the guard is here, fighting a great black warg.
+A tall orc, strong and swift, is here.
+The warg chief is here, fighting a village guard.
+A great black warg is here, fighting a village guard.
+A great black warg is here, fighting a village guard.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+A great black warg is lying here, incapacitated.
+An orkish raider is here, searching for valuables.
+A village guard is here, fighting a great black warg.
+A mountain troll (bb) is here, fighting the warg chief.
+A mountain troll (aa) is here, fighting the warg chief.
+A village guard is here, fighting a great black warg.
+Exits: north, [east], #south#, [west], [up].
+A mountain troll (bb) hits the warg chief's right forefoot very hard.
+The warg chief strongly hits a village guard's right leg and tickles it.
+A great black warg hits a village guard's left leg hard and shatters it.
+
+!. CW HP:Fine Mana:Cold>
+Keen, malign-looking eyes gaze out from below dark furry brows, showing an
+unusual intelligence and a sharp, evil, feral mind. A thick, dark, black fur 
+covers the large beast's body, and is lined with deep old scars. His huge paws
+let him travel swiftly through any terrain, and easily outrun any chased prey.
+Great, deadly, drooling fangs can be seen as his mighty jaws occasionally part 
+in a loud, wicked, seemingly endless howl, that appears to come from the very
+bowels of his bulky body. 
+The warg chief has several bruises.
+An orkish raider lightly pounds a village guard's left foot.
+
+!. CW HP:Fine Mana:Cold>
+A village guard pierces a great black warg's body very hard and shatters it.
+You hear a great black warg's death cry as he collapses.
+A great black warg is dead! R.I.P.
+An orkish raider strongly stabs a village guard's left hand and shatters it.
+A village guard slashes a great black warg's right foreleg.
+
+!. CW HP:Fine Mana:Cold>south
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: #north#, east, -south-, west.
+
+!. CW HP:Fine Mana:Cold>sc
+164/198 hits, 31/131 mana, and 58/103 moves.
+You hear a death cry from the north.
+
+!. CW HP:Fine Mana:Cold>ta chief
+The noise of battle reaches you from very close to the north.
+
+!. CW HP:Fine Mana:Warm>north
+cast normal 'fireball' chief
+Inside a Small Village
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+A village guard is here, fighting the warg chief.
+A village guard is here, fighting a great black warg.
+A Beorning captain is here, keeping the watch.
+A tall orc, strong and swift, is here.
+The warg chief is here, fighting a village guard.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A great black warg is here, fighting a village guard.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+An orkish raider is here, fighting a village guard.
+A young man stands here carefully guarding his village.
+A mountain troll (bb) is here, fighting the warg chief.
+A mountain troll (aa) is here, fighting the warg chief.
+A young man stands here carefully guarding his village.
+Exits: north, [east], #south#, [west], [up].
+A village guard strongly slashes a great black warg's right hindleg.
+
+!. CW HP:Fine Mana:Warm>
+You start to concentrate...
+An orkish raider strongly stabs a village guard's body.
+
+An orkish raider says 'YOO! Huggid! Yia will gai gufola your bimi.' in Orkish.
+You swiftly dodge an orkish raider's attempt to crush you.
+An orkish raider barely crushes your head and tickles it.
+Argh! You cannot concentrate any more...
+The great orkish raider barely slashes your right leg and tickles it.
+
+!. CW HP:Fine Mana:Warm an orkish raider:Awful>
+An orkish raider lightly slashes a village guard's right arm and tickles it.
+An orkish raider strongly cleaves a village guard's right leg and shatters it.
+
+!. CW HP:Fine Mana:Warm an orkish raider:Bad>flee
+A village guard joins a village guard's fight.
+A village guard says 'I'll defend my home with my last breath!' in Beorning.
+A Beorning captain of the guard joins a village guard's fight.
+A Beorning captain of the guard says 'Now you will know the fury of me and my
+kin.' in Beorning.
+A Beorning captain of the guard cleaves a great black warg's body very hard and
+shatters it.
+A village guard pierces a great black warg's body.
+A great black warg hits a village guard's body extremely hard and shatters it.
+
+!. CW HP:Fine Mana:Warm an orkish raider:Bad>
+A Beorning captain of the guard yells 'We're attacked! Protect the village!' in
+Beorning.
+A Beorning captain of the guard yells 'We're attacked! Protect the village!' in
+Beorning.
+You flee head over heels.
+You flee south.
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: #north#, east, -south-, west.
+
+!. CW HP:Fine Mana:Warm>
+You hear a death cry from the north.
+
+!. CW HP:Fine Mana:Warm>north
+cast normal 'fireball' chief
+Inside a Small Village
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+A village guard is here, fighting the warg chief.
+A Beorning captain of the guard is here, fighting a great black warg.
+A tall orc, strong and swift, is here.
+The warg chief is here, fighting a village guard.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A great black warg is here, fighting a Beorning captain of the guard.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+A village guard is here, fighting a great black warg.
+A mountain troll (bb) is here, fighting the warg chief.
+A mountain troll (aa) is here, fighting the warg chief.
+A village guard is here, fighting a great black warg.
+Exits: north, [east], #south#, [west], [up].
+An orkish raider joins a great black warg's fight.
+An orkish raider joins a great black warg's fight.
+An orkish raider joins a great black warg's fight.
+An orkish raider joins a great black warg's fight.
+An orkish raider joins a great black warg's fight.
+An orkish raider joins a great black warg's fight.
+An orkish raider stabs a Beorning captain of the guard's left leg hard and
+tickles it.
+A Beorning captain of the guard cleaves a great black warg's body very hard and
+shatters it.
+
+!. CW HP:Fine Mana:Warm>
+You start to concentrate...
+A Beorning captain of the guard yells 'We're attacked! Protect the village!' in
+Beorning.
+A Beorning captain of the guard says 'Your corpse will be ripped to pieces!' in
+Beorning.
+A Beorning captain of the guard yells 'We're attacked! Protect the village!' in
+Beorning.
+A Beorning captain of the guard yells 'We're attacked! Protect the village!' in
+Beorning.
+A Beorning captain of the guard yells 'We're attacked! Protect the village!' in
+Beorning.
+A Beorning captain of the guard yells 'We're attacked! Protect the village!' in
+Beorning.
+A Beorning captain of the guard yells 'We're attacked! Protect the village!' in
+Beorning.
+
+The great orkish raider slashes your right arm and tickles it.
+Argh! You cannot concentrate any more...
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+An orkish raider barely crushes your left foot and tickles it.
+An orkish raider pounds a Beorning captain of the guard's right leg and tickles
+it.
+A village guard pierces a great black warg's head hard and shatters it.
+The warg chief hits a village guard's left leg extremely hard.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+An orkish raider barely crushes your right foot and tickles it.
+An orkish raider barely slashes a Beorning captain of the guard's body and
+tickles it.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+An orkish raider stabs a Beorning captain of the guard's right arm and tickles
+it.
+A great black warg hits a Beorning captain of the guard's head and tickles it.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+An orkish raider slashes a Beorning captain of the guard's right leg hard and
+tickles it.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>ff
+order followers flee
+You failed to control a mountain troll (bb).
+Ok.
+An orkish raider cleaves a Beorning captain of the guard's body and tickles it.
+A village guard slashes a great black warg's right foreleg and shatters it.
+A mountain troll (aa) panics, and attempts to flee.
+A mountain troll (aa) leaves ^^^^ N O R T H ^^^^
+A mountain troll (bb) strongly hits the warg chief's left forefoot.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+The warg chief hits a village guard's right foot very hard.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>north
+An orkish raider strongly stabs a Beorning captain of the guard's right leg.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+No way! You are fighting for your life!
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+The great orkish raider slashes your body and tickles it.
+A village guard pierces the warg chief's right foreleg very hard.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+An orkish raider strongly stabs a Beorning captain of the guard's body and
+tickles it.
+A great black warg strongly hits a Beorning captain of the guard's body and
+tickles it.
+A village guard pierces a great black warg's left foreleg very hard and shatters
+it.
+A great black warg is incapacitated and will slowly die, if not aided.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+A village guard slashes a great black warg's head very hard and shatters it.
+You hear a great black warg's death cry as he collapses.
+A great black warg is dead! R.I.P.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+A great black warg joins an orkish raider's fight.
+A great black warg hits a Beorning captain of the guard's body hard.
+A Beorning captain of the guard cleaves an orkish raider's right foot and
+shatters it.
+An orkish raider slashes a Beorning captain of the guard's left leg and tickles
+it.
+A mountain troll (bb) strongly hits the warg chief's right hindleg.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>
+A Beorning captain of the guard yells 'We're attacked! Protect the village!' in
+Beorning.
+An orkish raider barely crushes your left hand and tickles it.
+The warg chief hits a village guard's body hard.
+
+!. CW HP:Fine Mana:Warm the great orkish raider:Hurt>flee
+You flee head over heels.
+You flee north.
+Blacksmiths
+A pair of tongs lie on the ground.
+A dented pail has been carelessly left here.
+A well-muscled man stands here, covered in soot.
+A little girl runs around underfoot.
+A mountain troll (aa) is standing here.
+Exits: south.
+
+![ CW HP:Fine Mana:Warm Move:Tired>
+You hear the clashing of arms very close to the south.
+
+![ CW HP:Fine Mana:Warm>sco s
+scout s
+You quietly scout southwards...
+
+Inside a Small Village
+A village guard, a Beorning captain of the guard, the great orkish raider, the
+warg chief, a great black warg, an orkish raider, an orkish raider, an orkish 
+raider, an orkish raider, an orkish raider, an orkish raider, an orkish raider, 
+an orkish raider, a village guard, a mountain troll, and a village guard are 
+here.
+Exits/emulated: south.
+
+You stop scouting.
+
+![ CW HP:Fine Mana:Warm Move:Tired>south
+Inside a Small Village
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+A village guard is here, fighting the warg chief.
+A Beorning captain of the guard is here, fighting an orkish raider.
+A tall orc, strong and swift, is here.
+The warg chief is here, fighting a village guard.
+A great black warg is here, fighting a Beorning captain of the guard.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is lying here, incapacitated.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+A village guard is here, fighting an orkish raider.
+A mountain troll (bb) is here, fighting the warg chief.
+A village guard is here, fighting an orkish raider.
+Exits: north, [east], #south#, [west], [up].
+An orkish raider barely pounds a Beorning captain of the guard's left arm and
+tickles it.
+
+!. CW HP:Fine Mana:Warm Move:Tired>south
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: #north#, east, -south-, west.
+
+!. CW HP:Fine Mana:Warm Move:Tired>
+You hear a death cry from the north.
+
+!. CW HP:Fine Mana:Warm Move:Tired>
+A Beorning captain of the guard yells loudly from the north 'We're attacked!
+Protect the village!' in Beorning.
+
+!. CW HP:Fine Mana:Warm Move:Tired>
+The noise of battle reaches you from very close to the north.
+
+!. CW HP:Fine Mana:Warm Move:Tired>ss
+order followers sleep
+A mountain troll (aa) lies down and falls asleep.
+Ok.
+
+!. CW HP:Fine Mana:Warm Move:Tired>north
+Inside a Small Village
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+A village guard is here, fighting the warg chief.
+A Beorning captain of the guard is here, fighting a great black warg.
+A tall orc, strong and swift, is here.
+The warg chief is here, fighting a village guard.
+A great black warg is here, fighting a Beorning captain of the guard.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+A young man stands here carefully guarding his village.
+A mountain troll (bb) is here, fighting the warg chief.
+A young man stands here carefully guarding his village.
+Exits: north, [east], #south#, [west], [up].
+The warg chief hits a village guard's body hard.
+
+!. CW HP:Fine Mana:Warm Move:Tired>ff
+order followers flee
+Ok.
+A mountain troll (bb) panics, and attempts to flee.
+A mountain troll (bb) leaves ^^^^ N O R T H ^^^^
+
+!. CW HP:Fine Mana:Warm Move:Tired>south
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A mountain troll (aa)  S L E E P I N G
+Exits: #north#, east, -south-, west.
+
+!. CW HP:Fine Mana:Warm Move:Tired>north
+north
+Inside a Small Village
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+A village guard is here, fighting the warg chief.
+A Beorning captain of the guard is here, fighting a great black warg.
+A tall orc, strong and swift, is here.
+The warg chief is here, fighting a village guard.
+A great black warg is here, fighting a Beorning captain of the guard.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+A village guard is here, fighting a great black warg.
+A village guard is here, fighting a great black warg.
+Exits: north, [east], #south#, [west], [up].
+
+!. CW HP:Fine Mana:Warm Move:Tired>
+An orkish raider strongly pounds a Beorning captain of the guard's body and
+shatters it.
+
+Blacksmiths
+A pair of tongs lie on the ground.
+A dented pail has been carelessly left here.
+A well-muscled man stands here, covered in soot.
+A little girl runs around underfoot.
+A mountain troll (bb) is standing here.
+Exits: south.
+
+![ CW HP:Fine Mana:Warm Move:Tired>
+A little girl leaves vvvv S O U T H vvvv
+
+![ CW HP:Fine Mana:Warm Move:Tired>
+A Beorning captain of the guard yells loudly from the south 'We're attacked!
+Protect the village!' in Beorning.
+
+![ CW HP:Fine Mana:Warm Move:Tired>south
+south
+Inside a Small Village
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+A village guard is here, fighting the warg chief.
+A Beorning captain of the guard is here, fighting a great black warg.
+A tall orc, strong and swift, is here.
+The warg chief is here, fighting a village guard.
+A great black warg is sitting here, trying to fight a Beorning captain of the
+guard.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+An orkish raider is here, fighting a Beorning captain of the guard.
+A village guard is here, fighting a great black warg.
+A village guard is here, fighting a great black warg.
+A little girl runs around underfoot.
+Exits: north, [east], #south#, [west], [up].
+An orkish raider stabs a Beorning captain of the guard's right hand and shatters
+it.
+
+!. CW HP:Fine Mana:Warm Move:Tired>
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A mountain troll (aa)  S L E E P I N G
+Exits: #north#, east, -south-, west.
+
+!. CW HP:Fine Mana:Warm Move:Tired>ss
+order followers sleep
+You hear the clashing of arms very close to the north.
+
+!. CW HP:Fine Mana:Warm Move:Tired>
+You failed to control a mountain troll (bb).
+Ok.
+
+!. CW HP:Fine Mana:Warm Move:Tired>
+You hear a death cry from the north.
+
+!. CW HP:Fine Mana:Warm Move:Tired>sc
+141/198 hits, 38/131 mana, and 36/103 moves.
+
+!. CW HP:Fine Mana:Warm Move:Tired>ww
+order followers wake;order followers stand
+A mountain troll (aa) wakes up.
+Ok.
+
+!. CW HP:Fine Mana:Warm Move:Tired>
+A mountain troll (aa) clambers to its feet.
+Ok.
+
+!. CW HP:Fine Mana:Warm Move:Tired>south
+Southern Slope of a Ridge
+Exits: -north-, east, -south-, west.
+
+!. CW HP:Fine Mana:Warm Move:Tired>
+The noise of battle reaches you from close to the north.
+
+!. CW HP:Fine Mana:Warm Move:Tired>stoe
+cast n 'store' earthquake
+You start to concentrate...
+
+ss
+order followers sleep
+You stored it.
+
+!. CW HP:Fine Mana:Cold Move:Tired>
+A mountain troll (bb) lies down and falls asleep.
+A mountain troll (aa) lies down and falls asleep.
+Ok.
+
+!. CW HP:Fine Mana:Cold Move:Tired>
+You hear the clashing of arms close to the north.
+
+!. CW HP:Fine Mana:Cold Move:Tired>st
+stat
+OB: 44%, DB: 52%, PB: 47%, Armour: 90%. Wimpy: 100. Mood: wimpy.
+Needed: 607,220 xp, 0 tp. Gold: 122. Alert: normal.
+Affected by:
+- stored spell earthquake
+- noquit
+- panic
+- potion
+- bless    (☼ 5m2s  )
+- strength (💪 19m52s  )
+- shield   (⛉ 20m11s  )
+- vigour
+- growth
+
+!. CW HP:Fine Mana:Cold Move:Tired>north
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: (north), east, -south-, west.
+
+!. CW HP:Fine Mana:Cold Move:Tired>sco n
+scout n
+You quietly scout northwards...
+
+Inside a Small Village
+The great orkish raider, the warg chief, an orkish raider, an orkish raider, an
+orkish raider, an orkish raider, an orkish raider, an orkish raider, an orkish 
+raider, a village guard, and a shadow are here.
+Exits/emulated: {north}, -south-, east, west.
+
+You hear the sounds of battle very close from the north.
+
+You stop scouting.
+
+!. CW HP:Fine Mana:Cold Move:Tired>sco n
+scout n
+You quietly scout northwards...
+
+You hear a death cry from the north.
+
+Inside a Small Village
+The great orkish raider, the warg chief, an orkish raider, an orkish raider, an
+orkish raider, an orkish raider, an orkish raider, an orkish raider, an orkish 
+raider, and a shadow are here.
+Exits/emulated: {north}, -south-, east, west.
+
+You stop scouting.
+
+!. CW HP:Fine Mana:Cold Move:Tired>sc
+146/198 hits, 26/131 mana, and 40/103 moves.
+
+!. CW HP:Fine Mana:Cold Move:Tired>
+You hear some apparently close noise from the north.
+
+!. CW HP:Fine Mana:Cold Move:Tired>north
+Inside a Small Village
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+The shadow of a village guard is floating here.
+Exits: north, [east], (south), [west], [up].
+
+!. CW HP:Fine Mana:Cold Move:Tired>
+The noise of battle reaches you from very close to the north.
+
+!. CW HP:Fine Mana:Cold Move:Tired>sco w
+scout w
+The door seems to be closed.
+
+!. CW HP:Fine Mana:Cold Move:Tired>sco n
+scout n
+You quietly scout northwards...
+
+Blacksmiths
+A pair of tongs lie on the ground.
+A dented pail has been carelessly left here.
+A soot-covered craftsman is here, fighting the great orkish raider.
+A little girl runs around underfoot.
+The great orkish raider is here, fighting a soot-covered craftsman.
+A giant black warg, his eyes ablaze with wrath, is here, howling in fury.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, fighting a soot-covered craftsman.
+An orkish raider is here, fighting a soot-covered craftsman.
+An orkish raider is here, fighting a soot-covered craftsman.
+An orkish raider is here, fighting a soot-covered craftsman.
+An orkish raider is here, fighting a soot-covered craftsman.
+An orkish raider is here, fighting a soot-covered craftsman.
+Exits/emulated: north, {south}, {east}, {west}, {up}.
+
+You hear the clashing of arms very close to the north.
+You hear a death cry from the north.
+
+You stop scouting.
+
+!. CW HP:Fine Mana:Cold Move:Tired>
+You hear a death cry from the north.
+
+!. CW HP:Fine Mana:Cold Move:Tired>
+Applefell narrates 'ok u want basher'
+
+!. CW HP:Fine Mana:Cold Move:Tired>
+The great orkish raider has arrived from the north.
+The warg chief has arrived from the north.
+An orkish raider has arrived from the north.
+An orkish raider has arrived from the north.
+An orkish raider has arrived from the north.
+An orkish raider has arrived from the north.
+An orkish raider has arrived from the north.
+An orkish raider has arrived from the north.
+An orkish raider has arrived from the north.
+
+!. CW HP:Fine Mana:Cold Move:Tired>ere
+cast normal 'earthquake'
+You quickly recall your stored spell...
+
+You feel bolder.
+
+flee
+An orkish raider fails to slash you.
+An orkish raider barely crushes your body and tickles it.
+The great orkish raider slashes your left arm.
+
+An orkish raider joins an orkish raider's fight.
+An orkish raider joins an orkish raider's fight.
+An orkish raider joins an orkish raider's fight.
+An orkish raider joins an orkish raider's fight.
+An orkish raider barely cleaves your body and tickles it.
+An orkish raider barely stabs your right leg and tickles it.
+An orkish raider barely pounds your body and tickles it.
+An orkish raider barely stabs your left foot and tickles it.
+
+The earth trembles beneath your feet!
+An orkish raider is stunned and will probably die soon.
+An orkish raider is mortally wounded and will die soon if not aided.
+An orkish raider is mortally wounded and will die soon if not aided.
+You pierce an orkish raider's left arm and shatter it.
+An orkish raider is incapacitated and will slowly die, if not aided.
+
+!. CW HP:Hurt Mana:Cold Move:Tired an orkish raider:Dying>
+You flee head over heels.
+You flee north.
+Blacksmiths
+The corpse of a little girl is lying here.
+The corpse of a soot-covered craftsman is lying here.
+A pair of tongs lie on the ground.
+A dented pail has been carelessly left here.
+Exits: south.
+
+![ CW HP:Hurt Mana:Cold Move:Tired>south
+Inside a Small Village
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+The shadow of a village guard is floating here.
+A tall orc, strong and swift, is here.
+A giant black warg, his eyes ablaze with wrath, is here, howling in fury.
+An orkish raider is here, searching for valuables.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is here, searching for valuables.
+An orkish raider is lying here, stunned.
+An orkish raider is here, searching for valuables.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, incapacitated.
+Exits: north, [east], (south), [west], #up#.
+The great orkish raider tries to slash you, but your parry is successful.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+The warg chief joins the great orkish raider's fight.
+The warg chief hits your right leg very hard.
+You feel a sharp pain there!
+An orkish raider barely stabs your body and tickles it.
+
+!. CW HP:Hurt Mana:Cold Move:Tired the great orkish raider:Hurt>south
+No way! You are fighting for your life!
+
+!. CW HP:Hurt Mana:Cold Move:Tired the great orkish raider:Hurt>flee
+You flee head over heels.
+You flee north.
+Blacksmiths
+The corpse of a little girl is lying here.
+The corpse of a soot-covered craftsman is lying here.
+A pair of tongs lie on the ground.
+A dented pail has been carelessly left here.
+Exits: south.
+
+![ CW HP:Hurt Mana:Cold Move:Tired>south
+south
+Inside a Small Village
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+The shadow of a village guard is floating here.
+A tall orc, strong and swift, is here.
+A giant black warg, his eyes ablaze with wrath, is here, howling in fury.
+An orkish raider is here, searching for valuables.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is here, searching for valuables.
+An orkish raider is lying here, stunned.
+An orkish raider is here, searching for valuables.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, incapacitated.
+Exits: north, [east], (south), [west], #up#.
+The great orkish raider quickly approaches, trying to slash you.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+An orkish raider joins the great orkish raider's fight.
+The warg chief joins the great orkish raider's fight.
+An orkish raider barely stabs your right foot and tickles it.
+
+!. CW HP:Hurt Mana:Cold Move:Tired the great orkish raider:Hurt>
+The warg chief strikes for a weakness in your armour!
+The warg chief hits your right leg very hard and shatters it.
+
+No way! You are fighting for your life!
+You flee head over heels.
+You flee up.
+In a Watchtower
+A young boy is here, bumping into things.
+Exits: #down#.
+
+![ CW HP:Wounded Mana:Cold Move:Tired>flee
+The great orkish raider has arrived from below.
+The warg chief has arrived from below.
+An orkish raider has arrived from below.
+An orkish raider has arrived from below.
+An orkish raider has arrived from below.
+
+![ CW HP:Wounded Mana:Cold Move:Tired>
+You flee head over heels.
+You flee down.
+Inside a Small Village
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+The shadow of a village guard is floating here.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, stunned.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, incapacitated.
+Exits: north, [east], (south), [west], #up#.
+
+!. CW HP:Wounded Mana:Cold Move:Slow>
+The noise of battle reaches you from very close above.
+
+!. CW HP:Wounded Mana:Cold Move:Slow>south
+south
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: (north), east, -south-, west.
+
+!. CW HP:Wounded Mana:Cold Move:Slow>
+Southern Slope of a Ridge
+A mountain troll (bb)  S L E E P I N G
+A mountain troll (aa)  S L E E P I N G
+Exits: -north-, east, -south-, west.
+
+!. CW HP:Wounded Mana:Cold Move:Slow>north
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: (north), east, -south-, west.
+
+!. CW HP:Wounded Mana:Cold Move:Slow>
+You hear a death cry from the north.
+
+!. CW HP:Wounded Mana:Cold Move:Slow>south
+Southern Slope of a Ridge
+A mountain troll (bb)  S L E E P I N G
+A mountain troll (aa)  S L E E P I N G
+Exits: -north-, east, -south-, west.
+
+!. CW HP:Wounded Mana:Cold Move:Slow>ww
+order followers wake;order followers stand
+A mountain troll (bb) wakes up.
+A mountain troll (aa) wakes up.
+Ok.
+
+!. CW HP:Wounded Mana:Cold Move:Slow>
+A mountain troll (bb) clambers to its feet.
+A mountain troll (aa) clambers to its feet.
+Ok.
+
+!. CW HP:Wounded Mana:Cold Move:Slow>north
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: (north), east, -south-, west.
+
+!. CW HP:Wounded Mana:Cold Move:Slow>bob
+cast n 'breath of b'
+You muster all of your concentration...
+Some very close noise can be heard from the north.
+
+An energy begins to flow within your legs as your body becomes lighter.
+
+!. CW HP:Wounded Mana:Frozen>sco n
+scout n
+You quietly scout northwards...
+
+Inside a Small Village
+A shadow, an orkish raider, an orkish raider, an orkish raider, an orkish
+raider, the great orkish raider, the warg chief, an orkish raider, an orkish 
+raider, and an orkish raider are here.
+Exits/emulated: {north}, -south-, east, west.
+
+You stop scouting.
+
+!. CW HP:Wounded Mana:Icy>
+You hear some rather far noise from the north.
+
+!. CW HP:Wounded Mana:Icy>kk chief
+order followers kil chief
+Ok.
+
+!. CW HP:Wounded Mana:Icy>ta chief
+sco n
+scout n
+You quietly scout northwards...
+
+Inside a Small Village
+A shadow, an orkish raider, an orkish raider, an orkish raider, and an orkish
+raider are here.
+Exits/emulated: {north}, -south-, east, west.
+
+You stop scouting.
+
+!. CW HP:Wounded Mana:Icy>sco n
+scout n
+You quietly scout northwards...
+
+Inside a Small Village
+A shadow, an orkish raider, an orkish raider, an orkish raider, and an orkish
+raider are here.
+Exits/emulated: {north}, -south-, east, west.
+
+You stop scouting.
+
+!. CW HP:Wounded Mana:Icy>sco n
+scout n
+You quietly scout northwards...
+
+Inside a Small Village
+A shadow, an orkish raider, an orkish raider, an orkish raider, and an orkish
+raider are here.
+Exits/emulated: {north}, -south-, east, west.
+
+You stop scouting.
+
+!. CW HP:Wounded Mana:Icy>north
+Inside a Small Village
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+The shadow of a village guard is floating here.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, stunned.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, incapacitated.
+Exits: north, #east#, (south), [west], #up#.
+
+!. CW HP:Wounded Mana:Icy>k orc
+You are too afraid.
+
+!. CW HP:Wounded Mana:Icy>south
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: (north), east, -south-, west.
+
+!. CW HP:Wounded Mana:Icy>cha w
+Wimpy removed.
+
+!. CW HP:Wounded Mana:Icy>north
+k orc
+Inside a Small Village
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+The shadow of a village guard is floating here.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, stunned.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, incapacitated.
+Exits: north, #east#, (south), [west], #up#.
+
+!. CW HP:Wounded Mana:Icy>
+You pierce an orkish raider's right foot extremely hard and shatter it.
+You receive your share of experience.
+It begins to be automatic...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+
+!. CW HP:Wounded Mana:Icy>south
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: (north), east, -south-, west.
+
+!. CW HP:Wounded Mana:Icy>
+You hear some close noise from the north.
+
+!. CW HP:Wounded Mana:Icy>north
+k orc
+Inside a Small Village
+The corpse of an orkish raider is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+The shadow of a village guard is floating here.
+An orkish raider is lying here, stunned.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, incapacitated.
+Exits: north, #east#, (south), [west], #up#.
+
+!. CW HP:Wounded Mana:Icy>
+!. CW HP:Wounded Mana:Icy an orkish raider:Awful>south
+No way! You are fighting for your life!
+
+!. CW HP:Wounded Mana:Icy an orkish raider:Awful>
+You pierce an orkish raider's body extremely hard and shatter it.
+You receive your share of experience.
+It begins to be automatic...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+
+!. CW HP:Wounded Mana:Icy>flee
+You flee head over heels.
+You flee north.
+Blacksmiths
+The corpse of a little girl is lying here.
+The corpse of a soot-covered craftsman is lying here.
+A pair of tongs lie on the ground.
+A dented pail has been carelessly left here.
+Exits: south.
+
+![ CW HP:Wounded Mana:Icy>south
+south
+Inside a Small Village
+The corpse of an orkish raider is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+The shadow of a village guard is floating here.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, incapacitated.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+Exits: north, #east#, (south), [west], #up#.
+
+!. CW HP:Wounded Mana:Icy>
+A shadow says 'YOU! Hobbit! You will die before your time.' in Beorning.
+A shadow tries to hit you, but your parry is successful.
+
+No way! You are fighting for your life!
+
+!. CW HP:Wounded Mana:Icy a shadow:Fine>flee
+You flee head over heels.
+You flee up.
+In a Watchtower
+The corpse of a young boy is lying here.
+Exits: #down#.
+
+![ CW HP:Wounded Mana:Icy>south
+Alas, you cannot go that way...
+
+![ CW HP:Wounded Mana:Icy>down
+south
+Inside a Small Village
+The corpse of an orkish raider is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning captain of the guard is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a village guard is lying here.
+The corpse of a village guard is lying here.
+The corpse of a great black warg is lying here.
+The corpse of a Beorning woman is lying here.
+A circular stone well has been built here.
+The shadow of a village guard is floating here.
+An orkish raider is lying here, mortally wounded.
+An orkish raider is lying here, incapacitated.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+Exits: north, #east#, (south), [west], #up#.
+
+!. CW HP:Wounded Mana:Icy>
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+Exits: (north), east, -south-, west.
+
+!. CW HP:Wounded Mana:Icy>look
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+You hear some very close noise from the north.
+Exits/emulated: {north}, -south-, east, west.
+
+!. CW HP:Wounded Mana:Cold>
+Some close noise can be heard from the north.
+
+!. CW HP:Hurt Mana:Cold>
+You hear some close noise from the north.
+
+!. CW HP:Hurt Mana:Cold>kk chief
+order followers kil chief
+Ok.
+
+!. CW HP:Hurt Mana:Cold>look
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+Exits/emulated: {north}, -south-, east, west.
+
+!. CW HP:Hurt Mana:Cold>
+You hear some very close noise from the north.
+
+!. CW HP:Hurt Mana:Cold>
+Suddenly, a dark and sombre mist invades the sky. Despair settles on you!
+
+!.~ CW HP:Hurt Mana:Cold>kk chief
+order followers kil chief
+Ok.
+
+!.~ CW HP:Hurt Mana:Cold>look
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A mountain troll (bb) is standing here.
+A mountain troll (aa) is standing here.
+Exits/emulated: {north}, -south-, east, west.
+
+!.~ CW HP:Hurt Mana:Cold>kk chief
+order followers kil chief
+Ok.
+The gate to the north suddenly shatters.
+
+!.~ CW HP:Hurt Mana:Cold>kk chief
+order followers kil chief
+Ok.
+
+!.~ CW HP:Hurt Mana:Cold>
+The great orkish raider has arrived from the north riding the warg chief.
+An orkish raider has arrived from the north.
+An orkish raider has arrived from the north.
+An orkish raider has arrived from the north.
+
+!.~ CW HP:Hurt Mana:Cold>kk chief
+order followers kil chief
+A mountain troll (bb) tries to hit the warg chief, but he parries successfully.
+The warg chief swiftly dodges a mountain troll (aa)'s attempt to hit him.
+Ok.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+The great orkish raider joins the warg chief's fight.
+The warg chief says 'Your meaw smells... delicious.' in Morbeth.
+The great orkish raider slashes a mountain troll (bb)'s left foot extremely
+hard.
+An orkish raider strongly stabs a mountain troll (bb)'s left arm and tickles it.
+
+!.~ CW HP:Hurt Mana:Warm>
+A mountain troll (bb) says 'Dat' has ye' last mistake, orc.' in Morbeth.
+
+!.~ CW HP:Hurt Mana:Warm>
+The warg chief hits a mountain troll (bb)'s left leg very hard.
+
+!.~ CW HP:Hurt Mana:Warm>flee
+You flee head over heels.
+You flee south.
+Southern Slope of a Ridge
+Exits: -north-, east, -south-, west.
+
+!.~ CW HP:Hurt Mana:Warm>north
+cast normal 'fireball' chief
+A Ridge in the Fields
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A mountain troll (bb) is here, fighting the warg chief.
+A mountain troll (aa) is here, fighting the warg chief.
+The great orkish raider is here, riding the warg chief, fighting a mountain
+troll (bb).
+An orkish raider is here, fighting a mountain troll (bb).
+An orkish raider is here, fighting a mountain troll (bb).
+An orkish raider is here, fighting a mountain troll (bb).
+Exits: #north#, east, -south-, west.
+An orkish raider strongly crushes a mountain troll (bb)'s head.
+An orkish raider lightly stabs a mountain troll (bb)'s right leg and tickles it.
+
+!.~ CW HP:Hurt Mana:Warm>
+You start to concentrate...
+
+The great orkish raider strongly slashes a mountain troll (bb)'s left arm.
+
+You feel bolder.
+A mountain troll (bb) hits the warg chief's body very hard and shatters it.
+
+Ok.
+Your fireball hits the warg chief with full force, causing an immediate death.
+You receive your share of experience.
+Yes! You're beginning to get the idea.
+You hear the warg chief's death cry as he collapses.
+
+              Warg Chief DIES
+
+The warg chief is dead! R.I.P.
+The great orkish raider dismounts from the warg chief as he falls to the ground.
+
+!.~ CW HP:Hurt Mana:Cold>
+An orkish raider stops following the great orkish raider.
+An orkish raider stops following the great orkish raider.
+An orkish raider stops following the great orkish raider.
+Needed: 584194 xp, 0 tp.
+Total: 7315806 xp, 62419 tp.
+You gained 78490 xp.You gained 31 tp.
+
+!.~ CW HP:Hurt Mana:Cold>cast normal 'fireball' chief
+Nobody here by that name.
+You hear a death cry from the north.
+An orkish raider lightly stabs a mountain troll (bb)'s body and tickles it.
+
+!.~ CW HP:Hurt Mana:Cold>
+An orkish raider crushes a mountain troll (bb)'s left leg and tickles it.
+
+!.~ CW HP:Hurt Mana:Cold>
+The great orkish raider strongly slashes a mountain troll (bb)'s left arm.
+An orkish raider strongly stabs a mountain troll (bb)'s left foot.
+
+!.~ CW HP:Hurt Mana:Cold>
+A mountain troll (bb) hits the great orkish raider's right hand and tickles it.
+
+!.~ CW HP:Hurt Mana:Cold>kk great
+order followers kil great
+A mountain troll (aa) hits the great orkish raider's head hard.
+Ok.
+The great orkish raider says 'Yaul bloob woll stoin tfi bleung!' in Orkish.
+
+!.~ CW HP:Hurt Mana:Cold>
+Raudo narrates 'applefell u are such an idiot'
+An orkish raider strongly stabs a mountain troll (bb)'s right leg.
+
+!.~ CW HP:Hurt Mana:Cold>assist
+You assist a mountain troll (bb).
+You barely pierce the great orkish raider's right foot and tickle it.
+
+!.~ CW HP:Hurt Mana:Cold the great orkish raider:Hurt a mountain troll
+(bb):Wounded>
+An orkish raider lightly crushes a mountain troll (bb)'s head and tickles it.
+
+(bb):Wounded>esc
+You seek to escape...
+Nobody was fighting you.
+You hear a death cry from the north.
+The great orkish raider slashes a mountain troll (bb)'s right foot extremely
+hard and shatters it.
+
+!.~ CW HP:Hurt Mana:Cold>
+A mountain troll (bb) hits the great orkish raider's left leg very hard.
+An orkish raider lightly stabs a mountain troll (bb)'s left hand and tickles it.
+
+!.~ CW HP:Hurt Mana:Cold>ta great
+A mountain troll (aa) hits the great orkish raider's body very hard.
+
+!.~ CW HP:Hurt Mana:Cold>cast normal 'colour s' great
+You start to concentrate...
+
+An orkish raider strongly stabs a mountain troll (bb)'s right leg.
+
+The great orkish raider slashes a mountain troll (bb)'s right arm hard.
+An orkish raider crushes a mountain troll (bb)'s head.
+
+An orkish raider barely stabs a mountain troll (bb)'s body and tickles it.
+
+Ok.
+You spray the great orkish raider with many-coloured rays of bright light.
+A mountain troll (bb) lightly hits the great orkish raider's left arm and
+tickles it.
+
+!.~ CW HP:Hurt Mana:Icy>
+A mountain troll (aa) hits the great orkish raider's right arm very hard and
+shatters it.
+
+!.~ CW HP:Hurt Mana:Icy>x great
+examine great
+A fearsome fighter, this orc is taller and stronger than most of his fellow 
+orcs. Numerous scars tell a tale of countless battles for power and raids for
+food and treasure. His posture indicates a fearless warrior, skilled and swift
+of sword and wrath. You see the tattoo of several newborn spiders rushing
+towards a salamander trapped in their web. There is a large lightning bolt
+poised to strike the scene.
+The great orkish raider looks pretty hurt.
+The great orkish raider seems to have:
+       A clean light wound at the left leg.
+The great orkish raider is using:
+<wielded>            a broad scimitar (worn)
+<worn as shield>     a metal wall shield (well-maintained)
+<worn on head>       a sturdy, rigid leather helmet (satisfactory)
+<worn on body>       a scale shirt (used)
+<worn about body>    a mottled cloak (well-maintained)
+<worn on arms>       a pair of scale sleeves (well-maintained)
+<worn on hands>      a fine pair of rigid leather gloves (well-maintained)
+<worn on legs>       a pair of scale leggings (well-maintained)
+<worn on feet>       a black pair of metal boots (well-maintained)
+<worn as belt>       a black leather belt
+An orkish raider barely stabs a mountain troll (bb)'s body.
+An orkish raider barely stabs a mountain troll (bb)'s head.
+
+!.~ CW HP:Hurt Mana:Icy>cast normal 'colour s' great
+Alas, not enough mana flows through you...
+A mountain troll (bb) hits the great orkish raider's head very hard and shatters
+it.
+The great orkish raider strongly slashes a mountain troll (bb)'s body and
+shatters it.
+An orkish raider lightly crushes a mountain troll (bb)'s body.
+
+!.~ CW HP:Hurt Mana:Icy>
+A mountain troll (aa) hits the great orkish raider's body very hard and shatters
+it.
+
+!.~ CW HP:Hurt Mana:Icy>
+A mountain troll (bb) hits the great orkish raider's left leg very hard and
+shatters it.
+An orkish raider crushes a mountain troll (bb)'s left leg hard and shatters it.
+
+!.~ CW HP:Hurt Mana:Icy>
+An orkish raider stabs a mountain troll (bb)'s body hard and shatters it.
+A mountain troll (bb) is incapacitated and will slowly die, if not aided.
+An orkish raider stabs a mountain troll (bb)'s left hand hard and shatters it.
+A mountain troll (bb) is mortally wounded and will die soon if not aided.
+
+!.~ CW HP:Hurt Mana:Icy>kill great
+The great orkish raider swiftly dodges your attempt to pierce him.
+The great orkish raider says 'G nawe sees enesuuz wulr kvab weli wglongar tsoh
+yoo.' in Orkish.
+The great orkish raider slashes a mountain troll (bb)'s body extremely hard and
+shatters it.
+You hear a mountain troll (bb)'s death cry as it collapses.
+A mountain troll (bb) is dead! R.I.P.
+A shadow slowly rises above the corpse of a mountain troll (bb).
+
+!.~ CW HP:Hurt Mana:Icy the great orkish raider:Awful a mountain troll
+(aa):Healthy>
+A mountain troll (aa) hits the great orkish raider's head very hard and shatters
+it.
+
+(aa):Healthy>look
+A Ridge in the Fields
+The corpse of a mountain troll is lying here.
+The corpse of the warg chief is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A mountain troll (aa) is here, fighting the great orkish raider.
+The great orkish raider is here, fighting a mountain troll (aa).
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+The shadow of a mountain troll is floating here.
+Exits/emulated: {north}, -south-, east, west.
+
+(aa):Healthy>cha m a
+Ok.
+
+!.~ CW HP:Hurt Mana:Icy the great orkish raider:Awful a mountain troll
+(aa):Healthy>
+A mountain troll (aa) strongly hits the great orkish raider's left hand and
+shatters it.
+The great orkish raider is incapacitated and will slowly die, if not aided.
+
+(aa):Healthy>lo
+A Ridge in the Fields
+The corpse of a mountain troll is lying here.
+The corpse of the warg chief is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A mountain troll (aa) is here, fighting the great orkish raider.
+The great orkish raider is lying here, incapacitated.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+The shadow of a mountain troll is floating here.
+Exits/emulated: {north}, -south-, east, west.
+
+!.~ CW HP:Hurt Mana:Icy the great orkish raider:Dying a mountain troll
+(aa):Healthy>
+You pierce the great orkish raider's right hand extremely hard and shatter it.
+You receive your share of experience.
+Yes! You're beginning to get the idea.
+You hear the great orkish raider's death cry as he collapses.
+The great orkish raider is dead! R.I.P.
+
+!.~ CW HP:Hurt Mana:Icy>
+Needed: 572187 xp, 0 tp.
+Total: 7327813 xp, 62419 tp.
+You gained 12007 xp.
+
+!.~ CW HP:Hurt Mana:Icy>kk orc
+order followers kil orc
+An orkish raider swiftly dodges a mountain troll (aa)'s attempt to hit him.
+Ok.
+An orkish raider says 'In tset phe pevt yau can go? Tly hirdir!' in Orkish.
+
+!.~ CW HP:Hurt Mana:Icy>assist
+You assist a mountain troll (aa).
+
+!.~ CW HP:Hurt Mana:Icy an orkish raider:Bad a mountain troll (aa):Healthy>look
+A Ridge in the Fields
+The corpse of the great orkish raider is lying here.
+The corpse of a mountain troll is lying here.
+The corpse of the warg chief is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+A mountain troll (aa) is here, fighting an orkish raider.
+An orkish raider is here, fighting a mountain troll (aa).
+An orkish raider is here, searching for valuables.
+An orkish raider is here, searching for valuables.
+The shadow of a mountain troll is floating here.
+Exits/emulated: {north}, -south-, east, west.
+
+!.~ CW HP:Hurt Mana:Icy an orkish raider:Bad a mountain troll (aa):Healthy>
+You pierce an orkish raider's left leg.
+
+!.~ CW HP:Hurt Mana:Icy an orkish raider:Bad a mountain troll (aa):Healthy>
+A mountain troll (aa) hits an orkish raider's body very hard and shatters it.
+
+!.~ CW HP:Hurt Mana:Icy an orkish raider:Awful a mountain troll (aa):Healthy>
+You pierce an orkish raider's body and shatter it.
+
+!.~ CW HP:Hurt Mana:Icy an orkish raider:Awful a mountain troll (aa):Healthy>
+A mountain troll (aa) hits an orkish raider's right arm and shatters it.
+An orkish raider is incapacitated and will slowly die, if not aided.
+
+!.~ CW HP:Hurt Mana:Icy an orkish raider:Awful a mountain troll (aa):Healthy>
+An orkish raider leaves <<<< W E S T <<<<
+An orkish raider leaves <<<< W E S T <<<<
+
+!.~ CW HP:Hurt Mana:Cold an orkish raider:Awful a mountain troll (aa):Healthy>
+A mountain troll (aa) hits an orkish raider's left foot extremely hard and
+shatters it.
+You receive your share of experience.
+It begins to be automatic...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+
+!.~ CW HP:Hurt Mana:Cold>
+Needed: 568698 xp, 0 tp.
+Total: 7331302 xp, 62419 tp.
+You gained 3489 xp.
+
+!.~ CW HP:Hurt Mana:Cold>na i soloed valpack
+Ok.
+
+!.~ CW HP:Hurt Mana:Cold>west
+A Vale in the Fields
+Exits: north, east, south, west.
+
+!.~ CW HP:Hurt Mana:Cold>south
+A Vale in the Fields
+A large beautiful rose bush is blooming here.
+Deep inside the bush, there are two red roses with leaves and thorny stems.
+A swallow flies high above the ground.
+Exits: north, east, south, west.
+A swallow panics, and attempts to flee.
+A swallow leaves >>>> E A S T >>>>
+
+!.~ CW HP:Hurt Mana:Cold>kk orc
+order followers kil orc
+Ok.
+
+!.~ CW HP:Hurt Mana:Cold>west
+Fields by the Ruins
+A detached white rose is lying here.
+A small rabbit glares angrily at you.
+Exits: north, east, south, west.
+
+!.~ CW HP:Hurt Mana:Cold>south
+Fields by the Road
+A swallow flies high above the ground.
+Exits: north, east, south, west.
+A swallow panics, and attempts to flee.
+A swallow leaves <<<< W E S T <<<<
+
+!.~ CW HP:Hurt Mana:Cold>
+Shrouds of dark clouds roll in above you, blotting out the skies.
+
+!.~ CW HP:Hurt Mana:Cold>west
+Bend in the Old Forest Road
+A swallow flies high above the ground.
+Exits: north, east, =south=, west.
+A swallow panics, and attempts to flee.
+A swallow leaves >>>> E A S T >>>>
+
+!+~ CW HP:Hurt Mana:Cold>
+An orkish raider has arrived from the north.
+An orkish raider has arrived from the north.
+
+!+~ CW HP:Hurt Mana:Cold>kk orc
+order followers kil orc
+An orkish raider tries to keep a mountain troll (aa) at bay, but fails.
+A mountain troll (aa) hits an orkish raider's right leg and shatters it.
+Ok.
+An orkish raider says 'A noll cub yoe diece dy doece, Sokdit!' in Orkish.
+
+!+~ CW HP:Hurt Mana:Cold>assist
+You assist a mountain troll (aa).
+You pierce an orkish raider's left arm and shatter it.
+
+!+~ CW HP:Hurt Mana:Cold an orkish raider:Awful a mountain troll (aa):Healthy>
+A mountain troll (aa) hits an orkish raider's left hand hard and shatters it.
+
+!+~ CW HP:Hurt Mana:Cold an orkish raider:Awful a mountain troll (aa):Healthy>
+An orkish raider leaves <<<< W E S T <<<<
+
+!+~ CW HP:Hurt Mana:Cold an orkish raider:Awful a mountain troll (aa):Healthy>
+You pierce an orkish raider's body and shatter it.
+An orkish raider is incapacitated and will slowly die, if not aided.
+
+!+~ CW HP:Hurt Mana:Cold an orkish raider:Dying a mountain troll (aa):Healthy>
+A mountain troll (aa) hits an orkish raider's left foot extremely hard and
+shatters it.
+You receive your share of experience.
+It begins to be automatic...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+
+!+~ CW HP:Hurt Mana:Cold>
+Needed: 565283 xp, 0 tp.
+Total: 7334717 xp, 62419 tp.
+You gained 3415 xp.
+
+!+~ CW HP:Hurt Mana:Cold>west
+kk orc
+order followers kil orc
+Old Ford
+An orkish raider is here, searching for valuables.
+Exits: ~north~, east, ~south~, west.
+
+!%~ CW HP:Hurt Mana:Cold>
+An orkish raider tries to keep a mountain troll (aa) at bay, but fails.
+A mountain troll (aa) approaches an orkish raider, trying to hit him.
+Ok.
+An orkish raider says 'Tnelu hilr bu sa fercy wor yaa!' in Orkish.
+
+!%~ CW HP:Hurt Mana:Cold>assist
+You assist a mountain troll (aa).
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Bad a mountain troll (aa):Healthy>
+An orkish raider stabs a mountain troll (aa)'s right arm hard.
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Bad a mountain troll (aa):Fine>i
+You are carrying:
+a pungent brew
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Bad a mountain troll (aa):Fine>
+A mountain troll (aa) strongly hits an orkish raider's left leg and shatters it.
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Bad a mountain troll (aa):Fine>
+An orkish raider lightly stabs a mountain troll (aa)'s right leg and tickles it.
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Bad a mountain troll (aa):Fine>hid brew
+No way! You are fighting for your life!
+You lightly pierce an orkish raider's left foot.
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Bad a mountain troll (aa):Fine>
+An orkish raider lightly stabs a mountain troll (aa)'s right leg and tickles it.
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Bad a mountain troll (aa):Fine>
+Your legs feel heavier.
+The spell lasted 2m34s.
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Bad a mountain troll (aa):Fine>
+A mountain troll (aa) strongly hits an orkish raider's body and shatters it.
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Awful a mountain troll (aa):Fine>
+You pierce an orkish raider's right arm and shatter it.
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Awful a mountain troll (aa):Fine>
+An orkish raider lightly stabs a mountain troll (aa)'s right arm and tickles it.
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Awful a mountain troll (aa):Fine>
+A mountain troll (aa) hits an orkish raider's right hand hard and shatters it.
+An orkish raider is mortally wounded and will die soon if not aided.
+
+!%~ CW HP:Hurt Mana:Cold an orkish raider:Dying a mountain troll (aa):Fine>
+Black columns of smoke rise in the northeast, slowly reaching the sky as a fire
+spreads wildly in the distance.
+You pierce an orkish raider's head extremely hard and shatter it.
+You receive your share of experience.
+It begins to be automatic...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+
+!%~ CW HP:Hurt Mana:Cold>
+Needed: 561471 xp, 0 tp.
+Total: 7338529 xp, 62419 tp.
+You gained 3812 xp.
+--------------------------------------------------------------------------------
+662684-561471>100k
