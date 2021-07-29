@@ -1,0 +1,3197 @@
+oO CW HP:Dying Mana:Hot an orkish warrior:Bad>You are in a pretty bad shape, unable to do anything!
+You are mortally wounded and will die soon if not aided.
+You feel a sharp pain!
+Ouch! You lose a level!
+
+You are dead! Sorry...
+
+
+o# CW HP:Awful Mana:Hot>west
+
+
+!# CW HP:Awful Mana:Hot>Nah... You feel too relaxed to do that.
+
+!# CW HP:Awful Mana:Hot>stand
+You stop resting and stand up.
+
+!# CW HP:Awful Mana:Hot>sleep
+You go to sleep.
+
+o# CW HP:Awful Mana:Hot>sleep
+You are already sound asleep.
+
+o# CW HP:Awful Mana:Burning>sc
+5/185 hits, 108/128 mana, and 106/106 moves.
+
+o# CW HP:Awful Mana:Burning>wa
+You wake, and sit up.
+
+!# CW HP:Awful Mana:Burning>g torch
+You get a torch from the throne of Mandos.
+
+!# CW HP:Awful Mana:Burning>sl
+You go to sleep.
+
+o# CW HP:Awful Mana:Burning>sc
+10/185 hits, 123/128 mana, and 106/106 moves.
+
+o# CW HP:Awful Mana:Burning>tel ariella -(
+In your dreams, or what?
+
+o# CW HP:Awful>sc
+12/185 hits, 128/128 mana, and 106/106 moves.
+
+o# CW HP:Awful>stat
+OB: 83%, DB: -68%, PB: 0%, Armour: 0%. Wimpy: 0. Mood: wimpy.
+Needed: 31,964 xp, 0 tp. Gold: 0. Alert: normal.
+
+o# CW HP:Awful>sleep
+You are already sound asleep.
+
+o# CW HP:Awful>sleep
+You are already sound asleep.
+
+o# CW HP:Awful>sc
+18/185 hits, 128/128 mana, and 106/106 moves.
+
+o# CW HP:Awful>sleep
+You are already sound asleep.
+
+o# CW HP:Bad>stat
+OB: 83%, DB: -68%, PB: 0%, Armour: 0%. Wimpy: 0. Mood: wimpy.
+Needed: 31,964 xp, 0 tp. Gold: 0. Alert: normal.
+
+o# CW HP:Bad>wa
+You wake, and sit up.
+
+!# CW HP:Bad>sta
+You stand up.
+
+!# CW HP:Bad>i
+You are carrying:
+a torch
+
+!# CW HP:Bad>pray lorien
+You kneel down and try to hear the Ainulindalë.
+
+!# CW HP:Bad>
+In response to your request strange harmonies come from nowhere...
+Listening to them, you have the strange sensation to fade away...
+
+!# CW HP:Bad>tel ariella i will come cc
+Your voice doesn't reach from here!
+You are penetrated by the profound melody of the Ainulindalë and cannot even twinkle your eyes... You are just able to listen...
+
+!# CW HP:Bad>
+Suddenly an explosion of ancient rhymes makes the space collapse around you!
+You blink, you vanish! And you are in Lórien!
+
+The Shimmering Fountain
+A well-crafted white fountain is here, water pouring forth from it.
+Randir the elven guide is standing here.
+Exits: north, east, south.
+
+*# CW HP:Bad>drink water
+pour water skin
+Your stomach can't contain anymore!
+
+*# CW HP:Bad>You can't find any skin.
+
+*# CW HP:Bad>heal
+cast n 'heal'
+You start to concentrate...
+
+tel ariella i will come cc
+wi torch
+You heal yourself.
+A warm feeling fills your body.
+
+*# CW HP:Fine Mana:Hot>Ok.
+
+*# CW HP:Fine Mana:Hot>You hold a torch.
+You light a torch.
+
+*# CW HP:Fine Mana:Hot>cast n 'armour'
+You start to concentrate...
+
+A blue transparent wall slowly appears around you.
+
+*# CW HP:Fine Mana:Warm>north
+As you walk down the stairs, the sound of the fountain slowly fades.
+
+A Fork in the Path
+A finely crafted crystal lamp is hanging from a tree branch.
+Exits: -north-, -east-, south, -west-.
+
+*f CW HP:Fine Mana:Warm>drink water
+pour water skin
+west
+You can't find any water.
+
+*f CW HP:Fine Mana:Warm>You can't find any water.
+
+*f CW HP:Fine Mana:Warm>south
+The Winding Path
+A finely crafted crystal lamp is hanging from a tree branch.
+A wary elf, all clad in grey, moves silently here.
+Exits: north, -east-, south, -west-.
+
+*f CW HP:Fine Mana:Warm>south
+Golden Forest
+A large and finely decorated harp of white marble has been built here.
+Exits: north, south, west.
+
+*f CW HP:Fine Mana:Warm>south
+Golden Forest
+An elven lady is walking around here.
+Exits: north, south, west.
+
+*f CW HP:Fine Mana:Warm>south
+south
+Below the Bronze Bells
+A grey-clad elf is here.
+Exits: north, east, south, west.
+
+*f CW HP:Fine Mana:Warm>south
+Winding Path up the Hill
+Exits: north, east, -south-, -west-.
+
+*f CW HP:Fine Mana:Warm>Descending a flight of stairs you find yourself on flat ground.
+
+Path by the Gates
+A finely crafted crystal lamp is hanging from a tree branch.
+A tall and proud elf is standing here.
+A tall and proud elf is standing here.
+Exits: -north-, east, -south-.
+
+*f CW HP:Fine Mana:Warm>The Gates of Caras Galadhon
+A finely crafted crystal lamp is here.
+Exits: -north-, -(west)-.
+Note: knock greatgates
+
+!# CW HP:Fine Mana:Warm>knock greatgates
+Why knock on an open door?
+
+!# CW HP:Fine Mana:Warm>west
+south
+Arched Bridge
+A finely crafted crystal lamp is here.
+Exits: -(east)-, =south=.
+Note: knock greatgates
+
+*+ CW HP:Fine Mana:Warm>End of a Forest Road
+Exits: =north=, -east-, =south=, =west=.
+
+*+ CW HP:Fine Mana:Warm>south
+Forest Road
+Exits: =north=, east, =south=, west.
+
+*+ CW HP:Fine Mana:Warm>south
+south
+Forest Road
+Exits: =north=, -east-, ~south~, -west-.
+
+*+ CW HP:Fine Mana:Warm>south
+Celebrant
+A salmon swims here.
+Exits: north, ~east~, south, ~west~.
+
+*~ CW HP:Fine Mana:Warm>The Stables
+A stocky mountain mule is here, waiting to serve.
+A sturdy pack horse is standing here.
+Exits: ~north~, east, south, ~west~.
+
+*f CW HP:Fine Mana:Warm>label pack pa
+Ok.
+
+*f CW HP:Fine Mana:Warm>lead pa
+A pack horse (pa) starts following you.
+
+*f CW HP:Fine Mana:Warm>shr
+cast n 'shr'
+You start to concentrate...
+
+You are surrounded by a misty shroud.
+
+*f CW HP:Fine Mana:Warm>cast t 'strength' 
+You start to concentrate...
+
+You feel stronger.
+
+*f CW HP:Fine Mana:Cold>inf %S
+16
+
+*f CW HP:Fine Mana:Cold>south
+A Wooded Slope
+Exits: north, east, south, ~west~.
+A pack horse (pa) has arrived from the north.
+
+*f CW HP:Fine Mana:Cold>south
+south
+The Golden Forest
+Exits: north, east, south, west.
+A pack horse (pa) has arrived from the north.
+
+*f CW HP:Fine Mana:Cold>ride pa
+south
+The Golden Forest
+Exits: north, east, south, west. - n:(special).
+A pack horse (pa) has arrived from the north.
+
+*f CW HP:Fine Mana:Cold>A pack horse (pa) stops following you.
+You pick up a pack horse (pa)'s reins and start riding him.
+
+*f CRW HP:Fine Mana:Cold>south
+Sparse Forest
+A sturdy pack horse is standing here.
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>west
+west
+Sparse Woods
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Sparse Forest
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>south
+west
+west
+Mixed Forest
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>west
+On the Fringes of the Forest
+Delicate golden blooms adorn the ground like a cascade of stars.
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>west
+west
+Grassy Plains
+Prickly, white-stemmed plants, with blue flower heads grow in abundance.
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Bushy Plains
+A clean fragrance drifts up from a thick clump of leaves.
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+west
+Bushy Plains
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Sparse Woods
+A squirrel scampers around here, looking for nuts from the trees.
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>south
+Scattered Trees
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+west
+Sparse Foliage
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Bushy Plains
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Rocky Plains
+A squirrel scampers around here, looking for nuts from the trees.
+Exits: east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Light Forest
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>west
+west
+Light Forest
+A squirrel scampers around here, looking for nuts from the trees.
+Exits: north, east, south, west.
+A brown fox has arrived from the north.
+
+*f CRW HP:Fine Mana:Cold>west
+Light Forest
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>west
+Light Forest
+A restless rabbit bounces around.
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>south
+Scorched Plains
+Exits: east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Forest Border
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>south
+west
+Fertile Grasslands
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Sparse Grasslands
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>Dry Plains
+Exits: north, east, south, west.
+Large clouds assemble in the sky above, covering the flat terrain with odd shadows.
+
+*.~ CRW HP:Fine Mana:Cold>west
+At a Lonely Tree
+Exits: north, east, south, west.
+
+*.~ CRW HP:Fine Mana:Cold>west
+Plains at the Edge of a Forest
+Exits: north, east, south, west.
+
+*.~ CRW HP:Fine Mana:Cold>west
+Plains at the Edge of a Forest
+Exits: north, east, south, west.
+
+*.~ CRW HP:Fine Mana:Cold>west
+Spring in the Plains
+A clear spring babbles as cool water trickles out of the ground.
+Exits: north, east, south, west.
+
+*.~ CRW HP:Fine Mana:Cold>west
+Plains at the Edge of a Forest
+Exits: north, east, south, west.
+
+*.~ CRW HP:Fine Mana:Cold>west
+The light begins to fade as the sun slowly disappears over the horizon.
+The moon comes up in the east and starts its long journey over the sky.
+
+Following a Brook
+Exits: north, east, south, west.
+
+*.~ CRW HP:Fine Mana:Cold>Dip in the Plains
+Exits: north, east, south, west.
+
+*.~ CRW HP:Fine Mana:Cold>west
+Plains at the Forest Edge
+Exits: north, east, south, west.
+
+*.~ CRW HP:Fine Mana:Cold>west
+The Edge of a Forest
+A squirrel scampers around here, looking for nuts from the trees.
+A long-tailed bird watches you from the vegetation.
+Exits: north, east, south, west.
+
+*f~ CRW HP:Fine Mana:Cold>west
+Outskirts of the Forest
+A long-tailed bird watches you from the vegetation.
+Exits: north, east, south, west.
+
+*f~ CRW HP:Fine Mana:Cold>west
+Outskirts of the Forest
+Exits: north, east, south, west.
+
+*f~ CRW HP:Fine Mana:Cold>Sandy Plains
+Exits: east, south, west.
+You feel a hidden presence.
+The clouds begin to disappear.
+
+*. CRW HP:Fine Mana:Cold>south
+west
+Outskirts of the Forest
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>west
+Outskirts of the Marshy Forest
+A cluster of dark green, feathery fronds flourishes in the shade.
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>west
+At the Border of the Forest
+Exits: east, south, west.
+You feel a hidden presence.
+
+*. CRW HP:Fine Mana:Cold>west
+At the Border of the Forest
+Exits: east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Footpath to the Forest
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+At the Edge of the Forest
+Exits: east, south.
+
+*. CRW HP:Fine Mana:Cold>west
+Barren Plains
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>Sandy Fields at the Forest's Edge
+Exits: \north/, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>Sandy Fields at the Forest's Edge
+Exits: \north/, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>Sandy Fields at the Forest's Edge
+A bear is here, covered with coarse black fur.
+Exits: \north/, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Dry Plains
+A rabbit is here eyeing your presence warily.
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>Dry Plains
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Grassy Plains
+A large eagle soars above you.
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Golden Plains
+A clear spring babbles as cool water trickles out of the ground.
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Grassy Plains
+A tall pine tree grows here.
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+west
+Grassy Plains
+A large thorny branched shrub is growing here.
+On the shrub, there are two piles of blackberries.
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>west
+Grassy Plains
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>north
+Rolling Plains
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>Grassy Plains
+Exits: north, east, south, west.
+
+*. CRW HP:Fine Mana:Cold>north
+Rolling Hills
+Exits: north, east, south, west. - d:boulder.
+
+*( CRW HP:Fine Mana:Cold>Auburn Hills
+A powerful ram stands here, poised and alert.
+Exits: north, east, south, west.
+
+*( CRW HP:Fine Mana:Cold>north
+Auburn Hills
+A powerful ram stands here, poised and alert.
+Exits: north, east, south, /west\.
+
+*( CRW HP:Fine Mana:Cold>north
+Auburn Hills
+A powerful ram stands here, poised and alert.
+Exits: north, east, south, /west\.
+
+*( CRW HP:Fine Mana:Cold>north
+Jade Grove
+A swift and agile forest cat moves silently through the vegetation.
+Exits: north, east, south, west.
+
+*f CRW HP:Fine Mana:Cold>north
+Etched Trail
+Exits: -north-, east, south, -west-.
+
+*f CRW HP:Fine Mana:Cold>north
+Etched Trail
+A swift and agile forest cat moves silently through the vegetation.
+A swift and agile forest cat moves silently through the vegetation.
+Exits: -north-, east, -south-, west.
+
+*f CRW HP:Fine Mana:Cold>north
+A Trail through the Jade Trees
+A forest spider is here crawling around.
+A forest spider is here crawling around.
+Exits: -north-, east, -south-, west.
+
+*f CRW HP:Fine Mana:Cold>north
+At the Edge of the Forest
+A small plant grows here, with long, pointed leaves and flowers at its top.
+A squirrel scampers around here, looking for nuts from the trees.
+Exits: north, -east-, -south-, west.
+Scattered clouds whirl in thin wisps above the brush.
+
+*:~ CRW HP:Fine Mana:Cold>north
+Along a Shallow Stream
+A sparrow is flapping around on the ground.
+Exits: north, east, south, west.
+The water is frozen solid.
+
+*%~ CRW HP:Fine Mana:Cold>Beside a Lively Stream
+Exits: north, east, south, west.
+The ground is frozen solid.
+
+*:~ CRW HP:Fine Mana:Cold>north
+north
+Climbing Toward a Ridge
+Exits: north, east, south, west.
+
+*(~ CRW HP:Fine Mana:Cold>north
+In a Sloping Valley
+Exits: north, east, south, west.
+
+*(~ CRW HP:Fine Mana:Cold Move:Tired>A Solitary Stand of Trees
+A fallow deer is grazing peacefully here.
+A squirrel scampers around here, looking for nuts from the trees.
+A fallow deer is grazing peacefully here.
+Exits: north, east, south, west.
+
+*f~ CRW HP:Fine Mana:Cold Move:Tired>stat
+On a Faltering Ridge
+A lone hawk soars high above you.
+Exits: north, east, south, west.
+
+*<~ CRW HP:Fine Mana:Cold Move:Tired>OB: 68%, DB: 17%, PB: 0%, Armour: 55%. Wimpy: 0. Mood: wimpy.
+Needed: 31,964 xp, 0 tp. Gold: 0. Alert: normal.
+Affected by:
+- strength
+- shroud
+- armour
+
+*<~ CRW HP:Fine Mana:Cold Move:Tired>north
+On a Turning Trail
+Exits: -north-, -east-, south, west.
+
+*<~ CRW HP:Fine Mana:Cold Move:Tired>north
+A Trail along a Stream
+Exits: -north-, ~east~, -south-, west.
+
+*(~ CRW HP:Fine Mana:Cold Move:Tired>north
+On a Path beside a Spring
+Exits: ~north~, east, -south-, -west-.
+
+*(~ CRW HP:Fine Mana:Cold Move:Tired>west
+The Trail out of the Valley
+Exits: -north-, -east-, south, west.
+
+*(~ CRW HP:Fine Mana:Cold Move:Tired>north
+west
+A Path by a Standing Stone
+Exits: ~north~, ~east~, -south-, -west-.
+The clouds begin to disappear.
+
+*( CRW HP:Fine Mana:Cold Move:Tired>west
+A Rocky Path
+A colourful butterfly is fluttering around here.
+A fat rabbit is here, chewing on some grass.
+A fat rabbit is here, chewing on some grass.
+Exits: -north-, -east-, south, west.
+
+*( CRW HP:Fine Mana:Cold Move:Tired>up
+Threshold of Moria
+A colourful butterfly is fluttering around here.
+Exits: east, up.
+
+*( CRW HP:Fine Mana:Cold Move:Tired>The Great Gates
+A brown fox is here, looking for some rabbits to chew up.
+Exits: [west], down.
+
+*( CRW HP:Fine Mana:Cold Move:Tired>open exit west
+As you push at the great gates, slowly they start swinging open.
+
+You hear some rather far noise from the west.
+
+You hear some rather far noise from the west.
+
+Ariëlla tells you 'nods brt'
+You push the great gates open.
+
+*( CRW HP:Fine Mana:Warm Move:Tired>
+Some rather far noise can be heard from the west.
+
+*( CRW HP:Fine Mana:Warm Move:Tired>lead pa
+You stop riding a pack horse (pa).
+A pack horse (pa) starts following you.
+
+*( CW HP:Fine Mana:Warm Move:Tired>
+Some rather far noise can be heard from the west.
+
+*( CW HP:Fine Mana:Warm Move:Tired>w
+Hall of the Eastern Gate
+Exits: north, (east), [west].
+The ground no longer feels frosty.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>close exit east
+With effort, you try to push the great gates shut.
+
+open exit west
+Some close noise can be heard from the west.
+
+As you give the last push, the great gates swing shut.
+
+!O CW HP:Fine Mana:Warm Move:Tired>Ok.
+
+!O CW HP:Fine Mana:Warm Move:Tired>open exit west
+It's already open!
+
+!O CW HP:Fine Mana:Warm>west
+First Hall of Moria
+Exits: (east), west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+First Hall of Moria
+A great black orc stands here, eager for combat.
+A dark-skinned orc, born of the tunnels, draws his weapon.
+A dark-skinned orc, born of the tunnels, draws his weapon.
+A dark-skinned orc, born of the tunnels, draws his weapon.
+A dark orkish archer is wielding a very vicious-looking bow.
+A dark orkish archer is wielding a very vicious-looking bow.
+A dark orkish archer is wielding a very vicious-looking bow.
+Exits: north, east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>open exit west
+You don't see any exit there.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+west
+First Hall of Moria
+Exits: east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>Broad Stair
+Exits: east, [west].
+A pack horse (pa) has arrived from the east.
+
+!= CW HP:Fine Mana:Warm Move:Tired>west
+The greatdoor seems to be closed.
+
+!= CW HP:Fine Mana:Warm Move:Tired>west
+The greatdoor seems to be closed.
+
+!= CW HP:Fine Mana:Warm Move:Tired>west
+The greatdoor seems to be closed.
+
+!= CW HP:Fine Mana:Warm Move:Tired>open exit west
+west
+Ok.
+
+!= CW HP:Fine Mana:Warm Move:Tired>west
+A Great Hall
+Exits: (east), west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+Durin's Bridge
+Exits: north, east, south, west. - n:(deathtrap) s:(deathtrap).
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+A Great Hall
+Exits: east, west. - n:(deathtrap) s:(deathtrap).
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+A Great Hall
+Exits: north, east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+Durin's Way
+Exits: east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+Durin's Way
+Exits: east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+The Central Gathering Hall
+A huge water-drake is coiled here.
+Exits: north, east, south, west, ~\down/~.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+Durin's Way
+Exits: (north), east, (south), west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>Durin's Way
+Exits: east, south, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+Mustering Stairs
+Exits: (north), east, (south), west, up, down.
+A pack horse (pa) has arrived from the east.
+
+!= CW HP:Fine Mana:Warm Move:Tired>up
+Mustering Stair
+A huge troll, with skin as black as pitch, glowers at you.
+Exits: (west), up, down.
+A pack horse (pa) has arrived from below.
+
+!= CW HP:Fine Mana:Warm Move:Tired>up
+Mustering Stairs
+Exits: [west], down.
+A pack horse (pa) has arrived from below.
+
+!= CW HP:Fine Mana:Warm Move:Tired>open exit west
+Ok.
+
+!= CW HP:Fine Mana:Warm Move:Tired>west
+The Western Hall
+Exits: north, (east), south.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>south
+west
+The Western Hall
+Exits: north, east, south, west.
+A pack horse (pa) has arrived from the north.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+Mahal's Way
+Exits: east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+Mahal's Way
+Exits: east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+Durin's Chimney
+Exits: east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>Durin's Chimney
+Exits: east, west, down.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+Vault of Glory
+Exits: east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+west
+Mahal's Way
+Exits: east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>Mahal's Way
+Exits: east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+Mahal's Way
+Exits: east, west.
+A pack horse (pa) has arrived from the east.
+
+!O CW HP:Fine Mana:Warm Move:Tired>west
+down
+A Ceremonial Hall
+An eyeless white rat with nasty teeth scurries about.
+An eyeless white rat with nasty teeth scurries about.
+An eyeless white rat with nasty teeth scurries about.
+Exits: east, west, up, down.
+A pack horse (pa) has arrived from the east.
+
+![ CW HP:Fine Mana:Warm Move:Tired>The Cavern Crossroads
+Ayase the Elf is resting here.
+A great dark-grey horse stamps restively.
+Khalar the Dwarf is sitting here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A large warhorse is standing here, clad in mail.
+Gaston is resting here.
+A sturdy pack horse is standing here.
+Exits: east, west, up, down.
+A pack horse (pa) has arrived from above.
+
+!O CW HP:Fine Mana:Warm Move:Tired>
+Gaston stops resting and clambers to his feet.
+
+!O CW HP:Fine Mana:Warm Move:Tired>
+Some apparently very close noise can be heard from above.
+
+!O CW HP:Fine Mana:Warm Move:Tired>cast n 'shield'
+You start to concentrate...
+
+You feel protected.
+
+!O CW Mana:Cold Move:Tired>east
+Durin's Way
+Exits: [north], east, west.
+A pack horse (pa) has arrived from the west.
+
+!O CW Mana:Cold Move:Tired>aba
+A pack horse (pa) stops following you.
+
+!O CW Mana:Cold Move:Tired>west
+The Cavern Crossroads
+Ayase the Elf is resting here.
+A great dark-grey horse stamps restively.
+Khalar the Dwarf is sitting here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A large warhorse is standing here, clad in mail.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+Exits: east, west, up, down.
+
+!O CW Mana:Cold Move:Tired>
+Some very close noise can be heard from above.
+
+!O CW Mana:Cold Move:Tired>sle
+You go to sleep.
+
+oO CW Mana:Cold Move:Tired>sc
+185/185 hits, 18/128 mana, and 33/106 moves.
+
+oO CW Mana:Cold Move:Tired>sc
+185/185 hits, 26/128 mana, and 41/106 moves.
+
+oO CW Mana:Cold Move:Tired>wa
+You wake, and sit up.
+
+!O CW Mana:Cold Move:Tired>gr
+What group?!
+
+!O CW Mana:Cold Move:Tired>
+Bight wears a pale blue stone around his neck.
+
+!O CW Mana:Cold Move:Tired>
+Bight stops using a stone.
+
+!O CW Mana:Cold Move:Tired>tell Ariella trans to someone
+Ok.
+
+!O CW Mana:Cold Move:Tired>
+Bight puts a stone in a sable pouch.
+
+!O CW Mana:Cold Move:Tired>
+You hear some very close noise from above.
+
+!O CW Mana:Cold Move:Tired>raise
+You raise your hand.
+
+!O CW Mana:Cold Move:Tired>tell Ariella trans to someone to gr me
+Ok.
+
+!O CW Mana:Warm Move:Tired>
+You are now a member of Gaston's group.
+
+!O CW Mana:Warm Move:Tired>look
+The Cavern Crossroads
+Ayase the Elf is resting here.
+A great dark-grey horse stamps restively.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A large warhorse is standing here, clad in mail.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+Exits: east, west, up, down.
+
+!O CW Mana:Warm Move:Tired>sta
+Bight raises his staff and calls upon the Valar.
+You begin to feel the light of Aman shine upon you.
+You stand up.
+
+!O CW Mana:Warm Move:Tired>
+You hear some very close noise from above.
+
+!O CW Mana:Warm Move:Tired>lead pa
+Lead what?
+
+!O CW Mana:Warm>
+Ariëlla tells you 'whyd u get ungrouped?'
+
+!O CW Mana:Warm>
+Bight begins some strange incantations...
+
+!O CW Mana:Warm>
+Bight utters the word 'shield'
+
+!O CW Mana:Warm>tell Ariella mobed
+Ok.
+
+!O CW Mana:Warm>
+Bight sits down and rests.
+
+!O CW Mana:Warm>
+Khalar drinks water from a water skin.
+
+!O CW Mana:Warm>look
+The Cavern Crossroads
+Ayase the Elf is resting here.
+A great dark-grey horse stamps restively.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is resting here.
+A sturdy trained horse is standing here.
+A large warhorse is standing here, clad in mail.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+Exits: east, west, up, down.
+
+!O CW Mana:Warm>
+Gaston says 'what happened?'
+
+!O CW Mana:Warm>e
+Durin's Way
+A pack horse (pa) is standing here.
+Exits: [north], east, west.
+
+!O CW Mana:Warm>
+Ariëlla tells you 'ack '
+
+!O CW Mana:Warm>w
+The Cavern Crossroads
+Ayase the Elf is resting here.
+A great dark-grey horse stamps restively.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is resting here.
+A sturdy trained horse is standing here.
+A large warhorse is standing here, clad in mail.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+Exits: east, west, up, down.
+
+!O CW Mana:Warm>sa mob rip happened
+Ok.
+Ariëlla tells you 'comf*'
+
+!O CW Mana:Warm>sc
+185/185 hits, 40/128 mana, and 53/106 moves.
+
+!O CW Mana:Warm>
+Gaston says 'ack'
+
+!O CW Mana:Warm>
+Some close noise can be heard from the west.
+
+!O CW Mana:Warm>
+Bight stops resting and clambers to his feet.
+
+!O CW Mana:Warm>
+Gaston comforts you.
+
+!O CW Mana:Warm>w
+Durin's Way
+Exits: east, west.
+
+!O CW Mana:Warm>e
+The Cavern Crossroads
+Ayase the Elf is resting here.
+A great dark-grey horse stamps restively.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A large warhorse is standing here, clad in mail.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+Exits: east, west, up, down.
+
+!O CW Mana:Warm>
+Khalar says:really!?!
+
+!O CW Mana:Warm>
+Bight sighs: where tf you die?
+
+!O CW Mana:Warm>sle
+You go to sleep.
+
+oO CW Mana:Warm>,died wwwssessw on patrol
+Ok.
+
+oO CW Mana:Warm>sc
+185/185 hits, 53/128 mana, and 64/106 moves.
+
+oO CW Mana:Warm>inf %q
+You are a firm believer in the values of Right and Wrong.
+
+oO CW Mana:Warm>wake
+look
+stand
+ride pa
+You wake, and sit up.
+
+!O CW Mana:Hot>The Cavern Crossroads
+Ayase the Elf is resting here.
+A great dark-grey horse stamps restively.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A large warhorse is standing here, clad in mail.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+Exits: east, west, up, down.
+
+!O CW Mana:Hot>You stand up.
+
+!O CW Mana:Hot>No one here by that name.
+
+!O CW Mana:Hot>sa where is my horse
+Ok.
+
+!O CW Mana:Hot>lead
+A horse of the Rohirrim starts following you.
+
+!O CW Mana:Hot>e
+Durin's Way
+A pack horse (pa) is standing here.
+Exits: [north], east, west.
+
+!O CW Mana:Hot>label Rohirrim pa
+Ok.
+
+!O CW Mana:Hot>w
+The Cavern Crossroads
+Ayase the Elf is resting here.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A large warhorse is standing here, clad in mail.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+Ariëlla the Elf (mo) is standing here.
+Mormeril the Elf is standing here.
+Exits: east, west, up, down.
+
+!O CW Mana:Hot>
+Ariëlla (mo) smiles happily.
+
+!O CW Mana:Hot>
+You hear some close noise from above.
+
+!O CW Mana:Hot>aba
+A horse of the Rohirrim (pa) stops following you.
+
+!O CW Mana:Hot>sc
+185/185 hits, 75/128 mana, and 83/106 moves.
+
+!O CW Mana:Hot>cast n 'sanct' 
+You start to concentrate...
+
+Ariëlla (mo) says 'did u get corpse?'
+
+You start glowing.
+
+!O CW Mana:Cold>west
+Durin's Way
+Exits: east, west.
+
+!O CW Mana:Cold>west
+Durin's Way
+Exits: east, west.
+
+!O CW Mana:Cold>west
+Durin's Way
+Exits: north, east, south, west.
+
+!O CW Mana:Cold>south
+Róin's Scar
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+Exits: north, south.
+
+!O CW Mana:Cold>south
+Róin's Scar
+Exits: north, east.
+
+!O CW Mana:Cold>east
+Róin's Scar
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+Exits: south, west.
+
+!O CW Mana:Cold>south
+Róin's Scar
+Exits: north, south.
+
+!O CW Mana:Cold>south
+Róin's Scar
+A lurg leader, with markings of the Durghash tribe, stands here.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+Exits: north, west.
+
+!O CW Mana:Cold>
+You feel more exposed.
+A lurg leader slashes your left arm and tickles it.
+
+!O CW HP:Fine Mana:Cold a lurg leader:Healthy>west
+No way! You are fighting for your life!
+
+!O CW HP:Fine Mana:Cold a lurg leader:Healthy>
+An orkish warrior slashes your right arm and tickles it.
+An orkish warrior barely slashes your head and tickles it.
+You barely hit a lurg leader's right arm and tickle it.
+
+!O CW HP:Fine Mana:Cold a lurg leader:Fine>
+An orkish warrior says 'YOU! Hon! You wirl due bemore yuar tome.' in Orkish.
+An orkish warrior lightly pierces your left arm and tickles it.
+An orkish warrior says 'YAU! Mam! Yoa will dio pefare your bihe.' in Orkish.
+An orkish warrior slashes your left arm and tickles it.
+You hear some apparently close noise from the north.
+
+!O CW HP:Fine Mana:Cold a lurg leader:Fine>f
+A dire wolf says 'YEK!rSrz! Ywukwkll doFrbHskrrryouritrhk.' in Animal.
+You swiftly dodge a dire wolf's attempt to hit you.
+You flee head over heels.
+You flee west.
+Gently Sloping Roadway
+The corpse of *a Man* is lying here.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+Exits: east, west.
+
+!O CW HP:Fine Mana:Cold>
+A lurg leader has arrived from the east.
+An orkish warrior has arrived from the east.
+An orkish warrior has arrived from the east.
+An orkish warrior has arrived from the east.
+A dire wolf has arrived from the east.
+A dire wolf has arrived from the east.
+A dire wolf has arrived from the east.
+A lurg leader has arrived from the east.
+A dire wolf has arrived from the east.
+A dire wolf has arrived from the east.
+A dire wolf has arrived from the east.
+An orkish warrior has arrived from the east.
+An orkish warrior has arrived from the east.
+An orkish warrior has arrived from the east.
+
+!O CW HP:Fine Mana:Cold>
+A lurg leader slashes your right leg and tickles it.
+
+!O CW HP:Fine Mana:Cold a lurg leader:Fine>
+A dire wolf joins a lurg leader's fight.
+A dire wolf hits your right arm and tickles it.
+
+!O CW HP:Fine Mana:Cold a lurg leader:Fine>get all Araval-corpse
+wear belt
+wear pack
+wear all
+You get a fortune in gold from the corpse of *a Man*.
+There were 588 gold coins, 16 silver pennies, and 54 copper pennies.
+You get an embellished longbow from the corpse of *a Man*.
+You get a keyring with a key and a set of lock picks from the corpse of *a Man*.
+You get a sable pouch from the corpse of *a Man*.
+You get an enhanced herbal kit from the corpse of *a Man*.
+You get a laced quiver from the corpse of *a Man*.
+You get a stone from the corpse of *a Man*.
+You get a gleaming belt from the corpse of *a Man*.
+You get a steel-tipped spear from the corpse of *a Man*.
+You get a slim silvery wristband from the corpse of *a Man*.
+You get an archer's wrist guard from the corpse of *a Man*.
+You get a silvan satchel from the corpse of *a Man*.
+You get a ragged, blackened cloak from the corpse of *a Man*.
+You get a bejewelled oak staff from the corpse of *a Man*.
+You get a shining pair of chain mail sleeves from the corpse of *a Man*.
+You get a pair of white chain mail gloves from the corpse of *a Man*.
+You get a black pair of padded boots from the corpse of *a Man*.
+You get a shining pair of chain mail leggings from the corpse of *a Man*.
+You get a mithril circlet from the corpse of *a Man*.
+You get a coarse dusky robe from the corpse of *a Man*.
+You get a pale blue stone from the corpse of *a Man*.
+You can't get a necklace, you are carrying too many items already.
+An orkish warrior joins a lurg leader's fight.
+An orkish warrior joins a lurg leader's fight.
+An orkish warrior lightly hits your body and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine>You wear a gleaming belt about your waist.
+An orkish warrior barely slashes your body and tickles it.
+A dire wolf hits your left leg.
+A dire wolf joins an orkish warrior's fight.
+You hear some close noise from the east.
+A dire wolf lightly hits your body and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine>You put a silvan satchel on your back.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine>You hold a bejewelled oak staff.
+You light a bejewelled oak staff.
+You put an embellished longbow over your shoulder.
+You wear a shining pair of chain mail leggings on your legs.
+You wear a black pair of padded boots on your feet.
+You wear a pair of white chain mail gloves on your hands.
+You cover your arms with a shining pair of chain mail sleeves.
+You wear a pale blue stone around your neck.
+You wear a coarse dusky robe on your body.
+You put a mithril circlet on your head.
+You wear a ragged, blackened cloak about your body.
+You wear an archer's wrist guard on your right wrist.
+You wear a slim silvery wristband on your left wrist.
+You fasten a stone on your belt.
+You fasten an enhanced herbal kit on your belt.
+You fasten a sable pouch on your belt.
+You fasten a laced quiver on your belt.
+You fasten a keyring with a key and a set of lock picks on your belt.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine>f
+You flee head over heels.
+You flee east.
+Róin's Scar
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+Exits: north, west.
+
+!O CW HP:Hurt Mana:Cold>north
+
+A lurg leader has arrived from the west.
+An orkish warrior has arrived from the west.
+An orkish warrior has arrived from the west.
+An orkish warrior has arrived from the west.
+A dire wolf has arrived from the west.
+A dire wolf has arrived from the west.
+A dire wolf has arrived from the west.
+A lurg leader has arrived from the west.
+A dire wolf has arrived from the west.
+A dire wolf has arrived from the west.
+A dire wolf has arrived from the west.
+An orkish warrior has arrived from the west.
+An orkish warrior has arrived from the west.
+An orkish warrior has arrived from the west.
+
+!O CW HP:Hurt Mana:Cold>Róin's Scar
+Exits: north, south.
+
+!O CW HP:Hurt Mana:Cold>north
+Róin's Scar
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+Exits: south, west.
+
+!O CW HP:Hurt Mana:Cold>west
+
+A lurg leader tries to slash you, but your parry is successful.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Healthy>north
+No way! You are fighting for your life!
+A dire wolf fails to hit you.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Healthy>east
+No way! You are fighting for your life!
+A dire wolf says 'Iivkll fkmt ymohnWtilkykk'rekdefd,mMrh!' in Animal.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Healthy>No way! You are fighting for your life!
+You barely hit a lurg leader's left foot and tickle it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine>flee
+You flee head over heels.
+You flee west.
+Róin's Scar
+Exits: north, east.
+
+!O CW HP:Hurt Mana:Cold>north
+Róin's Scar
+Exits: north, south.
+
+!O CW HP:Hurt Mana:Cold>
+You hear some close noise from the south.
+You hear some close noise from the south.
+
+!O CW HP:Hurt Mana:Cold>north
+Durin's Way
+Exits: north, east, south, west.
+
+!O CW HP:Hurt Mana:Cold>east
+Durin's Way
+Exits: east, west.
+
+!O CW HP:Hurt Mana:Cold>
+Some close noise can be heard from the west.
+
+!O CW HP:Hurt Mana:Cold>i
+You are carrying:
+a steel-tipped spear (flawless)
+
+!O CW HP:Hurt Mana:Cold>e
+Durin's Way
+Exits: east, west.
+
+!O CW HP:Hurt Mana:Cold>
+You hear some close noise from the west.
+Some close noise can be heard from the west.
+
+!O CW HP:Hurt Mana:Cold>e
+The Cavern Crossroads
+Ayase the Elf is resting here.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A large warhorse is standing here, clad in mail.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+Ariëlla the Elf (mo) is standing here.
+Mormeril the Elf is standing here.
+A horse of the Rohirrim (pa) is standing here.
+Exits: east, west, up, down.
+
+!O CW HP:Hurt Mana:Cold>wi spear
+Mormeril leaves up.
+You stop using a torch.
+You awkwardly wield a steel-tipped spear, ready to protect the free people.
+
+!O CW HP:Hurt Mana:Cold>
+Some close noise can be heard from the west.
+Some close noise can be heard from the west.
+
+!O CW HP:Hurt Mana:Cold>
+You hear some apparently rather far noise from the west.
+
+!O CW HP:Hurt Mana:Cold>
+Ayase stops resting and clambers to her feet.
+
+!O CW HP:Hurt Mana:Cold>look
+The Cavern Crossroads
+Ayase the Elf is standing here.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A large warhorse is standing here, clad in mail.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+Ariëlla the Elf (mo) is standing here.
+A horse of the Rohirrim (pa) is standing here.
+Exits: east, west, up, down.
+
+!O CW HP:Hurt Mana:Cold>
+Some close noise can be heard from the west.
+
+!O CW HP:Hurt Mana:Cold>
+Ayase begins some strange incantations...
+
+!O CW HP:Hurt Mana:Warm>sa not sure
+Ok.
+You hear some rather far noise from the west.
+You hear some rather far noise from the west.
+
+!O CW HP:Hurt Mana:Warm>stat
+OB: 51%, DB: 52%, PB: 35%, Armour: 70%. Wimpy: 0. Mood: wimpy.
+Needed: 31,921 xp, 0 tp. Gold: 588. Alert: normal.
+Affected by:
+- noquit
+- panic
+- sanctuary
+- bless
+- shield
+- strength
+- armour
+
+!O CW HP:Hurt Mana:Warm>
+You hear some close noise from the west.
+
+!O CW HP:Hurt Mana:Warm>
+Ariëlla (mo) leaves west.
+You hear some very close noise from the west.
+
+!O CW HP:Hurt Mana:Warm>
+Some rather far noise can be heard from the west.
+Some rather far noise can be heard from the west.
+
+!O CW HP:Hurt Mana:Warm>
+Ariëlla (mo) has arrived from the west.
+
+!O CW HP:Hurt Mana:Warm>cast n 'armour'
+A warhorse now follows Ariëlla (mo).
+You start to concentrate...
+
+You hear some very close noise from above.
+
+look
+Your magic armour is revitalised.
+
+!O CW HP:Hurt Mana:Icy>Gaston says 'lets do those mobs'
+The Cavern Crossroads
+A large warhorse is standing here, clad in mail.
+A horse of the Rohirrim (pa) is standing here.
+Ariëlla the Elf (mo) is standing here.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+Ayase the Elf is standing here.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+Exits: east, west, up, down.
+
+!O CW HP:Hurt Mana:Icy>
+Ariëlla (mo) says 'lead rohirrim'
+
+!O CW HP:Hurt Mana:Icy>
+Some close noise can be heard from the west.
+
+!O CW HP:Hurt Mana:Icy>aba
+Abandon what?
+Ariëlla (mo) nods solemnly.
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) says 'we are'
+
+!O CW HP:Hurt Mana:Cold>sa reeheck
+Ok.
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) leaves west.
+Some apparently very close noise can be heard from the west.
+
+!O CW HP:Hurt Mana:Cold>
+Some very close noise can be heard from above.
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) has arrived from the west.
+
+!O CW HP:Hurt Mana:Cold>fol mow
+I see no person by that name here!
+
+!O CW HP:Hurt Mana:Cold>
+Some apparently close noise can be heard from the west.
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) says 'lead rohirrim'
+Gaston stops following Ariëlla (mo).
+Gaston now follows Ariëlla (mo).
+
+!O CW HP:Hurt Mana:Cold>fol mo
+You now follow Ariëlla (mo).
+
+!O CW HP:Hurt Mana:Cold>lead pa
+A horse of the Rohirrim (pa) starts following you.
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) leaves west.
+Durin's Way
+Exits: east, west.
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) says 'gaston'
+
+!O CW HP:Hurt Mana:Cold>,died wwwssessw on patrol
+Ok.
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) says 'refol'
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) leaves west.
+Durin's Way
+Exits: east, west.
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) leaves west.
+Durin's Way
+Exits: north, east, south, west.
+Gaston stops following Ariëlla (mo).
+Gaston now follows Ariëlla (mo).
+
+!O CW HP:Hurt Mana:Cold>sa s
+Ok.
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) leaves south.
+Róin's Scar
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+Exits: north, south.
+
+!O CW HP:Hurt Mana:Cold>
+An orkish warrior tries to pound Ariëlla (mo), but she parries successfully.
+
+!O CW HP:Hurt Mana:Cold>
+A lurg leader says 'YOU! Elf! Yuu hill die bafola youl tawe.' in Orkish.
+A lurg leader slashes Ariëlla (mo)'s right foot and tickles it.
+Ariëlla (mo) swiftly dodges a dire wolf's attempt to hit her.
+
+!O CW HP:Hurt Mana:Cold>
+An orkish warrior says 'YOU! Elf! You will die kefore yeul time.' in Orkish.
+Ariëlla (mo) swiftly dodges an orkish warrior's attempt to slash her.
+
+!O CW HP:Hurt Mana:Cold>
+Gaston joins Ariëlla (mo)'s fight.
+An orkish warrior says 'San! You will saof selcome death!' in Orkish.
+A dire wolf says 'Yf !rUln!oYkk whll diesbrvzraryrufrtmsk.' in Animal.
+A dire wolf hits Ariëlla (mo)'s head and tickles it.
+Gaston cleaves an orkish warrior's left foot extremely hard and shatters it.
+Ariëlla (mo) slashes an orkish warrior's left hand very hard.
+
+!O CW HP:Hurt Mana:Cold>
+Bight begins some strange incantations...
+
+!O CW HP:Hurt Mana:Cold>
+Ayase joins Ariëlla (mo)'s fight.
+A dire wolf lightly hits Ariëlla (mo)'s left hand and tickles it.
+
+!O CW HP:Hurt Mana:Cold>
+A lurg leader pierces Ariëlla (mo)'s body and tickles it.
+
+!O CW HP:Hurt Mana:Cold>
+An orkish warrior fails to hit Gaston.
+
+!O CW HP:Hurt Mana:Cold>
+Bight utters the word 'blindness'
+A lurg leader seems to be blinded!
+An orkish warrior joins an orkish warrior's fight.
+An orkish warrior barely slashes Gaston's right leg and tickles it.
+An orkish warrior strongly pounds Ariëlla (mo)'s left foot and tickles it.
+
+!O CW HP:Hurt Mana:Cold>
+Bight begins some strange incantations...
+An orkish warrior barely hits Gaston's left foot and tickles it.
+
+!O CW HP:Hurt Mana:Cold>south
+Róin's Scar
+Exits: north, east.
+
+!O CW HP:Hurt Mana:Cold>east
+Róin's Scar
+Exits: south, west.
+
+!O CW HP:Hurt Mana:Cold>south
+Róin's Scar
+Exits: north, south.
+
+!O CW HP:Hurt Mana:Cold>south
+Róin's Scar
+A lurg leader, with markings of the Durghash tribe, stands here.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+A great wolf with a sable coat glares around with red eyes.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+An orkish warrior of the Durghash is here, with a cruel glint in his eye.
+Exits: north, west.
+
+!O CW HP:Hurt Mana:Cold>
+You try to keep a dire wolf at bay, but fail.
+You strongly stab a dire wolf's body.
+A dire wolf hits your left foot.
+You feel a sharp pain there!
+
+!O CW HP:Hurt Mana:Cold a dire wolf:Fine>west
+No way! You are fighting for your life!
+
+!O CW HP:Hurt Mana:Cold a dire wolf:Fine>flee
+An orkish warrior barely pierces your body and tickles it.
+An orkish warrior barely hits your right arm and tickles it.
+You flee head over heels.
+PANIC! You couldn't escape!
+
+!O CW HP:Hurt Mana:Cold a dire wolf:Fine>
+A dire wolf barely hits your left arm and tickles it.
+A dire wolf barely hits your right foot and tickles it.
+
+!O CW HP:Hurt Mana:Cold a dire wolf:Fine>
+PANIC! You can't quit the fight!
+
+!O CW HP:Hurt Mana:Cold a dire wolf:Fine>
+You hear the clashing of arms close to the north.
+
+!O CW HP:Hurt Mana:Cold a dire wolf:Fine>
+A lurg leader barely slashes your left leg and tickles it.
+
+!O CW HP:Hurt Mana:Cold a dire wolf:Fine>
+An orkish warrior barely slashes your right foot and tickles it.
+A dire wolf lightly hits your body and tickles it.
+
+!O CW HP:Hurt Mana:Cold a dire wolf:Fine>
+You flee head over heels.
+You flee west.
+Gently Sloping Roadway
+The corpse of *a Man* is lying here.
+Exits: east, west.
+
+!O CW HP:Hurt Mana:Cold>look in 1.corpse
+In the corpse (here):
+a necklace
+a golden ruby ring
+a root ring
+
+!O CW HP:Hurt Mana:Cold>get all corpse
+
+A lurg leader has arrived from the east.
+A dire wolf has arrived from the east.
+A dire wolf has arrived from the east.
+A dire wolf has arrived from the east.
+An orkish warrior has arrived from the east.
+An orkish warrior has arrived from the east.
+An orkish warrior has arrived from the east.
+
+!O CW HP:Hurt Mana:Cold>You get a necklace from the corpse of *a Man*.
+You get a golden ruby ring from the corpse of *a Man*.
+You get a root ring from the corpse of *a Man*.
+
+!O CW HP:Hurt Mana:Cold>east
+Róin's Scar
+A horse of the Rohirrim (pa) is standing here.
+Exits: north, west.
+
+!O CW HP:Hurt Mana:Cold>north
+Róin's Scar
+Exits: north, south.
+
+!O CW HP:Hurt Mana:Cold>north
+Róin's Scar
+Exits: south, west.
+
+!O CW HP:Hurt Mana:Cold>
+You hear the clashing of arms very close to the west.
+
+!O CW HP:Hurt Mana:Cold>north
+Alas, you cannot go that way...
+
+!O CW HP:Hurt Mana:Cold>west
+Róin's Scar
+Exits: north, east.
+
+!O CW HP:Hurt Mana:Cold>north
+Róin's Scar
+The corpse of an orkish warrior is lying here.
+A lurg leader is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Gaston.
+An orkish warrior is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A lurg leader is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Gaston.
+An orkish warrior is here, fighting Gaston.
+Ariëlla the Elf (mo) is here, fighting a lurg leader.
+Gaston is here, fighting an orkish warrior.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is standing here trying to concentrate.
+Khalar the Dwarf is here, fighting a lurg leader.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here trying to concentrate.
+A sturdy trained horse is standing here.
+Exits: north, south.
+Khalar sends a lurg leader sprawling with a powerful bash.
+You hear some close noise from the south.
+
+!O CW HP:Hurt Mana:Cold>north
+Durin's Way
+Exits: north, east, south, west.
+
+!O CW HP:Hurt Mana:Cold>south
+Róin's Scar
+The corpse of an orkish warrior is lying here.
+A lurg leader is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Gaston.
+An orkish warrior is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A lurg leader is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Gaston.
+An orkish warrior is here, fighting Gaston.
+Ariëlla the Elf (mo) is here, fighting a lurg leader.
+Gaston is here, fighting an orkish warrior.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is here, fighting a lurg leader.
+Khalar the Dwarf is here, fighting a lurg leader.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+Exits: north, south.
+Ayase stabs a lurg leader's left arm extremely hard.
+
+!O CW HP:Hurt Mana:Cold>assist
+You assist Ariëlla (mo).
+You strongly stab a lurg leader's body.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+A dire wolf barely hits Ariëlla (mo)'s left hand and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+You hear some close noise from the south.
+A dire wolf barely hits Ariëlla (mo)'s left arm and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>i
+You hear some apparently close noise from the south.
+You are carrying:
+a root ring
+a golden ruby ring
+a necklace
+a torch
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+Bight begins some strange incantations...
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+Gaston slashes an orkish warrior's head hard.
+An orkish warrior barely slashes Ariëlla (mo)'s left arm and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+Khalar smites a lurg leader's right arm extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Hurt>
+Bight utters the word 'blindness'
+A dire wolf seems to be blinded!
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Hurt>
+An orkish warrior barely hits Gaston's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Hurt>
+Gaston heroically rescues Ariëlla (mo).
+Ayase stabs a lurg leader's body extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Gaston:Fine>wear all
+Bight joins Gaston's fight.
+You put a root ring on your right finger.
+You put a golden ruby ring on your left finger.
+You wear a necklace around your neck.
+You hear some apparently very close noise from the south.
+Bight strongly stabs a lurg leader's right hand.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Gaston:Fine>
+You stab a lurg leader's left leg extremely hard and shatter it.
+Your victim is shocked by your hit!
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Gaston:Fine>
+You feel a sudden aura of energy coalescing with your own powers, helping to renew them in a shorter span of time.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Gaston:Fine>
+A lurg leader seems to have recovered its senses.
+Gaston slashes a lurg leader's right leg very hard and shatters it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Gaston:Fine>
+A lurg leader slashes Gaston's left foot hard and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Gaston:Fine>
+A dire wolf barely hits Gaston's body and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Gaston:Fine>lo
+Róin's Scar
+The corpse of an orkish warrior is lying here.
+A lurg leader is here, fighting Gaston.
+An orkish warrior is here, fighting Gaston.
+An orkish warrior is here, fighting Gaston.
+A dire wolf is here, fighting Gaston.
+A dire wolf is here, fighting Gaston.
+A great wolf with a sable coat glares around with red eyes.
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior is here, fighting Gaston.
+An orkish warrior is here, fighting Gaston.
+Ariëlla the Elf (mo) is standing here.
+Gaston is here, fighting a lurg leader.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is here, fighting a lurg leader.
+Khalar the Dwarf is here, fighting a lurg leader.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is here, fighting a lurg leader.
+A sturdy trained horse is standing here.
+A horse of the Rohirrim (pa) is standing here.
+Exits: north, south.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Gaston:Fine>
+An orkish warrior barely hits Gaston's left arm and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Gaston:Fine>
+An orkish warrior barely hits Gaston's right foot and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Gaston:Fine>
+Some very close noise can be heard from the south.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Gaston:Fine>
+Bight stabs a lurg leader's left arm very hard and shatters it.
+Gaston slashes a lurg leader's body extremely hard and shatters it.
+A lurg leader is mortally wounded and will die soon if not aided.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Dying Gaston:Fine>g all
+
+Ariëlla (mo) joins Gaston's fight.
+Ariëlla (mo) slashes a lurg leader's right foot extremely hard and shatters it.
+You receive your share of experience.
+Good job!
+You hear a lurg leader's death cry as it collapses.
+A lurg leader is dead! R.I.P.
+
+!O CW HP:Hurt Mana:Cold>You can't get the corpse of a lurg leader, it's too heavy.
+You can't get the corpse of an orkish warrior, it's too heavy.
+A dire wolf barely hits Gaston's body and tickles it.
+
+!O CW HP:Hurt Mana:Cold>
+An orkish warrior barely hits Gaston's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Cold>
+Khalar joins Gaston's fight.
+Ayase joins Gaston's fight.
+Bight joins Gaston's fight.
+An orkish warrior says 'Kho deeg will deviir yeur gisvevbarad lewaiws!' in Orkish.
+Ayase stabs an orkish warrior's right leg extremely hard and shatters it.
+An orkish warrior barely hits Gaston's head and tickles it.
+
+!O CW HP:Hurt Mana:Cold>
+Ariëlla (mo) joins Gaston's fight.
+
+!O CW HP:Hurt Mana:Cold>i
+You are carrying:
+a torch
+
+!O CW HP:Hurt Mana:Cold>
+A lurg leader has arrived from the south.
+A dire wolf has arrived from the south.
+A dire wolf has arrived from the south.
+A dire wolf has arrived from the south.
+An orkish warrior has arrived from the south.
+An orkish warrior has arrived from the south.
+An orkish warrior has arrived from the south.
+
+!O CW HP:Hurt Mana:Cold>a
+You assist Ariëlla (mo).
+You stab an orkish warrior's right leg hard.
+Bight stabs an orkish warrior's body extremely hard and shatters it.
+A dire wolf barely hits Gaston's left hand and tickles it.
+
+!O CW HP:Hurt Mana:Cold an orkish warrior:Wounded Gaston:Fine>
+A lurg leader tries to slash Ariëlla (mo), but she parries successfully.
+
+!O CW HP:Hurt Mana:Cold an orkish warrior:Wounded Gaston:Fine>
+Gaston slashes an orkish warrior's head extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Cold an orkish warrior:Bad Gaston:Fine>
+A dire wolf tries to hit Ariëlla (mo), but she parries successfully.
+
+!O CW HP:Hurt Mana:Cold an orkish warrior:Bad Gaston:Fine>dro all
+
+A dire wolf says 'IHmmllFhuntrykuruntolryrr'kv durd,ihlz!' in Animal.
+
+!O CW HP:Hurt Mana:Cold an orkish warrior:Bad Gaston:Fine>You drop a torch.
+An orkish warrior barely hits Gaston's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Cold an orkish warrior:Bad Gaston:Fine>
+Ayase stabs an orkish warrior's left arm extremely hard and shatters it.
+An orkish warrior is incapacitated and will slowly die, if not aided.
+
+!O CW HP:Hurt Mana:Cold an orkish warrior:Dying Gaston:Fine>
+Bight seems to avoid the fight.
+An orkish warrior barely hits Gaston's head and tickles it.
+
+!O CW HP:Hurt Mana:Cold an orkish warrior:Dying Gaston:Fine>
+An orkish warrior says 'YOA! Elf! Yoa wull dae bofole your tize.' in Orkish.
+An orkish warrior barely pierces Ariëlla (mo)'s head and tickles it.
+Ariëlla (mo) swiftly dodges a dire wolf's attempt to hit her.
+A dire wolf hits Ariëlla (mo)'s right foot hard.
+
+!O CW HP:Hurt Mana:Cold an orkish warrior:Dying Gaston:Fine>flee
+A dire wolf says 'Rrwkll hkftrykrrovtsl ynr'wzNdkkd,rRlV!' in Animal.
+A dire wolf says 'H hklliwnntwyvurRvtilkyru'hondead,rRlw!' in Animal.
+An orkish warrior says 'YOU! Elf! Yeu wirr kie benare yeal time.' in Orkish.
+An orkish warrior barely slashes Ariëlla (mo)'s right hand and tickles it.
+You flee head over heels.
+You flee north.
+Durin's Way
+Exits: north, east, south, west.
+
+!O CW HP:Hurt Mana:Cold>
+You hear a death cry from the south.
+
+!O CW HP:Hurt Mana:Cold>south
+Róin's Scar
+The corpse of an orkish warrior is lying here.
+A large torch lies here among the dust.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+An orkish warrior is here, fighting Gaston.
+A dire wolf is here, fighting Gaston.
+A dire wolf is here, fighting Gaston.
+A great wolf with a sable coat glares around with red eyes.
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior is here, fighting Gaston.
+An orkish warrior is here, fighting Gaston.
+Ariëlla the Elf (mo) is here, fighting a lurg leader.
+Gaston is here, fighting an orkish warrior.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is here, fighting a lurg leader.
+Khalar the Dwarf is here, fighting a lurg leader.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A horse of the Rohirrim (pa) is standing here.
+A lurg leader is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+Exits: north, south.
+
+!O CW HP:Hurt Mana:Cold>
+A dire wolf barely hits Ariëlla (mo)'s body and tickles it.
+A lurg leader barely slashes Ariëlla (mo)'s body and tickles it.
+An orkish warrior barely hits Gaston's body and tickles it.
+
+!O CW HP:Hurt Mana:Cold>
+A dire wolf lightly hits Ariëlla (mo)'s left hand and tickles it.
+
+!O CW HP:Hurt Mana:Cold>
+Bight begins some strange incantations...
+
+!O CW HP:Hurt Mana:Cold>
+An orkish warrior barely hits Ariëlla (mo)'s right arm and tickles it.
+
+!O CW HP:Hurt Mana:Cold>
+Khalar sends a lurg leader sprawling with a powerful bash.
+
+!O CW HP:Hurt Mana:Cold>assist
+You assist Ariëlla (mo).
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine Ariëlla (mo):Hurt>look
+
+Ayase stabs a lurg leader's body extremely hard.
+An orkish warrior barely hits Gaston's body and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine Ariëlla (mo):Hurt>Róin's Scar
+The corpse of an orkish warrior is lying here.
+A large torch lies here among the dust.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+An orkish warrior is here, fighting Gaston.
+A dire wolf is here, fighting Gaston.
+A dire wolf is here, fighting Gaston.
+A great wolf with a sable coat glares around with red eyes.
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior is here, fighting Gaston.
+An orkish warrior is here, fighting Gaston.
+Ariëlla the Elf (mo) is here, fighting a lurg leader.
+Gaston is here, fighting an orkish warrior.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is here, fighting a lurg leader.
+Khalar the Dwarf is here, fighting a lurg leader.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here trying to concentrate.
+A sturdy trained horse is standing here.
+A horse of the Rohirrim (pa) is standing here.
+A lurg leader is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+Exits: north, south.
+A dire wolf barely hits Gaston's left arm and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine Ariëlla (mo):Hurt>
+Bight utters the word 'blindness'
+A lurg leader seems to be blinded!
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine Ariëlla (mo):Hurt>
+Gaston slashes an orkish warrior's left arm extremely hard.
+An orkish warrior barely slashes Ariëlla (mo)'s head and tickles it.
+An orkish warrior barely slashes Gaston's head and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine Ariëlla (mo):Hurt>
+An orkish warrior barely hits Gaston's right foot and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Fine Ariëlla (mo):Hurt>
+Ariëlla (mo) slashes a lurg leader's right leg extremely hard.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+A dire wolf lightly hits Ariëlla (mo)'s head and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+A dire wolf barely hits Ariëlla (mo)'s left arm and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>stat
+A dire wolf lightly hits Ariëlla (mo)'s left hand and tickles it.
+OB: 50%, DB: 52%, PB: 35%, Armour: 70%. Wimpy: 0. Mood: wimpy.
+Needed: 30,097 xp, 0 tp. Gold: 588. Alert: normal.
+Affected by:
+- noquit
+- a light wound at the left foot (clean)
+- panic
+- sanctuary
+- bless
+- shield
+- strength
+- armour
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+A dire wolf lightly hits Gaston's head and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+Ariëlla (mo) says 'good job luring more'
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+A dire wolf strongly hits Gaston's left hand.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+Bight begins some strange incantations...
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+You stab a lurg leader's body hard.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Hurt>
+An orkish warrior strongly slashes Ariëlla (mo)'s left foot and tickles it.
+A dire wolf hits Ariëlla (mo)'s head hard.
+An orkish warrior barely slashes Gaston's left foot and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Wounded>
+Ayase stabs a lurg leader's body extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Wounded>
+A dire wolf strongly hits Ariëlla (mo)'s right foot.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Wounded>
+A dire wolf barely hits Ariëlla (mo)'s left leg and tickles it.
+An orkish warrior barely pierces Ariëlla (mo)'s head and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Hurt Ariëlla (mo):Wounded>
+Bight utters the word 'blindness'
+A dire wolf seems to be blinded!
+Ariëlla (mo) strongly slashes a lurg leader's right leg.
+An orkish warrior barely hits Gaston's body and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Wounded>
+An orkish warrior barely hits Ariëlla (mo)'s left arm and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Wounded>
+A lurg leader seems to have recovered its senses.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Wounded>
+Bight begins some strange incantations...
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Wounded>
+Gaston slashes an orkish warrior's right arm hard.
+An orkish warrior barely slashes Gaston's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Wounded>
+Ayase stabs a lurg leader's head extremely hard and shatters it.
+An orkish warrior hits Ariëlla (mo)'s left foot.
+A dire wolf hits Ariëlla (mo)'s left arm.
+A dire wolf barely hits Gaston's head and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Wounded>
+Bight utters the word 'blindness'
+A dire wolf seems to be blinded!
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Wounded>
+Gaston giggles.
+A dire wolf barely hits Ariëlla (mo)'s right hand and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Wounded Ariëlla (mo):Wounded>
+Ariëlla (mo) slashes a lurg leader's body very hard and shatters it.
+An orkish warrior barely slashes Ariëlla (mo)'s head and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Ariëlla (mo):Wounded>
+An orkish warrior barely hits Gaston's right arm and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Ariëlla (mo):Wounded>
+A lurg leader says 'Stup miding, you wifk!' in Orkish.
+Khalar sends a lurg leader sprawling with a powerful bash.
+A lurg leader bleeds from open wounds.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Ariëlla (mo):Wounded>look
+Róin's Scar
+The corpse of an orkish warrior is lying here.
+A large torch lies here among the dust.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+An orkish warrior is here, fighting Gaston.
+A dire wolf is here, fighting Gaston.
+A dire wolf is here, fighting Gaston.
+A great wolf with a sable coat glares around with red eyes.
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior is here, fighting Gaston.
+An orkish warrior is here, fighting Gaston.
+Ariëlla the Elf (mo) is here, fighting a lurg leader.
+Gaston is here, fighting an orkish warrior.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is here, fighting a lurg leader.
+Khalar the Dwarf is here, fighting a lurg leader.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A horse of the Rohirrim (pa) is standing here.
+A lurg leader is sitting here, trying to fight Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+Exits: north, south.
+Bight joins Ariëlla (mo)'s fight.
+Bight stabs a lurg leader's left arm extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Bad Ariëlla (mo):Wounded>
+An orkish warrior hits Ariëlla (mo)'s right foot.
+Khalar smites a lurg leader's body extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Awful Ariëlla (mo):Wounded>
+An orkish warrior barely slashes Gaston's right foot and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Awful Ariëlla (mo):Wounded>
+Bight seems to avoid the fight.
+Gaston slashes an orkish warrior's left hand hard.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Awful Ariëlla (mo):Wounded>
+An orkish warrior barely pierces Ariëlla (mo)'s right leg and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Awful Ariëlla (mo):Wounded>
+Ariëlla (mo) slashes a lurg leader's head extremely hard and shatters it.
+A lurg leader is mortally wounded and will die soon if not aided.
+A dire wolf barely hits Ariëlla (mo)'s right leg and tickles it.
+
+!O CW HP:Hurt Mana:Cold a lurg leader:Dying Ariëlla (mo):Wounded>
+You stab a lurg leader's left leg extremely hard and shatter it.
+Your victim is shocked by your hit!
+You receive your share of experience.
+Good job!
+You hear a lurg leader's death cry as it collapses.
+A lurg leader is dead! R.I.P.
+A dire wolf barely hits Ariëlla (mo)'s left hand and tickles it.
+
+!O CW HP:Hurt Mana:Cold>
+An orkish warrior barely hits Gaston's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm>assist
+You assist Ariëlla (mo).
+A dire wolf says 'Emowoyosrsklf,scrnard!' in Animal.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Fine Ariëlla (mo):Wounded>
+A dire wolf barely hits Ariëlla (mo)'s left leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Fine Ariëlla (mo):Wounded>look
+Róin's Scar
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+A large torch lies here among the dust.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+An orkish warrior is here, fighting Gaston.
+A dire wolf is here, fighting Gaston.
+A dire wolf is here, fighting Gaston.
+A great wolf with a sable coat glares around with red eyes.
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior is here, fighting Gaston.
+An orkish warrior is here, fighting Gaston.
+Ariëlla the Elf (mo) is here, fighting a dire wolf.
+Gaston is here, fighting an orkish warrior.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is standing here.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A horse of the Rohirrim (pa) is standing here.
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+A dire wolf is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+An orkish warrior is here, fighting Ariëlla (mo).
+Exits: north, south.
+Ayase joins Ariëlla (mo)'s fight.
+Ayase stabs a dire wolf's left foreleg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ariëlla (mo):Wounded>
+A dire wolf barely hits Gaston's right foot and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ariëlla (mo):Wounded>
+A dire wolf hits Ariëlla (mo)'s head.
+A dire wolf barely hits Ariëlla (mo)'s left arm and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ariëlla (mo):Wounded>
+Ayase heroically rescues Ariëlla (mo).
+A dire wolf says 'R skllrfMztoyrrnkhthliyHk'rOwdkkd, Klf!' in Animal.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ayase:Healthy>
+Bight begins some strange incantations...
+An orkish warrior barely hits Ayase's right hand and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ayase:Fine>
+You stab a dire wolf's right forefoot hard.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ayase:Fine>
+Khalar joins Gaston's fight.
+An orkish warrior says 'You serl bug fur deaph as I cut you gi piecus!' in Orkish.
+Khalar smites an orkish warrior's left leg extremely hard and shatters it.
+An orkish warrior barely slashes Ayase's left hand and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ayase:Fine>
+A dire wolf barely hits Ayase's right hand and tickles it.
+A dire wolf barely hits Gaston's head and tickles it.
+An orkish warrior barely slashes Gaston's right hand and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ayase:Fine>
+Bight utters the word 'heal'
+Bight heals Ariëlla (mo).
+A dire wolf barely hits Ayase's right foot and tickles it.
+Ayase stabs a dire wolf's right foreleg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+An orkish warrior hits Gaston's left hand and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>look in 1.pack
+In your satchel (worn on back):
+a wooden pipe
+a ceremonial dagger (flawless)
+two pieces of silvery metal
+two wooden horns
+a lustrous opal
+two amethysts
+a pair of snowshoes (flawless)
+a silver goblet
+a silvery crown (flawless)
+a black heart
+nineteen piles of grey-green leaves
+two flasks of orkish draught
+a shining chain mail shirt (flawless)
+nine lembas wafers
+two purple scrolls
+eleven tickets
+thirty-four clusters of hard, round, black berries
+thirteen piles of scented crushed leaves
+thirteen piles of sweet-smelling dried mauve petals
+two fine elven ropes
+a long hollow stem
+a blue scroll
+forty-two piles of long, slender green leaves
+five man-like roots
+a flask of miruvor
+an ornate, steel-shafted warhammer
+four handfuls of clover
+two unfinished bands of gold
+twenty-nine handfuls of narrow leaves
+a softly glowing green cup
+A dire wolf hits Gaston's left leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+Gaston strongly slashes an orkish warrior's right hand.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+Khalar heroically rescues Gaston.
+Bight joins Ayase's fight.
+Bight strongly stabs a dire wolf's body.
+You strongly stab a dire wolf's right hindleg.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>stat
+Ariëlla (mo) panics, and attempts to flee.
+Ariëlla (mo) leaves south.
+An orkish warrior barely hits Khalar's right hand and tickles it.
+OB: 50%, DB: 52%, PB: 35%, Armour: 70%. Wimpy: 0. Mood: wimpy.
+Needed: 27,665 xp, 0 tp. Gold: 588. Alert: normal.
+Affected by:
+- noquit
+- a light wound at the left foot (clean)
+- panic
+- sanctuary
+- bless
+- shield
+- strength
+- armour
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+Ariëlla (mo) has arrived from the south.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+A dire wolf barely hits Khalar's left leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+Ariëlla (mo) joins Ayase's fight.
+An orkish warrior barely slashes Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>a
+No way! You are fighting for your life!
+An orkish warrior barely hits Ayase's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+A dire wolf barely hits Ayase's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+An orkish warrior barely hits Khalar's right leg and tickles it.
+A dire wolf lightly hits Ayase's right hand and tickles it.
+Ayase stabs a dire wolf's body hard and shatters it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Bad Ayase:Fine>look
+Róin's Scar
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+A large torch lies here among the dust.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+An orkish warrior is here, fighting Khalar.
+A dire wolf is here, fighting Khalar.
+A dire wolf is here, fighting Khalar.
+A great wolf with a sable coat glares around with red eyes.
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior is here, fighting Khalar.
+An orkish warrior is here, fighting Khalar.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is here, fighting a dire wolf.
+Khalar the Dwarf is here, fighting an orkish warrior.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is here, fighting a dire wolf.
+A sturdy trained horse is standing here.
+A horse of the Rohirrim (pa) is standing here.
+A dire wolf is here, fighting Ayase.
+A dire wolf is here, fighting Ayase.
+A dire wolf is here, fighting Ayase.
+An orkish warrior is here, fighting Ayase.
+An orkish warrior is here, fighting Ayase.
+An orkish warrior is here, fighting Ayase.
+Ariëlla the Elf (mo) is here, fighting a dire wolf.
+Exits: north, south.
+A dire wolf barely hits Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Bad Ayase:Fine>
+Ayase gets an engraved broadsword from a silvan satchel.
+You stab a dire wolf's right forefoot extremely hard and shatter it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Awful Ayase:Fine>
+Bight stabs a dire wolf's right forefoot extremely hard and shatters it.
+A dire wolf is incapacitated and will slowly die, if not aided.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Dying Ayase:Fine>
+Gaston joins Ayase's fight.
+Gaston slashes a dire wolf's body extremely hard and shatters it.
+You receive your share of experience.
+Good job!
+You hear a dire wolf's death cry as it collapses.
+A dire wolf is dead! R.I.P.
+An orkish warrior barely hits Khalar's right foot and tickles it.
+An orkish warrior barely slashes Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm>
+An orkish warrior barely pierces Ayase's left leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm>
+Ayase removes a narrow runed awlpike.
+Ayase decisively draws an engraved broadsword.
+
+!O CW HP:Hurt Mana:Warm>
+Ayase strongly slashes a dire wolf's left hindleg.
+
+!O CW HP:Hurt Mana:Warm>eq
+Ariëlla (mo) joins Ayase's fight.
+Bight joins Ayase's fight.
+A dire wolf says 'StkprhrdRng, yrrrwhsp!' in Animal.
+Khalar smites an orkish warrior's right leg extremely hard and shatters it.
+A dire wolf barely hits Ayase's right foot and tickles it.
+You are using:
+<wielded>            a steel-tipped spear (flawless)
+<used as shield>     a bejewelled oak staff; it has a soft glowing aura
+<worn on head>       a mithril circlet
+<worn on body>       a coarse dusky robe (flawless)
+<worn about body>    a ragged, blackened cloak (flawless)
+<worn on arms>       a shining pair of chain mail sleeves (flawless)
+<worn on hands>      a pair of white chain mail gloves (flawless)
+<worn on legs>       a shining pair of chain mail leggings (flawless)
+<worn on feet>       a black pair of padded boots (flawless)
+<worn around neck>   a pale blue stone
+<worn around neck>   a necklace
+<worn on wrist>      an archer's wrist guard (flawless)
+<worn on wrist>      a slim silvery wristband (flawless)
+<worn on finger>     a root ring
+<worn on finger>     a golden ruby ring
+<worn on back>       a silvan satchel
+<worn across back>   an embellished longbow
+<worn as belt>       a gleaming belt
+<worn on belt>       a stone
+<worn on belt>       an enhanced herbal kit
+<worn on belt>       a sable pouch
+<worn on belt>       a laced quiver
+<worn on belt>       a keyring with a key and a set of lock picks
+
+!O CW HP:Hurt Mana:Warm>
+Gaston joins Ayase's fight.
+An orkish warrior barely hits Ayase's left foot and tickles it.
+
+!O CW HP:Hurt Mana:Warm>
+Some rather far noise can be heard from the south.
+Ariëlla (mo) slashes a dire wolf's right hindfoot extremely hard.
+
+!O CW HP:Hurt Mana:Warm>a
+
+Gaston slashes a dire wolf's right foreleg very hard.
+
+!O CW HP:Hurt Mana:Warm>You assist Gaston.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ayase:Fine>
+Ayase slashes a dire wolf's right forefoot very hard and shatters it.
+An orkish warrior barely hits Khalar's right arm and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+An orkish warrior barely slashes Khalar's left leg and tickles it.
+A dire wolf barely hits Ayase's left arm and tickles it.
+A dire wolf barely hits Ayase's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>look in 1.pack
+In your satchel (worn on back):
+a wooden pipe
+a ceremonial dagger (flawless)
+two pieces of silvery metal
+two wooden horns
+a lustrous opal
+two amethysts
+a pair of snowshoes (flawless)
+a silver goblet
+a silvery crown (flawless)
+a black heart
+nineteen piles of grey-green leaves
+two flasks of orkish draught
+a shining chain mail shirt (flawless)
+nine lembas wafers
+two purple scrolls
+eleven tickets
+thirty-four clusters of hard, round, black berries
+thirteen piles of scented crushed leaves
+thirteen piles of sweet-smelling dried mauve petals
+two fine elven ropes
+a long hollow stem
+a blue scroll
+forty-two piles of long, slender green leaves
+five man-like roots
+a flask of miruvor
+an ornate, steel-shafted warhammer
+four handfuls of clover
+two unfinished bands of gold
+twenty-nine handfuls of narrow leaves
+a softly glowing green cup
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+An orkish warrior barely hits Khalar's body and tickles it.
+Khalar smites an orkish warrior's left arm extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+You stab a dire wolf's body very hard and shatter it.
+An orkish warrior slashes Ayase's left leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+Ayase slashes a dire wolf's body very hard and shatters it.
+An orkish warrior barely hits Ayase's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Bad Ayase:Fine>
+A dire wolf lightly hits Khalar's left leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Bad Ayase:Fine>
+Gaston slashes a dire wolf's right hindleg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Awful Ayase:Fine>
+An orkish warrior barely hits Khalar's left arm and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Awful Ayase:Fine>
+Bight stabs a dire wolf's body hard and shatters it.
+A dire wolf is stunned and will probably die soon.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Awful Ayase:Fine>
+Ariëlla (mo) slashes a dire wolf's left hindfoot extremely hard and shatters it.
+You receive your share of experience.
+Good job!
+You hear a dire wolf's death cry as it collapses.
+A dire wolf is dead! R.I.P.
+
+!O CW HP:Hurt Mana:Warm>
+A dire wolf barely hits Khalar's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm>
+An orkish warrior barely hits Khalar's right arm and tickles it.
+
+!O CW HP:Hurt Mana:Warm>
+Bight joins Ayase's fight.
+A dire wolf says 'RhwrlleZuvtkyoirkztKlryrr'rrzdvkd,uBHgzt!' in Animal.
+A dire wolf says 'MMkz sirlkrgf  ndsasarsovrhircy,ryrorweaeling!' in Animal.
+An orkish warrior barely pierces Ayase's left leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm>
+Gaston joins Ayase's fight.
+Ariëlla (mo) joins Gaston's fight.
+A dire wolf says 'Hrwillrnuntkyok uFtfl yie'ur dnad,rMkn!' in Animal.
+
+!O CW HP:Hurt Mana:Warm>a
+You assist Gaston.
+You strongly stab a dire wolf's left hindfoot and tickle it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Fine Ayase:Fine>
+A dire wolf barely hits Khalar's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Fine Ayase:Fine>
+An orkish warrior lightly hits Ayase's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Fine Ayase:Fine>
+Gaston slashes a dire wolf's right foreleg very hard.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Fine Ayase:Fine>
+An orkish warrior barely hits Khalar's left foot and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Fine Ayase:Fine>
+Ayase slashes a dire wolf's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ayase:Fine>
+Bight strongly stabs a dire wolf's body.
+A dire wolf barely hits Khalar's right arm and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ayase:Fine>stat
+Khalar smites an orkish warrior's body very hard and shatters it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear an orkish warrior's death cry as he collapses.
+An orkish warrior is dead! R.I.P.
+OB: 50%, DB: 52%, PB: 35%, Armour: 70%. Wimpy: 0. Mood: wimpy.
+Needed: 25,424 xp, 0 tp. Gold: 588. Alert: normal.
+Affected by:
+- noquit
+- a light wound at the left foot (clean)
+- panic
+- sanctuary
+- bless
+- shield
+- strength
+- armour
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ayase:Fine>
+Ariëlla (mo) strongly slashes a dire wolf's left forefoot.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Hurt Ayase:Fine>
+Gaston slashes a dire wolf's right forefoot extremely hard and shatters it.
+An orkish warrior barely hits Khalar's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+An orkish warrior barely pierces Ayase's left arm and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+Ayase slashes a dire wolf's right hindleg hard.
+A dire wolf barely hits Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+Gaston removes an engraved broadsword.
+Gaston masterfully draws a mighty dwarven axe.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+Ariëlla (mo) slashes a dire wolf's left forefoot very hard and shatters it.
+A dire wolf barely hits Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+You feel bolder.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Wounded Ayase:Fine>
+Bight stabs a dire wolf's left forefoot very hard and shatters it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Bad Ayase:Fine>
+An orkish warrior barely hits Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Bad Ayase:Fine>
+Khalar smites a dire wolf's right foreleg extremely hard.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Bad Ayase:Fine>
+A dire wolf strongly hits Ayase's left hand and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Bad Ayase:Fine>look
+Róin's Scar
+The corpse of an orkish warrior is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+A large torch lies here among the dust.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+A dire wolf is here, fighting Khalar.
+A dire wolf is here, fighting Khalar.
+A great wolf with a sable coat glares around with red eyes.
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior is here, fighting Khalar.
+An orkish warrior is here, fighting Khalar.
+Gaston is here, fighting a dire wolf.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is here, fighting a dire wolf.
+Khalar the Dwarf is here, fighting a dire wolf.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is here, fighting a dire wolf.
+A sturdy trained horse is standing here.
+A horse of the Rohirrim (pa) is standing here.
+A dire wolf is here, fighting Ayase.
+An orkish warrior is here, fighting Ayase.
+An orkish warrior is here, fighting Ayase.
+An orkish warrior is here, fighting Ayase.
+Ariëlla the Elf (mo) is here, fighting a dire wolf.
+Exits: north, south.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Bad Ayase:Fine>
+An orkish warrior barely hits Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Bad Ayase:Fine>
+Gaston cleaves a dire wolf's body extremely hard and shatters it.
+Ayase slashes a dire wolf's body and shatters it.
+A dire wolf is incapacitated and will slowly die, if not aided.
+An orkish warrior barely slashes Ayase's body and tickles it.
+
+!O CW HP:Hurt Mana:Warm a dire wolf:Awful Ayase:Fine>
+You stab a dire wolf's right foreleg extremely hard and shatter it.
+You receive your share of experience.
+Good job!
+You hear a dire wolf's death cry as it collapses.
+A dire wolf is dead! R.I.P.
+An orkish warrior hits Khalar's right leg and tickles it.
+A dire wolf barely hits Khalar's head and tickles it.
+
+!O CW HP:Hurt Mana:Warm>cast n 'heal' mo
+You muster all of your concentration...
+Bight joins Ayase's fight.
+An orkish warrior says 'Just hhit I niebed. A fresn baer ow ealz for zy neckloce!' in Orkish.
+
+Gaston joins Ayase's fight.
+Ariëlla (mo) joins Gaston's fight.
+Ariëlla (mo) slashes an orkish warrior's left arm very hard and shatters it.
+
+assist
+Ayase strongly slashes an orkish warrior's left hand.
+An orkish warrior barely hits Khalar's right arm and tickles it.
+
+Bight stabs an orkish warrior's right hand extremely hard and shatters it.
+A dire wolf barely hits Khalar's right foot and tickles it.
+
+Ok.
+You heal Ariëlla (mo).
+
+!O CW HP:Hurt Mana:Frozen>You assist Gaston.
+You strongly stab an orkish warrior's right arm and shatter it.
+An orkish warrior barely slashes Ayase's right hand and tickles it.
+
+!O CW HP:Hurt Mana:Frozen an orkish warrior:Awful Ayase:Fine>
+Gaston cleaves an orkish warrior's right leg extremely hard and shatters it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear an orkish warrior's death cry as he collapses.
+An orkish warrior is dead! R.I.P.
+
+!O CW HP:Hurt Mana:Frozen>a
+You assist Ayase.
+An orkish warrior says 'Paka u deep breith, Man. It mill yoar last!' in Orkish.
+
+!O CW HP:Hurt Mana:Frozen an orkish warrior:Hurt Ayase:Fine>
+Bight joins Ayase's fight.
+
+!O CW HP:Hurt Mana:Frozen an orkish warrior:Hurt Ayase:Fine>
+Gaston joins Ayase's fight.
+
+!O CW HP:Hurt Mana:Frozen an orkish warrior:Hurt Ayase:Fine>
+Bight stabs an orkish warrior's right arm very hard and shatters it.
+
+!O CW HP:Hurt Mana:Frozen an orkish warrior:Hurt Ayase:Fine>
+A dire wolf lightly hits Khalar's right arm and tickles it.
+
+!O CW HP:Hurt Mana:Frozen an orkish warrior:Hurt Ayase:Fine>
+Ayase slashes an orkish warrior's body hard.
+Khalar smites a dire wolf's left foreleg very hard.
+
+!O CW HP:Hurt Mana:Frozen an orkish warrior:Wounded Ayase:Fine>
+Ariëlla (mo) joins Gaston's fight.
+Ariëlla (mo) slashes an orkish warrior's body extremely hard and shatters it.
+A dire wolf barely hits Khalar's left leg and tickles it.
+
+!O CW HP:Hurt Mana:Frozen an orkish warrior:Bad Ayase:Fine>
+Gaston cleaves an orkish warrior's left arm extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Frozen an orkish warrior:Awful Ayase:Fine>
+An orkish warrior hits Khalar's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Awful Ayase:Fine>
+Bight stabs an orkish warrior's left arm extremely hard and shatters it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear an orkish warrior's death cry as he collapses.
+An orkish warrior is dead! R.I.P.
+
+!O CW HP:Hurt Mana:Icy>
+Ariëlla (mo) joins Ayase's fight.
+An orkish warrior says 'Your screams woll ecmo thruaph tvase derk hallm!' in Orkish.
+Ayase slashes an orkish warrior's left arm hard.
+
+!O CW HP:Hurt Mana:Icy>
+Gaston joins Ayase's fight.
+
+!O CW HP:Hurt Mana:Icy>
+Bight joins Gaston's fight.
+
+!O CW HP:Hurt Mana:Icy>inf %q
+You are a firm believer in the values of Right and Wrong.
+
+!O CW HP:Hurt Mana:Icy>
+A dire wolf barely hits Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Icy>a
+You assist Gaston.
+Gaston cleaves an orkish warrior's left leg very hard and shatters it.
+Ariëlla (mo) slashes an orkish warrior's right foot extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Bad Ayase:Fine>
+An orkish warrior barely hits Khalar's right arm and tickles it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Bad Ayase:Fine>cha m a
+Ok.
+You stab an orkish warrior's left leg very hard and shatter it.
+An orkish warrior is stunned and will probably die soon.
+A dire wolf hits Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Awful Ayase:Fine>kill spectyre
+
+Ayase slashes an orkish warrior's body extremely hard and shatters it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear an orkish warrior's death cry as he collapses.
+An orkish warrior is dead! R.I.P.
+
+!O CW HP:Hurt Mana:Icy>info Needed: %(%X%) xp, %(%T%) tp.%.Total: %(%x%) xp, %(%t%) tp.
+They aren't here.
+
+!O CW HP:Hurt Mana:Icy>Needed: 22225 xp, 0 tp.
+Total: 20627775 xp, 114007 tp.
+
+!O CW HP:Hurt Mana:Icy>
+Bight joins Khalar's fight.
+Gaston joins Khalar's fight.
+A dire wolf says 'WhKve rkrIyou,kcoward?' in Animal.
+Bight stabs a dire wolf's left hindfoot very hard.
+Khalar smites a dire wolf's left foreleg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy>
+Ariëlla (mo) joins Gaston's fight.
+
+!O CW HP:Hurt Mana:Icy>a
+You assist Gaston.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Hurt Khalar:Fine>
+An orkish warrior barely hits Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Hurt Khalar:Fine>
+Ayase removes an engraved broadsword.
+Ayase confidently draws a narrow runed awlpike.
+Ariëlla (mo) slashes a dire wolf's body extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Wounded Khalar:Fine>
+A dire wolf barely hits Khalar's left leg and tickles it.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Wounded Khalar:Fine>
+Gaston cleaves a dire wolf's body extremely hard and shatters it.
+An orkish warrior barely hits Khalar's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Wounded Khalar:Fine>
+Ayase joins Gaston's fight.
+Ayase stabs a dire wolf's left hindleg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Bad Khalar:Fine>
+Bight stabs a dire wolf's left hindleg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Awful Khalar:Fine>
+Ariëlla (mo) slashes a dire wolf's head extremely hard and shatters it.
+You receive your share of experience.
+Good job!
+You hear a dire wolf's death cry as it collapses.
+A dire wolf is dead! R.I.P.
+
+!O CW HP:Hurt Mana:Icy>info Needed: %(%X%) xp, %(%T%) tp.%.Total: %(%x%) xp, %(%t%) tp.
+Khalar smites a dire wolf's right foreleg extremely hard and shatters it.
+Needed: 21406 xp, 0 tp.
+Total: 20628594 xp, 114007 tp.
+
+!O CW HP:Hurt Mana:Icy>
+An orkish warrior barely hits Khalar's left foot and tickles it.
+
+!O CW HP:Hurt Mana:Icy>
+Gaston joins Khalar's fight.
+A dire wolf says 'If IrMnfd rutrnzknkryrhiar ,nyka'll diO!' in Animal.
+
+!O CW HP:Hurt Mana:Icy>
+Bight joins Gaston's fight.
+Ariëlla (mo) joins Gaston's fight.
+
+!O CW HP:Hurt Mana:Icy>
+Gaston cleaves a dire wolf's left forefoot extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy>a
+You assist Gaston.
+You stab a dire wolf's right foreleg very hard.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Hurt Khalar:Fine>
+Ayase puts an engraved broadsword in a silvan satchel.
+Bight stabs a dire wolf's right hindleg very hard.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Hurt Khalar:Fine>
+An orkish warrior lightly hits Khalar's right leg and tickles it.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Hurt Khalar:Fine>
+An orkish warrior hits Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Hurt Khalar:Fine>
+Ariëlla (mo) slashes a dire wolf's right hindleg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Wounded Khalar:Fine>
+Ayase begins some strange incantations...
+Gaston cleaves a dire wolf's right hindleg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy a dire wolf:Bad Khalar:Fine>
+You stab a dire wolf's right hindleg extremely hard and shatter it.
+Khalar smites a dire wolf's right hindleg extremely hard and shatters it.
+You receive your share of experience.
+Good job!
+You hear a dire wolf's death cry as it collapses.
+A dire wolf is dead! R.I.P.
+
+!O CW HP:Hurt Mana:Icy>info Needed: %(%X%) xp, %(%T%) tp.%.Total: %(%x%) xp, %(%t%) tp.
+Needed: 20157 xp, 0 tp.
+Total: 20629843 xp, 114007 tp.
+
+!O CW HP:Hurt Mana:Icy>
+Gaston joins Khalar's fight.
+Ariëlla (mo) joins Gaston's fight.
+An orkish warrior says 'I uf bhe last eve you'll uver see!' in Orkish.
+
+!O CW HP:Hurt Mana:Icy>a
+You assist Gaston.
+Bight joins Gaston's fight.
+An orkish warrior barely hits Khalar's left foot and tickles it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Hurt Khalar:Fine>
+An orkish warrior barely hits Khalar's body and tickles it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Hurt Khalar:Fine>
+Bight stabs an orkish warrior's head hard.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Wounded Khalar:Fine>
+Ayase utters the word 'armour'
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Wounded Khalar:Fine>
+Ayase joins Gaston's fight.
+Ayase stabs an orkish warrior's left arm extremely hard and shatters it.
+Ariëlla (mo) slashes an orkish warrior's left foot extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Awful Khalar:Fine>
+Gaston cleaves an orkish warrior's right hand very hard and shatters it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear an orkish warrior's death cry as he collapses.
+An orkish warrior is dead! R.I.P.
+
+!O CW HP:Hurt Mana:Icy>info Needed: %(%X%) xp, %(%T%) tp.%.Total: %(%x%) xp, %(%t%) tp.
+Needed: 19805 xp, 0 tp.
+Total: 20630195 xp, 114007 tp.
+
+!O CW HP:Hurt Mana:Icy>
+Bight joins Khalar's fight.
+An orkish warrior says 'You wos'd kek awey zrem ze, Bigsb. Ot leask nop in one puuce!' in Orkish.
+
+!O CW HP:Hurt Mana:Icy>
+Ariëlla (mo) joins Khalar's fight.
+Gaston joins Khalar's fight.
+
+!O CW HP:Hurt Mana:Icy>a
+
+Ayase joins Gaston's fight.
+
+!O CW HP:Hurt Mana:Icy>You assist Gaston.
+You stab an orkish warrior's right foot extremely hard and shatter it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Hurt Khalar:Fine>look
+Róin's Scar
+The corpse of an orkish warrior is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of an orkish warrior is lying here.
+The corpse of an orkish warrior is lying here.
+The corpse of an orkish warrior is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of an orkish warrior is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+A large torch lies here among the dust.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+A great wolf with a sable coat glares around with red eyes.
+A lurg leader, with markings of the Durghash tribe, stands here.
+An orkish warrior is here, fighting Khalar.
+Gaston is here, fighting an orkish warrior.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is here, fighting an orkish warrior.
+Khalar the Dwarf is here, fighting an orkish warrior.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is here, fighting an orkish warrior.
+A sturdy trained horse is standing here.
+A horse of the Rohirrim (pa) is standing here.
+Ariëlla the Elf (mo) is here, fighting an orkish warrior.
+Exits: north, south.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Hurt Khalar:Fine>
+Bight stabs an orkish warrior's right arm hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Wounded Khalar:Fine>
+Khalar smites an orkish warrior's left arm extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Bad Khalar:Fine>
+Ariëlla (mo) slashes an orkish warrior's right leg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy an orkish warrior:Awful Khalar:Fine>
+Ayase stabs an orkish warrior's left foot extremely hard and shatters it.
+You receive your share of experience.
+**Yawn** Boring kill, wasn't it?
+You hear an orkish warrior's death cry as he collapses.
+An orkish warrior is dead! R.I.P.
+
+!O CW HP:Hurt Mana:Icy>info Needed: %(%X%) xp, %(%T%) tp.%.Total: %(%x%) xp, %(%t%) tp.
+Needed: 19324 xp, 0 tp.
+Total: 20630676 xp, 114007 tp.
+
+!O CW HP:Hurt Mana:Icy>assist
+Who do you want to assist?
+
+!O CW HP:Hurt Mana:Icy>look
+Róin's Scar
+The corpse of an orkish warrior is lying here.
+The corpse of an orkish warrior is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of an orkish warrior is lying here.
+The corpse of an orkish warrior is lying here.
+The corpse of an orkish warrior is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of an orkish warrior is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of a dire wolf is lying here.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+A large torch lies here among the dust.
+The corpse of a lurg leader is lying here.
+The corpse of an orkish warrior is lying here.
+A great wolf with a sable coat glares around with red eyes.
+A lurg leader, with markings of the Durghash tribe, stands here.
+Gaston is standing here.
+A sturdy pack horse is standing here.
+A large warhorse is standing here, clad in mail.
+Ayase the Elf is standing here.
+Khalar the Dwarf is standing here.
+A stocky mountain mule is here, waiting to serve.
+Bight the Half-Elf is standing here.
+A sturdy trained horse is standing here.
+A horse of the Rohirrim (pa) is standing here.
+Ariëlla the Elf (mo) is standing here.
+Exits: north, south.
+
+!O CW HP:Hurt Mana:Icy>
+Khalar intercepts a lurg leader's blow.
+A lurg leader tries to pierce Khalar, but he parries successfully.
+Khalar smites a lurg leader's left arm very hard.
+
+!O CW HP:Hurt Mana:Icy>
+Bight joins Khalar's fight.
+A lurg leader says 'Your scraams will eche psruebh pvewu tard hellw!' in Orkish.
+Bight stabs a lurg leader's right hand very hard.
+
+!O CW HP:Hurt Mana:Icy>
+Ayase joins Khalar's fight.
+Ayase stabs a lurg leader's left arm very hard.
+
+!O CW HP:Hurt Mana:Icy>
+Ariëlla (mo) gets a full metal shield from the corpse of an orkish warrior.
+Ariëlla (mo) gets a metal shield from the corpse of a lurg leader.
+Ariëlla (mo) gets a large metal shield from the corpse of an orkish warrior.
+Ariëlla (mo) gets a large metal full shield from the corpse of a lurg leader.
+Ariëlla (mo) gets a large metal shield from the corpse of an orkish warrior.
+
+!O CW HP:Hurt Mana:Icy>a
+You assist Ayase.
+You stab a lurg leader's right leg very hard.
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Hurt Bight:Healthy>
+Ariëlla (mo) joins Ayase's fight.
+Ariëlla (mo) slashes a lurg leader's left leg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Wounded Bight:Healthy>stat
+
+Gaston joins Ayase's fight.
+Gaston cleaves a lurg leader's right leg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Wounded Bight:Healthy>OB: 87%, DB: 52%, PB: 5%, Armour: 70%. Wimpy: 0. Mood: aggressive.
+Needed: 19,041 xp, 0 tp. Gold: 588. Alert: normal.
+Affected by:
+- noquit
+- a light wound at the left foot (clean)
+- sanctuary
+- bless
+- shield
+- strength
+- armour
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Wounded Bight:Healthy>
+You hear some very far noise from the south.
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Wounded Bight:Healthy>
+Bight stabs a lurg leader's body very hard and shatters it.
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Bad Bight:Healthy>
+You stab a lurg leader's left arm extremely hard and shatter it.
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Bad Bight:Healthy>
+Khalar sends a lurg leader sprawling with a powerful bash.
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Bad Bight:Healthy>
+A dire wolf tries to hit Ariëlla (mo), but she parries successfully.
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Bad Bight:Healthy>
+Ariëlla (mo) gives a large metal shield to a pack horse.
+Ariëlla (mo) gives a large metal full shield to a pack horse.
+Ariëlla (mo) gives a large metal shield to a pack horse.
+Ariëlla (mo) gives a metal shield to a pack horse.
+Ariëlla (mo) gives a full metal shield to a pack horse.
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Bad Bight:Healthy>
+Ayase stabs a lurg leader's right leg extremely hard and shatters it.
+A lurg leader is stunned and will probably die soon.
+
+!O CW HP:Hurt Mana:Icy a lurg leader:Awful Bight:Healthy>
+Ariëlla (mo) slashes a lurg leader's left leg extremely hard and shatters it.
+You receive your share of experience.
+Good job!
+You hear a lurg leader's death cry as it collapses.
+A lurg leader is dead! R.I.P.
+
+!O CW HP:Hurt Mana:Icy>info Needed: %(%X%) xp, %(%T%) tp.%.Total: %(%x%) xp, %(%t%) tp.
+Khalar joins Ariëlla (mo)'s fight.
+A dire wolf says 'Rkn lluHfmthyrWwuHthlwyok'Vrkdrad, Dsrkw!' in Animal.
+A dire wolf says 'TzrKmrxt brtvrkrps y rrVflKshrsrSmeykunkbuzrs!' in Animal.
+Needed: 17597 xp, 0 tp.
+Total: 20632403 xp, 114007 tp.
+
+!O CW HP:Hurt Mana:Icy>
+Gaston joins Khalar's fight.
+A dire wolf says 'ZoNollrhkntkykrSuntulkynr'rfrdrvd,n rn!' in Animal.
+
+!O CW HP:Hurt Mana:Icy>
+Bight joins Gaston's fight.
+A dire wolf says 'RswillkSkntwyrruHwtrl yor'rewderd,kBigst!' in Animal.
+
+!O CW HP:Hurt Mana:Icy>
+Gaston cleaves a dire wolf's left hindfoot extremely hard.
+
+!O CW HP:Hurt Mana:Icy>
+Bight stabs a dire wolf's right foreleg hard.
+
+!O CW HP:Hurt Mana:Icy>
+Ariëlla (mo) slashes a dire wolf's left hindleg very hard.
+
+!O CW HP:Hurt Mana:Icy>
+Ayase joins Gaston's fight.
+A dire wolf says 'UosillrhhVt ykrvkhtolaynv'rw drkd,wElm!' in Animal.
+Ayase stabs a dire wolf's right hindfoot extremely hard and shatters it.
+Bight stabs a dire wolf's right forefoot very hard.
+
+!O CW HP:Hurt Mana:Cold>
+Khalar sends a dire wolf sprawling with a powerful bash.
+Khalar smites a dire wolf's left hindleg extremely hard and shatters it.
+
+!O CW HP:Hurt Mana:Cold>a
+/////////////////////////////////////////////////
+
+
+
+Here comes crash... some time later after I finally can log
+
+
+///////////////////////////////////////////////
+
+Last login 4 minutes ago from 148.56.8.50.
+
+Halls of Mandos
+A WARNING SIGN for new players is here.
+The throne of Mandos can be seen in the largest cavern.
+On the throne, there are a piece of cheese, a torch, a hunting knife, a pair of slate blue pants, and a slate blue shirt.
+A large fountain, made from grey stone, pours water from its centre.
+Khuár the Dwarf is standing here gasping.
+Reach the Elf is standing here.
+Gamlin the Elf is standing here (shrouded).
+Exits: none.
+
+Your default tongue is Westron.
+Free rent.
+
+!# CW>cha h 333
+eq
+rem pack
+wear pack
+change wimpy 100
+rem mantle
+wear mantle
+rem cloak
+wear cloak
+rem shield
+wear shield
+rem staff
+wear staff shield
+ change height 50
+inf
+look
+look in 1.pack
+drink water
+pour water skin
+Ok.
+
+!# CW>You are using:
+<held>               a torch; it is lit
