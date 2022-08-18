@@ -1,0 +1,215 @@
+
+![ CW HP:Fine>sco d
+scout d
+You quietly scout downwards...
+
+Hall of Murals
+The Guardian is standing here, watching the treasures.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+An elven slave is standing here.
+An elven slave is standing here.
+Exits: [south], up.
+
+You stop scouting.
+
+![ CW HP:Fine>down
+tere
+cast t 'earthquake'
+Hall of Murals
+The Guardian is standing here, watching the treasures.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+An elven slave is standing here.
+An elven slave is standing here.
+Exits: [south], up. - s:(guarded).
+
+![ CW HP:Fine>flee
+
+You quickly recall your stored spell...
+
+The orkish bodyguard says 'YAA! Orm! Yea sell die donoli your dane.' in Orkish.
+You swiftly dodge the orkish bodyguard's attempt to slash you.
+
+You feel more exposed.
+The spell lasted 20m4s.
+The orkish bodyguard slashes your head and tickles it.
+
+The earth trembles beneath your feet!
+Some debris falls on you from above.
+The orkish bodyguard says 'I wall nage a wem peir of morbrahm flow yiul sboz!'
+in Orkish.
+An elven slave yells 'HELP! Salgant is trying to kill me in the Hall of
+Murals!' in Sindarin.
+An elven slave yells 'HELP! Salgant is trying to kill me in the Hall of
+Murals!' in Sindarin.
+The orkish bodyguard says 'Pha Gleat Kotraf selr lewulb mo sar yeal scarp!' in
+Orkish.
+
+![ CW HP:Fine Mana:Burning the orkish bodyguard:Hurt>
+Loud drum rolls echo through the tunnels, signalling that the guardian of the
+well is being attacked!
+The orkish bodyguard lightly slashes your left foot and tickles it.
+You flee head over heels.
+PANIC! You couldn't escape!
+
+![ CW HP:Fine Mana:Burning the orkish bodyguard:Hurt>
+The guardian barely smites your right leg and tickles it.
+
+![ CW HP:Fine Mana:Burning the orkish bodyguard:Hurt>
+You flee head over heels.
+You flee up.
+Narrow Opening
+A pack horse (pa) is standing here.
+Exits: north, down. - s:(guarded).
+
+![ CW HP:Fine Mana:Burning>down
+tere
+cast t 'earthquake'
+Hall of Murals
+Traces of rich white tones form the aura of this place.
+The Guardian is standing here, watching the treasures.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+An elven slave is standing here.
+An elven slave is standing here.
+Exits: [south], up. - s:(guarded).
+You try to keep the orkish bodyguard at bay, but fail.
+The orkish bodyguard barely slashes your left foot and tickles it.
+
+![ CW HP:Fine Mana:Burning the orkish bodyguard:Fine>
+
+You quickly recall your stored spell...
+
+flee
+The orkish bodyguard quickly approaches, trying to slash you.
+
+The orkish bodyguard slashes your right foot and tickles it.
+
+The orkish bodyguard barely slashes your right foot and tickles it.
+
+The orkish bodyguard lightly slashes your right foot and tickles it.
+
+The earth trembles beneath your feet!
+You receive your share of experience.
+Congratulations! This is the first time you've killed it!
+You hear an elven slave's death cry as he collapses.
+An elven slave is dead! R.I.P.
+An elven slave yells 'HELP! Salgant is trying to kill me in the Hall of
+Murals!' in Sindarin.
+
+![ CW HP:Fine Mana:Hot the orkish bodyguard:Hurt>
+You flee head over heels.
+You flee up.
+Narrow Opening
+A pack horse (pa) is standing here.
+Exits: north, down. - s:(guarded).
+
+![ CW HP:Fine Mana:Hot>down
+tere
+cast t 'earthquake'
+Hall of Murals
+Traces of fierce white tones form the aura of this place.
+The corpse of an elven slave is lying here.
+The Guardian is standing here, watching the treasures.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+An elven slave is standing here.
+Exits: [south], up. - s:(guarded).
+
+![ CW HP:Fine Mana:Hot>
+
+You quickly recall your stored spell...
+
+flee
+The orkish bodyguard lightly slashes your left foot and tickles it.
+
+The orkish bodyguard lightly slashes your head and tickles it.
+
+The orkish bodyguard strikes for a weakness in your armour!
+The orkish bodyguard slashes your right leg.
+The guardian barely smites your body and tickles it.
+
+The earth trembles beneath your feet!
+You receive your share of experience.
+Yes! You're beginning to get the idea.
+You hear an elven slave's death cry as he collapses.
+An elven slave is dead! R.I.P.
+The orkish bodyguard says 'Yaer palevbs zzoold zovo drowhod yoe yeors aga!' in
+Orkish.
+
+![ CW HP:Hurt Mana:Hot the orkish bodyguard:Wounded>
+PANIC! You can't quit the fight!
+
+![ CW HP:Hurt Mana:Hot the orkish bodyguard:Wounded>
+You flee head over heels.
+You flee up.
+Narrow Opening
+A pack horse (pa) is standing here.
+Exits: north, down. - s:(guarded).
+
+![ CW HP:Hurt Mana:Hot Move:Tired>ser
+cast n 'cure s'
+You start to concentrate...
+
+Your spell backfired! You feel drained.
+
+![ CW HP:Hurt Mana:Hot Move:Tired>quaff brew
+You can't find any brew.
+
+![ CW HP:Hurt Mana:Hot Move:Tired>i
+You are carrying:
+some leaves of THYME: Soothing, Clear 3/4
+some leaves of SAGE: Healing, Soothing, Clear 2/4
+some sweet-smelling dried mauve petals (mauve)
+a cluster of berries of Juniper: Clear 4/4 (juniper)
+
+![ CW HP:Hurt Mana:Hot Move:Tired>
+![ CW HP:Hurt Mana:Hot>p all kit
+You put some leaves of THYME: Soothing, Clear 3/4 in an enhanced herbal kit.
+You put some leaves of SAGE: Healing, Soothing, Clear 2/4 in an enhanced herbal
+kit.
+You put some sweet-smelling dried mauve petals in an enhanced herbal kit.
+ (mauve)
+You put a cluster of berries of Juniper: Clear 4/4 in an enhanced herbal kit.
+Sheyla tells you 'carefull :)'
+
+![ CW HP:Hurt Mana:Hot>mix kit
+You start mixing the contents of an enhanced herbal kit.
+
+Inactivity timeout postponed...
+
+quaff brew
+You have finished mixing the contents of an enhanced herbal kit.
+You produced a pungent brew.
+
+![ CW HP:Hurt Mana:Hot>
+Ok.
+
+![ CW HP:Hurt Mana:Hot>sco d
+scout d
+You quietly scout downwards...
+
+Hall of Murals
+Traces of fierce white tones form the aura of this place.
+The corpse of an elven slave is lying here.
+The corpse of an elven slave is lying here.
+The Guardian is standing here, watching the treasures.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+A huge orc bodyguard looks at you suspiciously.
+Exits: [south], up.
+
+You stop scouting.
+
+![ CW HP:Hurt Mana:Hot>inf %q
+You are a well-meaning person, always glad to help your friends.
