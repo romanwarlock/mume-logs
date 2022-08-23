@@ -1,0 +1,54 @@
+
+![ CW>who beo
+Beornings
+---------
+
+0 such allies or visible Ainur on.
+
+![ CW>gr
+Your group consists of:
+     Salgant (head of group)
+     Wade
+
+![ CW>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+![ CW>
+185/185 hits, 128/128 mana, and 110/110 moves.
+
+![ CW>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+![ CW>
+185/185 hits, 128/128 mana, and 110/110 moves.
+
+![ CW>pray hi. i have diffuclty reporting bug, can we talk?
+You send your prayer to the Ainur.
+
+![ CW>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+![ CW>
+185/185 hits, 128/128 mana, and 110/110 moves.
+
+![ CW>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+![ CW>
+185/185 hits, 128/128 mana, and 110/110 moves.
+
+![ CW>who bea
+Try "who ?" for a list of options.
+
+![ CW>who bear
+Try "who ?" for a list of options.
+
+![ CW>who beo
+Beornings
+---------
+
+0 such allies or visible Ainur on.
