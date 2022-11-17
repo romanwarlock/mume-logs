@@ -1,0 +1,967 @@
+Log session starting at 22:11:52 on Thursday, 17 November 2022.
+
+Welcome to the land of Middle-earth. May your visit here be... interesting.
+cha h 333
+eq
+rem pack;wear pack;change wimpy 100;rem mantle;wear mantle;rem cloak;wear cloak;rem shield;wear shield;rem staff;wear 
+staff shield
+change height 50;inf;look
+Never forget! Try to role-play...
+look in 1.pack
+
+Last login 1 hour and 10 minutes ago from 83.243.91.143.
+
+Khazad-dum Barazinkheled
+A large bulletin board, entitled "Free Peoples' Chronicles", is mounted here.
+A circular stone well has been built here.
+A large stone fireplace with a roaring fire warms the room.
+A huge clock is standing here.
+A dwarven innkeeper stands ready to rent a room to a fellow dwarf.
+Exits: north, east, south.
+The following character is currently imprisoned by the Valar: Aphromin.
+
+Your default tongue is Westron.
+Your rent was 58 copper.
+Unread messages:
+  News of Arda  10
+
+!# W>
+Ok.
+
+!# W>
+You are using:
+Nothing.
+
+!# W>
+You aren't wearing any pack.
+
+!# W>
+You don't have any pack.
+
+!# W>
+Wimpy set to: 33
+
+!# W>
+You aren't wearing any mantle.
+
+!# W>
+You don't have any mantle.
+
+!# W>
+You aren't wearing any cloak.
+
+!# W>
+You don't have any cloak.
+
+!# W>
+You aren't wearing any shield.
+
+!# W>
+You don't have any shield.
+
+!# W>
+You aren't wearing any staff.
+
+!# W>
+You don't have any staff.
+
+!# W>
+Ok.
+
+!# W>
+You are a male Dwarf.
+You are 64 years and 20 days old.
+You have played 11 hours (real time). Session: 4 secs.
+This ranks you as Emmerdeur the Dwarf (level 1).
+You are four feet seven and weigh twelve stone and twelve pounds.
+Perception: vision 35, hearing 0, smell -25. Alertness: normal.
+You are a well-meaning person, always glad to help your friends.
+You are welcome in the Blue Mountains.
+Your equipment weighs seven pounds. Peanuts.
+Your base abilities are: Str:10 Int:9 Wis:7 Dex:7 Con:10 Wil:10 Per:7.
+Offensive Bonus: 3%, Dodging Bonus: 4%, Parrying Bonus: 0%.
+You are not wearing any armour.
+You have 33/33 hit, 56/56 mana, and 101/101 movement points.
+Your mood is wimpy. You will flee if your hit points go below 33.
+You have scored 1 experience point and you have 866 travel points.
+You are not known for any acts of war.
+You need 999 exp. points and 0 travel points to reach the next level.
+You have 19 gold coins, 6 silver pennies, and 77 copper pennies.
+You are speaking Westron.
+You will swim if necessary.
+
+!# W>
+Khazad-dum Barazinkheled
+A large bulletin board, entitled "Free Peoples' Chronicles", is mounted here.
+A circular stone well has been built here.
+A large stone fireplace with a roaring fire warms the room.
+A huge clock is standing here.
+A dwarven innkeeper stands ready to rent a room to a fellow dwarf.
+Exits: north, east, south.
+
+!# W>
+You can't find a first pack.
+
+!# W>who
+Players
+-------
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Wano the Elven Adventurer
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+17 allies and visible Ainur on.
+
+!# W>east
+Felak Khazad
+Exits: north, east, south, west.
+
+!# W>south
+Felak Uzbadul
+Exits: north, east, south, west.
+
+!# W>south
+south
+Felak Mahal
+A traffic sign is here, giving directions.
+Exits: north, east, south, west.
+
+!# W>
+Felak Uzbad Khuzdul
+Thurn, guide to Dwarvenhome, is standing here.
+A dwarven cityguard stands here looking scornfully at foreigners.
+A dwarven cityguard stands here looking scornfully at foreigners.
+A dwarven cityguard stands here looking scornfully at foreigners.
+A sergeant of the dwarven guard looks around alertly.
+An experienced dwarven captain stands here with an air of authority.
+King Thorin II, Oakenshield, sits here on his throne (glowing).
+exa king
+Exits: north, east.
+
+!# W>
+Thorin sits here haughtily inspecting his visitors.
+This is a very proud king.
+King Thorin II is in an excellent condition.
+King Thorin II is using:
+<worn on head>       a silver crown
+<worn on body>       a purple tunic (well-maintained)
+<worn on feet>       a pair of sandals (flawless)
+
+!# W>north
+Felak Mahal
+A traffic sign is here, giving directions.
+Exits: north, east, south, west.
+
+!# W>north
+Felak Uzbadul
+Exits: north, east, south, west.
+
+!# W>north
+Felak Khazad
+Exits: north, east, south, west.
+
+!# W>west
+Khazad-dum Barazinkheled
+A large bulletin board, entitled "Free Peoples' Chronicles", is mounted here.
+A circular stone well has been built here.
+A large stone fireplace with a roaring fire warms the room.
+A huge clock is standing here.
+A dwarven innkeeper stands ready to rent a room to a fellow dwarf.
+Exits: north, east, south.
+
+!# W>who
+Players
+-------
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Wano the Elven Adventurer
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+17 allies and visible Ainur on.
+
+!# W>help title
+CHANGE TITLE, TITLES
+
+Starting on level 21, characters on MUME can choose their own title using change title <new title>.
+
+You can clear the title by typing change title none.
+
+See also: RULE TITLES
+
+!# W>rules title
+TITLES
+
+Heroes and legends on MUME can choose their own title. While they have great freedom in choosing it, a basic
+rule must be obeyed: a title must not provide false information.
+
+Examples of forbidden titles:
+ * Wiz the Elven Apprentice of Magic (a legend is not a level 1)
+ * Panoramix the White (title reserved to the Tan Istar)
+ * Joe the Orc. (when joe is actually a human)
+
+Also be aware, that all titles should refer to the player in question. Hence the title "Slash is a jerk" is
+not acceptable. Also the title should be something that other players would find acceptable.
+
+All titles must be in English or any of the languages used in Middle-earth!
+
+All titles are subject to veto by the higher gods, namely Shaper or above.
+
+!# W>pray fyi uno has illegal title. read rules title
+You send your prayer to the Ainur.
+
+!# W>who
+Players
+-------
+      Ballsack the Man Apprentice
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran (Idle)
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Wano the Elven Adventurer
+      Celaven the Elven Warden (Idle)
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+18 allies and visible Ainur on.
+
+!# W>na omg ballsack really
+Ok.
+
+!# W>who
+Players
+-------
+      Ballsack the Man Apprentice
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran (Idle)
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Wano the Elven Adventurer
+      Celaven the Elven Warden (Idle)
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+18 allies and visible Ainur on.
+
+!# W>wh phae
+whois phae
+Phae Vale Queen, Moria Mistress, Balrog Bitch is a Man.
+Phae skank slueth of vale
+
+Rooster Clan!
+
+Gobur says 'cannot kill someone already dead'
+Norik tells you 'the whole squad shows up when hot chicks lead balrog i guess'
+Bagluk tells you 'marry me'
+07:01 Iminye narrates 'and phae's whois still violates rules'
+What's his obsession with this furry bear??
+
+"get ALL corpse, not "get a lot from corpse"" 
+
+!# W>re test
+tell Brennan test
+Ok.
+
+!# W>
+Brennan tells you 'Echoing test'
+
+!# W>pray fyi phae has illegal whois that emulates game output
+You send your prayer to the Ainur.
+
+!# W>who
+Players
+-------
+      Ballsack the Man Apprentice
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran (Idle)
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Wano the Elven Adventurer
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+18 allies and visible Ainur on.
+
+!# W>
+Ballsack narrates 'careful walking around moria...I just took a HUGE shit in there'
+
+!# W>na i don't think that Thros is lord of Khazad-dum
+Ok.
+
+!# W>wh Ballsack
+whois Ballsack
+Ballsack is a level one Eriadorian Apprentice.
+Is playing from *.com.
+
+!# W>
+Ballsack narrates 'after that crap I just took, I think I am'
+
+!# W>na no wonder on lvl 1 even if ur sack is full of balls, making loud sound hitting the floor
+Ok.
+
+!# W>
+Agonuiel narrates 'don't engage. either of you'
+
+!# W>
+Gerald narrates 'rules name'
+
+!# W>
+Agonuiel narrates 'they're more than aware, gerald. '
+
+!# W>
+Agonuiel narrates 'just report them and move on. they'll get "fixed" soon enough'
+
+!# W>
+Ballsack narrates 'I wasn't talking about my ballz, I was talking about my poopoo in the mines of moria'
+
+!# W>
+Ballsack narrates 'nice with the 'fixed'...nice pun'
+
+!# W>na i never saw shit in moria however
+Ok.
+
+!# W>
+Ballsack narrates 'I think that crap I took in there scared the balrog away which is good news'
+
+!# W>na everyone lies (c) house m.d.
+Ok.
+
+!# W>
+Ballsack narrates 'nothing scares orcs and balrogs away like a good, stinky dump....even more than Gandalf
+the Gay'
+
+!# W>pray hate language by Ballsack - actor acting Gandalf is gay
+You send your prayer to the Ainur.
+
+!# W>who
+Players
+-------
+      Ballsack the Man Apprentice
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest (Idle)
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+17 allies and visible Ainur on.
+
+!# W>beep one
+Ok.
+
+!# W>na hate language by Ballsack - actor acting Gandalf is gay
+Ok.
+
+!# W>
+Ballsack narrates 'It was a typo'
+
+!# W>
+A dwarven cityguard has arrived from the south.
+A dwarven cityguard has arrived from the south.
+
+!# W>na comf
+Ok.
+
+!# W>who
+Players
+-------
+      Ballsack the Man Apprentice
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest (Idle)
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+17 allies and visible Ainur on.
+
+!# W>
+A dwarven cityguard leaves ^^^^ N O R T H ^^^^
+A dwarven cityguard leaves ^^^^ N O R T H ^^^^
+
+!# W>
+Ballsack narrates 'you guys ever been working a BIG KILL on here and had to take a MASSIVE crap and said fuck
+it...I'll just crap my pants'
+
+!# W>
+Ballsack narrates 'now THAT is hardcore mudding...if you haven't reached that point, you haven't mudded'
+
+!# W>na woah language
+Ok.
+
+!# W>
+Ballsack narrates 'whoops..can't say fuck I take it'
+
+!# W>
+A dwarven cityguard has arrived from the north.
+A dwarven cityguard has arrived from the north.
+
+!# W>na woah language
+Ok.
+
+!# W>who
+Players
+-------
+      Gnork the Hobblin Goblitt
+      Ballsack the Man Apprentice
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest (Idle)
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+18 allies and visible Ainur on.
+
+!# W>
+A dwarven cityguard leaves ^^^^ N O R T H ^^^^
+A dwarven cityguard leaves ^^^^ N O R T H ^^^^
+
+!# W>
+A huge clock chimes three times, each chime decreasing in volume.
+
+!# W>pray yoo many fucks from Ballsack - and check the name for rules name
+You send your prayer to the Ainur.
+
+!# W>who
+Players
+-------
+      Gnork the Hobblin Goblitt
+      Ballsack the Man Apprentice
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest (Idle)
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+18 allies and visible Ainur on.
+
+!# W>
+Agonuiel narrates 'stop engaging, roman'
+
+!# W>
+Ballsack narrates 'well, I'm off to beat off to some naked elves...take her easy'
+
+!# W>
+Rackhir narrates 'i just did ignore on them'
+
+!# W>na why witcher class is not avaliable in this mud?
+Ok.
+
+!# W>na witch is possible
+Ok.
+
+!# W>
+A dwarven cityguard has arrived from the south.
+A dwarven cityguard has arrived from the south.
+
+!# W>
+A dwarven cityguard leaves vvvv S O U T H vvvv
+A dwarven cityguard leaves vvvv S O U T H vvvv
+
+!# W>na and Man Healer looks really idiotic 
+Ok.
+
+!# W>na because char is dunadan/eriadorian/rohirr healer
+Ok.
+
+!# W>wh vip
+whois vip
+Vip the Black Necrofilonean Patriarch is a level sixty-one Black Numenorean Envoy [Retired].
+
+Protect da V.I.P. team !!!
+
+
+
+!# W>na bns are not Man Patriarch for example: whois vip
+Ok.
+
+!# W>who
+Players
+-------
+      Eolo of Mirkwood, General o'Army of Thranduil
+      Gnork the Hobblin Goblitt
+      Ballsack the Man Apprentice (Linkless)
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest (Idle)
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+19 allies and visible Ainur on.
+
+!# W>
+A dwarven cityguard has arrived from the east.
+A dwarven cityguard has arrived from the east.
+
+!# W>tel eolo bah
+Ok.
+
+!# W>who
+Players
+-------
+      Eolo of Mirkwood, General o'Army of Thranduil
+      Gnork the Hobblin Goblitt
+      Ballsack the Man Apprentice (Linkless)
+      Emmerdeur the Dwarf
+      Uno Dos Tres
+      Rackhir Ragnarok the Dunadan Sage
+      Aeod the Very Boring Elf
+ [ M] One ring to rule them all. (Idle)
+      Niathe the Elven Priest (Idle)
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran
+      Aihys the Elven Adventurer
+      Brennan the Man Healer
+      Applefell the Man
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+19 allies and visible Ainur on.
+
+!# W>tel eolo hi
+Ok.
+
+!# W>
+Eolo tells you 'yo'
+
+!# W>
+Rogon tells you 'stop praying about everything that annoys you'
+
+!# W>
+Eolo tells you 'i have a spare travel mug here in lorien'
+
+!# W>
+Rogon tells you 'we dont need your spam'
+
+!# W>
+A dwarven cityguard leaves vvvv S O U T H vvvv
+A dwarven cityguard leaves vvvv S O U T H vvvv
+
+!# W>
+Eolo tells you 'are you roman?'
+
+!# W>tel rogon u r supposed to rule out rules violations
+Ok.
+
+!# W>re yes
+tell Eolo yes
+Ok.
+
+!# W>
+A dwarven cityguard has arrived from the south.
+A dwarven cityguard has arrived from the south.
+
+!# W>
+Eolo tells you 'how are things? How's your day?'
+
+!# W>na rogon, shall i really stop praying about rules violations?
+Ok.
+
+!# W>re trolling rogon -D
+tell Eolo trolling rogon -D
+Ok.
+
+!# W>
+Eolo tells you 'lol'
+
+!# W>
+A dwarven cityguard leaves >>>> E A S T >>>>
+A dwarven cityguard leaves >>>> E A S T >>>>
+
+!# W>re 1st trolling rogon is getting namechange for this char
+tell Eolo 1st trolling rogon is getting namechange for this char
+Ok.
+
+!# W>re emmerdeur. noun. prick [noun] (slang, vulgar) a nasty or contemptible person. He is such a prick! pain
+ in the ass according to google
+ in the ass according to googletell Eolo emmerdeur. noun. prick [noun] (slang, vulgar) a nasty or contemptible
+ person. He is such a prick! pain in the ass according to google
+Ok.
+
+!# W>
+Eolo tells you 'lol, in which language?'
+
+!# W>re well
+tell Eolo well
+Ok.
+
+!# W>re in french
+tell Eolo in french
+Ok.
+
+!# W>re but it comes from books by neal stephenson
+tell Eolo but it comes from books by neal stephenson
+Ok.
+
+!# W>re really recommend
+tell Eolo really recommend
+Ok.
+
+!# W>
+Eolo tells you 'interesting, I'll note it'
+
+!# W>
+Rogon took away your ability to shout!
+
+!# W>re particulary baroque cycle
+tell Eolo particulary baroque cycle
+Ok.
+
+!# W>re rogon  so reporting rules violation now is punished?
+tell Eolo rogon  so reporting rules violation now is punished?
+Ok.
+
+!# W>tel  rogon  so reporting rules violation now is punished?
+Ok.
+
+!# W>east
+Felak Khazad
+Exits: north, east, south, west.
+
+!# W>east
+Khazad Kheled-Baruk
+A big bottle is lying here.
+A mailbox stands here stuffed full of messages.
+A dwarven tavern-keeper tends bar.
+Exits: north, south, west.
+
+!# W>
+Rogon tells you 'i tell you to stop praying and you take my tells to you to narrates?'
+
+!# W>
+Rogon tells you 'thats disrespectful, you dont need to narrate if that's how you're going to behave'
+
+!# W>help mail
+FORWARD, MAIL, MAILBOX
+
+The mail system lets you send a message to one or more recipients. Mail has a lifetime of 60 days if unread
+and 30 if read. Because mail is persistent, it is used most often to communicate with someone who is not
+always easy to reach.
+
+To send or read mail you have to go to a mail box. This is a special board where messages are addressed to
+one or many recipients.
+
+To send mail, use:
+  > write <title> @<recipient> @<recipient> ...
+
+The title is optional, but at least one recipient is needed.
+
+Example:
+  > write Happy birthday @bilbo @frodo
+
+How it goes on depends on your editor. If you use the line editor, please read help editor.
+
+Other commands
+
+  look mail                       lists mail addressed to you
+  tail                            lists the 20 last mails to you
+  tail <number>                   lists the <number> last mails to you
+  read <number>                   reads a specific mail
+  look sent mail                  lists mail you have sent
+  read sent <number>              reads a mail you have sent
+  reply <number>                  reply to a mail
+  forward <number> @gandalf       forward a mail to Gandalf
+  forward sent <number> @gandalf  forward a previously sent mail to Gandalf
+  search mail <some text>         search for <some text> in your mailbox
+
+*** Return: continue, b: back, r: redisplay, q: quit (52%) *** 
+
+  search sent mail <some text>    search in sent mails
+
+Messages you have already read are marked with +. A + next to a sent mail indicates it has been read by at
+least one person on the recipient list.
+
+To see exactly who has read a mail, use look seen mail or look sent seen mail.
+
+You can remove messages with remove <number>, or remove sent <number>, and reply to a message with reply
+<number> <optional title>.
+
+Note that the mail you create will become a single message which is accessible to the people you provide. As
+it only exists as one message, should any of the recipients delete it from their mail box, it will be deleted
+from all of the other, too -- unless you use a selective remove.
+
+You can add someone to CC of an existing mail: forward sent <number> --retroactive-cc @gandalf.
+
+To selectively remove mails: remove --from-my-inbox-only <number>. You can also disavow a mail by remove sent
+--from-my-outbox <number>; however, removing a mail from your outbox causes the mail to appear as though the
+sender was deleted: (*Lost*).
+
+For Ainur, special recipients are @valar or @aratar, which sends your mail to all V+ or all A+. Mortals
+should usually report instead.
+
+See also: WRITE, READ, EDITOR
+
+!# W>re 1st there's no rule about disrepect. 2nd there's no direct request not to narrate 3rd i think everyone
+ has right to know about right to pray about rules violation
+ has right to know about right to pray about rules violationtell Rogon 1st there's no rule about disrepect.
+2nd there's no direct request not to narrate 3rd i think everyone has right to know about right to pray about
+rules violation
+Ok.
+
+!# W>
+Eolo tells you 'why did he punish you?'
+
+!# W>
+Rogon tells you 'whatever'
+
+!# W>tel eolo ask him
+Ok.
+
+!# W>
+Eolo tells you 'why?'
+
+!# W>re idk why he punished me. 
+tell Eolo idk why he punished me. 
+Ok.
+
+!# W>re i don't read rogon's mind u know
+tell Eolo i don't read rogon's mind u know
+Ok.
+
+!# W>
+You begin to feel hungry.
+You begin to feel thirsty.
+
+!# W>
+Eolo tells you 'I guess it's because you might have annoyed him, he's not much of a talkative guy'
+
+!# W>write Rogon @A
+A is a bad destination.
+
+!# W>re 1st there's no rule about disrepect. 2nd there's no direct request not to narrate 3rd i think everyone
+ has right to know about right to pray about rules violation
+ has right to know about right to pray about rules violationtell Eolo 1st there's no rule about disrepect. 2nd
+ there's no direct request not to narrate 3rd i think everyone has right to know about right to pray about
+rules violation
+Ok.
+
+!# W>re well all A will know
+tell Eolo well all A will know
+Ok.
+
+!# W>
+You are hungry.
+You are thirsty.
+
+!# W>write too much power for Rogon? @Aratar
+Aratar is a bad destination.
+
+!# W>write too much power for Rogon? @aratar
+aratar is a bad destination.
+
+!# W>
+You are hungry.
+You are thirsty.
+
+!# W>write topic @aratar
+aratar is a bad destination.
+
+!# W>tel rogon why can't i 'write topic @aratar' - aratar is a bad destination.
+Ok.
+
+!# W>who
+Players
+-------
+      Alethial the Elven Adventurer
+      Cendir Amen, High Priest of Barleywine
+      Eolo of Mirkwood, General o'Army of Thranduil
+      Gnork the Hobblin Goblitt
+      Ballsack the Man Apprentice (Linkless)
+      Emmerdeur the Dwarf
+      Rackhir Ragnarok the Dunadan Sage
+      Niathe the Elven Priest (Idle)
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran
+      Aihys the Elven Battlemistress
+      Brennan the Man Healer
+      Applefell the Man
+ [ A] Rogon Rogoff
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana (Idle)
+      Thros Longbeard, Lord of Khazad-dum
+
+19 allies and visible Ainur on.
+
+!# W>
+You are hungry.
+You are thirsty.
+
+!# W>report too much power for Rogon?
+You cannot while noshouted.
+
+!# W>
+Rogon tells you 'find someone who wants to talk to you to ask'
+
+!# W>
+A dwarven child has arrived from the south.
+A dwarven female has arrived from the south.
+
+!# W>who
+Players
+-------
+      Alethial the Elven Adventurer
+      Cendir Amen, High Priest of Barleywine
+      Eolo of Mirkwood, General o'Army of Thranduil
+      Gnork the Hobblin Goblitt
+      Ballsack the Man Apprentice (Linkless)
+      Emmerdeur the Dwarf
+      Rackhir Ragnarok the Dunadan Sage
+      Niathe the Elven Priest (Idle)
+      Bia the Dwarven Champion
+      Tavaril Hecile
+      Gerald the Man
+      Carag the Hobbit Veteran
+      Aihys the Elven Battlemistress
+      Brennan the Man Healer
+      Applefell the Man
+ [ A] Rogon Rogoff
+      Celaven the Elven Warden
+      Agonuiel - Cursed with mana
+      Thros Longbeard, Lord of Khazad-dum
+
+19 allies and visible Ainur on.
+
+!# W>w
+Felak Khazad
+Exits: north, east, south, west.
+
+!# W>w
+Khazad-dum Barazinkheled
+A large bulletin board, entitled "Free Peoples' Chronicles", is mounted here.
+A circular stone well has been built here.
+A large stone fireplace with a roaring fire warms the room.
+A huge clock is standing here.
+A dwarven innkeeper stands ready to rent a room to a fellow dwarf.
+Exits: north, east, south.
+
+!# W>re i guess mr dain will
+tell Rogon i guess mr dain will
+Ok.
+
+!# W>st
+stat
+OB: 3%, DB: 4%, PB: 0%, Armour: 0%. Wimpy: 33. Mood: wimpy.
+Needed: 999 xp, 0 tp. Gold: 19. Alert: normal. Condition: hungry thirsty.
+
+!# W>trai a
+You start refreshing all of your skills...
+
+None of your skills needed refreshing.
+
+!# W>rent
+Vit the innkeeper tells you 'It will cost you 2 silver pennies and 59 copper pennies per day.'
+You have enough money to stay here as long as you wish!
+Vit the innkeeper stores your stuff in the safe, and helps you into your chamber.
+
+Log session ending at 22:37:54 on Thursday, 17 November 2022.
