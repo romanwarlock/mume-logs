@@ -1,0 +1,379 @@
+!f CW Mana:Burning>west
+Gathering of the Trees
+The remains of a clump of roots lie here in a heap of rotting compost.
+A forest spider is here crawling around.
+The great orkish raider, wielding a broad scimitar, is here, riding the warg chief.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+*an Orc*, wielding a blackened spear, is here, riding a hungry warg.
+The shadow of an orkish officer is floating here.
+A great black warg, the leader of a small pack, is here, sniffing the air.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+A large black warg is standing here, snarling angrily.
+An orkish raider, wielding a scimitar, is here, riding a large black warg.
+An orkish raider, wielding a scimitar, is here, riding a large black warg.
+An orkish raider, wielding a scimitar, is here, riding a large black warg.
+An orkish raider, wielding a stiletto, is here, riding a large black warg.
+An orkish raider, wielding a scimitar, is here, riding a great black warg.
+An orkish raider, wielding a scimitar, is here, riding a large black warg.
+An orkish raider, wielding a scimitar, is here, riding a large black warg.
+An orkish raider, wielding a scimitar, is here, riding a large black warg.
+Exits: north, east, south.
+The warg chief hits a forest spider's left forefoot extremely hard and shatters it.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+An orkish raider joins the warg chief's fight.
+An orkish raider slashes a forest spider's left hindfoot hard and shatters it.
+An orkish raider slashes a forest spider's right hindleg very hard and shatters it.
+An orkish raider pierces a forest spider's left hindleg hard and shatters it.
+You hear a forest spider's death cry as it collapses.
+A forest spider is dead! R.I.P.
+
+!f CW Mana:Burning>
+The warg chief quickly approaches, trying to hit you.
+You swiftly dodge a great black warg's attempt to hit you.
+You swiftly dodge a large black warg's attempt to hit you.
+You feel more exposed.
+The spell lasted 5m14s.
+A large black warg barely hits your right leg and tickles it.
+A large black warg tries to hit you, but your parry is successful.
+
+!f CW HP:Fine Mana:Burning the warg chief:Healthy>tere
+cast t 'earthquake'
+You quickly recall your stored spell...
+An orkish raider joins a great black warg's fight.
+An orkish raider joins a great black warg's fight.
+An orkish raider barely slashes your body and tickles it.
+
+tere
+cast t 'earthquake'
+tere
+cast t 'earthquake'
+The earth trembles beneath your feet!
+
+!f CW HP:Fine Mana:Hot the warg chief:Fine>tere
+cast t 'earthquake'
+
+You quickly recall your stored spell...
+
+The warg chief barely hits your left arm and tickles it.
+
+flee
+An orkish raider says 'YOI! Hiln-Alf! You vill gao beware youl tiwe.'
+A great black warg strongly hits your head and tickles it.
+
+The great orkish raider says 'YOU! Half-Orz! You vill pio desaru yaor gima.'
+
+An orkish raider says 'YOI! Zalm-Alv! Yoe well gae gezole your teme.'
+A large black warg barely hits your left foot and tickles it.
+
+The earth trembles beneath your feet!
+
+!f CW HP:Fine Mana:Hot the warg chief:Fine>
+
+You quickly recall your stored spell...
+
+A great black warg barely hits your right arm and tickles it.
+
+*an Orc* leaves east riding a hungry warg.
+An enslaved shadow leaves >>>> E A S T >>>>
+
+The earth trembles beneath your feet!
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+An orkish raider dismounts from a large black warg as it falls to the ground.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+An orkish raider dismounts from a large black warg as it falls to the ground.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+An orkish raider dismounts from a large black warg as it falls to the ground.
+A large black warg is mortally wounded and will die soon if not aided.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+An orkish raider dismounts from a large black warg as it falls to the ground.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+An orkish raider dismounts from a large black warg as it falls to the ground.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+An orkish raider dismounts from a large black warg as it falls to the ground.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+An orkish raider dismounts from a large black warg as it falls to the ground.
+An orkish raider joins an orkish raider's fight.
+An orkish raider says 'Yoa will foon kie and rat away!'
+An orkish raider says 'Anly your szopberek bomas walr lewiih!'
+An orkish raider says 'Obselz mava ollooky broeg te goll ze. Thay aru tuad zew.'
+An orkish raider lightly slashes your head and tickles it.
+
+!f CW HP:Fine Mana:Warm the warg chief:Fine>
+
+You quickly recall your stored spell...
+
+The warg chief strongly hits your head.
+You feel a sharp pain there!
+
+An orkish raider barely slashes your left arm and tickles it.
+
+An orkish raider barely slashes your body and tickles it.
+
+An orkish raider says 'YOG! Harz-Erh! You will daa bevera yuul tufa.'
+
+The earth trembles beneath your feet!
+You receive your share of experience.
+This is really a genocide...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+An orkish raider is mortally wounded and will die soon if not aided.
+You receive your share of experience.
+This is really a genocide...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+An orkish raider is mortally wounded and will die soon if not aided.
+You receive your share of experience.
+This is really a genocide...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+You receive your share of experience.
+This is really a genocide...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+You receive your share of experience.
+This is really a genocide...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+You receive your share of experience.
+This is really a genocide...
+You hear a large black warg's death cry as it collapses.
+A large black warg is dead! R.I.P.
+The great orkish raider joins an orkish raider's fight.
+A great black warg joins an orkish raider's fight.
+A great black warg joins an orkish raider's fight.
+An orkish raider says 'Die!'
+The great orkish raider says 'Damtarp! Foh dara yoo? A well linemdel year nucu Holn-Ulw!'
+A great black warg barely hits your body and tickles it.
+A great black warg barely hits your right arm and tickles it.
+The great orkish raider barely slashes your left foot and tickles it.
+   A R M O U R   D O W N
+The spell lasted 14m34s.
+A great black warg barely hits your right arm and tickles it.
+
+!f CW HP:Fine Mana:Warm the warg chief:Hurt>
+You flee head over heels.
+You flee north.
+Bleeding Forest
+A very large tree branch has been ripped from a tree.
+Exits: north, east, south, west.
+
+!f CW HP:Fine Mana:Warm>east
+Light Forest
+A forest spider is here crawling around.
+*an Orc*, wielding a blackened spear, is here, riding a hungry warg.
+Exits: north, east, south, west.
+
+!f CW HP:Fine Mana:Warm>south
+Light Forest
+A pack horse (pa) is standing here.
+The shadow of an orkish officer is floating here.
+Exits: north, east, south, west.
+
+!f CW HP:Fine Mana:Warm>lead pa
+A pack horse (pa) starts following you.
+
+!f CW HP:Fine Mana:Warm>
+*an Orc* has arrived from the north riding a hungry warg.
+
+!f CW HP:Fine Mana:Warm>
+*an Orc         I S   C A S T I N   <--- <--- <--- CASTING!G
+
+!f CW HP:Fine Mana:Warm>
+You hear some close noise from the south.
+
+!f CW HP:Fine Mana:Warm>
+*an Orc* utters the words 'diesilla barh'
+*an Orc* sends a powerful lightning bolt at you, you stagger from the impact.
+
+!f CW HP:Fine Mana:Warm *an Orc*:Fine>east
+*an Orc         I S   C A S T I N   <--- <--- <--- CASTING!G
+
+!f CW HP:Fine Mana:Warm *an Orc*:Fine>
+No way! You are fighting for your life!
+
+!f CW HP:Fine Mana:Warm *an Orc*:Fine>flee
+*an Orc* utters the words 'diesilla barh'
+*an Orc* sends a powerful lightning bolt at you, you stagger from the impact.
+You flee head over heels.
+You flee east.
+Bordering Plains
+Exits: north, east, south, west.
+
+!. CW HP:Fine Mana:Warm>
+*an Orc* has arrived from the west riding a hungry warg.
+An enslaved shadow has arrived from the west.
+
+!. CW HP:Fine Mana:Warm>ar
+cast n 'armour'
+You start to concentrate...
+*an Orc         I S   C A S T I N   <--- <--- <--- CASTING!G
+
+*an Orc* utters the words 'diesilla barh'
+*an Orc* sends a powerful lightning bolt at you, you stagger from the impact.
+Argh! You cannot concentrate any more...
+
+!. CW HP:Hurt Mana:Warm *an Orc*:Fine>
+*an Orc         I S   C A S T I N   <--- <--- <--- CASTING!G
+
+!. CW HP:Hurt Mana:Warm *an Orc*:Fine>flee
+You flee head over heels.
+You flee south.
+Guardian Trees
+Exits: north, east, south, west.
+
+!. CW HP:Hurt Mana:Warm>west
+Light Forest
+*an Orc*, wielding a blackened spear, is here, riding a hungry warg.
+The shadow of an orkish officer is floating here.
+Exits: north, east, south, west.
+
+!f CW HP:Hurt Mana:Warm>north
+Light Forest
+A pack horse (pa) is standing here.
+Exits: north, east, south, west.
+
+!f CW HP:Hurt Mana:Warm>east
+Bordering Plains
+Exits: north, east, south, west.
+A pack horse (pa) has arrived from the west.
+
+!. CW HP:Hurt Mana:Warm>ar
+cast n 'armour'
+You start to concentrate...
+
+A blue transparent wall slowly appears around you.
+
+!. CW HP:Hurt Mana:Cold>west
+Light Forest
+Exits: north, east, south, west.
+A pack horse (pa) has arrived from the east.
+
+!f CW HP:Hurt Mana:Cold>south
+Light Forest
+Exits: north, east, south, west.
+A pack horse (pa) has arrived from the north.
+
+!f CW HP:Hurt Mana:Cold>west
+*an Orc* has arrived from the west riding a hungry warg.
+An enslaved shadow has arrived from the west.
+Bend in the Old Forest Road
+Exits: north, east, -south-.
+A pack horse (pa) has arrived from the east.
+
+!f CW HP:Hurt Mana:Cold>north
+Gathering of the Trees
+The corpse of a large black warg is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of an orkish raider is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a large black warg is lying here.
+The corpse of a forest spider is lying here.
+The remains of a clump of roots lie here in a heap of rotting compost.
+An orkish raider, holding a stiletto, is lying here, mortally wounded.
+An orkish raider, holding a scimitar, is lying here, mortally wounded.
+Exits: north, east, south.
+A pack horse (pa) has arrived from the south.
+
+!f CW HP:Hurt Mana:Cold>gc
+get all.coins all;get all.coins
+You get a pile of coins from the corpse of an orkish raider.
+There was 1 celeb penny and 25 busc pennies.
+You get a pile of coins from the corpse of an orkish raider.
+There was 1 celeb penny and 25 busc pennies.
+You get a pile of coins from the corpse of an orkish raider.
+There was 1 celeb penny and 25 busc pennies.
+You get a pile of coins from the corpse of an orkish raider.
+There was 1 celeb penny and 25 busc pennies.
+You get a pile of coins from the corpse of an orkish raider.
+There was 1 celeb penny and 25 busc pennies.
+
+!f CW HP:Hurt Mana:Cold>
+You can't find any coins.
+
+!f CW HP:Hurt Mana:Cold>
+*an Orc* has arrived from the south riding a hungry warg.
+An enslaved shadow has arrived from the south.
+
+!f CW HP:Hurt Mana:Cold>k orc
+You pierce an orkish raider's left hand extremely hard and shatter it.
+You receive your share of experience.
+This is really a genocide...
+You hear an orkish raider's death cry as he collapses.
+An orkish raider is dead! R.I.P.
+
+!f CW HP:Hurt Mana:Cold>
+*an Orc* barely stabs your left arm and tickles it.
+
+!f CW HP:Hurt Mana:Cold *an Orc*:Hurt>
+*an Orc* gets a pile of coins from the corpse of an orkish raider.
+
+!f CW HP:Hurt Mana:Cold *an Orc*:Hurt>
+*an Orc         I S   C A S T I N   <--- <--- <--- CASTING!G
+
+!f CW HP:Hurt Mana:Cold *an Orc*:Hurt>f
+You flee head over heels.
+You flee south.
+Bend in the Old Forest Road
+Exits: north, east, -south-.
