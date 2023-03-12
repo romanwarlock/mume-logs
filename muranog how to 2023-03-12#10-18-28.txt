@@ -1,0 +1,1873 @@
+sancted metal quaker with 2 huge troll charmies
+
+Sloping Passage
+Exits: north, east, (up).
+
+!= CW Mana:Warm Move:Weak>east
+tcharm huge
+Muck-filled Passage
+A huge, stupid-looking troll stares vacantly at his vast belly.
+Exits: north, east, west.
+
+!= CW Mana:Warm Move:Weak>
+[cast t 'charm' huge]
+You quickly recall your stored spell...
+
+Ok.
+A huge troll starts following you.
+
+!= CW Mana:Warm Move:Weak>la huge aa
+label huge aa
+Ok.
+
+!= CW Mana:Warm Move:Weak>gr aa
+A huge troll (aa) is now a group member.
+
+!= CW Mana:Warm Move:Weak>west
+Moving up the slope is really hard.
+
+Sloping Passage
+Exits: north, east, (up).
+
+!= CW Mana:Warm Move:Weak>up
+Moving up the slope is really hard.
+
+Abandoned Checkpoint
+Exits: east, west, (down). - d:hatch.
+
+!O CW Mana:Warm Move:Fainting>east
+Hard-surfaced Road
+Exits: east, west.
+
+!O CW Mana:Warm Move:Fainting>west
+Abandoned Checkpoint
+Exits: east, west, (down). - d:hatch.
+
+!O CW Mana:Warm Move:Fainting>down
+You are too exhausted.
+
+!O CW Mana:Warm Move:Fainting>gr self
+Group disbanded.
+
+!O CW Mana:Warm Move:Fainting>bob
+cast n 'breath of b'
+You start to concentrate...
+
+The energy in your legs is refreshed.
+
+!O CW Mana:Cold Move:Tired>north
+Alas, you cannot go that way...
+
+!O CW Mana:Cold Move:Tired>
+!O CW Mana:Cold Move:Tired>ex
+  East    - You can't distinguish a lot of details.
+  West    - You can't distinguish a lot of details.
+ (Down)   - (hatch) You can't distinguish a lot of details. - d:hatch.
+
+!O CW Mana:Cold Move:Tired>down
+Sloping Passage
+Exits: north, east, (up).
+A huge troll (aa) has arrived from above.
+
+!= CW Mana:Cold Move:Tired>north
+Moving up the slope is really hard.
+
+Sloping Passage
+Exits: east, south.
+A huge troll (aa) has arrived from the south.
+
+!= CW Mana:Cold Move:Tired>east
+Moving up the slope is really hard.
+
+Sloping Passage
+Exits: east, west.
+A huge troll (aa) has arrived from the west.
+
+!= CW Mana:Cold Move:Slow>east
+Moving up the slope is really hard.
+
+Stinking Corridor
+Exits: south, west, up.
+A huge troll (aa) has arrived from the west.
+
+!O CW Mana:Cold Move:Slow>sco u
+[scout u]
+You quietly scout upwards...
+
+Drain Pipe
+Exits: [up], down.
+
+You stop scouting.
+
+!O CW Mana:Cold Move:Slow>up
+Moving up the slope is really hard.
+
+Drain Pipe
+Exits: [up], down.
+A huge troll (aa) has arrived from below.
+
+!= CW Mana:Cold Move:Slow>st
+stat
+OB: 44%, DB: 46%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,526 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- breath of briskness (11s)
+- unable to quit
+- sanctuary (2m)
+- potion
+- detect magic (8m41s)
+- stored spell charm
+- strength (💪 8m58s  )
+- shield   (⛉ 9m7s  )
+- armour   (🧥 9m8s  )
+
+!= CW Mana:Cold Move:Slow>sl
+You go to sleep.
+
+o= CW Mana:Cold Move:Slow>st
+stat
+OB: 44%, DB: -29%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,526 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- breath of briskness (13s)
+- unable to quit
+- sanctuary (2m2s)
+- potion
+- detect magic (8m43s)
+- stored spell charm
+- strength (💪 9m  )
+- shield   (⛉ 9m9s  )
+- armour   (🧥 9m10s  )
+
+o= CW Mana:Cold Move:Slow>who
+Players
+-------
+      Lor the Elven Adventurer
+      Armintia the Hobbit Ranger
+      Dawnreborn Mortarman of Rivendell
+      Umnik smart headmaster
+      Auleryun of Aule
+      Silkouska the Elven Adventurer
+      Procol Harum
+      Bash Broadbeam, of Belegost
+      Kazadum Grimbeard, Champion
+      Fianchetto the Elven Adventurer
+      Odinson, Pantheon Prince of the Arcane Order
+
+11 allies on.
+
+o= CW Mana:Cold Move:Slow>
+o= CW Mana:Cold Move:Tired>
+o= CW Mana:Cold>
+o= CW Mana:Warm>cha li 10
+Set auto-linkdrop timeout to 10 seconds.
+
+o= CW Mana:Warm>sc
+247/247 hits, 33/126 mana, and 64/115 moves.
+
+o= CW Mana:Warm>st
+stat
+OB: 44%, DB: -29%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,526 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- breath of briskness (42s)
+- unable to quit
+- sanctuary (2m31s)
+- potion
+- detect magic (9m12s)
+- stored spell charm
+- strength (💪 9m29s  )
+- shield   (⛉ 9m38s  )
+- armour   (🧥 9m39s  )
+
+o= CW Mana:Warm>sc
+247/247 hits, 37/126 mana, and 73/115 moves.
+
+o= CW Mana:Warm>wake;look;stand;ride pa
+You wake, and sit up.
+
+!= CW Mana:Warm>
+Drain Pipe
+A huge troll (aa) is standing here.
+Exits: [up], down.
+
+!= CW Mana:Warm>
+You stand up.
+
+!= CW Mana:Warm>ou
+open exit up
+What do you want to ride?
+
+!= CW Mana:Warm>
+Ok.
+
+!= CW Mana:Warm>sco u
+[scout u]
+You quietly scout upwards...
+
+Collapsed Hall
+A huge, stupid-looking troll stares vacantly at his vast belly.
+A huge, stupid-looking troll stares vacantly at his vast belly.
+A huge, stupid-looking troll stares vacantly at his vast belly.
+A huge, stupid-looking troll stares vacantly at his vast belly.
+Exits: north, east, (down).
+
+You stop scouting.
+
+!= CW Mana:Warm>d
+Stinking Corridor
+Exits: south, west, up.
+A huge troll (aa) has arrived from above.
+
+!O CW Mana:Warm>ss
+order followers sleep
+A huge troll (aa) lies down and falls asleep.
+Ok.
+
+!O CW Mana:Warm>up
+Moving up the slope is really hard.
+
+Drain Pipe
+Exits: (up), down.
+
+!= CW Mana:Warm>
+A huge troll has arrived from above.
+
+!= CW Mana:Warm>cu
+close exit up
+Ok.
+
+!= CW Mana:Warm>
+A huge troll hits your head and tickles it.
+
+!= CW HP:Fine Mana:Warm a huge troll:Healthy>down
+No way! You are fighting for your life!
+
+!= CW HP:Fine Mana:Warm a huge troll:Healthy>flee
+PANIC! You can't quit the fight!
+
+!= CW HP:Fine Mana:Warm a huge troll:Healthy>
+You flee head over heels.
+You flee down.
+Stinking Corridor
+A huge troll (aa) is  S L E E P I N G.
+Exits: south, west, up.
+
+!O CW HP:Fine Mana:Warm>up
+Moving up the slope is really hard.
+
+Drain Pipe
+A huge, stupid-looking troll stares vacantly at his vast belly.
+Exits: [up], down.
+
+!= CW HP:Fine Mana:Warm>tcharm huge
+[cast t 'charm' huge]
+You quickly recall your stored spell...
+
+Ok.
+Nothing seems to happen.
+
+!= CW HP:Fine Mana:Cold>
+A huge troll tries to hit you, but your parry is successful.
+
+!= CW HP:Fine Mana:Cold a huge troll:Healthy>
+You lightly pierce a huge troll's body and tickle it.
+
+!= CW HP:Fine Mana:Cold a huge troll:Fine>flee
+You flee head over heels.
+You flee down.
+Stinking Corridor
+A huge troll (aa) is  S L E E P I N G.
+Exits: south, west, up.
+
+!O CW HP:Fine Mana:Cold>up
+bli huge
+Moving up the slope is really hard.
+
+Drain Pipe
+Traces of rich white tones form the aura of this place.
+A huge, stupid-looking troll stares vacantly at his vast belly.
+Exits: [up], down.
+
+!= CW HP:Fine Mana:Cold>
+
+[cast n 'blind' huge]
+You start to concentrate...
+
+Ok.
+A huge troll   ___ b l i n d 
+
+!= CW HP:Fine Mana:Icy>g pipe all
+You get a wooden pipe from a silvan satchel.
+
+!= CW HP:Fine Mana:Icy>
+!= CW HP:Fine Mana:Cold>wi pipe
+You stop using a ceremonial dagger.
+You hold a wooden pipe.
+
+!= CW HP:Fine Mana:Cold>rest
+You sit down and rest your tired bones.
+
+!= CW HP:Fine Mana:Cold>smoke
+Aahhh. Good Old Toby's!
+You feel focused.
+
+!= CW HP:Fine Mana:Cold>wi dagger
+You stop using a wooden pipe.
+You awkwardly wield a ceremonial dagger, ready to protect the weak.
+
+!= CW HP:Fine Mana:Cold>i
+You are carrying:
+a wooden pipe
+
+!= CW Mana:Cold>p all pack
+You put a wooden pipe in a silvan satchel.
+
+!= CW Mana:Cold>sc
+247/247 hits, 24/126 mana, and 82/115 moves.
+
+!= CW Mana:Cold>tcharm huge
+[cast t 'charm' huge]
+Nah... You feel too relaxed to do that.
+stand
+
+!= CW Mana:Cold>
+You stop resting and stand up.
+
+!= CW Mana:Cold>tcharm huge
+[cast t 'charm' huge]
+You start to concentrate...
+
+la huge bb
+label huge bb
+Ok.
+A huge troll starts following you.
+
+!= CW Mana:Frozen>
+Ok.
+
+!= CW Mana:Frozen>look
+Drain Pipe
+Traces of fierce white tones form the aura of this place.
+A huge troll (bb) is standing here.
+Exits: [up], down.
+
+!= CW Mana:Frozen>
+!= CW Mana:Icy>down
+Stinking Corridor
+A huge troll (aa) is  S L E E P I N G.
+Exits: south, west, up.
+A huge troll (bb) has arrived from above.
+
+!O CW Mana:Icy>ss
+order followers sleep
+A huge troll (bb) lies down and falls asleep.
+Ok.
+
+!O CW Mana:Icy>ls
+lock exit south
+You don't see any exit there.
+
+!O CW Mana:Icy>st
+stat
+OB: 43%, DB: 46%, PB: 48%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,419 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- some pipe-weed
+- panic
+- breath of briskness (1m33s)
+- unable to quit
+- sanctuary (3m22s)
+- potion
+- detect magic (10m3s)
+- strength (💪 10m20s  )
+- shield   (⛉ 10m29s  )
+- armour   (🧥 10m30s  )
+
+!O CW Mana:Icy>sl
+You go to sleep.
+
+oO CW Mana:Icy>st
+stat
+OB: 43%, DB: -29%, PB: 48%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,419 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- some pipe-weed
+- panic
+- breath of briskness (1m34s)
+- unable to quit
+- sanctuary (3m23s)
+- potion
+- detect magic (10m4s)
+- strength (💪 10m21s  )
+- shield   (⛉ 10m30s  )
+- armour   (🧥 10m31s  )
+
+oO CW Mana:Icy>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+oO CW Mana:Icy>
+247/247 hits, 7/126 mana, and 111/115 moves.
+
+oO CW Mana:Icy>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+oO CW Mana:Icy>
+247/247 hits, 12/126 mana, and 115/115 moves.
+
+oO CW Mana:Cold>
+You feel bolder.
+
+oO CW Mana:Cold>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+oO CW Mana:Cold>
+247/247 hits, 18/126 mana, and 115/115 moves.
+
+oO CW Mana:Cold>who
+Players
+-------
+      Lor the Elven Adventurer
+      Armintia the Hobbit Ranger (Linkless)
+      Dawnreborn Mortarman of Rivendell
+      Umnik smart headmaster
+      Auleryun of Aule
+      Silkouska the Elven Adventurer
+      Procol Harum
+      Bash Broadbeam, of Belegost
+      Kazadum Grimbeard, Champion
+      Fianchetto the Elven Adventurer
+      Odinson, Pantheon Prince of the Arcane Order
+
+11 allies on.
+
+oO CW Mana:Cold>sc
+247/247 hits, 23/126 mana, and 115/115 moves.
+
+oO CW Mana:Cold>trop muranog
+                                    *** TROPHY *** (Kills, Knowledge, Name)
+
+|  20,  7%,  Muranog                                   |                                                      |
+
+Total matching kills: 20 (1 distinct)
+
+oO CW Mana:Cold>sc
+247/247 hits, 27/126 mana, and 115/115 moves.
+
+oO CW Mana:Cold>
+The white aura around your body fades.
+     S A N C T U A R Y   D O W N
+
+The spell lasted 4m8s.
+
+oO CW Mana:Cold>sc
+247/247 hits, 30/126 mana, and 115/115 moves.
+
+oO CW Mana:Cold>wake;look;stand;ride pa
+You wake, and sit up.
+
+!O CW Mana:Warm>
+Stinking Corridor
+A huge troll (aa) is  S L E E P I N G.
+A huge troll (bb) is  S L E E P I N G.
+Exits: south, west, up.
+
+!O CW Mana:Warm>
+You stand up.
+
+!O CW Mana:Warm>
+What do you want to ride?
+
+!O CW Mana:Warm>g juniper pack;g thyme pack;g sage pack;g mauve pack
+You get a cluster of berries of Juniper: Clear 4/4 from a silvan satchel.
+
+!O CW Mana:Warm>
+You get some leaves of THYME: Soothing, Clear 3/4 from a silvan satchel.
+
+!O CW Mana:Warm>
+You get some leaves of SAGE: Healing, Soothing, Clear 2/4 from a silvan satchel.
+
+!O CW Mana:Warm>
+You get some sweet-smelling dried mauve petals from a silvan satchel. (mauve)
+
+!O CW Mana:Warm>i
+You are carrying:
+some sweet-smelling dried mauve petals (mauve)
+some leaves of SAGE: Healing, Soothing, Clear 2/4
+some leaves of THYME: Soothing, Clear 3/4
+a cluster of berries of Juniper: Clear 4/4 (juniper)
+
+!O CW Mana:Warm>sc
+247/247 hits, 34/126 mana, and 115/115 moves.
+
+!O CW Mana:Warm>p all kit
+You put some sweet-smelling dried mauve petals in an enhanced herbal kit. (mauve)
+You put some leaves of SAGE: Healing, Soothing, Clear 2/4 in an enhanced herbal kit.
+You put some leaves of THYME: Soothing, Clear 3/4 in an enhanced herbal kit.
+You put a cluster of berries of Juniper: Clear 4/4 in an enhanced herbal kit.
+
+!O CW Mana:Warm>x kit
+examine kit
+In your kit (worn on belt):
+a cluster of berries of Juniper: Clear 4/4 (juniper)
+some leaves of THYME: Soothing, Clear 3/4
+some leaves of SAGE: Healing, Soothing, Clear 2/4
+some sweet-smelling dried mauve petals (mauve)
+
+!O CW Mana:Warm>sl
+You go to sleep.
+
+oO CW Mana:Warm>sc
+247/247 hits, 36/126 mana, and 115/115 moves.
+
+oO CW Mana:Warm>st
+stat
+OB: 44%, DB: -29%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,419 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- some pipe-weed
+- breath of briskness (2m38s)
+- unable to quit
+- potion
+- detect magic (11m8s)
+- strength (💪 11m25s  )
+- shield   (⛉ 11m34s  )
+- armour   (🧥 11m35s  )
+
+oO CW Mana:Warm>who
+Players
+-------
+      Lor the Elven Adventurer
+      Armintia the Hobbit Ranger (Linkless)
+      Dawnreborn Mortarman of Rivendell
+      Umnik smart headmaster
+      Auleryun of Aule
+      Silkouska the Elven Adventurer
+      Procol Harum
+      Bash Broadbeam, of Belegost
+      Kazadum Grimbeard, Champion
+      Fianchetto the Elven Adventurer
+      Odinson, Pantheon Prince of the Arcane Order
+
+11 allies on.
+
+oO CW Mana:Warm>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+oO CW Mana:Warm>
+247/247 hits, 42/126 mana, and 115/115 moves.
+
+oO CW Mana:Warm>sc
+WARNING: inactivity timeout in 5 seconds.
+score
+
+oO CW Mana:Warm>
+247/247 hits, 48/126 mana, and 115/115 moves.
+
+oO CW Mana:Warm>
+247/247 hits, 48/126 mana, and 115/115 moves.
+
+oO CW Mana:Warm>st
+stat
+OB: 44%, DB: -29%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,419 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- some pipe-weed
+- breath of briskness (2m59s)
+- unable to quit
+- potion
+- detect magic (11m29s)
+- strength (💪 11m46s  )
+- shield   (⛉ 11m55s  )
+- armour   (🧥 11m56s  )
+
+oO CW Mana:Warm>sc
+247/247 hits, 54/126 mana, and 115/115 moves.
+
+oO CW Mana:Warm>
+oO CW Mana:Hot>
+Your legs feel heavier.
+The spell lasted 3m11s.
+
+oO CW Mana:Hot>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+oO CW Mana:Hot>
+247/247 hits, 58/126 mana, and 115/115 moves.
+
+oO CW Mana:Hot>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+oO CW Mana:Hot>
+247/247 hits, 65/126 mana, and 115/115 moves.
+
+oO CW Mana:Hot>sc
+247/247 hits, 69/126 mana, and 115/115 moves.
+
+oO CW Mana:Hot>st
+stat
+OB: 44%, DB: -29%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,419 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- some pipe-weed
+- unable to quit
+- potion
+- detect magic (11m59s)
+- strength (💪 12m16s  )
+- shield   (⛉ 12m25s  )
+- armour   (🧥 12m26s  )
+
+oO CW Mana:Hot>who
+Players
+-------
+      Lor the Elven Adventurer
+      Armintia the Hobbit Ranger (Linkless)
+      Dawnreborn Mortarman of Rivendell
+      Umnik smart headmaster
+      Auleryun of Aule
+      Silkouska the Elven Adventurer
+      Procol Harum
+      Bash Broadbeam, of Belegost
+      Kazadum Grimbeard, Champion
+      Fianchetto the Elven Adventurer
+      Odinson, Pantheon Prince of the Arcane Order
+
+11 allies on.
+
+oO CW Mana:Hot>wh Arcane
+whois Arcane
+Arcane the Dragonslayer is a Maia (Wright).
+
+MUME is a great resource for anyone to learn LOTR lore and experience the
+thrill of these adventures first hand.
+
+Incarnations of light:
+----------------------
+
+Bevier, Lorindol, Parantaja, Poppis, Risp, Stagger, Tesla
+
+Dark manifestations:
+--------------------
+
+Joviel, Rave, Spinner, Swrek
+
+oO CW Mana:Hot>wh Armintia
+whois Armintia
+Armintia is a level eighteen Harfoot Ranger.
+Is disconnected from [numerical address].
+
+oO CW Mana:Hot>wh Silkouska
+whois Silkouska
+Silkouska is a level nineteen Noldorin Adventurer.
+Is playing from *.cz.
+
+oO CW Mana:Hot>sc
+247/247 hits, 80/126 mana, and 115/115 moves.
+
+oO CW Mana:Hot>st
+stat
+OB: 44%, DB: -29%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,419 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- some pipe-weed
+- potion
+- detect magic (12m17s)
+- strength (💪 12m34s  )
+- shield   (⛉ 12m43s  )
+- armour   (🧥 12m44s  )
+
+oO CW Mana:Hot>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+oO CW Mana:Hot>trop muranog
+247/247 hits, 87/126 mana, and 115/115 moves.
+
+oO CW Mana:Hot>
+                                    *** TROPHY *** (Kills, Knowledge, Name)
+
+|  20,  7%,  Muranog                                   |                                                      |
+
+Total matching kills: 20 (1 distinct)
+
+oO CW Mana:Hot>sc
+247/247 hits, 91/126 mana, and 115/115 moves.
+
+oO CW Mana:Hot>
+oO CW Mana:Burning>lo
+In your dreams, or what?
+
+oO CW Mana:Burning>sc
+247/247 hits, 96/126 mana, and 115/115 moves.
+
+oO CW Mana:Burning>sc
+247/247 hits, 99/126 mana, and 115/115 moves.
+
+oO CW Mana:Burning>sc
+247/247 hits, 101/126 mana, and 115/115 moves.
+
+oO CW Mana:Burning>st
+stat
+OB: 44%, DB: -29%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,419 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- some pipe-weed
+- potion
+- detect magic (12m43s)
+- strength (💪 13m  )
+- shield   (⛉ 13m9s  )
+- armour   (🧥 13m10s  )
+
+oO CW Mana:Burning>sc
+247/247 hits, 106/126 mana, and 115/115 moves.
+
+oO CW Mana:Burning>wake;look;stand;ride pa
+You wake, and sit up.
+
+!O CW Mana:Burning>
+Stinking Corridor
+A huge troll (aa) is  S L E E P I N G.
+A huge troll (bb) is  S L E E P I N G.
+Exits: south, west, up.
+
+!O CW Mana:Burning>
+You stand up.
+
+!O CW Mana:Burning>
+What do you want to ride?
+
+!O CW Mana:Burning>ww
+order followers wake;order followers stand
+A huge troll (bb) wakes up.
+A huge troll (aa) wakes up.
+Ok.
+
+!O CW Mana:Burning>
+A huge troll (bb) clambers to his feet.
+A huge troll (aa) clambers to his feet.
+Ok.
+
+!O CW Mana:Burning>west
+Sloping Passage
+Exits: east, west.
+A huge troll (bb) has arrived from the east.
+A huge troll (aa) has arrived from the east.
+
+!= CW Mana:Burning>west
+Sloping Passage
+Exits: east, south.
+A huge troll (bb) has arrived from the east.
+A huge troll (aa) has arrived from the east.
+
+!= CW Mana:Burning>south
+Sloping Passage
+Exits: north, east, (up).
+A huge troll (bb) has arrived from the north.
+A huge troll (aa) has arrived from the north.
+
+!= CW Mana:Burning>east
+Muck-filled Passage
+Exits: north, east, west.
+A huge troll (bb) has arrived from the west.
+A huge troll (aa) has arrived from the west.
+
+!= CW Mana:Burning>ss
+order followers sleep
+A huge troll (bb) lies down and falls asleep.
+A huge troll (aa) lies down and falls asleep.
+Ok.
+
+!= CW Mana:Burning>sl
+You go to sleep.
+
+o= CW Mana:Burning>sc
+247/247 hits, 110/126 mana, and 108/115 moves.
+
+o= CW Mana:Burning>st
+stat
+OB: 44%, DB: -29%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,419 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- some pipe-weed
+- potion
+- detect magic (12m57s)
+- strength (💪 13m14s  )
+- shield   (⛉ 13m23s  )
+- armour   (🧥 13m24s  )
+
+o= CW Mana:Burning>sc
+247/247 hits, 114/126 mana, and 114/115 moves.
+
+o= CW Mana:Burning>sc
+247/247 hits, 115/126 mana, and 115/115 moves.
+
+o= CW Mana:Burning>sc
+247/247 hits, 118/126 mana, and 115/115 moves.
+
+o= CW Mana:Burning>who
+Players
+-------
+      Lor the Elven Adventurer
+      Armintia the Hobbit Ranger (Linkless)
+      Dawnreborn Mortarman of Rivendell
+      Umnik smart headmaster
+      Auleryun of Aule
+      Silkouska the Elven Adventurer
+      Procol Harum
+      Bash Broadbeam, of Belegost
+      Kazadum Grimbeard, Champion
+      Fianchetto the Elven Adventurer
+      Odinson, Pantheon Prince of the Arcane Order
+
+11 allies on.
+
+o= CW Mana:Burning>sc
+247/247 hits, 123/126 mana, and 115/115 moves.
+
+o= CW Mana:Burning>
+o= CW>wh Curulambiner
+whois Curulambiner
+Curulambiner The Last High King Of The Noldor is an Elf [Retired].
+Last login less than one hour ago from *.com.
+
+o= CW>sc
+247/247 hits, 126/126 mana, and 115/115 moves.
+
+o= CW>wake;look;stand;ride pa
+You wake, and sit up.
+
+!= CW>
+Muck-filled Passage
+A huge troll (bb) is  S L E E P I N G.
+A huge troll (aa) is  S L E E P I N G.
+Exits: north, east, west.
+
+!= CW>
+You stand up.
+
+!= CW>san
+cast n 'sanct' 
+What do you want to ride?
+
+!= CW>
+You start to concentrate...
+
+san bb
+cast n 'sanct'  bb
+You start glowing.
+
+!= CW Mana:Hot>
+
+You start to concentrate...
+
+sl
+Ok.
+A huge troll (bb) is surrounded by a white aura.
+
+!= CW Mana:Warm>
+You go to sleep.
+
+o= CW Mana:Warm>sc
+247/247 hits, 41/126 mana, and 115/115 moves.
+
+o= CW Mana:Warm>st
+stat
+OB: 44%, DB: -29%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,419 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- sanctuary (5s)
+- some pipe-weed
+- potion
+- detect magic (13m33s)
+- strength (💪 13m50s  )
+- shield   (⛉ 13m59s  )
+- armour   (🧥 14m  )
+
+o= CW Mana:Warm>ord bb wake;ord bb sta
+In your dreams, or what?
+
+o= CW Mana:Warm>
+In your dreams, or what?
+
+o= CW Mana:Warm>sc
+247/247 hits, 47/126 mana, and 115/115 moves.
+
+o= CW Mana:Warm>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+o= CW Mana:Warm>
+247/247 hits, 53/126 mana, and 115/115 moves.
+
+o= CW Mana:Warm>sc
+247/247 hits, 53/126 mana, and 115/115 moves.
+
+o= CW Mana:Warm>
+o= CW Mana:Hot>sc
+247/247 hits, 57/126 mana, and 115/115 moves.
+
+o= CW Mana:Hot>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+o= CW Mana:Hot>wake;look;stand;ride pa
+247/247 hits, 63/126 mana, and 115/115 moves.
+
+o= CW Mana:Hot>
+You wake, and sit up.
+
+!= CW Mana:Hot>
+Muck-filled Passage
+Traces of fierce white tones form the aura of this place.
+A huge troll (bb) is sleeping here (glowing).
+A huge troll (aa) is  S L E E P I N G.
+Exits: north, east, west.
+
+!= CW Mana:Hot>
+You stand up.
+
+!= CW Mana:Hot>
+What do you want to ride?
+
+!= CW Mana:Hot>mix kit
+You start mixing the contents of an enhanced herbal kit.
+
+quaff brew
+Inactivity timeout postponed...
+
+hid brew
+Inactivity timeout postponed...
+
+You have finished mixing the contents of an enhanced herbal kit.
+You produced a pungent brew.
+
+!= CW Mana:Hot>
+Ok.
+
+!= CW Mana:Hot>
+Ok.
+
+!= CW Mana:Hot>
+You hear some apparently very far noise from the east.
+
+!= CW Mana:Hot>sc
+247/247 hits, 71/141 mana, and 115/115 moves.
+
+!= CW Mana:Hot>use pale
+You attempt to use the power of a pale blue stone.
+
+sl
+You feel a surge of healing power flow through you.
+
+!= CW Mana:Hot>
+You go to sleep.
+
+o= CW Mana:Hot>sc
+247/247 hits, 89/141 mana, and 115/115 moves.
+
+o= CW Mana:Hot>st
+stat
+OB: 44%, DB: -29%, PB: 49%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 655,419 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- potion
+- sanctuary (1m14s)
+- some pipe-weed
+- potion
+- detect magic (14m42s)
+- strength (💪 14m59s  )
+- shield   (⛉ 15m8s  )
+- armour   (🧥 15m9s  )
+
+o= CW Mana:Hot>sc
+247/247 hits, 98/141 mana, and 115/115 moves.
+
+o= CW Mana:Hot>
+o= CW Mana:Burning>sc
+247/247 hits, 107/141 mana, and 115/115 moves.
+
+o= CW Mana:Burning>
+WARNING: inactivity timeout in 5 seconds.
+score
+
+o= CW Mana:Burning>
+247/247 hits, 115/141 mana, and 115/115 moves.
+
+o= CW Mana:Burning>sc
+247/247 hits, 116/141 mana, and 115/115 moves.
+
+o= CW Mana:Burning>sc
+247/247 hits, 120/141 mana, and 115/115 moves.
+
+o= CW Mana:Burning>sc
+247/247 hits, 124/141 mana, and 115/115 moves.
+
+o= CW Mana:Burning>sc
+247/247 hits, 128/141 mana, and 115/115 moves.
+
+o= CW Mana:Burning>sc
+247/247 hits, 129/141 mana, and 115/115 moves.
+
+o= CW Mana:Burning>wake;look;stand;ride pa
+You wake, and sit up.
+
+!= CW Mana:Burning>
+Muck-filled Passage
+Traces of intense white tones form the aura of this place.
+A huge troll (bb) is sleeping here (glowing).
+A huge troll (aa) is  S L E E P I N G.
+Exits: north, east, west.
+
+!= CW Mana:Burning>
+You stand up.
+
+!= CW Mana:Burning>
+What do you want to ride?
+
+!= CW Mana:Burning>ord bb wake;ord bb sta
+Ok.
+A huge troll (bb) wakes up.
+
+!= CW Mana:Burning>
+Ok.
+A huge troll (bb) clambers to his feet.
+
+!= CW Mana:Burning>east
+Blackened Hall
+Exits: north, east, west.
+A huge troll (bb) has arrived from the west.
+
+![ CW Mana:Burning>look
+Blackened Hall
+A huge troll (bb) is standing here (glowing).
+Exits: north, east, west.
+
+![ CW Mana:Burning>north
+Blackened Hall
+Exits: north, east, south, west.
+A huge troll (bb) has arrived from the south.
+
+![ CW Mana:Burning>north
+Blackened Hall
+Exits: east, south, west.
+A huge troll (bb) has arrived from the south.
+
+![ CW Mana:Burning>west
+Dark Sloping Avenue
+Exits: east, west.
+A huge troll (bb) has arrived from the east.
+
+![ CW Mana:Burning>west
+Dark Sloping Avenue
+Exits: east, west.
+A huge troll (bb) has arrived from the east.
+Some rather far noise can be heard from the west.
+
+![ CW Mana:Burning>west
+Dark Sloping Avenue
+Exits: east, west.
+A huge troll (bb) has arrived from the east.
+
+![ CW Mana:Burning>west
+Dark Sloping Avenue
+Exits: east, west.
+A huge troll (bb) has arrived from the east.
+
+![ CW Mana:Burning>west
+Hwain's Well Hall
+Exits: east, =south=, =west=.
+A huge troll (bb) has arrived from the east.
+
+!+ CW Mana:Burning>west
+Hwain's Well Hall
+Exits: =north=, =east=, =south=, =west=.
+A huge troll (bb) has arrived from the east.
+
+!+ CW Mana:Burning>north
+The Royal Way
+Exits: north, =east=, =south=.
+A huge troll (bb) has arrived from the south.
+
+!+ CW Mana:Burning>east
+The Royal Way
+Exits: north, =east=, =west=.
+A huge troll (bb) has arrived from the west.
+
+!+ CW>north
+The Royal Antechamber
+Exits: [east], south, west.
+A huge troll (bb) has arrived from the south.
+
+![ CW>
+Some close noise can be heard from the east.
+
+![ CW>oe
+open exit east
+Ok.
+
+![ CW>sco e
+[scout e]
+You quietly scout eastwards...
+
+The Throne Room
+Exits: north, [east], (west).
+
+You stop scouting.
+
+![ CW>east
+The Throne Room
+Exits: north, [east], (west).
+A huge troll (bb) has arrived from the west.
+
+!O CW>north
+The Great Throne
+Muranog, the High Lieutenant of Durin's Bane, stands here.
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll, with skin as black as pitch, glowers at you.
+Exits: south.
+A huge troll (bb) has arrived from the south.
+A black-skinned troll barely hits your right leg and tickles it.
+
+!O CW HP:Fine a black-skinned troll:Healthy>kk muranog
+order followers kil  muranog
+A huge troll (bb) tries to hit Muranog, but he parries successfully.
+Ok.
+Muranog says 'I'm foinj xo tev a loz ot pleasure oux of killinj you.'
+
+!O CW HP:Fine a black-skinned troll:Healthy>south
+No way! You are fighting for your life!
+Muranog crushes a huge troll (bb)'s left hand hard and tickles it.
+
+!O CW HP:Fine a black-skinned troll:Healthy>flee
+You flee head over heels.
+You flee south.
+The Throne Room
+Exits: north, [east], (west).
+
+!O CW HP:Fine>
+!O CW>north
+The Great Throne
+Muranog, wielding an iron-shod mace, is here, fighting a huge troll (bb).
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll (bb) is here, fighting Muranog (glowing).
+Exits: south.
+
+!O CW>
+A black-skinned troll barely hits your right leg and tickles it.
+A black-skinned troll barely hits your right foot and tickles it.
+
+!O CW HP:Fine a black-skinned troll:Healthy>
+Muranog crushes a huge troll (bb)'s right hand hard and tickles it.
+
+!O CW HP:Fine a black-skinned troll:Healthy>ere
+cast normal 'earthquake'
+You start to concentrate...
+
+Some apparently rather far noise can be heard from the south.
+A black-skinned troll quickly approaches, trying to hit you.
+
+A black-skinned troll lightly hits your right leg and tickles it.
+Argh! You cannot concentrate any more...
+
+!O CW HP:Fine a black-skinned troll:Healthy>
+!O CW HP:Fine a black-skinned troll:Healthy>flee
+You flee head over heels.
+You flee south.
+The Throne Room
+Exits: north, [east], (west).
+
+!O CW HP:Fine>sco n
+[scout n]
+You quietly scout northwards...
+
+The Great Throne
+Muranog, wielding an iron-shod mace, is here, fighting a huge troll (bb).
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll (bb) is here, fighting Muranog (glowing).
+Exits: south.
+
+You stop scouting.
+
+!O CW HP:Fine>sco n
+[scout n]
+You quietly scout northwards...
+
+The Great Throne
+Muranog, wielding an iron-shod mace, is here, fighting a huge troll (bb).
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll (bb) is here, fighting Muranog (glowing).
+Exits: south.
+
+You stop scouting.
+
+!O CW HP:Fine>ere
+cast normal 'earthquake'
+You start to concentrate...
+
+!O CW HP:Fine>sco n
+[scout n]
+You quietly scout northwards...
+
+The Great Throne
+Muranog, wielding an iron-shod mace, is here, fighting a huge troll (bb).
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll, with skin as black as pitch, glowers at you.
+A huge troll (bb) is here, fighting Muranog (glowing).
+Exits: south.
+
+You stop scouting.
+
+!O CW HP:Fine>flee
+north
+You flee head over heels.
+You flee west.
+The Royal Antechamber
+Exits: (east), south, west.
+
+![ CW HP:Fine>
+Alas, you cannot go that way...
+
+![ CW HP:Fine>ff
+order followers flee
+But you have no loyal subjects here?
+
+![ CW HP:Fine>west
+Vaulted Corridor
+Exits: north, east.
+
+!= CW HP:Fine>east
+east
+The Royal Antechamber
+Exits: (east), south, west.
+
+![ CW HP:Fine>
+The Throne Room
+Exits: north, [east], (west).
+
+!O CW HP:Fine>north
+The Great Throne
+Muranog, wielding an iron-shod mace, is here, fighting a huge troll (bb).
+A black-skinned troll is here, fighting a huge troll (bb).
+A black-skinned troll is here, fighting a huge troll (bb).
+A black-skinned troll is here, fighting a huge troll (bb).
+A huge troll (bb) is here, fighting Muranog (glowing).
+Exits: south.
+
+!O CW HP:Fine>ff
+order followers flee
+Ok.
+A black-skinned troll hits a huge troll (bb)'s left foot hard and tickles it.
+
+!O CW HP:Fine>south
+The Throne Room
+Exits: north, [east], (west).
+
+!O CW HP:Fine>north
+The Great Throne
+Muranog, wielding an iron-shod mace, is here, fighting a huge troll (bb).
+A black-skinned troll is here, fighting a huge troll (bb).
+A black-skinned troll is here, fighting a huge troll (bb).
+A black-skinned troll is here, fighting a huge troll (bb).
+A huge troll (bb) is here, fighting Muranog (glowing).
+Exits: south.
+
+!O CW HP:Fine>ere
+cast normal 'earthquake'
+You start to concentrate...
+
+A black-skinned troll B A S H E S ____a huge troll (bb)
+
+ere
+cast normal 'earthquake'
+Muranog crushes a huge troll (bb)'s left leg hard and tickles it.
+
+ere
+cast normal 'earthquake'
+The earth trembles beneath your feet!
+A huge troll (bb) hates your guts!
+A huge troll (bb) stops following you.
+Muranog says 'I xill cux you piece by piece, Valf-Elf!'
+
+!O CW HP:Fine Mana:Burning>
+
+You start to concentrate...
+A black-skinned troll hits a huge troll (bb)'s left arm hard and tickles it.
+
+x Muranog
+examine Muranog
+ere
+cast normal 'earthquake'
+Muranog crushes a huge troll (bb)'s left leg hard and tickles it.
+
+The earth trembles beneath your feet!
+Some debris falls on you from above.
+
+!O CW HP:Fine Mana:Burning>
+
+You start to concentrate...
+
+A black-skinned troll hits a huge troll (bb)'s right arm hard and tickles it.
+
+A black-skinned troll hits a huge troll (bb)'s left foot hard and tickles it.
+
+A black-skinned troll hits a huge troll (bb)'s right leg hard and tickles it.
+
+The earth trembles beneath your feet!
+
+!O CW HP:Fine Mana:Hot>
+Standing taller than any around him, this olog has a distinct aura of power
+about him. As the High Lieutenant of Durin's Bane he commands the Balrog's
+forces in Moria and is a fearsome creature indeed. His red, fiery eyes look
+out from the deep sockets and his skin shines a scaly jet black.
+Muranog has several bruises.
+Muranog is using:
+<wielded>            an iron-shod mace
+<held>               a corberyl
+<worn on head>       a great helm (used)
+<worn on body>       a fine metal breastplate (flawless)
+<worn on arms>       a fine pair of metal vambraces (satisfactory)
+<worn on hands>      a fine pair of metal gauntlets (well-maintained)
+<worn on legs>       a fine pair of metal greaves (used)
+<worn on feet>       a fine pair of metal boots (worn)
+<worn as belt>       a studded leather belt
+
+!O CW HP:Fine Mana:Hot>
+
+You start to concentrate...
+
+ere
+cast normal 'earthquake'
+A huge troll (bb)   ___ u n b a s h e d
+
+A black-skinned troll hits a huge troll (bb)'s right leg hard.
+
+The earth trembles beneath your feet!
+Some debris falls on you from above.
+A black-skinned troll hits a huge troll (bb)'s right hand hard.
+Muranog crushes a huge troll (bb)'s body hard.
+
+!O CW HP:Fine Mana:Hot>
+
+You start to concentrate...
+
+ere
+cast normal 'earthquake'
+A black-skinned troll strongly hits a huge troll (bb)'s body.
+
+ere
+cast normal 'earthquake'
+A black-skinned troll hits a huge troll (bb)'s left leg hard.
+
+The earth trembles beneath your feet!
+
+!O CW HP:Fine Mana:Hot>
+
+You start to concentrate...
+
+ere
+cast normal 'earthquake'
+Muranog B A S H E S ____a huge troll (bb)
+
+The earth trembles beneath your feet!
+
+!O CW HP:Fine Mana:Hot>
+
+You start to concentrate...
+A black-skinned troll hits a huge troll (bb)'s left foot hard.
+
+ere
+cast normal 'earthquake'
+A black-skinned troll hits a huge troll (bb)'s right foot hard.
+
+Muranog crushes a huge troll (bb)'s right leg hard and shatters it.
+
+Some apparently rather far noise can be heard from the south.
+
+The earth trembles beneath your feet!
+Some debris falls on you from above.
+Muranog says 'I sjall spill your fujs noz!'
+
+!O CW HP:Fine Mana:Warm>
+
+You start to concentrate...
+
+A black-skinned troll hits a huge troll (bb)'s head hard and shatters it.
+
+ere
+cast normal 'earthquake'
+A black-skinned troll hits a huge troll (bb)'s body hard and shatters it.
+
+The earth trembles beneath your feet!
+You receive your share of experience.
+It begins to be automatic...
+You hear a black-skinned troll's death cry as he collapses.
+A black-skinned troll is dead! R.I.P.
+A huge troll (bb) is incapacitated and will slowly die, if not aided.
+You receive your share of experience.
+It begins to be automatic...
+You hear a black-skinned troll's death cry as he collapses.
+A black-skinned troll is dead! R.I.P.
+You receive your share of experience.
+It begins to be automatic...
+You hear a black-skinned troll's death cry as he collapses.
+A black-skinned troll is dead! R.I.P.
+Some debris falls on you from above.
+
+!O CW HP:Fine Mana:Warm>
+
+You start to concentrate...
+
+Muranog crushes a huge troll (bb)'s right leg hard and shatters it.
+You hear a huge troll (bb)'s death cry as he collapses.
+A huge troll (bb) is dead! R.I.P.
+
+The earth trembles beneath your feet!
+
+!O CW HP:Fine Mana:Cold Muranog:Wounded>
+
+You start to concentrate...
+
+flee
+!O CW HP:Fine Mana:Cold Muranog:Wounded>
+You flee head over heels.
+PANIC! You couldn't escape!
+
+!O CW HP:Fine Mana:Cold Muranog:Wounded>
+PANIC! You can't quit the fight!
+
+!O CW HP:Fine Mana:Cold Muranog:Wounded>
+You flee head over heels.
+You flee south.
+The Throne Room
+Exits: north, [east], (west).
+
+!O CW HP:Fine Mana:Cold>
+Some close noise can be heard from the east.
+
+!O CW HP:Fine Mana:Cold>south
+Alas, you cannot go that way...
+
+!O CW HP:Fine Mana:Cold>west
+The Royal Antechamber
+Exits: (east), south, west.
+
+![ CW HP:Fine Mana:Cold>west
+south
+Vaulted Corridor
+Exits: north, east.
+
+!= CW HP:Fine Mana:Cold>
+Alas, you cannot go that way...
+
+!= CW HP:Fine Mana:Cold>south
+Alas, you cannot go that way...
+
+!= CW HP:Fine Mana:Cold>east
+The Royal Antechamber
+Exits: (east), south, west.
+
+![ CW HP:Fine Mana:Cold>south
+The Royal Way
+Exits: north, =east=, =west=.
+
+!+ CW HP:Fine Mana:Cold>west
+The Royal Way
+Exits: north, =east=, =south=.
+
+!+ CW HP:Fine Mana:Cold>south
+east
+Hwain's Well Hall
+Exits: =north=, =east=, =south=, =west=.
+
+!+ CW HP:Fine Mana:Cold>
+Hwain's Well Hall
+Exits: east, =south=, =west=.
+
+!+ CW HP:Fine Mana:Warm>east
+Dark Sloping Avenue
+Exits: east, west.
+
+![ CW HP:Fine Mana:Warm>east
+Dark Sloping Avenue
+Exits: east, west.
+
+![ CW HP:Fine Mana:Warm>east
+Dark Sloping Avenue
+Exits: east, west.
+
+![ CW HP:Fine Mana:Warm>east
+Dark Sloping Avenue
+Exits: east, west.
+
+![ CW HP:Fine Mana:Warm>east
+Blackened Hall
+Exits: east, south, west.
+
+![ CW HP:Fine Mana:Warm>south
+Blackened Hall
+Exits: north, east, south, west.
+
+![ CW HP:Fine Mana:Warm>south
+Blackened Hall
+Exits: north, east, west.
+
+![ CW HP:Fine Mana:Warm>west
+Muck-filled Passage
+Traces of pale white tones form the aura of this place.
+A huge troll (aa) is  S L E E P I N G.
+Exits: north, east, west.
+
+!= CW HP:Fine Mana:Warm>ww
+order followers wake;order followers stand
+A huge troll (aa) wakes up.
+Ok.
+A huge troll (aa) clambers to his feet.
+
+!= CW HP:Fine Mana:Warm>
+Ok.
+
+!= CW HP:Fine Mana:Warm>sc
+214/247 hits, 39/141 mana, and 55/115 moves.
+
+!= CW HP:Fine Mana:Warm>x muranog
+examine muranog
+You don't see any muranog.
+
+!= CW HP:Fine Mana:Warm>gr aa
+A huge troll (aa) is now a group member.
+
+!= CW HP:Fine Mana:Warm>kk muranog
+order followers kil  muranog
+Ok.
+
+!= CW HP:Fine Mana:Warm>sco e
+[scout e]
+You quietly scout eastwards...
+
+Blackened Hall
+Exits: north, east, west.
+
+You stop scouting.
+
+!= CW HP:Fine Mana:Warm>sco e
+[scout e]
+You quietly scout eastwards...
+
+Blackened Hall
+Exits: north, east, west.
+
+You stop scouting.
+
+!= CW HP:Fine Mana:Warm>
+Muranog has arrived from the east.
+
+!= CW HP:Fine Mana:Warm>
+Muranog barely crushes your right leg and tickles it.
+
+!= CW HP:Fine Mana:Warm Muranog:Wounded>kk muranog
+order followers kil  muranog
+Muranog swiftly dodges a huge troll (aa)'s attempt to hit him.
+Ok.
+Muranog says 'Ohhers zaje already xried zo kill me. Wzey are dead nog.'
+
+!= CW HP:Fine Mana:Warm Muranog:Wounded>
+You barely pierce Muranog's right hand and tickle it.
+
+!= CW HP:Fine Mana:Warm Muranog:Wounded>f
+You flee head over heels.
+You flee north.
+Flooded Armoury
+Exits: south.
+
+!% CW HP:Fine Mana:Warm>south
+x muranog
+examine muranog
+Muck-filled Passage
+Traces of white tones form the aura of this place.
+A huge troll (aa) is here, fighting Muranog.
+Muranog, wielding an iron-shod mace, is here, fighting a huge troll (aa).
+Exits: north, east, west.
+
+!= CW HP:Fine Mana:Warm>
+Standing taller than any around him, this olog has a distinct aura of power
+about him. As the High Lieutenant of Durin's Bane he commands the Balrog's
+forces in Moria and is a fearsome creature indeed. His red, fiery eyes look
+out from the deep sockets and his skin shines a scaly jet black.
+Muranog has some big nasty scratches.
+Muranog is using:
+<wielded>            an iron-shod mace
+<held>               a corberyl
+<worn on head>       a great helm (used)
+<worn on body>       a fine metal breastplate (flawless)
+<worn on arms>       a fine pair of metal vambraces (satisfactory)
+<worn on hands>      a fine pair of metal gauntlets (well-maintained)
+<worn on legs>       a fine pair of metal greaves (used)
+<worn on feet>       a fine pair of metal boots (worn)
+<worn as belt>       a studded leather belt
+
+!= CW HP:Fine Mana:Warm>cast normal 'colour s' muranog
+Muranog crushes a huge troll (aa)'s body extremely hard.
+
+!= CW HP:Fine Mana:Warm>
+You start to concentrate...
+
+Ok.
+You spray Muranog with many-coloured rays of bright light.
+
+!= CW HP:Fine Mana:Warm>cast normal 'colour s' muranog
+You start to concentrate...
+
+x muranog
+examine muranog
+Muranog crushes a huge troll (aa)'s right foot extremely hard.
+
+cast normal 'colour s' muranog
+Ok.
+You spray Muranog with many-coloured rays of bright light.
+
+!= CW HP:Fine Mana:Cold>
+Standing taller than any around him, this olog has a distinct aura of power
+about him. As the High Lieutenant of Durin's Bane he commands the Balrog's
+forces in Moria and is a fearsome creature indeed. His red, fiery eyes look
+out from the deep sockets and his skin shines a scaly jet black.
+Muranog looks pretty hurt.
+Muranog is using:
+<wielded>            an iron-shod mace
+<held>               a corberyl
+<worn on head>       a great helm (used)
+<worn on body>       a fine metal breastplate (flawless)
+<worn on arms>       a fine pair of metal vambraces (satisfactory)
+<worn on hands>      a fine pair of metal gauntlets (well-maintained)
+<worn on legs>       a fine pair of metal greaves (used)
+<worn on feet>       a fine pair of metal boots (worn)
+<worn as belt>       a studded leather belt
+
+!= CW HP:Fine Mana:Cold>
+
+You start to concentrate...
+
+cast normal 'colour s' muranog
+Ok.
+You spray Muranog with many-coloured rays of bright light.
+
+!= CW HP:Fine Mana:Cold>
+
+You start to concentrate...
+
+cast normal 'colour s' muranog
+Muranog crushes a huge troll (aa)'s right leg extremely hard.
+
+Ok.
+You spray Muranog with many-coloured rays of bright light.
+Muranog says 'Otxers have already wried to kill me. Twey are dead noz.'
+
+!= CW HP:Fine Mana:Icy>
+Alas, not enough mana flows through you...
+
+!= CW HP:Fine Mana:Icy>x muranog
+examine muranog
+Standing taller than any around him, this olog has a distinct aura of power
+about him. As the High Lieutenant of Durin's Bane he commands the Balrog's
+forces in Moria and is a fearsome creature indeed. His red, fiery eyes look
+out from the deep sockets and his skin shines a scaly jet black.
+Muranog is in very bad shape.
+Muranog is using:
+<wielded>            an iron-shod mace
+<held>               a corberyl
+<worn on head>       a great helm (used)
+<worn on body>       a fine metal breastplate (flawless)
+<worn on arms>       a fine pair of metal vambraces (satisfactory)
+<worn on hands>      a fine pair of metal gauntlets (well-maintained)
+<worn on legs>       a fine pair of metal greaves (used)
+<worn on feet>       a fine pair of metal boots (worn)
+<worn as belt>       a studded leather belt
+
+!= CW HP:Fine Mana:Icy>cast normal 'colour s' muranog
+Alas, not enough mana flows through you...
+
+!= CW HP:Fine Mana:Icy>sc
+228/247 hits, 9/133 mana, and 62/115 moves.
+
+!= CW HP:Fine Mana:Icy>sl
+You go to sleep.
+
+o= CW HP:Fine Mana:Icy>sc
+229/247 hits, 9/133 mana, and 63/115 moves.
+
+o= CW HP:Fine Mana:Icy>sc
+230/247 hits, 10/133 mana, and 64/115 moves.
+
+o= CW HP:Fine Mana:Icy>wake;look;stand;ride pa
+You wake, and sit up.
+
+!= CW HP:Fine Mana:Icy>
+Muck-filled Passage
+Traces of fierce white tones form the aura of this place.
+A huge troll (aa) is sitting here, trying to fight Muranog.
+Muranog, wielding an iron-shod mace, is here, fighting a huge troll (aa).
+Exits: north, east, west.
+Muranog crushes a huge troll (aa)'s head extremely hard.
+
+!= CW HP:Fine Mana:Icy>cast normal 'colour s' muranog
+You stand up.
+
+!= CW HP:Fine Mana:Icy>
+What do you want to ride?
+
+!= CW HP:Fine Mana:Icy>
+
+You start to concentrate...
+
+Ok.
+You spray Muranog with many-coloured rays of bright light.
+
+!= CW HP:Fine Mana:Frozen>sc
+233/247 hits, 1/133 mana, and 67/115 moves.
+
+!= CW HP:Fine Mana:Frozen>sl
+You go to sleep.
+
+o= CW HP:Fine Mana:Icy>sc
+234/247 hits, 2/133 mana, and 68/115 moves.
+
+o= CW HP:Fine Mana:Icy>wake;look;stand;ride pa
+You wake, and sit up.
+
+!= CW HP:Fine Mana:Icy>
+Muck-filled Passage
+Traces of fierce white tones form the aura of this place.
+A huge troll (aa) is here, fighting Muranog.
+Muranog, wielding an iron-shod mace, is here, fighting a huge troll (aa).
+Exits: north, east, west.
+
+!= CW HP:Fine Mana:Icy>
+You stand up.
+
+!= CW HP:Fine Mana:Icy>
+What do you want to ride?
+
+!= CW HP:Fine Mana:Icy>x bb
+examine bb
+You don't see any bb.
+
+!= CW HP:Fine Mana:Icy>x aa
+examine aa
+This troll has been bred by the Burzruth orcs to serve as a source of food.
+Its flesh is soft and bloated, it is not as fast or strong as its captive
+forbears, and it is virtually mindless.  However, it is blindly hungry and
+unusually large.  It has been conditioned to eat bats, prisoners, others
+of its kind, and, indeed, anything other than its Burzruth guards.  It gapes
+at you, drools, waddles toward you, and swings its meaty fist in your 
+direction.
+A huge troll (aa) has several bruises.
+A huge troll (aa) has:
+    a clean serious wound at the body
+
+!= CW HP:Fine Mana:Icy>
+Muranog B A S H E S ____a huge troll (aa)
+
+!= CW HP:Fine Mana:Icy>x Muranog
+examine Muranog
+Standing taller than any around him, this olog has a distinct aura of power
+about him. As the High Lieutenant of Durin's Bane he commands the Balrog's
+forces in Moria and is a fearsome creature indeed. His red, fiery eyes look
+out from the deep sockets and his skin shines a scaly jet black.
+Muranog is in very bad shape.
+Muranog is using:
+<wielded>            an iron-shod mace
+<held>               a corberyl
+<worn on head>       a great helm (used)
+<worn on body>       a fine metal breastplate (flawless)
+<worn on arms>       a fine pair of metal vambraces (satisfactory)
+<worn on hands>      a fine pair of metal gauntlets (well-maintained)
+<worn on legs>       a fine pair of metal greaves (used)
+<worn on feet>       a fine pair of metal boots (worn)
+<worn as belt>       a studded leather belt
+Muranog crushes a huge troll (aa)'s body extremely hard.
+
+!= CW HP:Fine Mana:Icy>sl
+You go to sleep.
+
+o= CW HP:Fine Mana:Icy>sc
+239/247 hits, 5/133 mana, and 72/115 moves.
+
+o= CW HP:Fine Mana:Icy>st
+stat
+OB: 42%, DB: -29%, PB: 47%, Armour: 91%. Wimpy: 100. Mood: wimpy.
+Needed: 609,840 xp, 0 tp. Lauren: 685. Alert: normal.
+Affected by:
+- panic
+- unable to quit
+- potion
+- sanctuary (3m45s)
+- potion
+- detect magic (17m13s)
+- strength (💪 17m30s  )
+- shield   (⛉ 17m39s  )
+- armour   (🧥 17m40s  )
+
+o= CW HP:Fine Mana:Icy>who
+Players
+-------
+      Barin the Barbarian
+      Lor the Elven Adventurer
+      Armintia the Hobbit Ranger (Linkless)
+      Dawnreborn Mortarman of Rivendell
+      Umnik smart headmaster
+      Auleryun of Aule
+      Silkouska the Elven Adventurer
+      Procol Harum
+      Bash Broadbeam, of Belegost
+      Kazadum Grimbeard, Champion
+      Fianchetto the Elven Adventurer
+      Odinson, Pantheon Prince of the Arcane Order
+
+12 allies on.
+
+o= CW HP:Fine Mana:Icy>sc
+244/247 hits, 10/133 mana, and 77/115 moves.
+
+o= CW HP:Fine Mana:Icy>sc
+245/247 hits, 10/133 mana, and 79/115 moves.
+
+o= CW HP:Fine Mana:Icy>wake;look;stand;ride pa
+You wake, and sit up.
+
+!= CW HP:Fine Mana:Icy>cast normal 'colour s' muranog
+Muck-filled Passage
+Traces of fierce white tones form the aura of this place.
+A huge troll (aa) is here, fighting Muranog.
+Muranog, wielding an iron-shod mace, is here, fighting a huge troll (aa).
+Exits: north, east, west.
+
+!= CW HP:Fine Mana:Icy>
+You stand up.
+
+!= CW HP:Fine Mana:Icy>
+What do you want to ride?
+
+!= CW HP:Fine Mana:Icy>
+
+You start to concentrate...
+
+Ok.
+Your spray of light rips Muranog apart completely, killing him.
+You receive your share of experience.
+Good job!
+You hear Muranog's death cry as he collapses.
+Muranog is dead! R.I.P.
+A shadow slowly rises above the corpse of Muranog.
