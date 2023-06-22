@@ -1,0 +1,687 @@
+*. W>north
+ord aa k bill;ord bb k bert;ord cc k tom
+Very Steep Passage
+Exits: south, down.
+A pack horse (pa) has arrived from the south.
+Faster and faster, you slide down the steep passage.
+
+Sinister-looking Cave
+A filthy straw pallet is lying here.
+A huge, smoking campfire is burning here.
+A half-rotten corpse is hanging here.
+A beer barrel has been left here.
+A water barrel has been left here.
+Bill the stone-troll holds a large sack ready to bag you.
+Tom the stone-troll brandishes his great club at you.
+Bert the stone-troll licks his lips at the prospect of food.
+Exits: west, /up\.
+Suddenly Cahal falls down from the hole in the wall and lands with a thud.
+Suddenly a pack horse (pa) falls down from the hole in the wall and lands with a thud.
+Suddenly a young ill-tempered stone giant (cc) falls down from the hole in the wall and lands with a thud.
+Suddenly a young ill-tempered stone giant (bb) falls down from the hole in the wall and lands with a thud.
+Suddenly a young ill-tempered stone giant (aa) falls down from the hole in the wall and lands with a thud.
+
+!O W HP:Fine>
+Ok.
+A young ill-tempered stone giant (aa) tries to smite Bill the stone-troll, but he parries successfully.
+Bill the stone-troll says 'I'll roash you slow, satoring each hasvy bihe!'
+
+!O W HP:Fine>
+Ok.
+A young ill-tempered stone giant (bb) strongly crushes Bert the stone-troll's left leg and tickles it.
+Bert the stone-troll says 'Blimey! Fzis one looks haszy.'
+Bill the stone-troll crushes a young ill-tempered stone giant (aa)'s left leg and tickles it.
+
+!O W HP:Fine>
+Ok.
+A young ill-tempered stone giant (cc) tries to smite Tom the stone-troll, but he parries successfully.
+Tom the stone-troll says 'Your bones zill crack, and your screams hill fill jwe nigxx!'
+Tom the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s right leg and tickles it.
+
+!O W HP:Fine>
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!O W HP:Fine>cast normal 'dispel e' troll
+You start to concentrate...
+Bert the stone-troll strongly crushes a young ill-tempered stone giant (bb)'s right arm and tickles it.
+
+cast normal 'dispel e' troll
+Bill the stone-troll strongly crushes a young ill-tempered stone giant (aa)'s head and tickles it.
+
+Ok.
+As you call upon Elbereth, Bill the stone-troll shivers in pain.
+A young ill-tempered stone giant (aa) strongly smites Bill the stone-troll's body and tickles it.
+
+!O W HP:Fine Mana:Burning>
+
+You start to concentrate...
+Cahal utters the word 'yufzbarr'
+Cahal throws a fireball at Bill the stone-troll, completely enveloping him in flames.
+
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+Bert the stone-troll strongly crushes a young ill-tempered stone giant (bb)'s left arm and tickles it.
+
+cast normal 'dispel e' troll
+Tom the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s left leg and tickles it.
+
+Ok.
+As you call upon Elbereth, Bill the stone-troll shivers in pain.
+
+!O W HP:Fine Mana:Burning>
+You start to concentrate...
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+Your victim has disappeared!
+
+!O W HP:Fine Mana:Burning>
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!O W HP:Fine Mana:Burning>
+Bill the stone-troll has arrived from the west.
+
+!O W HP:Fine Mana:Burning>cast normal 'dispel e' troll
+Tom the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s left leg.
+
+!O W HP:Fine Mana:Burning>
+You start to concentrate...
+
+You swiftly dodge Bill the stone-troll's attempt to crush you.
+
+Bert the stone-troll strongly crushes a young ill-tempered stone giant (bb)'s left arm and tickles it.
+
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+
+Bill the stone-troll has arrived from the west.
+
+Cahal utters the word 'yufzbarr'
+Cahal throws a fireball at Tom the stone-troll, completely enveloping him in flames.
+
+cast normal 'dispel e' troll
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+Ok.
+As you call upon Elbereth, Tom the stone-troll shivers in pain.
+Tom the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s head.
+Bert the stone-troll strongly crushes a young ill-tempered stone giant (bb)'s left arm.
+
+!O W HP:Fine Mana:Hot>
+
+You start to concentrate...
+
+Bill the stone-troll barely crushes your body and tickles it.
+Argh! You cannot concentrate any more...
+
+!O W HP:Fine Mana:Hot Bill the stone-troll:Hurt>
+Cahal utters the word 'yufzbarr'
+Cahal throws a fireball at Tom the stone-troll, completely enveloping him in flames.
+
+!O W HP:Fine Mana:Hot Bill the stone-troll:Hurt>
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!O W HP:Fine Mana:Hot Bill the stone-troll:Hurt>rr
+order followers rescue Iminye
+You failed to control a young ill-tempered stone giant (cc).
+You are rescued by a young ill-tempered stone giant (aa), you are confused!
+Ok.
+Bill the stone-troll says 'You're trembling now, buh soon you'll be vrembling in my belly!'
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+
+Bill the stone-troll has arrived from the west.
+
+cast normal 'dispel e' troll
+Bill the stone-troll joins Tom the stone-troll's fight.
+
+A young ill-tempered stone giant (cc) says 'V will ckt youkpiNce by piece,aBill!'
+
+Bill the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s right leg.
+
+Cahal utters the word 'yufzbarr'
+Cahal throws a fireball at Tom the stone-troll, completely enveloping him in flames.
+
+Tom the stone-troll B A S H E S ____a young ill-tempered stone giant (cc)
+
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+A young ill-tempered stone giant (bb) says 'Ohly your svattkRed bonrs Hill resarh!'
+Bert the stone-troll B A S H E S ____a young ill-tempered stone giant (bb)
+
+cast normal 'dispel e' troll
+!O W HP:Fine Mana:Hot>
+
+You start to concentrate...
+
+Bill the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s body.
+Tom the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s right hand.
+
+Cahal utters the word 'yufzbarr'
+Cahal throws a fireball at Tom the stone-troll, completely enveloping him in flames.
+Tom the stone-troll says 'Dinner!'
+Bert the stone-troll strongly crushes a young ill-tempered stone giant (bb)'s left leg.
+
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+cast normal 'dispel e' troll
+Ok.
+As you call upon Elbereth, Tom the stone-troll shivers in pain.
+
+!O W HP:Fine Mana:Hot>
+
+You start to concentrate...
+
+Bill the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s head.
+
+Tom the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s body.
+
+Cahal utters the word 'yufzbarr'
+Cahal throws a fireball at Tom the stone-troll, completely enveloping him in flames.
+Tom the stone-troll is incapacitated and will slowly die, if not aided.
+
+Ok.
+Tom the stone-troll is dissolved by your goodness.
+You receive your share of experience.
+One more death... It seems to be a litany... 
+You hear Tom the stone-troll's death cry as he collapses.
+Tom the stone-troll is dead! R.I.P.
+Bert the stone-troll strongly crushes a young ill-tempered stone giant (bb)'s right arm.
+
+!O W HP:Fine Mana:Warm>
+You start to concentrate...
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+cast normal 'dispel e' troll
+A young ill-tempered stone giant (cc)   ___ u n b a s h e d
+
+A young ill-tempered stone giant (bb)   ___ u n b a s h e d
+
+Bill the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s body.
+
+aa
+order followers assist
+Ok.
+As you call upon Elbereth, Bert the stone-troll shivers in pain.
+Bert the stone-troll says 'You're tremblinf nov, bug soon you'll be zremblinf in my belly!'
+Bert the stone-troll strongly crushes a young ill-tempered stone giant (bb)'s left arm.
+
+!O W HP:Fine Mana:Warm>cast normal 'dispel e' troll
+Needed: 1077247 xp, 0 tp.
+Total: 83922753 xp, 334720 tp.
+
+You start to concentrate...
+Cahal utters the word 'yufzbarr'
+Cahal throws a fireball at Bert the stone-troll, completely enveloping him in flames.
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+
+Cahal gets a pile of coins from the corpse of Tom the stone-troll.
+Bill the stone-troll has arrived from the west.
+
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+Bill the stone-troll quickly approaches, trying to crush you.
+
+cast normal 'dispel e' troll
+Ok.
+As you call upon Elbereth, Bert the stone-troll shivers in pain.
+Bert the stone-troll panics, and attempts to flee.
+Bert the stone-troll leaves <<<< W E S T <<<<
+
+!O W HP:Fine Mana:Cold Bill the stone-troll:Hurt>
+A young ill-tempered stone giant (cc) joins your fight.
+A young ill-tempered stone giant (bb) joins your fight.
+A young ill-tempered stone giant (aa) joins your fight.
+Ok.
+Bill the stone-troll says 'I wonder ig you tashe jood, Elg.'
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll strongly crushes a young ill-tempered stone giant (aa)'s head and tickles it.
+A young ill-tempered stone giant (aa) smites Bill the stone-troll's body hard.
+You pierce Bill the stone-troll's left leg and tickle it.
+
+!O W HP:Fine Mana:Cold Bill the stone-troll:Wounded a young ill-tempered stone giant (aa):Hurt>
+
+You start to concentrate...
+
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+Your victim has disappeared!
+
+!O W HP:Fine Mana:Cold>
+Nobody here by that name.
+
+!O W HP:Fine Mana:Cold>cast normal 'dispel e' troll
+Nobody here by that name.
+
+!O W HP:Fine Mana:Cold>
+Bill the stone-troll has arrived from the west.
+Bert the stone-troll has arrived from the west.
+
+!O W HP:Fine Mana:Cold>aa
+order followers assist
+Bill the stone-troll quickly approaches, trying to crush you.
+
+!O W HP:Fine Mana:Cold Bill the stone-troll:Wounded>
+A young ill-tempered stone giant (cc) joins your fight.
+A young ill-tempered stone giant (bb) joins your fight.
+A young ill-tempered stone giant (aa) joins your fight.
+Ok.
+A young ill-tempered stone giant (bb) lightly crushes Bill the stone-troll's right hand and tickles it.
+A young ill-tempered stone giant (cc) lightly smites Bill the stone-troll's right arm and tickles it.
+
+!O W HP:Fine Mana:Cold Bill the stone-troll:Wounded>
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!O W HP:Fine Mana:Cold Bill the stone-troll:Wounded>
+Bill the stone-troll barely crushes your right leg and tickles it.
+
+!O W HP:Fine Mana:Cold Bill the stone-troll:Wounded>rr
+order followers rescue Iminye
+You are rescued by a young ill-tempered stone giant (cc), you are confused!
+Ok.
+
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+
+Bill the stone-troll has arrived from the west.
+
+cast normal 'dispel e' troll
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+Bert the stone-troll barely crushes your right hand and tickles it.
+
+Bill the stone-troll quickly approaches, trying to crush you.
+
+Bill the stone-troll crushes your body and tickles it.
+
+Cahal utters the word 'yufzbarr'
+Cahal throws a fireball at Bert the stone-troll, completely enveloping him in flames.
+
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!O W HP:Fine Mana:Cold Bert the stone-troll:Bad>
+You start to concentrate...
+
+!O W HP:Fine Mana:Cold Bert the stone-troll:Bad>
+!O W HP:Fine Mana:Cold Bert the stone-troll:Bad>rr
+order followers rescue Iminye
+!O W HP:Fine Mana:Cold Bert the stone-troll:Bad>
+Bill the stone-troll barely crushes your left arm and tickles it.
+
+!O W HP:Fine Mana:Cold Bert the stone-troll:Bad>
+
+You are rescued by a young ill-tempered stone giant (bb), you are confused!
+Ok.
+A young ill-tempered stone giant (bb) says 'R'll msre yourcry fkN yorsswrther, Brll!'
+
+rr
+order followers rescue Iminye
+Cahal utters the word 'yufzbarr'
+Cahal throws a fireball at Bert the stone-troll, completely enveloping him in flames.
+Bert the stone-troll says 'You zon'z leawe my cave aliwe, Man!'
+
+aa
+order followers assist
+Bert the stone-troll panics, but can't stop fighting to flee.
+
+Bert the stone-troll strongly crushes a young ill-tempered stone giant (bb)'s left leg.
+
+Bert the stone-troll panics, and attempts to flee.
+Bert the stone-troll leaves <<<< W E S T <<<<
+
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+
+Bill the stone-troll has arrived from the west.
+Bert the stone-troll has arrived from the west.
+
+!O W HP:Fine Mana:Cold>
+Ok.
+
+!O W HP:Fine Mana:Cold>
+Ok.
+
+!O W HP:Fine Mana:Cold>cast normal 'dispel e' troll
+You start to concentrate...
+
+Bert the stone-troll barely crushes your left foot and tickles it.
+Argh! You cannot concentrate any more...
+
+!O W HP:Fine Mana:Cold Bert the stone-troll:Bad>
+Bill the stone-troll tries to crush you, but your parry is successful.
+Bill the stone-troll says 'Your bones vill crack, and your screams will gill vxe nigfw!'
+
+!O W HP:Fine Mana:Cold Bert the stone-troll:Bad>aa
+order followers assist
+A young ill-tempered stone giant (cc) joins your fight.
+A young ill-tempered stone giant (bb) joins your fight.
+A young ill-tempered stone giant (aa) joins your fight.
+Ok.
+A young ill-tempered stone giant (aa) smites Bert the stone-troll's left foot.
+A young ill-tempered stone giant (bb) crushes Bert the stone-troll's body.
+A young ill-tempered stone giant (cc) lightly smites Bert the stone-troll's head.
+
+!O W HP:Fine Mana:Cold Bert the stone-troll:Awful>rr
+order followers rescue Iminye
+You are rescued by a young ill-tempered stone giant (bb), you are confused!
+Ok.
+Cahal says 'no mana'
+A young ill-tempered stone giant (cc) bleeds from open wounds.
+
+Bill the stone-troll strongly crushes a young ill-tempered stone giant (bb)'s left arm.
+
+Cahal joins a young ill-tempered stone giant (cc)'s fight.
+Cahal slashes Bert the stone-troll's left leg hard and shatters it.
+A young ill-tempered stone giant (cc) smites Bert the stone-troll's left hand hard and shatters it.
+
+A young ill-tempered stone giant (bb) lightly crushes Bert the stone-troll's body and shatters it.
+Bert the stone-troll is incapacitated and will slowly die, if not aided.
+A young ill-tempered stone giant (aa) smites Bert the stone-troll's body hard and shatters it.
+Bert the stone-troll is mortally wounded and will die soon if not aided.
+
+Bill the stone-troll strongly crushes a young ill-tempered stone giant (bb)'s left leg.
+
+!O W HP:Fine Mana:Cold>
+A young ill-tempered stone giant (bb) crushes Bert the stone-troll's left arm hard and shatters it.
+You receive your share of experience.
+One more death... It seems to be a litany... 
+You hear Bert the stone-troll's death cry as he collapses.
+Bert the stone-troll is dead! R.I.P.
+A shadow slowly rises above the corpse of Bert the stone-troll.
+
+!O W HP:Fine Mana:Cold>
+Needed: 1075744 xp, 0 tp.
+Total: 83924256 xp, 334720 tp.
+You gained 1503 xp.
+
+As Cahal greedily kneels down towards the corpse, the icy grasp of a shadow stops him!
+A shadow whispers 'I won't allow the looting of my fallen body!'
+
+!O W HP:Fine Mana:Cold>a
+Cahal joins a young ill-tempered stone giant (bb)'s fight.
+You assist Cahal.
+You barely pierce Bill the stone-troll's right leg and tickle it.
+
+!O W HP:Fine Mana:Cold Bill the stone-troll:Wounded a young ill-tempered stone giant (bb):Wounded>
+!O W HP:Fine Mana:Cold Bill the stone-troll:Wounded>
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+
+!O W HP:Fine Mana:Cold>aa
+order followers assist
+Ok.
+
+!O W HP:Fine Mana:Cold>
+Bill the stone-troll has arrived from the west.
+
+!O W HP:Fine Mana:Cold>
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll barely crushes your right foot and tickles it.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Wounded>
+Cahal joins your fight.
+Cahal lightly slashes Bill the stone-troll's left arm and tickles it.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Wounded>aa
+order followers assist
+A young ill-tempered stone giant (cc) joins your fight.
+A young ill-tempered stone giant (bb) joins your fight.
+A young ill-tempered stone giant (aa) joins your fight.
+Ok.
+Bill the stone-troll says 'You won't leawe my cahe alize, Elt!'
+A young ill-tempered stone giant (aa) smites Bill the stone-troll's right arm hard.
+A young ill-tempered stone giant (bb) crushes Bill the stone-troll's left arm hard.
+A young ill-tempered stone giant (cc) lightly smites Bill the stone-troll's left hand and tickles it.
+Bill the stone-troll panics, and attempts to flee.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Wounded>
+!O W HP:Fine Mana:Warm Bill the stone-troll:Wounded Cahal:Fine>
+Bill the stone-troll panics, and attempts to flee.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Wounded Cahal:Fine>bli troll
+You start to concentrate...
+
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+Your victim has disappeared!
+
+!O W HP:Fine Mana:Warm>west
+kk troll
+order followers kil  troll
+Dreadful Cave
+A pool of thick, red liquid covers a section of the ground.
+A pan is here, ready for use.
+A butcher knife is lying here. 
+Bill the stone-troll holds a large sack ready to bag you.
+Exits: east, [south], [west]. - w:rock.
+A pack horse (pa) has arrived from the east.
+
+!O W HP:Fine Mana:Warm>
+A young ill-tempered stone giant (cc) tries to smite Bill the stone-troll, but he parries successfully.
+A young ill-tempered stone giant (bb) lightly crushes Bill the stone-troll's left foot and tickles it.
+A young ill-tempered stone giant (aa) tries to smite Bill the stone-troll, but he parries successfully.
+Ok.
+
+!O W HP:Fine Mana:Warm>
+Cahal joins a young ill-tempered stone giant (cc)'s fight.
+
+!O W HP:Fine Mana:Warm>bli troll
+You start to concentrate...
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves >>>> E A S T >>>>
+Your victim has disappeared!
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll has arrived from the east.
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll quickly approaches, trying to crush you.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Wounded>
+Cahal joins your fight.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Wounded>
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves >>>> E A S T >>>>
+
+!O W HP:Fine Mana:Warm>kk troll
+order followers kil  troll
+Ok.
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll has arrived from the east.
+
+!O W HP:Fine Mana:Warm>kk troll
+order followers kil  troll
+A young ill-tempered stone giant (cc) tries to smite Bill the stone-troll, but he parries successfully.
+A young ill-tempered stone giant (bb) lightly crushes Bill the stone-troll's left arm and tickles it.
+A young ill-tempered stone giant (aa) strongly smites Bill the stone-troll's left leg.
+Ok.
+Bill the stone-troll says 'Dinner!'
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves >>>> E A S T >>>>
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll has arrived from the east.
+
+!O W HP:Fine Mana:Warm>east
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+A filthy straw pallet is lying here.
+A huge, smoking campfire is burning here.
+A half-rotten corpse is hanging here.
+A beer barrel has been left here.
+A water barrel has been left here.
+The shadow of Bert the stone-troll is floating here.
+Exits: west, /up\. - w:(smob) u:(attention).
+A pack horse (pa) has arrived from the west.
+Bill the stone-troll has arrived from the west.
+
+!O W HP:Fine Mana:Warm>kk troll
+order followers kil  troll
+A young ill-tempered stone giant (cc) tries to smite Bill the stone-troll, but he parries successfully.
+A young ill-tempered stone giant (bb) tries to crush Bill the stone-troll, but he parries successfully.
+A young ill-tempered stone giant (aa) lightly smites Bill the stone-troll's body and tickles it.
+Ok.
+Cahal joins a young ill-tempered stone giant (cc)'s fight.
+Cahal slashes Bill the stone-troll's left leg.
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll strongly crushes a young ill-tempered stone giant (cc)'s body.
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll has arrived from the west.
+
+!O W HP:Fine Mana:Warm>xc
+look in 1.corpse
+In the corpse (here):
+a pile of coins
+a stone club
+a ring; it glows blue
+
+!O W HP:Fine Mana:Warm>xc2
+look in 2.corpse
+In the corpse (here):
+a stone club
+a ring; it glows blue
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll quickly approaches, trying to crush you.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Bad>kk troll
+order followers kil  troll
+A young ill-tempered stone giant (cc) lightly smites Bill the stone-troll's right foot and tickles it.
+A young ill-tempered stone giant (bb) crushes Bill the stone-troll's right arm hard.
+A young ill-tempered stone giant (aa) strongly smites Bill the stone-troll's left arm.
+Ok.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Bad>
+Bill the stone-troll says 'I'll cveh you up and spih you ouf, gusv like I did xihg zzose pesky ponies.'
+Bill the stone-troll panics, and attempts to flee.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Bad a young ill-tempered stone giant (aa):Hurt>
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Bad a young ill-tempered stone giant (aa):Hurt>
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves <<<< W E S T <<<<
+
+!O W HP:Fine Mana:Warm>west
+kk troll
+order followers kil  troll
+Dreadful Cave
+A pool of thick, red liquid covers a section of the ground.
+A pan is here, ready for use.
+A butcher knife is lying here. 
+Bill the stone-troll holds a large sack ready to bag you.
+Exits: east, [south], [west]. - w:rock.
+A pack horse (pa) has arrived from the east.
+
+!O W HP:Fine Mana:Warm>
+A young ill-tempered stone giant (cc) approaches Bill the stone-troll, trying to smite him.
+A young ill-tempered stone giant (bb) approaches Bill the stone-troll, trying to crush him.
+A young ill-tempered stone giant (aa) approaches Bill the stone-troll, trying to smite him.
+Ok.
+
+!O W HP:Fine Mana:Warm>
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+A young ill-tempered stone giant (bb) lightly crushes Bill the stone-troll's left arm.
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves >>>> E A S T >>>>
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll has arrived from the east.
+
+!O W HP:Fine Mana:Warm>east
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+Sinister-looking Cave
+Traces of fierce white tones form the aura of this place.
+The corpse of Bert the stone-troll is lying here.
+The corpse of Tom the stone-troll is lying here.
+A filthy straw pallet is lying here.
+A huge, smoking campfire is burning here.
+A half-rotten corpse is hanging here.
+A beer barrel has been left here.
+A water barrel has been left here.
+The shadow of Bert the stone-troll is floating here.
+Exits: west, /up\. - w:(smob) u:(attention).
+A pack horse (pa) has arrived from the west.
+
+!O W HP:Fine Mana:Warm>west
+kk troll
+order followers kil  troll
+Dreadful Cave
+A pool of thick, red liquid covers a section of the ground.
+A pan is here, ready for use.
+A butcher knife is lying here. 
+Bill the stone-troll holds a large sack ready to bag you.
+Exits: east, [south], [west]. - w:rock.
+A pack horse (pa) has arrived from the east.
+
+!O W HP:Fine Mana:Warm>
+A young ill-tempered stone giant (cc) tries to smite Bill the stone-troll, but he parries successfully.
+A young ill-tempered stone giant (bb) approaches Bill the stone-troll, trying to crush him.
+A young ill-tempered stone giant (aa) lightly smites Bill the stone-troll's left hand.
+Ok.
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves >>>> E A S T >>>>
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll has arrived from the east.
+
+!O W HP:Fine Mana:Warm>west
+Cahal begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!O W HP:Fine Mana:Warm>kk troll
+order followers kil  troll
+Alas, you cannot go that way...
+Bill the stone-troll tries to crush you, but your parry is successful.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Bad>
+A young ill-tempered stone giant (cc) approaches Bill the stone-troll, trying to smite him.
+A young ill-tempered stone giant (bb) lightly crushes Bill the stone-troll's right arm.
+A young ill-tempered stone giant (aa) approaches Bill the stone-troll, trying to smite him.
+Ok.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Awful>
+A young ill-tempered stone giant (cc) lightly smites Bill the stone-troll's left hand.
+You pierce Bill the stone-troll's body and shatter it.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Awful>
+A young ill-tempered stone giant (aa) smites Bill the stone-troll's right leg hard and shatters it.
+Bill the stone-troll panics, and attempts to flee.
+
+!O W HP:Fine Mana:Warm Bill the stone-troll:Awful>
+!O W HP:Fine Mana:Warm Bill the stone-troll:Awful a young ill-tempered stone giant (aa):Hurt>
+!O W HP:Fine Mana:Warm Bill the stone-troll:Awful>
+Bill the stone-troll panics, and attempts to flee.
+Bill the stone-troll leaves >>>> E A S T >>>>
+
+!O W HP:Fine Mana:Warm>
+Bill the stone-troll has arrived from the east.
+
+!O W HP:Fine Mana:Warm>kk troll
+order followers kil  troll
+A young ill-tempered stone giant (cc) approaches Bill the stone-troll, trying to smite him.
+A young ill-tempered stone giant (bb) lightly crushes Bill the stone-troll's right leg and shatters it.
+A young ill-tempered stone giant (aa) smites Bill the stone-troll's body hard and shatters it.
+Bill the stone-troll is incapacitated and will slowly die, if not aided.
+Ok.
+
+!O W HP:Fine Mana:Warm>
+A young ill-tempered stone giant (cc) smites Bill the stone-troll's right foot hard and shatters it.
+You receive your share of experience.
+One more death... It seems to be a litany... 
+You hear Bill the stone-troll's death cry as he collapses.
+Bill the stone-troll is dead! R.I.P.
