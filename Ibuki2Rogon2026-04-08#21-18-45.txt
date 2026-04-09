@@ -1,1 +1,1724 @@
-removed as requested by rogon
+removed some as requested by rogon
+Log session starting at 21:18:45 on Wednesday, 8 April 2026.
+
+Welcome to the land of Middle-earth. May your visit here be... interesting.
+cha h 333
+eq
+rem pack;wear pack;change wimpy 100;rem mantle;wear mantle;rem cloak;wear cloak;rem shield;wear shield;rem staff;wear 
+staff shield
+change height 50;inf;look
+cha ep dw;cha ep elf;cha ep none
+Never forget! Try to role-play...
+look in 1.pack
+
+Last login 4 days and 21 hours ago from ...
+
+Lodging Foyer
+Traces of pale white tones form the aura of this place.
+Barliman Butterbur, the innkeeper, offers you a room in his inn.
+Exits: south.
+The light of Aman fades away from you.
+     B L E S S   O F F
+
+The spell lasted 29h14m33s.
+   S T R E G T H   D O W N
+The spell lasted 27h46m31s.
+   S H I E L D   D O W N
+The spell lasted 27h46m35s.
+   A R M O U R   D O W N
+The spell lasted 27h46m37s.
+You can shout again.
+Your burden is heavy.
+
+Your default tongue is Westron.
+Your rent was forty-one lauren, one celeb, and forty-nine busc.
+
+Lodging Foyer
+Traces of pale white tones form the aura of this place.
+Barliman Butterbur, the innkeeper, offers you a room in his inn.
+Exits: south.
+
+![ CW HP:Fine>
+No new hidden exits imported.
+
+![ CW HP:Fine>
+192/200 hits, 132/132 mana, and 105/105 moves.
+
+![ CW HP:Fine>
+Ok.
+
+You can only select the epithet Dwarf-friend.
+
+Epithet removed.
+
+![ CW HP:Fine>
+
+You start to concentrate...
+
+A blue transparent wall slowly appears around you.
+
+![ CW HP:Fine Mana:Burning>
+
+You start to concentrate...
+
+who
+You feel protected.
+
+![ CW HP:Fine Mana:Hot>
+Allies
+-------
+      Imin
+      Karvapall the High Priest of Minas Tirith
+      Irelm the Man Adventurer
+      Laureawen the Elf
+      Griri the Dwarf Adventurer
+  <C> Berilac
+      Lagarion :
+      Amroth the Elf Adventurer
+      Sazed the Elf Archer
+      Endonil the Elf Adventurer
+      Fimbrethil
+      Morwion the Elf Adventurer (Linkless)
+      Smooth be the journey!!
+      Ridur, Master Milker
+      Ibuki the star-gazer
+      Earemdae
+      Hated and Loved
+      Barktarag the Dwarf
+      Abnana the Diamond Lady, daughter of Fenuln
+      Halbrand
+      Lirlor
+      Sienrion the Wanderer (Linkless)
+      Dagul Goldseeker
+      Ornithir Uruhiir
+
+24 allies on.
+155 players engaged in the war, with 25 recently active.
+
+![ CW HP:Fine Mana:Hot>g metal all
+You can't find any metal in any container.
+
+![ CW HP:Fine Mana:Hot>
+The storyteller yells loudly from the south 'Hoho. Come to the Prancing Pony and donate'
+
+![ CW HP:Fine Mana:Hot>
+The storyteller yells loudly from the south 'whatever you can for my stories.'
+
+![ CW HP:Fine Mana:Hot>st
+stat
+OB: 62%, DB: 46%, PB: 59%, Armour: 66%. Wimpy: 100. Mood: wimpy.
+Needed: 613,093 xp, 0 tp. Lauren: 864. Alert: normal.
+Affected by:
+- shield   (🛡️ 24s    )
+- armour   (🧥 26s  )
+- growth (9.3 days)
+
+![ CW HP:Fine Mana:Hot>lo
+Lodging Foyer
+Traces of fierce white tones form the aura of this place.
+Barliman Butterbur, the innkeeper, offers you a room in his inn.
+Exits: south.
+
+![ CW HP:Fine Mana:Hot>time
+According to the Sindarin calendar, it is:
+Ormenel, the 16th of Norui, year 3003 of the Third Age.
+You cannot guess the time indoors.
+Real time is Wed Apr  8 18:19:22 2026 UTC.
+Last reboot due to a manual reboot at Tue Apr  7 16:37:44 2026 UTC.
+
+![ CW HP:Fine Mana:Hot>xs
+look in 1.pouch
+In your sable pouch (worn on belt):
+two golden ruby rings
+a golden topaz ring
+a golden emerald ring
+an unfinished band of gold
+an ivory scroll
+
+![ CW HP:Fine Mana:Hot>vstr
+get topaz-ring sable;rem copperring;wear topaz-ring;use topaz-ring;rem topaz-ring;wear copperring;put topaz-ring sable
+![ CW Mana:Hot>
+You get a golden topaz ring from a sable pouch.
+
+![ CW Mana:Hot>
+You stop using a copper ring.
+
+![ CW Mana:Hot>
+You put a golden topaz ring on your right finger.
+
+![ CW Mana:Hot>
+
+You attempt to use the power of a golden topaz ring.
+
+The blood coursing through your veins quickens, feeding your muscles as a surge of strength flows
+through you.
+
+You feel stronger.
+inf %S
+
+![ CW Mana:Burning>
+You stop using a golden topaz ring.
+
+![ CW Mana:Burning>
+You put a copper ring on your right finger.
+You feel your muscles relax and your pulse slow as the strength that welled within you subsides.
+
+![ CW Mana:Burning>
+You put a golden topaz ring in a sable pouch.
+
+![ CW Mana:Burning>
+15
+
+![ CW Mana:Burning>xs
+look in 1.pouch
+In your sable pouch (worn on belt):
+a golden topaz ring
+two golden ruby rings
+a golden emerald ring
+an unfinished band of gold
+an ivory scroll
+
+![ CW Mana:Burning>st
+stat
+OB: 63%, DB: 49%, PB: 59%, Armour: 66%. Wimpy: 100. Mood: wimpy.
+Needed: 613,093 xp, 0 tp. Lauren: 864. Alert: normal.
+Affected by:
+- tiredness (19s)
+- strength (💪 20s  )
+- shield   (🛡️ 1m2s    )
+- armour   (🧥 1m4s  )
+- growth (9.3 days)
+
+![ CW Mana:Burning>who
+Allies
+-------
+      Imin
+      Karvapall the High Priest of Minas Tirith
+      Irelm the Man Adventurer
+      Laureawen the Elf
+      Griri the Dwarf Adventurer
+  <C> Berilac
+      Lagarion :
+      Amroth the Elf Adventurer
+      Sazed the Elf Archer
+      Endonil the Elf Adventurer
+      Fimbrethil
+      Morwion the Elf Adventurer (Linkless)
+      Smooth be the journey!!
+      Ridur, Master Milker
+      Ibuki the star-gazer
+      Earemdae
+      Hated and Loved
+      Barktarag the Dwarf
+      Abnana the Diamond Lady, daughter of Fenuln
+      Halbrand
+      Lirlor
+      Sienrion the Wanderer (Linkless)
+      Dagul Goldseeker
+      Ornithir Uruhiir
+
+24 allies on.
+155 players engaged in the war, with 25 recently active.
+
+![ CW Mana:Burning>s
+Prancing Pony Inn
+A huge clock is standing here.
+A white-painted bench is here.
+Exits: north, south, west.
+
+*[ CW Mana:Burning>s
+Sign of the Prancing Pony Inn
+There is an old street-lamp on the border of the street.
+A brightly-painted signboard hangs from the street-lamp.
+A large fountain, made from grey stone, pours water from its centre.
+drink water;pour water skin
+Fimbrethil the Silvan, wielding an embellished longbow, is standing here.
+A sturdy trained horse is standing here.
+Exits: north, -east-, -south-, -west-.
+
+*# CW Mana:Burning>s
+You drink the water.
+
+*# CW Mana:Burning>
+You can't find any skin.
+
+*# CW Mana:Burning>s
+Old East Road
+There is an old street-lamp on the border of the street.
+Exits: -north-, east, -south-.
+
+*# CW Mana:Burning>s
+Old East Road
+Exits: -north-, east, -south-, west.
+
+*# CW Mana:Burning>
+Old East Road
+Exits: -north-, east, -south-, west.
+
+*# CW Mana:Burning>s
+Metalworker's Bend
+A direction sign, faded with age, leans at an angle here.
+There is an old street-lamp on the border of the street.
+Exits: -north-, -east-, south, west.
+
+*# CW Mana:Burning>s
+Metalworker's Square
+A stocky mountain mule is here, waiting to serve.
+Exits: north, east, west.
+
+*# CW Mana:Burning>e
+Armour Shop
+A sign with a notice has been hung along the desk.
+An armourer stands here.
+Ridur the Sinda, wielding a double edged eket, is standing here.
+A sturdy pack horse is standing here.
+Exits: north, west.
+
+*[ CW Mana:Burning>shop
+cast n 'detect m'
+Olle Grylle Bolle Bylle?!?
+change compact on
+list ornate
+list ornamented
+list engraved
+list nimble
+list dunadan
+list runed
+list warsword
+list trollsbane
+list bejewelled
+list leaf-embossed
+list ancient
+list dusky
+list pure
+list shining
+list winged
+list supple
+list lobstered
+list white mail gloves
+list wristband
+list fletched
+change compact off
+
+*[ CW Mana:Burning>
+Compact mode on.
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>tip
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+You can buy:
+3207. five bowman's arm guards (worn, fresh) up to eight celeb and twenty-one busc.
+3213. ten wolfskin wristbands (flawless, new) up to nine celeb and four busc.
+3225. ten wolfskin wristbands (flawless, new) up to nine celeb and one busc.
+3237. ten wolfskin wristbands (flawless, new) up to nine celeb and six busc.
+3249. nine wolfskin wristbands (flawless, new) up to nine celeb and twelve busc.
+*[ CW Mana:Burning>
+There are no such things for sale.
+*[ CW Mana:Burning>
+Compact mode off.
+
+You tip your head.
+
+*[ CW Mana:Burning>wh ridur
+whois ridur
+Ridur, Master Milker is an Elf.
+Is playing from [numerical address].
+
+*[ CW Mana:Burning>xp
+
+
+*[ CW Mana:Burning>g knife pack
+You get a gem-inlaid knife from a silvan satchel.
+
+*[ CW Mana:Burning>
+*[ CW>w
+Metalworker's Square
+A stocky mountain mule is here, waiting to serve.
+Exits: north, east, west.
+
+*# CW>w
+Weapon Shop
+A note is stapled to the counter.
+A weaponsmith stands here.
+A sturdy pack horse is standing here.
+Exits: east, west.
+
+*[ CW>sel knife
+A weaponsmith tells you 'Here you have nine lauren and thirteen celeb coins for that.'
+You sell a gem-inlaid knife.
+
+*[ CW>la pack pa
+label pack pa
+Ok.
+
+*[ CW>lpa
+lead pa
+A pack horse (pa) starts following you.
+
+
+*[ CW>
+The deepening gloom announces another sunset outside.
+
+*[ CW>shop
+cast n 'detect m'
+Bolle Snylle Gryf Bylle?!!?
+change compact on
+list ornate
+list ornamented
+list engraved
+list nimble
+list dunadan
+list runed
+list warsword
+list trollsbane
+list bejewelled
+list leaf-embossed
+list ancient
+list dusky
+list pure
+list shining
+list winged
+list supple
+list lobstered
+list white mail gloves
+list wristband
+list fletched
+change compact off
+
+*[ CW>
+Compact mode on.
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+There are no such things for sale.
+*[ CW>
+Compact mode off.
+
+*[ CW>east
+Metalworker's Square
+A stocky mountain mule is here, waiting to serve.
+Exits: north, east, west.
+A pack horse (pa) has arrived from the west.
+
+*# CW>north
+Metalworker's Bend
+A direction sign, faded with age, leans at an angle here.
+There is an old street-lamp on the border of the street.
+Clint the Dwarf is standing here.
+Exits: -north-, -east-, south, west.
+A pack horse (pa) has arrived from the south.
+
+*# CW>ride pa
+A pack horse (pa) stops following you.
+You pick up a pack horse (pa)'s reins and start riding him.
+
+*# CRW>east
+Old East Road
+Exits: -east-, south, -west-.
+
+*# CRW>east
+Old East Road
+There is an old street-lamp on the border of the street.
+Exits: -east-, [south], -west-.
+
+*# CRW>east
+East Gate of Bree
+A wooden painted map of Bree is here, nailed to a post.
+There is an old street-lamp on the border of the street.
+A white-painted bench is here.
+The gatekeeper of Bree stands here.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree is here, watching the gate.
+A squirrel scampers around here, looking for nuts from the trees.
+A colourful butterfly is fluttering around here.
+A guard of Bree stands here.
+Exits: north, [east], south, -west-.
+
+*# CRW>op
+say open
+Ok.
+
+*# CRW>
+The Bree gatekeeper looks you over.
+The Bree gatekeeper unlocks the gate.
+The Bree gatekeeper opens the gate.
+
+*# CRW>east
+Your ride becomes quieter as you move onto a dirt path.
+
+Outside the East Gate of Bree
+Exits: =north=, (west).
+
+*+ CRW>north
+Small Bridge over a Dike
+Exits: =north=, =south=.
+
+*+ CRW>north
+Old East Road
+Exits: north, =east=, =south=.
+
+*+ CRW>east
+Bend in the Old East Road
+Exits: =north=, =west=.
+
+*+ CRW>north
+Old East Road
+Exits: =east=, =south=, west.
+
+*+ CRW>east
+Old East Road
+Exits: =east=, =west=.
+
+*+ CRW>east
+Old East Road
+Exits: =east=, =west=.
+
+*+ CRW>east
+Old East Road
+Exits: =east=, =west=.
+
+*+ CRW>east
+Old East Road
+Exits: =east=, south, =west=.
+
+*+ CRW>east
+Old East Road
+Exits: -north-, =east=, =west=.
+
+*+ CRW>east
+Old East Road
+Exits: north, =east=, -south-, =west=.
+
+*+ CRW>east
+Old East Road
+Exits: north, =east=, =west=.
+
+*+ CRW>east
+Old East Road
+A wooden sign hangs above the door of a building.
+Exits: =east=, [south], =west=.
+You have found the hardened ranger!
+You have found the hardened ranger!
+
+*+ CRW>east
+Old East Road
+Exits: north, =east=, =west=.
+
+*+ CRW>east
+Old East Road
+Exits: =east=, =west=.
+
+*+ CRW>east
+Old East Road
+Exits: north, =east=, =west=.
+Large, puffy clouds assemble in the sky above the road.
+
+*+~ CRW>east
+east
+Old East Road
+Exits: north, =east=, =west=.
+
+*+~ CRW>east
+Old East Road
+Exits: north, =east=, =west=.
+
+*+~ CRW>
+Old East Road
+Exits: north, =east=, =west=.
+
+*+~ CRW>east
+Old East Road
+Exits: north, east, =south=, =west=.
+
+*+~ CRW>south
+Old East Road
+Exits: =north=, =east=, -[south]-. - s:hedge.
+
+*+~ CRW>east
+Old East Road
+Exits: north, =east=, =west=.
+
+*+~ CRW>east
+Old East Road
+Exits: ~north~, =east=, =west=.
+
+*+~ CRW>east
+east
+Old East Road
+Exits: ~north~, =east=, =west=.
+
+*+~ CRW>east
+Old East Road
+Exits: north, =east=, =west=.
+
+*+~ CRW>east
+Old East Road
+Exits: north, =east=, =west=.
+
+*+~ CRW>
+Bend by the Hedge
+Exits: =north=, =west=.
+The clouds begin to disappear.
+
+*+ CRW>north
+Bend by the Marshes
+Exits: north, =east=, =south=, west.
+
+*+ CRW>east
+Old East Road
+Exits: north, =east=, =west=.
+
+*+ CRW>east
+Old East Road by a Rock
+Exits: north, =east=, =west=.
+You have found a mean brigand!
+
+*+ CRW>east
+Old East Road
+Exits: north, =east=, =west=.
+
+*+ CRW>west
+Old East Road by a Rock
+A brigand, looking at your nice purse, is sneaking here (hidden).
+Exits: north, =east=, =west=.
+
+*+ CRW>charm brigand
+cast 'charm' brigand
+You start to concentrate...
+
+A mean brigand starts following you.
+
+*+ CRW Mana:Burning>gr brigand
+A mean brigand is now a group member.
+
+*+ CRW Mana:Burning>
+Laureawen narrates 'what align do I need for Dunadan Ranger quest?'
+
+*+ CRW Mana:Burning>of rem all
+order followers rem all
+Ok.
+
+*+ CRW Mana:Burning>
+A mean brigand stops using a shortsword.
+A mean brigand stops using a wooden shield.
+A mean brigand stops using a brown shirt.
+A mean brigand stops using a grey cloak.
+A mean brigand stops using a pair of soft leather trousers.
+A mean brigand stops using a pair of rigid leather boots.
+A mean brigand stops using a ring.
+A mean brigand takes a lit lantern off his belt.
+A mean brigand takes a water skin off his belt.
+A mean brigand takes a belt pouch off his belt.
+A mean brigand stops using a plain leather belt.
+
+*+ CRW Mana:Burning>of drop all
+order followers drop all
+Ok.
+
+*+ CRW Mana:Burning>
+A mean brigand drops a plain leather belt.
+A mean brigand drops a belt pouch.
+A mean brigand drops a water skin.
+A mean brigand drops a lantern.
+A mean brigand drops a ring.
+A mean brigand drops a pair of rigid leather boots.
+A mean brigand drops a pair of soft leather trousers.
+A mean brigand drops a grey cloak.
+A mean brigand drops a brown shirt.
+A mean brigand drops a wooden shield.
+A mean brigand drops a shortsword.
+
+*+ CRW Mana:Burning>na max
+Hated narrates 'sent'
+
+*+ CRW Mana:Burning>
+Ok.
+
+*+ CRW Mana:Burning>
+Barktarag narrates 'max good'
+
+*+ CRW Mana:Burning>
+The night has begun.
+
+!+ CRW Mana:Burning>g all beltpouch
+You get a large key from a belt pouch.
+put key keyring;drop belt-pouch
+ (wall - old wight)
+
+!+ CRW Mana:Burning>
+You attach a large key to a keyring with a couple of keys and a set of lock picks. (wall - old wight)
+
+!+ CRW Mana:Burning>
+You don't have any belt-pouch.
+
+!+ CRW Mana:Burning>
+Laureawen narrates 'crap ok'
+
+!+ CRW Mana:Burning>wh Laureawen
+whois Laureawen
+Laureawen is an Elf.
+Is playing.
+
+!+ CRW Mana:Burning>east
+Old East Road
+Exits: north, =east=, =west=.
+
+!+ CRW Mana:Burning>east
+Old East Road
+Exits: north, =east=, =west=.
+
+!+ CRW Mana:Burning>east
+Old East Road
+Exits: north, =east=, -south-, =west=.
+
+!+ CRW Mana:Burning>south
+Path to the Old East Road
+Exits: -north-, -east-, south, -west-.
+
+!. CRW Mana:Burning>west
+A Small Mound
+Exits: -east-, south, -west-.
+
+!. CRW Mana:Burning>west
+Windy Platform
+Exits: -east-, south, -west-.
+
+!. CRW Mana:Burning>look
+Windy Platform
+Exits: -east-, south, -west-.
+
+!. CRW Mana:Burning>west
+Hedge Trail
+A ferocious warg is here, snarling angrily.
+A ferocious warg is here, snarling angrily.
+A swallow flies high above the ground.
+A black crow flies low to the ground here, looking for carrion to eat.
+Exits: -east-, -south-, -west-.
+A swallow panics, and attempts to flee.
+A swallow leaves <<<< W E S T <<<<
+
+!. CRW Mana:Burning>
+You swiftly dodge a ferocious warg's attempt to hit you.
+
+!. CRW Mana:Burning a ferocious warg:Healthy>west
+No way! You are fighting for your life!
+A ferocious warg says 'I will funw you unjil you're dead, Elt!'
+
+!. CRW Mana:Burning a ferocious warg:Healthy>
+You slash a ferocious warg's left foreleg.
+
+!. CRW Mana:Burning a ferocious warg:Fine>
+Olwyn narrates 'enchanting bree'
+You swiftly dodge a ferocious warg's attempt to hit you.
+
+!. CRW Mana:Burning a ferocious warg:Fine>
+A ferocious warg says 'I xill funz you unjil you're dead, Elj!'
+
+!. CRW Mana:Burning a ferocious warg:Fine>
+A black crow leaves <<<< W E S T <<<<
+You slash a ferocious warg's body hard.
+A ferocious warg barely hits your left arm and tickles it.
+
+!. CRW HP:Fine Mana:Burning a ferocious warg:Fine>
+A ferocious warg barely hits your body and tickles it.
+
+!. CRW HP:Fine Mana:Burning a ferocious warg:Fine>f
+You slash a ferocious warg's left foreleg hard.
+
+!. CRW HP:Fine Mana:Burning a ferocious warg:Fine>
+You flee head over heels.
+You flee south.
+The X-Crossing
+Exits: -north-, east, south, -west-.
+
+!. CRW HP:Fine Mana:Burning>s
+A ferocious warg has arrived from the north.
+A ferocious warg has arrived from the north.
+
+!. CRW HP:Fine Mana:Burning>
+An Old Battlefield
+Exits: north, east, west.
+
+!. CRW HP:Fine Mana:Burning>shr
+You start to concentrate...
+
+You are surrounded by a misty shroud.
+
+!. CRW HP:Fine Mana:Burning>north
+The X-Crossing
+Exits: -north-, east, south, -west-.
+
+!. CRW HP:Fine Mana:Burning>north
+Hedge Trail
+A ferocious warg is here, snarling angrily.
+A ferocious warg is here, snarling angrily.
+Exits: -east-, -south-, -west-.
+You have found a mean brigand!
+
+!. CRW HP:Fine Mana:Burning>
+A swallow has arrived from the west.
+
+!. CRW HP:Fine Mana:Burning>south
+south
+The X-Crossing
+Exits: -north-, east, south, -west-.
+
+!. CRW HP:Fine Mana:Burning>west
+An Old Battlefield
+Traces of pale white tones form the aura of this place.
+Exits: north, east, west.
+
+!. CRW HP:Fine Mana:Burning>
+Ruins of a Citadel
+Traces of intense white tones form the aura of this place.
+A mottled leather satchel blends into its surroundings.
+A small campfire burns here, its low flames giving off only a little light
+There is a fortune in gold coins here.
+get all.coins
+Ibuki the Half-Elf, holding a steel-tipped spear, is resting here (glowing).
+Exits: north, east, west, down.
+
+!. CRW HP:Fine Mana:Burning>lead pa
+You get a fortune in gold.
+There were 50 lauren coins.
+A mean brigand gets a golden topaz ring from a silvan satchel.
+get all.gem
+
+!. CRW HP:Fine Mana:Burning>
+You stop riding a pack horse (pa).
+A pack horse (pa) starts following you.
+A mean brigand puts a golden topaz ring on his finger with delicacy.
+get all.gem
+
+!. CW HP:Fine Mana:Burning>
+You can't find any gem.
+
+!. CW HP:Fine Mana:Burning>look
+You can't find any gem.
+
+!. CW HP:Fine Mana:Burning>
+Ibuki stops resting and clambers to her feet.
+Ruins of a Citadel
+Traces of intense white tones form the aura of this place.
+A mottled leather satchel blends into its surroundings.
+A small campfire burns here, its low flames giving off only a little light
+Ibuki the Half-Elf, wielding a steel-tipped spear, is standing here (glowing).
+A pack horse (pa) is standing here.
+A brigand, looking at your nice purse, is sneaking here.
+Exits: north, east, west, down.
+
+!. CW HP:Fine Mana:Burning>down
+Cellar of a Citadel
+Exits: [east], up. - e:wall.
+A pack horse (pa) has arrived from above.
+
+![ CW HP:Fine Mana:Burning>ue
+unlock exit east
+*click*
+
+![ CW HP:Fine Mana:Burning>up
+Ruins of a Citadel
+Traces of intense white tones form the aura of this place.
+A small campfire burns here, its low flames giving off only a little light
+Ibuki the Half-Elf, wielding a steel-tipped spear, is standing here (glowing).
+Exits: north, east, west, down.
+A pack horse (pa) has arrived from below.
+
+!. CW HP:Fine Mana:Burning>
+!. CW HP:Fine>
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!. CW HP:Fine>sa pk?
+Ok.
+
+!. CW HP:Fine>
+Ibuki utters the words 'diesilla barh'
+Ibuki sends a powerful lightning bolt at you, you stagger from the impact.
+
+!. CW HP:Fine Ibuki:Healthy>
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+You feel more exposed.
+The spell lasted 17s.
+You lightly slash Ibuki's right leg and tickle it.
+
+!. CW HP:Fine Ibuki:Fine>
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!. CW HP:Fine Ibuki:Fine>f
+You flee head over heels.
+You flee down.
+Cellar of a Citadel
+Exits: [east], up.
+
+![ CW HP:Fine>up
+Ruins of a Citadel
+Traces of fierce white tones form the aura of this place.
+A small campfire burns here, its low flames giving off only a little light
+Ibuki the Half-Elf, wielding a steel-tipped spear, is standing here (glowing).
+A pack horse (pa) is standing here.
+Exits: north, east, west, down.
+You feel a hidden presence.
+
+!. CW HP:Fine>
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!. CW HP:Fine>ride pa
+A pack horse (pa) stops following you.
+You pick up a pack horse (pa)'s reins and start riding him.
+
+!. CRW HP:Fine>north
+Bend in the Hedge Trail
+A black crow flies low to the ground here, looking for carrion to eat.
+Exits: -north-, -east-, south, -west-.
+
+!. CRW HP:Fine>east
+The X-Crossing
+Exits: -north-, east, south, -west-.
+
+!. CRW HP:Fine>
+Karvapall tells you 'ya was looking for pure white robe ?'
+
+!. CRW HP:Fine>north
+Hedge Trail
+A swallow flies high above the ground.
+A ferocious warg is here, snarling angrily.
+A ferocious warg is here, snarling angrily.
+Exits: -east-, -south-, -west-.
+A swallow panics, and attempts to flee.
+A swallow leaves <<<< W E S T <<<<
+
+!. CRW HP:Fine>
+You swiftly dodge a ferocious warg's attempt to hit you.
+
+!. CRW HP:Fine a ferocious warg:Fine>east
+No way! You are fighting for your life!
+
+!. CRW HP:Fine a ferocious warg:Fine>flee
+You flee head over heels.
+You flee east.
+Windy Platform
+Exits: -east-, south, -west-.
+
+!. CRW HP:Fine>
+A ferocious warg has arrived from the west.
+A ferocious warg has arrived from the west.
+
+!. CRW HP:Fine>east
+A Small Mound
+Exits: -east-, south, -west-.
+
+!. CRW HP:Fine>
+Laureawen narrates 'nod'
+
+!. CRW HP:Fine>east
+Path to the Old East Road
+Exits: -north-, -east-, south, -west-.
+
+!. CRW HP:Fine>east
+Southwest of the Hedge
+Exits: -south-, -west-.
+
+!. CRW HP:Fine>re alt char.
+tell Karvapall alt char. 
+Ok.
+
+!. CRW HP:Fine>
+Karvapall tells you 'i can trade one for [_s_l_i_m_] silvery wristband'
+
+!. CRW HP:Fine>na ibuki samesider
+Ok.
+
+!. CRW HP:Fine>re ok
+tell Karvapall ok
+Ok.
+
+!. CRW HP:Fine>i will relog
+You are carrying:
+a ticket for a horse of the Rohirrim
+
+!. CRW HP:Fine>i
+You are carrying:
+a ticket for a horse of the Rohirrim
+
+!. CRW HP:Fine>p all pack
+You put a ticket for a horse of the Rohirrim in a silvan satchel.
+
+!. CRW HP:Fine>re is in lorien
+tell Karvapall is in lorien
+Ok.
+
+!. CRW HP:Fine>west
+Path to the Old East Road
+Exits: -north-, -east-, south, -west-.
+
+!. CRW HP:Fine>west
+A Small Mound
+A ferocious warg is here, snarling angrily.
+A ferocious warg is here, snarling angrily.
+Exits: -east-, south, -west-.
+
+!. CRW HP:Fine>west
+Windy Platform
+Exits: -east-, south, -west-.
+
+!. CRW HP:Fine>west
+Hedge Trail
+Exits: -east-, -south-, -west-.
+You have found a mean brigand!
+
+!. CRW HP:Fine>west
+Bend in the Hedge Trail
+The butchered corpse of a ferocious warg is lying here.
+The butchered corpse of a ferocious warg is lying here.
+Exits: -east-, -south-.
+
+!. CRW HP:Fine>south
+Bend in the Hedge Trail
+A black crow flies low to the ground here, looking for carrion to eat.
+Ibuki the Half-Elf, wielding a steel-tipped spear, is standing here (glowing).
+Exits: -north-, -east-, south, -west-.
+Ibuki leaves >>>> E A S T >>>>
+Hated narrates 'ultra cheap shining mail sold lorien'
+
+!. CRW HP:Fine>south
+Ruins of a Citadel
+Traces of fierce white tones form the aura of this place.
+A small campfire burns here, its low flames giving off only a little light
+A swallow flies high above the ground.
+Exits: north, east, west, down.
+A swallow panics, and attempts to flee.
+A swallow leaves ^^^^ N O R T H ^^^^
+
+!. CRW HP:Fine>
+Ibuki has arrived from the east.
+
+!. CRW HP:Fine>
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!. CRW HP:Fine>
+Smooth narrates 'anyone need arach lore?'
+
+!. CRW HP:Fine>flee
+You flee head over heels.
+You flee north.
+Bend in the Hedge Trail
+Exits: -north-, -east-, south, -west-.
+
+!. CRW HP:Fine>
+Ibuki has arrived from the south.
+
+!. CRW HP:Fine>
+You swiftly dodge Ibuki's attempt to stab you.
+
+!. CRW HP:Fine Ibuki:Healthy>
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!. CRW HP:Fine Ibuki:Healthy>south
+No way! You are fighting for your life!
+
+!. CRW HP:Fine Ibuki:Healthy>east
+No way! You are fighting for your life!
+
+!. CRW HP:Fine Ibuki:Healthy>
+Ibuki utters the words 'diesilla barh'
+Ibuki sends a powerful lightning bolt at you, you stagger from the impact.
+
+!. CRW HP:Fine Ibuki:Healthy>flee
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+You flee head over heels.
+You flee east.
+The X-Crossing
+Exits: -north-, east, south, -west-.
+
+!. CRW HP:Fine>south
+An Old Battlefield
+Traces of white tones form the aura of this place.
+Exits: north, east, west.
+
+!. CRW HP:Fine>west
+Ruins of a Citadel
+Traces of fierce white tones form the aura of this place.
+A small campfire burns here, its low flames giving off only a little light
+Exits: north, east, west, down.
+You feel a hidden presence.
+
+!. CRW HP:Fine>north
+Bend in the Hedge Trail
+Traces of intense white tones form the aura of this place.
+Exits: -north-, -east-, south, -west-.
+
+!. CRW HP:Fine>
+Karvapall tells you 'i walk there'
+
+!. CRW HP:Fine>north
+Bend in the Hedge Trail
+The butchered corpse of a ferocious warg is lying here.
+The butchered corpse of a ferocious warg is lying here.
+Exits: -east-, -south-.
+
+!. CRW HP:Fine>east
+Hedge Trail
+A black crow flies low to the ground here, looking for carrion to eat.
+Exits: -east-, -south-, -west-.
+
+!. CRW HP:Fine>east
+Windy Platform
+Exits: -east-, south, -west-.
+
+!. CRW HP:Fine>
+A swallow has arrived from the south.
+
+!. CRW HP:Fine>na what's ur problem ibuki?
+Ok.
+
+!. CRW HP:Fine>who
+Allies
+-------
+      Olwyn The Mystic Toker
+      Imin
+      Karvapall the High Priest of Minas Tirith
+      Irelm the Man Adventurer
+      Laureawen the Elf
+      Griri the Dwarf Adventurer
+  <C> Berilac
+      Lagarion :
+      Amroth the Elf Adventurer
+      Sazed the Elf Archer
+      Endonil the Elf Adventurer
+      Fimbrethil
+      Morwion the Elf Adventurer (Linkless)
+      Smooth be the journey!!
+      Ridur, Master Milker
+      Ibuki the star-gazer
+      Earemdae
+      Hated and Loved
+      Barktarag the Dwarf
+      Abnana the Diamond Lady, daughter of Fenuln
+      Halbrand
+      Lirlor
+      Sienrion the Wanderer (Linkless)
+      Dagul Goldseeker
+      Ornithir Uruhiir
+
+25 allies on.
+155 players engaged in the war, with 28 recently active.
+
+!. CRW HP:Fine>wher
+Player               Distance    Direction  Room
+----------------------------------------------------------
+Imin                 Very near              Windy Platform
+
+!. CRW HP:Fine>
+A swallow leaves >>>> E A S T >>>>
+
+!. CRW HP:Fine>st
+stat
+OB: 59%, DB: 48%, PB: 57%, Armour: 66%. Wimpy: 100. Mood: wimpy.
+Needed: 612,813 xp, 0 tp. Lauren: 924. Alert: normal.
+Affected by:
+- panic
+- unable to quit
+- tiredness (4m39s)
+- strength (💪 4m40s  )
+- shield   (🛡️ 5m22s    )
+- armour   (🧥 5m24s  )
+- growth (9.3 days)
+
+!. CRW HP:Fine>
+Smooth narrates 'Smooth be the Journey!!'
+
+!. CRW HP:Fine>
+You feel bolder.
+
+!. CRW HP:Fine>pray if u asked ibuki stop samesiding me, he doesn't care
+You send your prayer to the Ainur.
+
+!. CRW HP:Fine>south
+Old Camp
+A huge, smoking campfire is burning here.
+A hunter, holding a broadsword, is resting here.
+Exits: north, east, south, west.
+
+!. CRW HP:Fine>south
+The Wastelands
+Exits: north, east, west.
+
+!. CRW HP:Fine>west
+An Old Battlefield
+Traces of white tones form the aura of this place.
+Exits: north, east, west.
+
+!. CRW HP:Fine>west
+Ruins of a Citadel
+Traces of fierce white tones form the aura of this place.
+A small campfire burns here, its low flames giving off only a little light
+Ibuki the Half-Elf, wielding a steel-tipped spear, is standing here.
+Exits: north, east, west, down.
+
+!. CRW HP:Fine>west
+Mistreated Fields
+Exits: north, east, south.
+
+!. CRW HP:Fine>
+Ibuki has arrived from the east.
+
+!. CRW HP:Fine>
+Ibuki lightly stabs your right leg and tickles it.
+
+!. CRW HP:Fine Ibuki:Healthy>flee
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+You flee head over heels.
+You flee north.
+Hedge Trail
+Exits: -east-, south, -west-.
+
+!. CRW HP:Fine>south
+Mistreated Fields
+Ibuki the Half-Elf, wielding a steel-tipped spear, is standing here.
+Exits: north, east, south.
+You have found a mean brigand!
+Ibuki leaves >>>> E A S T >>>>
+
+!. CRW HP:Fine>east
+Ruins of a Citadel
+Traces of fierce white tones form the aura of this place.
+A small campfire burns here, its low flames giving off only a little light
+Exits: north, east, west, down.
+
+!. CRW HP:Fine>east
+An Old Battlefield
+Traces of white tones form the aura of this place.
+Exits: north, east, west.
+
+!. CRW HP:Fine>
+You feel your muscles regain some of their former energy.
+The spell lasted 5m46s.
+
+!. CRW HP:Fine>
+*a Woman* has arrived from the east riding a pack horse.
+
+!. CRW HP:Fine>
+*a Woman* leaves west riding a pack horse.
+
+!. CRW HP:Fine>west
+Ruins of a Citadel
+Traces of fierce white tones form the aura of this place.
+A mottled leather satchel blends into its surroundings.
+A small campfire burns here, its low flames giving off only a little light
+Ibuki the Half-Elf, wielding a steel-tipped spear, is standing here.
+Exits: north, east, west, down.
+
+!. CRW HP:Fine>
+You swiftly dodge Ibuki's attempt to stab you.
+
+!. CRW HP:Fine Ibuki:Healthy>
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!. CRW HP:Fine Ibuki:Healthy>flee
+You flee head over heels.
+You flee north.
+Bend in the Hedge Trail
+Traces of pale white tones form the aura of this place.
+A black crow flies low to the ground here, looking for carrion to eat.
+Exits: -north-, -east-, south, -west-.
+
+!. CRW HP:Fine>
+A black crow leaves <<<< W E S T <<<<
+
+!. CRW HP:Fine>na ok. ibuki is samesiding me in pk
+Ok.
+
+!. CRW HP:Fine>st
+stat
+OB: 59%, DB: 48%, PB: 57%, Armour: 66%. Wimpy: 100. Mood: wimpy.
+Needed: 612,813 xp, 0 tp. Lauren: 924. Alert: normal.
+Affected by:
+- unable to void
+- panic
+- unable to quit
+- strength (💪 6m8s  )
+- shield   (🛡️ 6m50s    )
+- armour   (🧥 6m52s  )
+- growth (9.3 days)
+
+!. CRW HP:Fine>south
+Ruins of a Citadel
+Traces of fierce white tones form the aura of this place.
+A small campfire burns here, its low flames giving off only a little light
+Exits: north, east, west, down.
+You have found a mean brigand!
+
+!. CRW HP:Fine>lead pa
+You stop riding a pack horse (pa).
+A pack horse (pa) starts following you.
+
+!. CW HP:Fine>down
+Cellar of a Citadel
+Exits: (east), up. - e:wall.
+A pack horse (pa) has arrived from above.
+
+![ CW HP:Fine>up
+Ruins of a Citadel
+Traces of fierce white tones form the aura of this place.
+A small campfire burns here, its low flames giving off only a little light
+Exits: north, east, west, down.
+A pack horse (pa) has arrived from below.
+
+!. CW HP:Fine>tr
+You carefully examine the ground around you, looking for tracks...
+Irelm narrates 'don't annoy the Naz.'
+
+You see:
+   - an apparent track of a pack horse leading north done less than 1 hour ago
+   - an apparent track of a pack horse leading east done less than 1 hour ago
+   - a clear track of a pack horse leading west done less than 1 hour ago
+
+Ibuki has arrived from below.
+
+   - a plain track of a Half-Elf coming from below done less than 1 hour ago
+   - a plain track of an Elf coming from below done less than 1 hour ago
+   - a plain track of a mean brigand leading down done less than 1 hour ago
+   - a plain track of a pack horse leading down done less than 1 hour ago
+   - a plain track of an Elf leading down done less than 1 hour ago
+   - two plain tracks of a Half-Elf leading down done less than 1 hour ago
+   - a plain track of *a Man* leading down done less than 1 hour ago
+   - two plain tracks of a Half-Elf coming from the west done less than 1 hour ago
+   - a plain track of a mean brigand leading east done less than 1 hour ago
+   - a plain track of a Half-Elf leading north done less than 1 hour ago
+   - a plain track of a Half-Elf leading west done less than 1 hour ago
+   - a plain track of a mean brigand leading west done less than 1 hour ago
+   - a plain track of a Half-Elf coming from the east done less than 2 hours ago
+   - two plain tracks of a Half-Elf leading east done less than 2 hours ago
+   - a plain track of a Half-Elf coming from the north done less than 2 hours ago
+   - a plain track of a mean brigand leading north done less than 3 hours ago
+
+Argh! You cannot concentrate any more...
+Ibuki stabs your head and tickles it.
+You stop searching.
+
+!. CW HP:Fine Ibuki:Fine>
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!. CW HP:Fine Ibuki:Fine>flee
+You flee head over heels.
+You flee west.
+Mistreated Fields
+Exits: north, east, south.
+
+!. CW HP:Fine>
+Ibuki has arrived from the east.
+
+!. CW HP:Fine>east
+Ibuki begins some strange incantations..  <--- <--- <--- CASTING!.
+
+!. CW HP:Fine>
+Ruins of a Citadel
+Traces of fierce white tones form the aura of this place.
+A small campfire burns here, its low flames giving off only a little light
+A pack horse (pa) is standing here.
+Exits: north, east, west, down.
+You have found a mean brigand!
+
+!. CW HP:Fine>ride pa
+A pack horse (pa) stops following you.
+You pick up a pack horse (pa)'s reins and start riding him.
+
+!. CRW HP:Fine>north
+Bend in the Hedge Trail
+Traces of pale white tones form the aura of this place.
+A black crow flies low to the ground here, looking for carrion to eat.
+Exits: -north-, -east-, south, -west-.
+
+!. CRW HP:Fine>west
+Hedge Trail
+Exits: -east-, south, -west-.
+
+!. CRW HP:Fine>west
+Trail along the Hedge
+Exits: -east-, south, -west-.
+Cloud banks form in the sky above, shrouding the flat terrain with immense shadows.
+
+!.~ CRW HP:Fine>west
+Trail along the Hedge
+Exits: -east-, south, -west-.
+
+!.~ CRW HP:Fine>west
+Trail along the Hedge
+Exits: -east-, south, -west-.
+
+!.~ CRW HP:Fine>west
+Trail along the Hedge
+Exits: -east-, south, -west-.
+
+!.~ CRW HP:Fine>west
+Trail along the Hedge
+Exits: -east-, south, -west-.
+
+!.~ CRW HP:Fine>west
+Trail along the Hedge
+Exits: -[north]-, -east-, south, -west-. - n:hedge.
+
+!.~ CRW HP:Fine>on
+open exit north
+Ok.
+
+!.~ CRW HP:Fine>re ty
+tell Karvapall ty
+Ok.
+
+!.~ CRW HP:Fine>north
+Old East Road
+Exits: =north=, =east=, -(south)-. - s:hedge.
+
+!+~ CRW HP:Fine>north
+Old East Road
+Exits: north, east, =south=, =west=.
+
+!+~ CRW HP:Fine>west
+Old East Road
+Exits: north, =east=, =west=.
+
+!+~ CRW HP:Fine>west
+Old East Road
+Exits: north, =east=, =west=.
+
+!+~ CRW HP:Fine>west
+Old East Road
+Exits: north, =east=, =west=.
+
+!+~ CRW HP:Fine>west
+Old East Road
+Exits: north, =east=, =west=.
+You have found the hardened ranger!
+You have found the hardened ranger!
+
+!+~ CRW HP:Fine>west
+Old East Road
+Exits: =east=, =west=.
+The clouds begin to disappear.
+
+!+ CRW HP:Fine>ss
+order followers sleep
+Ok.
+
+!+ CRW HP:Fine>
+A mean brigand leaves his hiding place.
+A mean brigand lies down and falls asleep.
+
+!+ CRW HP:Fine>west
+Old East Road
+Exits: north, =east=, =west=.
+
+!+ CRW HP:Fine>west
+Old East Road
+A wooden sign hangs above the door of a building.
+Exits: =east=, [south], =west=.
+
+!+ CRW HP:Fine>west
+Old East Road
+Exits: north, =east=, =west=.
+
+!+ CRW HP:Fine>west
+Old East Road
+Exits: north, =east=, -south-, =west=.
+
+!+ CRW HP:Fine>west
+Old East Road
+Exits: -north-, =east=, =west=.
+
+!+ CRW HP:Fine>who
+Allies
+-------
+      Olwyn The Mystic Toker
+      Imin
+      Karvapall the High Priest of Minas Tirith
+      Irelm the Man Adventurer
+      Laureawen the Elf
+      Griri the Dwarf Adventurer
+  <C> Berilac
+      Lagarion :
+      Amroth the Elf Adventurer
+      Sazed the Elf Archer (Idle)
+      Endonil the Elf Adventurer
+      Fimbrethil
+      Morwion the Elf Adventurer (Linkless)
+      Ridur, Master Milker (Idle)
+      Ibuki the star-gazer
+      Earemdae
+      Hated and Loved
+      Barktarag the Dwarf
+      Abnana the Diamond Lady, daughter of Fenuln
+      Halbrand
+      Lirlor
+      Dagul Goldseeker
+      Ornithir Uruhiir
+
+23 allies on.
+155 players engaged in the war, with 26 recently active.
+
+!+ CRW HP:Fine>
+Moon shadows grow longer as the shining orb descends to unknown depths in the west.
+
+!+ CRW HP:Fine>west
+Old East Road
+Exits: =east=, south, =west=.
+
+!+ CRW HP:Fine>west
+Old East Road
+Exits: =east=, =west=.
+
+!+ CRW HP:Fine>
+You feel bolder.
+
+!+ CRW HP:Fine>
+Olwyn has arrived from the west riding a mountain mule.
+
+!+ CRW HP:Fine>
+Olwyn leaves east riding a mountain mule.
+
+!+ CRW HP:Fine>pray ok. ibuki is samesiding me in pk situation again. i have log
+You send your prayer to the Ainur.
+
+!+ CRW HP:Fine>
+Olwyn tells you 'bonk'
+
+!+ CRW HP:Fine>na bn woman is ow
+Ok.
+
+!+ CRW HP:Fine>na but ibuki is samesiding me 
+Ok.
+
+!+ CRW HP:Fine>who
+Allies
+-------
+  <E> Tsar of the Shire
+      Olwyn The Mystic Toker
+      Imin
+      Karvapall the High Priest of Minas Tirith
+      Irelm the Man Adventurer
+      Laureawen the Elf
+      Griri the Dwarf Adventurer
+  <C> Berilac
+      Lagarion :
+      Amroth the Elf Adventurer
+      Sazed the Elf Archer
+      Endonil the Elf Adventurer
+      Fimbrethil
+      Morwion the Elf Adventurer (Linkless)
+      Ridur, Master Milker
+      Ibuki the star-gazer
+      Earemdae
+      Hated and Loved
+      Barktarag the Dwarf
+      Abnana the Diamond Lady, daughter of Fenuln
+      Halbrand
+      Lirlor
+      Dagul Goldseeker
+      Ornithir Uruhiir
+
+24 allies on.
+155 players engaged in the war, with 26 recently active.
+
+!+ CRW HP:Fine>west
+Old East Road
+Exits: =east=, =west=.
+
+!+ CRW HP:Fine>west
+Old East Road
+Exits: =east=, =west=.
+
+!+ CRW HP:Fine>look
+Old East Road
+Exits: =east=, =west=.
+
+!+ CRW HP:Fine>west
+Old East Road
+Exits: =east=, =south=, west.
+
+!+ CRW HP:Fine>south
+Bend in the Old East Road
+Exits: =north=, =west=.
+
+!+ CRW HP:Fine>west
+Old East Road
+Exits: north, =east=, =south=.
+
+!+ CRW HP:Fine>south
+Small Bridge over a Dike
+Exits: =north=, =south=.
+
+!+ CRW HP:Fine>south
+Outside the East Gate of Bree
+Exits: =north=, [west].
+You have found the hardened ranger!
+You feel a hidden presence.
+
+!+ CRW HP:Fine>cal
+You call for the gate to be opened.
+
+!+ CRW HP:Fine>
+You have the uneasy impression that a pair of unseen eyes are scrutinising you from the closed gate.
+You hear a *click* in a lock.
+The gate is opened from the other side.
+
+!+ CRW HP:Fine>west
+A narrow city street stretches before you as you enter Bree.
+
+East Gate of Bree
+A wooden painted map of Bree is here, nailed to a post.
+There is a lit street-lamp on the border of the street, illuminating the area.
+A white-painted bench is here.
+The gatekeeper of Bree stands here.
+A Guard of Bree is here, watching the gate.
+A Guard of Bree is here, watching the gate.
+A squirrel scampers around here, looking for nuts from the trees.
+Exits: north, (east), south, -west-.
+
+!# CRW HP:Fine>west
+Old East Road
+There is a lit street-lamp on the border of the street, illuminating the area.
+Exits: -east-, [south], -west-.
+
+!# CRW HP:Fine>west
+Old East Road
+Exits: -east-, south, -west-.
+
+!# CRW HP:Fine>west
+Metalworker's Bend
+A direction sign, faded with age, leans at an angle here.
+There is a lit street-lamp on the border of the street, illuminating the area.
+Clint the Dwarf is standing here.
+Exits: -north-, -east-, south, west.
+
+!# CRW HP:Fine>north
+Old East Road
+Exits: -north-, east, -south-, west.
+
+!# CRW HP:Fine>north
+Old East Road
+Exits: -north-, east, -south-, west.
+
+!# CRW HP:Fine>north
+Old East Road
+There is a lit street-lamp on the border of the street, illuminating the area.
+Exits: -north-, east, -south-.
+
+!# CRW HP:Fine>
+!# CRW>
+Ibuki has arrived from the south.
+
+!# CRW>
+Ibuki leaves ^^^^ N O R T H ^^^^
+
+!# CRW>re fuck off .
+tell Olwyn fuck off .
+Ok.
+
+!# CRW>san
+cast n 'sanct' 
+You start to concentrate...
+
+You start glowing.
+
+!# CRW Mana:Hot>st
+stat
+OB: 63%, DB: 48%, PB: 59%, Armour: 66%. Wimpy: 100. Mood: wimpy.
+Needed: 612,813 xp, 0 tp. Lauren: 924. Alert: normal.
+Affected by:
+- sanctuary (2s)
+- unable to void
+- unable to quit
+- strength (💪 8m3s  )
+- shield   (🛡️ 8m45s    )
+- armour   (🧥 8m47s  )
+- growth (9.3 days)
+
+!# CRW Mana:Hot>
+Tsar narrates 'anything happening'
+
+!# CRW Mana:Hot>
+Olwyn tells you 'wow language'
+
+!# CRW Mana:Hot>
+Abnana narrates 'bn ow'
+
+!# CRW Mana:Hot>
+!# CRW Mana:Burning>na samesiding happening. i cannot fight bn ow because Ibuki protect that bn
+Ok.
+
+!# CRW Mana:Burning>
+Dagul has arrived from the north riding a mountain mule.
+Lagarion has arrived from the north riding a pack horse.
+
+!# CRW Mana:Burning>
+Dagul leaves south riding a mountain mule.
+Lagarion leaves south riding a pack horse.
+
+!# CRW
