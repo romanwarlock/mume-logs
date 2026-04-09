@@ -10,7 +10,7 @@ cha ep dw;cha ep elf;cha ep none
 Never forget! Try to role-play...
 look in 1.pack
 
-Last login 4 days and 21 hours ago from 83.243.91.143.
+Last login 4 days and 21 hours ago from ...
 
 Lodging Foyer
 Traces of pale white tones form the aura of this place.
@@ -32,100 +32,6 @@ Your burden is heavy.
 Your default tongue is Westron.
 Your rent was forty-one lauren, one celeb, and forty-nine busc.
 
-![ CW HP:Fine>
-Ok.
-
-You are using:
-<wielded>            an ornamented sabre (flawless)
-<used as shield>     a bejewelled oak staff; it has a soft glowing aura
-<worn on head>       a mithril circlet
-<worn on body>       a coarse dusky robe (flawless)
-<worn about body>    a forest green cloak (flawless)
-<worn on arms>       a shining pair of chain mail sleeves (flawless)
-<worn on hands>      a supple pair of leather gloves (neglected)
-<worn on legs>       a shining pair of chain mail leggings (flawless)
-<worn on feet>       a pair of smooth, black boots with a black ᚱᚢᚾᛖᛞ dagger
-<worn around neck>   a pale blue stone
-<worn around neck>   a necklace
-<worn on wrist>      a [_s_l_i_m_] silvery wristband (flawless)
-<worn on wrist>      an archer's wrist guard (flawless)
-<worn on finger>     a copper ring
-<worn on back>       a silvan satchel
-<worn across back>   an embellished longbow
-<worn as belt>       a gleaming belt
-<worn on belt>       an enhanced herbal kit
-<worn on belt>       a sable pouch
-<worn on belt>       a laced quiver
-<worn on belt>       a keyring with a couple of keys and a set of lock picks
-<worn on belt>       a rough wooden horn
-
-![ CW HP:Fine>
-You stop using a silvan satchel.
-
-![ CW HP:Fine>
-You put a silvan satchel on your back.
-
-![ CW HP:Fine>
-Wimpy set to: 100
-
-You aren't wearing any mantle.
-
-![ CW HP:Fine>
-You don't have any mantle.
-
-![ CW HP:Fine>
-You stop using a forest green cloak.
-
-![ CW HP:Fine>
-You wear a forest green cloak about your body.
-
-![ CW HP:Fine>
-You aren't wearing any shield.
-
-![ CW HP:Fine>
-You don't have any shield.
-
-![ CW HP:Fine>
-You stop using a bejewelled oak staff.
-
-![ CW HP:Fine>ar;sj
-cast n 'armour'
-cast n 'shield'
-You hold a bejewelled oak staff, ready to protect yourself.
-
-         C A S T E R
-
-You light a bejewelled oak staff.
-
-![ CW HP:Fine>
-Ok.
-
-You are a male Noldo.
-You are 103 years, 7 months, and 8 days old.
-You have played 4 days and 22 hours (real time). Session: 3 secs.
-This ranks you as Imin (level 28).
-You are seven feet one and weigh fourteen stone and twelve pounds.
-Perception: vision 50, hearing 20, smell 5. Alertness: normal.
-You must have been sent to Arda to free it from the sorrows that weigh upon it.
-You are welcome in the Anduin Vale, the Blue Mountains, Bree, Fornost, the Grey Havens, Lorien,
-Rivendell, and the Shire.
-Your equipment weighs ninety pounds. Heavy, but we will manage...
-Your base abilities are: ...
-Offensive Bonus: 62%, Dodging Bonus: 16%, Parrying Bonus: 59%.
-Your armour provides an average protection of 25%.
-You have 192/200 hit, 132/132 mana, and 105/105 movement points.
-Your mood is wimpy. You will flee if your hit points go below 100.
-You have scored 7,576,907 experience points and you have 61,842 travel points.
-You have been involved in some skirmishes against the minions of the Dark Lord (1 wp).
-You need 613,093 exp. points and 0 travel points to reach the next level.
-You have 864 lauren coins, 10 celeb pennies, and 3 busc pennies.
-You are speaking Westron.
-You will swim if necessary.
-You will try to climb even under unsafe conditions.
-
-You are subjected to the following temporary effects:
-- growth (9.3 days)
-
 Lodging Foyer
 Traces of pale white tones form the aura of this place.
 Barliman Butterbur, the innkeeper, offers you a room in his inn.
@@ -143,43 +49,6 @@ Ok.
 You can only select the epithet Dwarf-friend.
 
 Epithet removed.
-
-In your silvan satchel (worn on back):
-three grey fluid-sacks (arachnia)
-a large garnet
-an amethyst
-two vellum scrolls
-a gem-inlaid knife (well-maintained)
-a gold ring
-a pure white robe (flawless)
-a wooden pipe
-twenty-five piles of leaves of ATHELAS: Healing, Antidote (athelas)
-a man-like root (ginseng)
-three piles of yellow petals (foxtail)
-seven handfuls of clover (clover)
-three lembas wafers
-a dozen piles of leaves of SAGE: Healing, Soothing, Clear 2/4 (sage)
-an obsidian eye
-thirty-one clusters of hard, round, black berries (juniper)
-six tickets
-eight handfuls of narrow leaves (tarragon)
-a silver goblet
-a pair of white chain mail gloves (flawless)
-a coach ticket
-three piles of pungent red powder (paprika)
-a long hollow stem
-three piles of needlelike leaves (rosemary)
-a star sapphire
-a small fluid-sack (venom)
-a clear ivory scroll
-thirteen piles of leaves of THYME: Soothing, Clear 3/4 (thyme)
-nine piles of sweet-smelling dried mauve petals (mauve)
-two ebony scrolls
-a purple scroll
-two black candles
-a fine elven rope
-several splayed leaves (coriander)
-three pinches of pale-green, crushed leaves
 
 ![ CW HP:Fine>
 
@@ -350,31 +219,6 @@ Allies
 24 allies on.
 155 players engaged in the war, with 25 recently active.
 
-![ CW Mana:Burning>eq
-You are using:
-<wielded>            an ornamented sabre (flawless)
-<used as shield>     a bejewelled oak staff; it has a soft glowing aura
-<worn on head>       a mithril circlet
-<worn on body>       a coarse dusky robe (flawless)
-<worn about body>    a forest green cloak (flawless)
-<worn on arms>       a shining pair of chain mail sleeves (flawless)
-<worn on hands>      a supple pair of leather gloves (neglected)
-<worn on legs>       a shining pair of chain mail leggings (flawless)
-<worn on feet>       a pair of smooth, black boots with a black ᚱᚢᚾᛖᛞ dagger
-<worn around neck>   a pale blue stone
-<worn around neck>   a necklace
-<worn on wrist>      a [_s_l_i_m_] silvery wristband (flawless)
-<worn on wrist>      an archer's wrist guard (flawless)
-<worn on finger>     a copper ring
-<worn on back>       a silvan satchel
-<worn across back>   an embellished longbow
-<worn as belt>       a gleaming belt
-<worn on belt>       an enhanced herbal kit
-<worn on belt>       a sable pouch
-<worn on belt>       a laced quiver
-<worn on belt>       a keyring with a couple of keys and a set of lock picks
-<worn on belt>       a rough wooden horn
-
 ![ CW Mana:Burning>s
 Prancing Pony Inn
 A huge clock is standing here.
@@ -506,101 +350,16 @@ Compact mode off.
 
 You tip your head.
 
-*[ CW Mana:Burning>x ridur
-examine ridur
-Ridur, Master Milker has a few scratches.
-Ridur is using:
-<wielded>            a double edged eket (well-maintained)
-<worn as shield>     a gilded round shield (flawless)
-<worn on head>       a fine, rigid leather helmet (flawless)
-<worn on body>       a fine, rigid leather breastplate (flawless)
-<worn about body>    a forest green cloak (flawless)
-<worn on arms>       a fine pair of rigid leather sleeves (flawless)
-<worn on hands>      a fine pair of rigid leather gloves (well-maintained)
-<worn on legs>       a fine pair of rigid leather trousers (flawless)
-<worn on feet>       a fine pair of rigid leather boots (flawless)
-<worn around neck>   a red ruby; it has a soft glowing aura
-<worn on wrist>      a black wolfskin wristband (flawless)
-<worn on wrist>      a keyring with a set of lock picks
-<worn on finger>     a ring
-<worn as belt>       a plain silken sash
-<worn on belt>       a lantern
-<worn on belt>       a herbal kit
-<worn on belt>       a water skin
-<worn on belt>       a sable pouch
-<worn on belt>       a stone
-
 *[ CW Mana:Burning>wh ridur
 whois ridur
 Ridur, Master Milker is an Elf.
 Is playing from [numerical address].
 
 *[ CW Mana:Burning>xp
-look in 1.pack
-In your silvan satchel (worn on back):
-three grey fluid-sacks (arachnia)
-a large garnet
-an amethyst
-two vellum scrolls
-a gem-inlaid knife (well-maintained)
-a gold ring
-a pure white robe (flawless)
-a wooden pipe
-twenty-five piles of leaves of ATHELAS: Healing, Antidote (athelas)
-a man-like root (ginseng)
-three piles of yellow petals (foxtail)
-seven handfuls of clover (clover)
-three lembas wafers
-a dozen piles of leaves of SAGE: Healing, Soothing, Clear 2/4 (sage)
-an obsidian eye
-thirty-one clusters of hard, round, black berries (juniper)
-six tickets
-eight handfuls of narrow leaves (tarragon)
-a silver goblet
-a pair of white chain mail gloves (flawless)
-a coach ticket
-three piles of pungent red powder (paprika)
-a long hollow stem
-three piles of needlelike leaves (rosemary)
-a star sapphire
-a small fluid-sack (venom)
-a clear ivory scroll
-thirteen piles of leaves of THYME: Soothing, Clear 3/4 (thyme)
-nine piles of sweet-smelling dried mauve petals (mauve)
-two ebony scrolls
-a purple scroll
-two black candles
-a fine elven rope
-several splayed leaves (coriander)
-three pinches of pale-green, crushed leaves
+
 
 *[ CW Mana:Burning>g knife pack
 You get a gem-inlaid knife from a silvan satchel.
-
-*[ CW Mana:Burning>eq
-You are using:
-<wielded>            an ornamented sabre (flawless)
-<used as shield>     a bejewelled oak staff; it has a soft glowing aura
-<worn on head>       a mithril circlet
-<worn on body>       a coarse dusky robe (flawless)
-<worn about body>    a forest green cloak (flawless)
-<worn on arms>       a shining pair of chain mail sleeves (flawless)
-<worn on hands>      a supple pair of leather gloves (neglected)
-<worn on legs>       a shining pair of chain mail leggings (flawless)
-<worn on feet>       a pair of smooth, black boots with a black ᚱᚢᚾᛖᛞ dagger
-<worn around neck>   a pale blue stone
-<worn around neck>   a necklace
-<worn on wrist>      a [_s_l_i_m_] silvery wristband (flawless)
-<worn on wrist>      an archer's wrist guard (flawless)
-<worn on finger>     a copper ring
-<worn on back>       a silvan satchel
-<worn across back>   an embellished longbow
-<worn as belt>       a gleaming belt
-<worn on belt>       an enhanced herbal kit
-<worn on belt>       a sable pouch
-<worn on belt>       a laced quiver
-<worn on belt>       a keyring with a couple of keys and a set of lock picks
-<worn on belt>       a rough wooden horn
 
 *[ CW Mana:Burning>
 *[ CW>w
@@ -627,43 +386,6 @@ Ok.
 lead pa
 A pack horse (pa) starts following you.
 
-*[ CW>xp
-look in 1.pack
-In your silvan satchel (worn on back):
-three grey fluid-sacks (arachnia)
-a large garnet
-an amethyst
-two vellum scrolls
-a gold ring
-a pure white robe (flawless)
-a wooden pipe
-twenty-five piles of leaves of ATHELAS: Healing, Antidote (athelas)
-a man-like root (ginseng)
-three piles of yellow petals (foxtail)
-seven handfuls of clover (clover)
-three lembas wafers
-a dozen piles of leaves of SAGE: Healing, Soothing, Clear 2/4 (sage)
-an obsidian eye
-thirty-one clusters of hard, round, black berries (juniper)
-six tickets
-eight handfuls of narrow leaves (tarragon)
-a silver goblet
-a pair of white chain mail gloves (flawless)
-a coach ticket
-three piles of pungent red powder (paprika)
-a long hollow stem
-three piles of needlelike leaves (rosemary)
-a star sapphire
-a small fluid-sack (venom)
-a clear ivory scroll
-thirteen piles of leaves of THYME: Soothing, Clear 3/4 (thyme)
-nine piles of sweet-smelling dried mauve petals (mauve)
-two ebony scrolls
-a purple scroll
-two black candles
-a fine elven rope
-several splayed leaves (coriander)
-three pinches of pale-green, crushed leaves
 
 *[ CW>
 The deepening gloom announces another sunset outside.
